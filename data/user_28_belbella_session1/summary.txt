@@ -1,0 +1,55 @@
+FACIAL ANALYSIS EXPORT
+======================
+
+Session Information:
+- Session ID: 8bf52b1c-aaa3-4940-a1bb-dc384c21147b
+- User: belbella (ID: 28)
+- Session Number: 1
+- Created: 2025-09-22 04:53:28
+- Status: COMPLETED
+- Assessment Order: llm first
+
+Assessment Completion:
+- PHQ Assessment: ✓ Completed
+- LLM Assessment: ✓ Completed
+
+PHQ Results Summary:
+- Total Score: 4/27
+- Categories Assessed: 9
+
+Facial Analysis Results:
+------------------------
+
+PHQ Assessment Analysis:
+- Status: completed
+- Total Images Processed: 96
+- Faces Detected: 0
+- Failed: 96
+- Processing Time: 49.73s
+- Avg Time per Image: 0.00ms
+- Dominant Emotion: N/A
+
+LLM Assessment Analysis:
+- Status: completed
+- Total Images Processed: 307
+- Faces Detected: 0
+- Failed: 307
+- Processing Time: 115.17s
+- Avg Time per Image: 0.00ms
+- Dominant Emotion: N/A
+
+Export Contents:
+----------------
+- session_info.json - Session metadata
+- phq_responses.json - PHQ assessment responses
+- llm_conversation.json - LLM conversation history
+- facial_analysis/phq_analysis.jsonl - PHQ facial analysis results (frame-by-frame)
+- facial_analysis/llm_analysis.jsonl - LLM facial analysis results (frame-by-frame)
+- facial_analysis/metadata.json - Processing metadata and statistics
+
+NOTE: This export contains PHQ/LLM data + JSONL files. Images are NOT included.
+      For images, use the regular User Sessions export.
+
+Generated: 2025-10-21 16:01:34
+
+Note: This export contains sensitive mental health data. Handle with appropriate confidentiality.

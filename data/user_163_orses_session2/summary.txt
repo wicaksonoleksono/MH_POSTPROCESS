@@ -1,0 +1,55 @@
+FACIAL ANALYSIS EXPORT
+======================
+
+Session Information:
+- Session ID: 5cd26174-1e4c-4e64-a1b3-401f4a21d2e3
+- User: orses (ID: 163)
+- Session Number: 2
+- Created: 2025-10-02 08:09:17
+- Status: COMPLETED
+- Assessment Order: llm first
+
+Assessment Completion:
+- PHQ Assessment: ✓ Completed
+- LLM Assessment: ✓ Completed
+
+PHQ Results Summary:
+- Total Score: 22/27
+- Categories Assessed: 9
+
+Facial Analysis Results:
+------------------------
+
+PHQ Assessment Analysis:
+- Status: completed
+- Total Images Processed: 79
+- Faces Detected: 79
+- Failed: 0
+- Processing Time: 115.07s
+- Avg Time per Image: 954.44ms
+- Dominant Emotion: Sadness
+
+LLM Assessment Analysis:
+- Status: completed
+- Total Images Processed: 1219
+- Faces Detected: 1215
+- Failed: 4
+- Processing Time: 1615.71s
+- Avg Time per Image: 952.48ms
+- Dominant Emotion: Sadness
+
+Export Contents:
+----------------
+- session_info.json - Session metadata
+- phq_responses.json - PHQ assessment responses
+- llm_conversation.json - LLM conversation history
+- facial_analysis/phq_analysis.jsonl - PHQ facial analysis results (frame-by-frame)
+- facial_analysis/llm_analysis.jsonl - LLM facial analysis results (frame-by-frame)
+- facial_analysis/metadata.json - Processing metadata and statistics
+
+NOTE: This export contains PHQ/LLM data + JSONL files. Images are NOT included.
+      For images, use the regular User Sessions export.
+
+Generated: 2025-10-21 16:01:39
+
+Note: This export contains sensitive mental health data. Handle with appropriate confidentiality.

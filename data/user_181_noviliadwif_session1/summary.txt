@@ -1,0 +1,55 @@
+FACIAL ANALYSIS EXPORT
+======================
+
+Session Information:
+- Session ID: e0e30d56-3f2c-4263-b6c5-47335348bfdd
+- User: noviliadwif (ID: 181)
+- Session Number: 1
+- Created: 2025-09-21 06:43:04
+- Status: COMPLETED
+- Assessment Order: phq first
+
+Assessment Completion:
+- PHQ Assessment: ✓ Completed
+- LLM Assessment: ✓ Completed
+
+PHQ Results Summary:
+- Total Score: 12/27
+- Categories Assessed: 9
+
+Facial Analysis Results:
+------------------------
+
+PHQ Assessment Analysis:
+- Status: completed
+- Total Images Processed: 105
+- Faces Detected: 105
+- Failed: 0
+- Processing Time: 162.24s
+- Avg Time per Image: 1123.30ms
+- Dominant Emotion: Neutral
+
+LLM Assessment Analysis:
+- Status: completed
+- Total Images Processed: 698
+- Faces Detected: 386
+- Failed: 312
+- Processing Time: 707.52s
+- Avg Time per Image: 1159.39ms
+- Dominant Emotion: Neutral
+
+Export Contents:
+----------------
+- session_info.json - Session metadata
+- phq_responses.json - PHQ assessment responses
+- llm_conversation.json - LLM conversation history
+- facial_analysis/phq_analysis.jsonl - PHQ facial analysis results (frame-by-frame)
+- facial_analysis/llm_analysis.jsonl - LLM facial analysis results (frame-by-frame)
+- facial_analysis/metadata.json - Processing metadata and statistics
+
+NOTE: This export contains PHQ/LLM data + JSONL files. Images are NOT included.
+      For images, use the regular User Sessions export.
+
+Generated: 2025-10-21 16:01:38
+
+Note: This export contains sensitive mental health data. Handle with appropriate confidentiality.

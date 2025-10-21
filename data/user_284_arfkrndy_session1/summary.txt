@@ -1,0 +1,55 @@
+FACIAL ANALYSIS EXPORT
+======================
+
+Session Information:
+- Session ID: 4f1cf82e-3113-4eb9-ae79-2a4b6a3d6726
+- User: arfkrndy (ID: 284)
+- Session Number: 1
+- Created: 2025-09-25 15:18:11
+- Status: COMPLETED
+- Assessment Order: llm first
+
+Assessment Completion:
+- PHQ Assessment: ✓ Completed
+- LLM Assessment: ✓ Completed
+
+PHQ Results Summary:
+- Total Score: 12/27
+- Categories Assessed: 9
+
+Facial Analysis Results:
+------------------------
+
+PHQ Assessment Analysis:
+- Status: completed
+- Total Images Processed: 66
+- Faces Detected: 66
+- Failed: 0
+- Processing Time: 92.03s
+- Avg Time per Image: 974.27ms
+- Dominant Emotion: Neutral
+
+LLM Assessment Analysis:
+- Status: completed
+- Total Images Processed: 633
+- Faces Detected: 633
+- Failed: 0
+- Processing Time: 993.02s
+- Avg Time per Image: 1085.91ms
+- Dominant Emotion: Neutral
+
+Export Contents:
+----------------
+- session_info.json - Session metadata
+- phq_responses.json - PHQ assessment responses
+- llm_conversation.json - LLM conversation history
+- facial_analysis/phq_analysis.jsonl - PHQ facial analysis results (frame-by-frame)
+- facial_analysis/llm_analysis.jsonl - LLM facial analysis results (frame-by-frame)
+- facial_analysis/metadata.json - Processing metadata and statistics
+
+NOTE: This export contains PHQ/LLM data + JSONL files. Images are NOT included.
+      For images, use the regular User Sessions export.
+
+Generated: 2025-10-21 16:01:34
+
+Note: This export contains sensitive mental health data. Handle with appropriate confidentiality.

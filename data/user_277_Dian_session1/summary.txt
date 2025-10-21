@@ -1,0 +1,55 @@
+FACIAL ANALYSIS EXPORT
+======================
+
+Session Information:
+- Session ID: bba938c0-c009-4a25-ae65-27037690835b
+- User: Dian (ID: 277)
+- Session Number: 1
+- Created: 2025-09-25 03:42:15
+- Status: COMPLETED
+- Assessment Order: phq first
+
+Assessment Completion:
+- PHQ Assessment: ✓ Completed
+- LLM Assessment: ✓ Completed
+
+PHQ Results Summary:
+- Total Score: 7/27
+- Categories Assessed: 9
+
+Facial Analysis Results:
+------------------------
+
+PHQ Assessment Analysis:
+- Status: completed
+- Total Images Processed: 159
+- Faces Detected: 159
+- Failed: 0
+- Processing Time: 235.55s
+- Avg Time per Image: 1044.25ms
+- Dominant Emotion: Neutral
+
+LLM Assessment Analysis:
+- Status: completed
+- Total Images Processed: 373
+- Faces Detected: 373
+- Failed: 0
+- Processing Time: 535.62s
+- Avg Time per Image: 1032.35ms
+- Dominant Emotion: Neutral
+
+Export Contents:
+----------------
+- session_info.json - Session metadata
+- phq_responses.json - PHQ assessment responses
+- llm_conversation.json - LLM conversation history
+- facial_analysis/phq_analysis.jsonl - PHQ facial analysis results (frame-by-frame)
+- facial_analysis/llm_analysis.jsonl - LLM facial analysis results (frame-by-frame)
+- facial_analysis/metadata.json - Processing metadata and statistics
+
+NOTE: This export contains PHQ/LLM data + JSONL files. Images are NOT included.
+      For images, use the regular User Sessions export.
+
+Generated: 2025-10-21 16:01:33
+
+Note: This export contains sensitive mental health data. Handle with appropriate confidentiality.

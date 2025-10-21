@@ -1,0 +1,55 @@
+FACIAL ANALYSIS EXPORT
+======================
+
+Session Information:
+- Session ID: 05453657-35ec-4ce2-ae38-105c72775a30
+- User: Adjani_Amelia (ID: 134)
+- Session Number: 2
+- Created: 2025-10-01 14:05:15
+- Status: COMPLETED
+- Assessment Order: llm first
+
+Assessment Completion:
+- PHQ Assessment: ✓ Completed
+- LLM Assessment: ✓ Completed
+
+PHQ Results Summary:
+- Total Score: 0/27
+- Categories Assessed: 9
+
+Facial Analysis Results:
+------------------------
+
+PHQ Assessment Analysis:
+- Status: completed
+- Total Images Processed: 47
+- Faces Detected: 32
+- Failed: 15
+- Processing Time: 59.12s
+- Avg Time per Image: 1178.34ms
+- Dominant Emotion: Neutral
+
+LLM Assessment Analysis:
+- Status: completed
+- Total Images Processed: 199
+- Faces Detected: 112
+- Failed: 87
+- Processing Time: 223.05s
+- Avg Time per Image: 1190.66ms
+- Dominant Emotion: Neutral
+
+Export Contents:
+----------------
+- session_info.json - Session metadata
+- phq_responses.json - PHQ assessment responses
+- llm_conversation.json - LLM conversation history
+- facial_analysis/phq_analysis.jsonl - PHQ facial analysis results (frame-by-frame)
+- facial_analysis/llm_analysis.jsonl - LLM facial analysis results (frame-by-frame)
+- facial_analysis/metadata.json - Processing metadata and statistics
+
+NOTE: This export contains PHQ/LLM data + JSONL files. Images are NOT included.
+      For images, use the regular User Sessions export.
+
+Generated: 2025-10-21 16:01:32
+
+Note: This export contains sensitive mental health data. Handle with appropriate confidentiality.

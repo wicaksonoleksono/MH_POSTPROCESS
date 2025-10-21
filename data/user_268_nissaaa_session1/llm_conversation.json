@@ -1,0 +1,461 @@
+{
+  "total_conversations": 24,
+  "conversations": [
+    {
+      "turn_number": 1,
+      "created_at": "2025-09-24T05:01:46.790262",
+      "ai_message": "Senang dengarnya kamu baik 😊 Nah, aku pengen tahu nih, selama dua minggu terakhir ini, apakah kamu merasa kehilangan minat atau kesenangan dalam hal-hal yang biasanya kamu suka? Misalnya hobi, aktivitas sehari-hari, atau hal-hal yang dulu bikin kamu semangat?",
+      "user_message": "baik",
+      "user_message_length": 4,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 13,
+        "end": 14,
+        "duration": 1
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 2,
+      "created_at": "2025-09-24T05:02:11.317730",
+      "ai_message": "Iya, kadang emang butuh banget refreshing, apalagi kalau aktivitas jadi terasa hambar. Menurut kamu, apa yang bikin kegiatan yang biasanya seru itu sekarang terasa kurang menarik? Apa sering banget kejadian tertentu atau suasana hati yang berubah?",
+      "user_message": "iya mungkin aku butuh refreshing",
+      "user_message_length": 32,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 23,
+        "end": 39,
+        "duration": 16
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 3,
+      "created_at": "2025-09-24T05:02:52.269477",
+      "ai_message": "Wah, capek yang kamu rasain itu lebih ke capek fisik atau capek pikiran ya? Dan kira-kira capek itu muncul hampir setiap hari atau cuma sesekali aja?",
+      "user_message": "tidak juga cuma saya lagi ngerasa capek akhir akhir ini",
+      "user_message_length": 55,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 69,
+        "end": 81,
+        "duration": 12
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 4,
+      "created_at": "2025-09-24T05:03:01.569463",
+      "ai_message": "Capek pikiran itu memang bisa bikin semangat turun ya. Kalau boleh tahu, biasanya apa sih yang bikin pikiran kamu jadi capek? Apakah ada hal tertentu yang sering kamu pikirin atau beban yang terasa berat akhir-akhir ini?",
+      "user_message": "pikiran",
+      "user_message_length": 7,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 87,
+        "end": 89,
+        "duration": 2
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 5,
+      "created_at": "2025-09-24T05:03:20.170293",
+      "ai_message": "Aku paham, kadang capek pikiran itu datang dan pergi, ya. Nah, selain capek pikiran, belakangan ini kamu merasa suasana hati kamu lebih sedih atau tertekan hampir setiap hari nggak? Kalau iya, biasanya apa yang bikin perasaan itu muncul atau makin berat?",
+      "user_message": "iya, tapi sekarang ga terlalu",
+      "user_message_length": 29,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 102,
+        "end": 108,
+        "duration": 6
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 6,
+      "created_at": "2025-09-24T05:04:37.304588",
+      "ai_message": "Wah, materi perkuliahan memang kadang bisa bikin stres dan bikin mood jadi turun ya. Kalau kamu merasa sedih atau tertekan karena materi itu, biasanya seberapa sering perasaan itu muncul dalam dua minggu terakhir? Dan menurut kamu, apa bagian dari materi atau tugas yang paling bikin berat?",
+      "user_message": "tentang materi perkuliaha",
+      "user_message_length": 25,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 122,
+        "end": 186,
+        "duration": 64
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 7,
+      "created_at": "2025-09-24T05:05:47.963689",
+      "ai_message": "Aku ngerti banget, susah paham materi itu bisa bikin frustasi dan bikin mood jadi nggak enak. Kalau kamu lagi susah paham materi, biasanya perasaan sedih atau tertekan itu berlangsung lama nggak? Atau cuma sesaat aja? Dan biasanya kamu ngapain untuk ngatasinnya?",
+      "user_message": "kadang beberapa materi yang kurang dipahami",
+      "user_message_length": 43,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 210,
+        "end": 256,
+        "duration": 46
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 8,
+      "created_at": "2025-09-24T05:06:01.961935",
+      "ai_message": "Wah, jadi perasaan itu munculnya nggak tentu ya, kadang muncul tiba-tiba. Kalau lagi muncul perasaan kayak gitu, biasanya kamu ngelakuin apa supaya bisa sedikit lega atau ngerasa lebih baik? Atau kamu lebih milih diem aja?",
+      "user_message": "engga juga kadang sesaat kadang muncul tiba tiba",
+      "user_message_length": 48,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 262,
+        "end": 270,
+        "duration": 8
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 9,
+      "created_at": "2025-09-24T05:06:23.941233",
+      "ai_message": "Wah, keren banget kamu tetap bisa bersyukur walaupun lagi ngerasain perasaan yang nggak enak itu 😊 Itu sikap yang sangat positif. Nah, ngomong-ngomong soal pola makan, selama dua minggu terakhir ini kamu merasa ada perubahan nafsu makan atau berat badan nggak? Misalnya jadi lebih sedikit makan, malah makan lebih banyak, atau berat badan berubah?",
+      "user_message": "tetap bersyukur",
+      "user_message_length": 15,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 277,
+        "end": 292,
+        "duration": 15
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 10,
+      "created_at": "2025-09-24T05:06:44.943443",
+      "ai_message": "Bagus banget kalau pola makan kamu masih stabil, itu penting untuk jaga energi dan kesehatan. Nah, gimana dengan tidur kamu? Belakangan ini kamu mengalami kesulitan tidur, susah tidur nyenyak, atau malah jadi sering tidur lebih lama dari biasanya?",
+      "user_message": "sama aja sih",
+      "user_message_length": 12,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 309,
+        "end": 313,
+        "duration": 4
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 11,
+      "created_at": "2025-09-24T05:07:28.985235",
+      "ai_message": "Wah, jadi kamu susah tidur larut malam, tapi juga merasa bersalah kalau tidur sampai pagi ya. Rasanya kayak ada dilema antara pengen istirahat dan merasa harus produktif? Biasanya pikiran apa sih yang bikin kamu susah tidur atau bikin kamu merasa bersalah kalau tidur sampai pagi?",
+      "user_message": "aku gabisa tidur larut, tapi aku suka merasa bersalah kalo tidurnya ke pagian",
+      "user_message_length": 77,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 322,
+        "end": 357,
+        "duration": 35
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 12,
+      "created_at": "2025-09-24T05:08:09.256220",
+      "ai_message": "Oh, jadi kamu merasa bersalah kalau tidur lebih cepat karena takut nggak bisa manfaatin waktu dengan baik, ya? Wah, itu perasaan yang cukup berat juga sih. Biasanya perasaan bersalah kayak gitu muncul karena apa, ya? Apa kamu merasa harus selalu produktif atau ada ekspektasi tertentu yang bikin kamu kayak gitu?",
+      "user_message": "bukan aku maksudnya tidur lebih cepet aku merasa bersalah karena aku takut tidak bisa memanfaatkan waktu dengan baik",
+      "user_message_length": 116,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 373,
+        "end": 397,
+        "duration": 24
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 13,
+      "created_at": "2025-09-24T05:08:19.964656",
+      "ai_message": "Aku paham banget, kadang tekanan buat selalu produktif itu bikin kita susah buat istirahat dengan tenang. Selain itu, teman-teman atau orang sekitar kamu ada nggak yang bilang kalau kamu jadi lebih lambat atau malah kelihatan gelisah akhir-akhir ini? Dan menurut kamu, apa yang bikin perubahan itu muncul?",
+      "user_message": "iya",
+      "user_message_length": 3,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 407,
+        "end": 408,
+        "duration": 1
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 14,
+      "created_at": "2025-09-24T05:08:42.830010",
+      "ai_message": "Terima kasih sudah berbagi ya, itu wajar kok kalau saat panik teman-teman bisa lihat perubahan itu. Biasanya, saat kamu panik, apa yang biasanya memicu situasi itu? Apakah ada pemicu tertentu yang bikin kamu merasa gelisah atau panik?",
+      "user_message": "engga tapi kalo aku lagi panik teman teman ku notice",
+      "user_message_length": 52,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 421,
+        "end": 431,
+        "duration": 10
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 15,
+      "created_at": "2025-09-24T05:09:45.943969",
+      "ai_message": "Aku ngerti, pemicu yang nggak tentu emang bikin kita jadi lebih sulit mengantisipasi dan mengelola perasaan panik itu. Nah, selain itu, selama dua minggu terakhir ini kamu merasa energi kamu cepat habis atau kamu gampang banget merasa lelah nggak? Biasanya kalau energi kamu turun, apa sih yang terjadi sebelumnya? Misalnya kurang tidur, banyak pikiran, atau aktivitas yang berat?",
+      "user_message": "ga tentu",
+      "user_message_length": 8,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 486,
+        "end": 494,
+        "duration": 8
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 16,
+      "created_at": "2025-09-24T05:10:29.733453",
+      "ai_message": "Wah, aku bisa bayangin betapa beratnya kalau kamu sering merasa lelah sampai cuma bisa menghela napas. Biasanya setelah merasa lelah seperti itu, kamu ngelakuin apa supaya bisa sedikit rileks atau nambah energi? Atau kamu lebih sering terus-terusan merasa capek?",
+      "user_message": "iya lelah aku cuma menghela napas",
+      "user_message_length": 33,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 530,
+        "end": 538,
+        "duration": 8
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 17,
+      "created_at": "2025-09-24T05:10:45.833171",
+      "ai_message": "Bagus banget kamu punya kebiasaan memikirkan hal-hal positif, itu sangat membantu untuk ngelewatin masa sulit 😊 Nah, aku mau tanya, belakangan ini kamu merasa susah fokus atau kesulitan buat bikin keputusan nggak? Kalau iya, biasanya apa yang bikin kamu gampang terganggu atau bingung?",
+      "user_message": "memikirkan hal hal positif",
+      "user_message_length": 26,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 547,
+        "end": 554,
+        "duration": 7
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 18,
+      "created_at": "2025-09-24T05:11:53.819288",
+      "ai_message": "Wah, belajar di tempat rame memang bisa bikin fokus buyar ya. Kalau kamu belajar di tempat yang sepi, biasanya kamu bisa lebih konsentrasi atau lebih nyaman? Terus, kalau kamu harus bikin keputusan, apakah kamu merasa gampang ragu atau bingung? Biasanya kenapa ya?",
+      "user_message": "lumayan aku ga bisa belajar di tempat rame",
+      "user_message_length": 42,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 609,
+        "end": 622,
+        "duration": 13
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 19,
+      "created_at": "2025-09-24T05:12:11.621856",
+      "ai_message": "Aku ngerti, gampang ragu itu memang bisa bikin kita ngerasa berat saat harus ambil keputusan. Biasanya, ragu itu muncul karena takut salah, kurang informasi, atau mungkin hal lain? Kalau boleh tahu, apa yang biasanya bikin kamu merasa ragu banget sampai susah memutuskan?",
+      "user_message": "gampang ragu sih aku kalo mengambil keputusan",
+      "user_message_length": 45,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 631,
+        "end": 639,
+        "duration": 8
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 20,
+      "created_at": "2025-09-24T05:12:32.148831",
+      "ai_message": "Aku ngerti banget, rasa bimbang dan terus mikirin keputusan yang udah diambil itu bisa bikin pikiran jadi nggak tenang. Kalau kamu terus-terusan kepikiran seperti itu, biasanya kamu ngelakuin apa buat ngurangin beban pikiran itu? Atau ada hal lain yang kadang bantu kamu merasa lebih lega?",
+      "user_message": "gatau aku kadang bimbang aku selalu kepikiran apa yang aku lakukan",
+      "user_message_length": 66,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 644,
+        "end": 660,
+        "duration": 16
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 21,
+      "created_at": "2025-09-24T05:12:46.287290",
+      "ai_message": "Wah, itu langkah yang bagus banget, cerita ke keluarga bisa bikin hati jadi lega dan dapat dukungan. Selain itu, aku pengen nanya, belakangan ini kamu pernah nggak kepikiran tentang kematian atau bahkan berpikir untuk menyakiti diri sendiri? Kalau pernah, biasanya pikiran itu muncul kapan dan apa yang bikin rasa itu jadi makin kuat?",
+      "user_message": "cerita semuanya ke keluarga",
+      "user_message_length": 27,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 670,
+        "end": 674,
+        "duration": 4
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 22,
+      "created_at": "2025-09-24T05:12:58.947315",
+      "ai_message": "Syukurlah kalau kamu nggak pernah punya pikiran seperti itu, itu tanda yang baik banget 😊 Dari apa yang kamu ceritain, aku lihat kamu cukup kuat menghadapi capek pikiran, tetap bersyukur, dan punya cara positif seperti cerita ke keluarga dan memikirkan hal-hal baik.\n\nKalau boleh tahu, ada hal lain yang mau kamu tambahin atau cerita? Aku siap dengerin kok.",
+      "user_message": "engga",
+      "user_message_length": 5,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 686,
+        "end": 687,
+        "duration": 1
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 23,
+      "created_at": "2025-09-24T05:14:07.459610",
+      "ai_message": "Aku doain banget ya, semoga kamu selalu diberi kekuatan, semangat, dan kemudahan dalam menjalani perkuliahan ini. Kamu pasti bisa berprestasi dan melewati semua tantangan dengan baik. Jangan ragu buat cerita atau minta dukungan kapan pun kamu butuh, aku di sini selalu siap mendengarkan dan mendukung kamu 😊\n\nKalau ada hal lain yang mau kamu bagi atau diskusikan, aku siap kok. Apakah kamu merasa sudah cukup untuk sekarang, atau ada yang ingin kamu tambahkan lagi?",
+      "user_message": "aku butuh banget doa dari orang orang biar aku bisa survive saat perkuliahan dan juga bisa berprestasi di perkuliahan ini",
+      "user_message_length": 121,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 700,
+        "end": 755,
+        "duration": 55
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 24,
+      "created_at": "2025-09-24T05:14:19.985562",
+      "ai_message": "Terima kasih sudah berbagi cerita dan perasaan kamu selama ini. Aku sangat menghargai keberanian kamu untuk terbuka. Ingat, kamu nggak sendiri, dan aku selalu ada kalau kamu butuh teman untuk mendengarkan.\n\nSemoga semuanya semakin membaik ya, dan jangan lupa untuk tetap jaga kesehatan fisik dan mental kamu. Kalau di lain waktu kamu pengen cerita lagi atau butuh dukungan, aku siap kapan saja.\n\nJaga diri baik-baik ya! 😊  \n</end_conversation>",
+      "user_message": "cukup",
+      "user_message_length": 5,
+      "has_end_conversation": true,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 767,
+        "end": 768,
+        "duration": 1
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "total_conversations": 16,
+  "conversations": [
+    {
+      "turn_number": 1,
+      "created_at": "2025-09-23T15:20:29.284476",
+      "ai_message": "Senang dengar kamu lagi normal seperti biasanya. 😊  \nNah, aku pengen tahu nih, belakangan ini teman kamu kayaknya ada nggak sih yang kehilangan minat atau rasa senang sama hal-hal yang biasanya dia suka? Misalnya, kegiatan yang dulu bikin dia semangat sekarang terasa hambar?",
+      "user_message": "normal seperti biasanya",
+      "user_message_length": 23,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 10,
+        "end": 18,
+        "duration": 8
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 2,
+      "created_at": "2025-09-23T15:20:55.236386",
+      "ai_message": "Oke, bagus kalau teman kamu masih tetap menikmati hal-hal yang biasa dia suka.  \nTerus, gimana dengan suasana hatinya? Apakah belakangan ini teman kamu terlihat atau bilang kalau dia sering merasa sedih atau tertekan hampir setiap hari?",
+      "user_message": "tidak ada sepertinya",
+      "user_message_length": 20,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 39,
+        "end": 43,
+        "duration": 4
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 3,
+      "created_at": "2025-09-23T15:21:13.714137",
+      "ai_message": "Syukurlah kalau teman kamu nggak sering merasa sedih atau tertekan.  \nKalau begitu, aku mau tanya tentang perubahan pola makan atau berat badan teman kamu, ada nggak sih perubahan yang cukup signifikan? Misalnya, dia jadi makan lebih sedikit atau malah lebih banyak dari biasanya?",
+      "user_message": "tidak",
+      "user_message_length": 5,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 59,
+        "end": 62,
+        "duration": 3
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 4,
+      "created_at": "2025-09-23T15:22:36.327626",
+      "ai_message": "Oh, jadi teman kamu sekarang malah lebih rajin makan karena pengalamannya maag kambuh, ya?  \nKalau teman kamu jadi lebih rajin makan, biasanya apa yang bikin dia bisa ingat untuk makan lebih teratur? Apakah karena dia sadar pentingnya jaga kesehatan atau ada hal lain?",
+      "user_message": "temen aku ya? kayaknya dia jadi lebih rajin makan karena pernah maag nya kambuh karna sibuk kuliah",
+      "user_message_length": 98,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 97,
+        "end": 144,
+        "duration": 47
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 5,
+      "created_at": "2025-09-23T15:23:24.331893",
+      "ai_message": "Penting banget sih sadar seperti itu, apalagi kalau sudah pernah ngerasain maag kambuh.  \nNgomongin soal tidur, apakah teman kamu selama dua minggu terakhir ini ada kesulitan tidur? Misalnya susah tidur, sering terbangun, atau malah kebanyakan tidur?",
+      "user_message": "dia sadar akan pentingnya menjaga pola makan agar maag nya tidak kambuh lagi",
+      "user_message_length": 76,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 165,
+        "end": 193,
+        "duration": 28
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 6,
+      "created_at": "2025-09-23T15:24:05.872558",
+      "ai_message": "Wah, teman kamu terlihat cukup sehat dari segi tidur ya, itu bagus banget.  \nKalau dilihat dari gerak-geriknya, teman kamu ada nggak sih terlihat lebih lambat atau malah lebih gelisah dari biasanya? Mungkin teman kamu atau orang di sekitarnya pernah bilang seperti itu?",
+      "user_message": "tidak ada",
+      "user_message_length": 9,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 233,
+        "end": 235,
+        "duration": 2
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 7,
+      "created_at": "2025-09-23T15:24:34.513201",
+      "ai_message": "Oke, teman kamu tetap terlihat biasa-biasa saja dari segi gerakan dan pembicaraan.  \nNah, gimana dengan energi atau semangatnya? Apakah dia sering merasa capek atau kehabisan tenaga hampir setiap hari?",
+      "user_message": "normal seperti biasanya aja sih",
+      "user_message_length": 31,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 257,
+        "end": 263,
+        "duration": 6
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 8,
+      "created_at": "2025-09-23T15:24:53.908653",
+      "ai_message": "Wah, teman kamu ceria terus ya, itu keren banget! 😄  \nKalau soal perasaan, teman kamu pernah nggak sih bilang merasa nggak berharga atau merasa bersalah yang berlebihan? Atau mungkin ada situasi tertentu yang bikin dia merasa begitu?",
+      "user_message": "engga kok setiap bertemu tetap ceria",
+      "user_message_length": 36,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 273,
+        "end": 282,
+        "duration": 9
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 9,
+      "created_at": "2025-09-23T15:25:08.346248",
+      "ai_message": "Baik, kalau teman kamu nggak pernah merasa seperti itu, berarti dia cukup stabil dari sisi perasaan ya.  \nNah, bagaimana dengan konsentrasi atau kemampuannya dalam mengambil keputusan? Apakah belakangan ini teman kamu terlihat kesulitan fokus atau bingung dalam membuat keputusan?",
+      "user_message": "ga ada",
+      "user_message_length": 6,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 296,
+        "end": 297,
+        "duration": 1
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 10,
+      "created_at": "2025-09-23T15:25:28.474918",
+      "ai_message": "Oh, jadi teman kamu ada yang kesulitan fokus atau bingung dalam membuat keputusan ya?  \nKalau boleh tahu, biasanya apa yang bikin dia gampang kehilangan fokus atau susah buat putuskan sesuatu? Apakah karena banyak distraksi, pikiran yang bikin khawatir, atau hal lain?",
+      "user_message": "ada temanku yg seperti itu",
+      "user_message_length": 26,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 311,
+        "end": 316,
+        "duration": 5
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 11,
+      "created_at": "2025-09-23T15:26:04.503910",
+      "ai_message": "Wah, itu memang bikin bingung ya, apalagi kalau banyak opsi sampai takut ketinggalan (FOMO) tapi juga pengen ikutin kata hati sendiri.  \nKalau teman kamu lagi merasa bingung seperti itu, biasanya dia ngapain atau gimana supaya bisa lebih tenang dan bisa ambil keputusan?",
+      "user_message": "karena banyak opsi biasanya sama bingung mau fomo atau ikutin kata hati",
+      "user_message_length": 71,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 336,
+        "end": 353,
+        "duration": 17
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 12,
+      "created_at": "2025-09-23T15:26:38.309034",
+      "ai_message": "Wah, teman kamu cukup bijak juga ya, minta saran dan timbang plus minus dulu sebelum memutuskan.  \nTerakhir nih, apakah teman kamu pernah mengungkapkan pikiran tentang kematian atau bunuh diri? Kalau iya, biasanya kapan dan apa yang bikin pikiran itu muncul?",
+      "user_message": "minta saran ke teman dan melihat plus mines dari opsi yang ingin diambil",
+      "user_message_length": 72,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 367,
+        "end": 385,
+        "duration": 18
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 13,
+      "created_at": "2025-09-23T15:26:50.569176",
+      "ai_message": "Syukurlah teman kamu nggak pernah punya pikiran seperti itu. Itu hal yang penting banget.  \nJadi dari cerita kamu, teman kamu masih cukup stabil dan menjaga kesehatan dengan baik. Kalau boleh tahu, ada hal lain yang pengen kamu cerita atau tanyakan tentang kondisi teman kamu?",
+      "user_message": "ga pernah kok",
+      "user_message_length": 13,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 397,
+        "end": 399,
+        "duration": 2
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 14,
+      "created_at": "2025-09-23T15:27:04.692135",
+      "ai_message": "Oke, makasih ya sudah cerita banyak tentang teman kamu. Aku senang bisa denger dan ngobrol sama kamu.  \nKalau nanti kamu atau teman kamu butuh tempat untuk cerita lagi, aku selalu siap dengerin, ya. 😊  \nKira-kira, sudah cukup sampai sini atau kamu mau tambahin sesuatu lagi?",
+      "user_message": "ga adaa",
+      "user_message_length": 7,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 412,
+        "end": 413,
+        "duration": 1
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 15,
+      "created_at": "2025-09-23T15:27:30.292026",
+      "ai_message": "Iya, selama ini kita ngobrolnya fokus tentang kondisi teman kamu, biar aku bisa bantu kamu pahamin dan support dia dengan baik.  \nKalau kamu mau, kita juga bisa ngobrol tentang kamu sendiri atau hal lain yang kamu rasa perlu. Gimana menurut kamu?",
+      "user_message": "ini bahas temenku aja kah?",
+      "user_message_length": 26,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 431,
+        "end": 439,
+        "duration": 8
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 16,
+      "created_at": "2025-09-23T15:27:46.926406",
+      "ai_message": "Oke, nggak masalah kok kalau kamu merasa cukup sampai di sini.  \nIngat ya, aku selalu ada kapan pun kamu butuh teman cerita atau sekadar ngobrol santai.  \nSemoga teman kamu tetap sehat dan semangat terus ya! 😊  \nKalau ada apa-apa, jangan ragu untuk hubungi aku lagi, ya.  \nSemoga hari kamu menyenangkan! </end_conversation>",
+      "user_message": "gaperlu juga gapapa",
+      "user_message_length": 19,
+      "has_end_conversation": true,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 452,
+        "end": 455,
+        "duration": 3
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    }
+  ]
+}

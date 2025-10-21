@@ -1,0 +1,114 @@
+{
+  "total_score": 11,
+  "max_possible_score": 27,
+  "responses": {
+    "ANHEDONIA": {
+      "Dalam rentang 2 minggu terakhir, apakah Anda sulit merasa tertarik atau bersemangat menjalani aktivitas?": {
+        "response_text": "Tidak sama sekali",
+        "response_value": 0,
+        "response_time_ms": 16668,
+        "timing": {
+          "start": 0,
+          "end": 16,
+          "duration": 16
+        }
+      }
+    },
+    "DEPRESSED_MOOD": {
+      "Apakah dalam 2 minggu terakhir Anda mengalami suasana hati yang murung, perasaan muram, atau rasa putus asa?": {
+        "response_text": "Pernah (jarang)",
+        "response_value": 1,
+        "response_time_ms": 8248,
+        "timing": {
+          "start": 18,
+          "end": 27,
+          "duration": 9
+        }
+      }
+    },
+    "SLEEP_DISTURBANCE": {
+      "Selama 2 minggu terakhir, apakah Anda mengalami kesulitan untuk tidur nyenyak, sering terbangun di malam hari, atau justru tidur berlebihan?": {
+        "response_text": "Beberapa kali (cukup sering)",
+        "response_value": 2,
+        "response_time_ms": 6816,
+        "timing": {
+          "start": 28,
+          "end": 35,
+          "duration": 7
+        }
+      }
+    },
+    "FATIGUE": {
+      "Selama 2 minggu terakhir, adakah Anda kerap merasa letih atau kehilangan tenaga?": {
+        "response_text": "Pernah (jarang)",
+        "response_value": 1,
+        "response_time_ms": 7475,
+        "timing": {
+          "start": 36,
+          "end": 43,
+          "duration": 7
+        }
+      }
+    },
+    "APPETITE_CHANGES": {
+      "Dalam 2 minggu terakhir apakah Anda merasa kurang nafsu makan atau terlalu banyak makan?": {
+        "response_text": "Sering",
+        "response_value": 3,
+        "response_time_ms": 6549,
+        "timing": {
+          "start": 45,
+          "end": 52,
+          "duration": 7
+        }
+      }
+    },
+    "WORTHLESSNESS": {
+      "Dalam rentang 2 minggu terakhir, apakah muncul perasaan rendah diri, keyakinan bahwa Anda gagal, atau pikiran telah mengecewakan diri sendiri serta keluarga?": {
+        "response_text": "Pernah (jarang)",
+        "response_value": 1,
+        "response_time_ms": 15908,
+        "timing": {
+          "start": 53,
+          "end": 69,
+          "duration": 16
+        }
+      }
+    },
+    "CONCENTRATION": {
+      "Dalam rentang 2 minggu terakhir, apakah Anda merasa konsentrasi Anda mudah buyar ketika melakukan sesuatu seperti membaca berita atau menonton tayangan media?": {
+        "response_text": "Beberapa kali (cukup sering)",
+        "response_value": 2,
+        "response_time_ms": 11713,
+        "timing": {
+          "start": 70,
+          "end": 82,
+          "duration": 12
+        }
+      }
+    },
+    "PSYCHOMOTOR": {
+      "Selama 2 minggu terakhir, adakah Anda merasa gerakan atau ucapan menjadi sangat lambat hingga orang lain menyadarinya, atau sebaliknya merasa gelisah sehingga lebih sering bergerak dari biasanya?": {
+        "response_text": "Pernah (jarang)",
+        "response_value": 1,
+        "response_time_ms": 8348,
+        "timing": {
+          "start": 83,
+          "end": 91,
+          "duration": 8
+        }
+      }
+    },
+    "SUICIDAL_IDEATION": {
+      "Dalam rentang 2 minggu terakhir, apakah Anda mengalami dorongan atau pikiran tentang kematian, atau tentang melukai diri sendiri?": {
+        "response_text": "Tidak sama sekali",
+        "response_value": 0,
+        "response_time_ms": 2953,
+        "timing": {
+          "start": 93,
+          "end": 96,
+          "duration": 3
+        }
+      }
+    }
+  }
+}

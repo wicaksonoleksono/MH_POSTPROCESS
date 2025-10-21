@@ -1,0 +1,55 @@
+FACIAL ANALYSIS EXPORT
+======================
+
+Session Information:
+- Session ID: 5e3f911c-e0de-4b23-abbb-ea7ddd7490ad
+- User: REGZA (ID: 125)
+- Session Number: 2
+- Created: 2025-10-01 13:13:32
+- Status: COMPLETED
+- Assessment Order: llm first
+
+Assessment Completion:
+- PHQ Assessment: ✓ Completed
+- LLM Assessment: ✓ Completed
+
+PHQ Results Summary:
+- Total Score: 4/27
+- Categories Assessed: 9
+
+Facial Analysis Results:
+------------------------
+
+PHQ Assessment Analysis:
+- Status: completed
+- Total Images Processed: 64
+- Faces Detected: 64
+- Failed: 0
+- Processing Time: 93.37s
+- Avg Time per Image: 998.36ms
+- Dominant Emotion: Happiness
+
+LLM Assessment Analysis:
+- Status: completed
+- Total Images Processed: 295
+- Faces Detected: 295
+- Failed: 0
+- Processing Time: 432.13s
+- Avg Time per Image: 993.86ms
+- Dominant Emotion: Neutral
+
+Export Contents:
+----------------
+- session_info.json - Session metadata
+- phq_responses.json - PHQ assessment responses
+- llm_conversation.json - LLM conversation history
+- facial_analysis/phq_analysis.jsonl - PHQ facial analysis results (frame-by-frame)
+- facial_analysis/llm_analysis.jsonl - LLM facial analysis results (frame-by-frame)
+- facial_analysis/metadata.json - Processing metadata and statistics
+
+NOTE: This export contains PHQ/LLM data + JSONL files. Images are NOT included.
+      For images, use the regular User Sessions export.
+
+Generated: 2025-10-21 16:01:34
+
+Note: This export contains sensitive mental health data. Handle with appropriate confidentiality.

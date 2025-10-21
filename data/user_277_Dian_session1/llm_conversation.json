@@ -1,0 +1,309 @@
+{
+  "total_conversations": 16,
+  "conversations": [
+    {
+      "turn_number": 1,
+      "created_at": "2025-09-25T03:47:46.619989",
+      "ai_message": "Senang dengarnya kamu baik 😊 Belakangan ini, bagaimana sih aktivitas teman kamu sehari-harinya dalam dua pekan terakhir? Ada perubahan yang kamu perhatikan, misalnya dia jadi nggak semangat atau kehilangan minat sama hal-hal yang biasanya dia suka?",
+      "user_message": "alhamdulillah baik",
+      "user_message_length": 18,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 6,
+        "end": 12,
+        "duration": 6
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 2,
+      "created_at": "2025-09-25T03:48:20.349167",
+      "ai_message": "Wah, sibuk banget ya teman-teman kamu sampai keteteran dengan tugas-tugasnya. Dari yang kamu lihat, ada nggak sih teman kamu yang jadi kayak kehilangan semangat atau kesenangan dalam kegiatan yang biasanya mereka suka? Misalnya, dulu suka banget nonton atau nongkrong, tapi sekarang jadi nggak tertarik lagi?",
+      "user_message": "banyak dari mereka yang keteteran dengan tugas dan jadi lebih sibuk",
+      "user_message_length": 67,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 27,
+        "end": 46,
+        "duration": 19
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 3,
+      "created_at": "2025-09-25T03:49:03.208928",
+      "ai_message": "Oh, jadi mereka masih tertarik cuma memang waktunya yang bener-bener mepet ya. Kalau mereka lagi sibuk banget kayak gitu, biasanya suasana hati mereka gimana? Ada yang kelihatan sering sedih atau tertekan hampir setiap hari nggak?",
+      "user_message": "tidak ada. mereka bukan tidak tertarik, tapi memanga belum ada waktu aja",
+      "user_message_length": 72,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 60,
+        "end": 89,
+        "duration": 29
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 4,
+      "created_at": "2025-09-25T03:49:35.008246",
+      "ai_message": "Iya, kewalahan dan capek itu memang wajar kalau lagi banyak tugas. Kalau teman kamu merasa capek, biasanya energi mereka cepat habis nggak? Misalnya, setelah aktivitas berat, mereka jadi gampang lelah atau kehilangan semangat untuk lanjut?",
+      "user_message": "kayaknya mereka kewalahan dan capek sih, tapi tidak sampai berlebihan",
+      "user_message_length": 69,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 103,
+        "end": 121,
+        "duration": 18
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 5,
+      "created_at": "2025-09-25T03:49:49.316383",
+      "ai_message": "Terima kasih sudah berbagi, capek yang terus-menerus memang bisa bikin energi cepat habis ya. Teman kamu biasanya merasa lelah itu setiap hari atau cuma kadang-kadang aja? Dan kamu tahu nggak, kira-kira apa yang paling bikin mereka cepat capek—mungkin kurang tidur, beban pikiran, atau karena pola kerja yang padat?",
+      "user_message": "sepertinya iya",
+      "user_message_length": 14,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 131,
+        "end": 134,
+        "duration": 3
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 6,
+      "created_at": "2025-09-25T03:50:21.995847",
+      "ai_message": "Wah, jadwal kuliah yang padat dan tugas yang numpuk memang bisa bikin lelah banget ya. Kalau soal tidur, teman kamu gimana? Apakah mereka mengalami gangguan tidur seperti susah tidur atau tidur kebanyakan dalam dua pekan terakhir ini?",
+      "user_message": "biasanya kalau jadwal kuliah padat dan tugas nya menumpuk sih",
+      "user_message_length": 61,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 154,
+        "end": 168,
+        "duration": 14
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 7,
+      "created_at": "2025-09-25T03:50:41.007806",
+      "ai_message": "Bagus kalau mereka masih bisa tidur dengan cukup ya. Tapi selain tidur, apakah ada perubahan di pola makan mereka? Misalnya jadi kurang nafsu makan atau malah makan lebih banyak dari biasanya?",
+      "user_message": "mereka tidak kesulitan untuk tidur",
+      "user_message_length": 34,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 179,
+        "end": 187,
+        "duration": 8
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 8,
+      "created_at": "2025-09-25T03:50:50.775401",
+      "ai_message": "Kalau begitu, dari yang kamu lihat, apakah teman-teman kamu menunjukkan tanda-tanda merasa tidak berharga atau merasa bersalah berlebihan? Mungkin karena tugas yang menumpuk atau hal lain?",
+      "user_message": "tidak juga",
+      "user_message_length": 10,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 195,
+        "end": 197,
+        "duration": 2
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 9,
+      "created_at": "2025-09-25T03:51:04.997436",
+      "ai_message": "Oke, kalau teman kamu nggak merasa seperti itu, bagaimana dengan konsentrasi mereka? Apakah mereka kesulitan fokus atau susah buat ambil keputusan dalam dua pekan terakhir ini?",
+      "user_message": "tidak ada yang seperti itu sih",
+      "user_message_length": 30,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 205,
+        "end": 211,
+        "duration": 6
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 10,
+      "created_at": "2025-09-25T03:51:37.798855",
+      "ai_message": "Terima kasih sudah berbagi, sulit fokus itu memang bisa bikin belajar jadi makin berat ya. Kalau menurut kamu, apa yang biasanya bikin teman kamu gampang buyar fokusnya? Misalnya notifikasi HP, pikiran yang nggak tenang, atau mungkin kelelahan?",
+      "user_message": "menurutku ada yang akhir-akhir ini sulit untuk fokus atau memeperhatikan dosen",
+      "user_message_length": 78,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 222,
+        "end": 242,
+        "duration": 20
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 11,
+      "created_at": "2025-09-25T03:51:55.894775",
+      "ai_message": "Wah, kelelahan dan bosan sama materi itu wajar banget bikin fokus turun. Kalau teman kamu yang merasa bosan itu, mereka biasanya bilang apa atau gimana reaksinya? Apakah mereka sempat coba cari cara buat bikin materi jadi lebih menarik, atau malah makin menjauh dari belajar?",
+      "user_message": "seringnya kelelahan dan bosan dengan materi",
+      "user_message_length": 43,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 253,
+        "end": 262,
+        "duration": 9
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 12,
+      "created_at": "2025-09-25T03:52:36.758116",
+      "ai_message": "Gak apa-apa kok kalau kamu belum tahu detailnya 😊 Mungkin dari yang kamu amati, ada nggak teman kamu yang mulai lebih pelan atau malah gelisah dari biasanya? Misalnya gerakannya jadi lambat atau kelihatan gelisah terus?",
+      "user_message": "kalau saat mereka belajar, aku tidak tahu",
+      "user_message_length": 41,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 285,
+        "end": 303,
+        "duration": 18
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 13,
+      "created_at": "2025-09-25T03:52:56.047633",
+      "ai_message": "Oke, kalau teman kamu nggak menunjukkan perubahan gerakan atau pembicaraan, gimana dengan perasaan mereka? Apakah ada yang sering merasa sedih terus atau malah merasa nggak ada harapan dalam dua pekan terakhir ini?",
+      "user_message": "engga juga",
+      "user_message_length": 10,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 320,
+        "end": 322,
+        "duration": 2
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 14,
+      "created_at": "2025-09-25T03:53:16.176864",
+      "ai_message": "Syukurlah kalau teman kamu nggak mengalami perasaan sedih yang terus-menerus. Nah, terakhir nih, apakah kamu pernah dengar atau tahu kalau teman kamu punya pikiran tentang kematian atau bunuh diri? Kalau ada, biasanya muncul kapan dan apa yang memicu pikiran itu?",
+      "user_message": "menurutku tidak ada",
+      "user_message_length": 19,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 337,
+        "end": 342,
+        "duration": 5
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 15,
+      "created_at": "2025-09-25T03:53:28.660590",
+      "ai_message": "Terima kasih sudah jujur berbagi ya 😊 Dari cerita kamu, teman-teman kamu memang lagi sibuk dan capek karena tugas dan jadwal padat, tapi sejauh ini mereka masih bisa tidur dengan baik, makan teratur, dan belum menunjukkan tanda-tanda depresi yang berat seperti perasaan tidak berharga atau pikiran bunuh diri. Ada beberapa yang sulit fokus karena kelelahan dan bosan, tapi itu masih wajar mengingat situasinya.\n\nKalau kamu atau teman-teman kamu butuh teman bicara kapan saja, aku selalu siap mendengarkan, ya. Ada hal lain yang kamu ingin tambahkan atau ceritakan soal mereka?",
+      "user_message": "tidak pernah",
+      "user_message_length": 12,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 351,
+        "end": 354,
+        "duration": 3
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 16,
+      "created_at": "2025-09-25T03:53:48.094579",
+      "ai_message": "Oke, kalau memang sudah cukup, aku senang bisa membantu dan mendengarkan cerita kamu hari ini 😊 Jangan sungkan buat cerita lagi kapan pun kamu butuh, ya. Semoga teman-teman kamu bisa melewati masa sibuk ini dengan lancar dan tetap jaga kesehatan mereka juga. Semangat terus!  \n</end_conversation>",
+      "user_message": "tidak ada",
+      "user_message_length": 9,
+      "has_end_conversation": true,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 371,
+        "end": 374,
+        "duration": 3
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    }
+  ]
+}

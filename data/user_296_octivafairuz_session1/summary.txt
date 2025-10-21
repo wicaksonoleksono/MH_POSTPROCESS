@@ -1,0 +1,55 @@
+FACIAL ANALYSIS EXPORT
+======================
+
+Session Information:
+- Session ID: beb767a2-bf4d-4cda-8936-b7a2f626d260
+- User: octivafairuz (ID: 296)
+- Session Number: 1
+- Created: 2025-10-02 06:11:56
+- Status: COMPLETED
+- Assessment Order: phq first
+
+Assessment Completion:
+- PHQ Assessment: ✓ Completed
+- LLM Assessment: ✓ Completed
+
+PHQ Results Summary:
+- Total Score: 21/27
+- Categories Assessed: 9
+
+Facial Analysis Results:
+------------------------
+
+PHQ Assessment Analysis:
+- Status: completed
+- Total Images Processed: 62
+- Faces Detected: 58
+- Failed: 4
+- Processing Time: 96.04s
+- Avg Time per Image: 1117.91ms
+- Dominant Emotion: Happiness
+
+LLM Assessment Analysis:
+- Status: completed
+- Total Images Processed: 893
+- Faces Detected: 873
+- Failed: 20
+- Processing Time: 1342.62s
+- Avg Time per Image: 1081.09ms
+- Dominant Emotion: Happiness
+
+Export Contents:
+----------------
+- session_info.json - Session metadata
+- phq_responses.json - PHQ assessment responses
+- llm_conversation.json - LLM conversation history
+- facial_analysis/phq_analysis.jsonl - PHQ facial analysis results (frame-by-frame)
+- facial_analysis/llm_analysis.jsonl - LLM facial analysis results (frame-by-frame)
+- facial_analysis/metadata.json - Processing metadata and statistics
+
+NOTE: This export contains PHQ/LLM data + JSONL files. Images are NOT included.
+      For images, use the regular User Sessions export.
+
+Generated: 2025-10-21 16:01:39
+
+Note: This export contains sensitive mental health data. Handle with appropriate confidentiality.

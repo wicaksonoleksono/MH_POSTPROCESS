@@ -1,0 +1,55 @@
+FACIAL ANALYSIS EXPORT
+======================
+
+Session Information:
+- Session ID: 2517ef9e-bfd3-48eb-938a-94f6f6194d20
+- User: lakoko (ID: 167)
+- Session Number: 1
+- Created: 2025-09-19 07:17:35
+- Status: COMPLETED
+- Assessment Order: phq first
+
+Assessment Completion:
+- PHQ Assessment: ✓ Completed
+- LLM Assessment: ✓ Completed
+
+PHQ Results Summary:
+- Total Score: 13/27
+- Categories Assessed: 9
+
+Facial Analysis Results:
+------------------------
+
+PHQ Assessment Analysis:
+- Status: completed
+- Total Images Processed: 154
+- Faces Detected: 154
+- Failed: 0
+- Processing Time: 249.89s
+- Avg Time per Image: 1065.11ms
+- Dominant Emotion: Happiness
+
+LLM Assessment Analysis:
+- Status: completed
+- Total Images Processed: 805
+- Faces Detected: 805
+- Failed: 0
+- Processing Time: 1194.15s
+- Avg Time per Image: 1047.43ms
+- Dominant Emotion: Neutral
+
+Export Contents:
+----------------
+- session_info.json - Session metadata
+- phq_responses.json - PHQ assessment responses
+- llm_conversation.json - LLM conversation history
+- facial_analysis/phq_analysis.jsonl - PHQ facial analysis results (frame-by-frame)
+- facial_analysis/llm_analysis.jsonl - LLM facial analysis results (frame-by-frame)
+- facial_analysis/metadata.json - Processing metadata and statistics
+
+NOTE: This export contains PHQ/LLM data + JSONL files. Images are NOT included.
+      For images, use the regular User Sessions export.
+
+Generated: 2025-10-21 16:01:36
+
+Note: This export contains sensitive mental health data. Handle with appropriate confidentiality.

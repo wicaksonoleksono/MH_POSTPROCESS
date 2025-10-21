@@ -1,0 +1,53 @@
+{
+  "phq_analysis": {
+    "status": "completed",
+    "total_images_processed": 64,
+    "images_with_faces_detected": 64,
+    "images_failed": 0,
+    "processing_time_seconds": 93.888101,
+    "avg_time_per_image_ms": 941.25,
+    "summary_stats": {
+      "dominant_emotion": "Neutral",
+      "emotion_distribution": {
+        "Neutral": 57,
+        "Sadness": 2,
+        "Happiness": 5
+      },
+      "avg_au_activations": 0.98,
+      "most_active_aus": [
+        "au_17",
+        "au_4",
+        "au_6",
+        "au_15"
+      ],
+      "total_frames_analyzed": 64
+    },
+    "started_at": "2025-10-20T14:07:12.004609",
+    "completed_at": "2025-10-20T14:08:45.898730"
+  },
+  "llm_analysis": {
+    "status": "completed",
+    "total_images_processed": 159,
+    "images_with_faces_detected": 159,
+    "images_failed": 0,
+    "processing_time_seconds": 232.057919,
+    "avg_time_per_image_ms": 962.5283018867924,
+    "summary_stats": {
+      "dominant_emotion": "Neutral",
+      "emotion_distribution": {
+        "Happiness": 30,
+        "Neutral": 128,
+        "Sadness": 1
+      },
+      "avg_au_activations": 0.96,
+      "most_active_aus": [
+        "au_17",
+        "au_4",
+        "au_15"
+      ],
+      "total_frames_analyzed": 159
+    },
+    "started_at": "2025-10-20T14:08:51.942199",
+    "completed_at": "2025-10-20T14:12:44.008577"
+  }
+}

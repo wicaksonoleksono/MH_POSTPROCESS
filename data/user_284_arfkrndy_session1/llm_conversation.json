@@ -1,0 +1,252 @@
+{
+  "total_conversations": 13,
+  "conversations": [
+    {
+      "turn_number": 1,
+      "created_at": "2025-09-25T15:19:14.889325",
+      "ai_message": "Senang dengar kabarmu baik! 😊 Boleh aku tanya, selama dua minggu terakhir ini, apakah kamu atau temanmu merasa kehilangan minat atau kesenangan dalam hal-hal yang biasanya disukai? Misalnya, hal yang dulu bikin semangat sekarang terasa hambar?",
+      "user_message": "kabarku baik baik saja",
+      "user_message_length": 22,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 20,
+        "end": 28,
+        "duration": 8
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 2,
+      "created_at": "2025-09-25T15:20:00.748209",
+      "ai_message": "Terima kasih sudah berbagi ya. Kalau boleh tahu, menurut kamu apa yang bikin rasanya berubah? Apakah ini sering terjadi atau cuma sesekali aja?",
+      "user_message": "iya, akhir akhir ini mulai kehilangan minat akan hal yang disukai",
+      "user_message_length": 65,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 47,
+        "end": 74,
+        "duration": 27
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 3,
+      "created_at": "2025-09-25T15:20:47.761128",
+      "ai_message": "Aku ngerti banget, rasanya jadi hambar kalau usaha yang kita lakukan kayak nggak ada hasilnya. Selain itu, selama dua minggu terakhir, apakah suasana hati kamu atau temanmu juga terasa sedih atau tertekan hampir sepanjang hari? Kalau iya, biasanya apa sih yang bikin perasaan itu muncul atau makin berat?",
+      "user_message": "sering terjadi, biasanya dikarenakan tidak ada sesuatu yang bisa dicapai dari hal tersebut",
+      "user_message_length": 90,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 83,
+        "end": 119,
+        "duration": 36
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 4,
+      "created_at": "2025-09-25T15:22:06.268560",
+      "ai_message": "Aku paham, merasa kosong itu memang berat banget, apalagi kalau ada yang biasanya jadi penopang tapi sekarang nggak ada. Kalau soal pola makan atau berat badan, apakah kamu atau temanmu merasa ada perubahan signifikan? Misalnya, jadi kurang atau malah lebih nafsu makan dibanding biasanya?",
+      "user_message": "terkadang iya, biasanya gara gara hari hari terasa kosong karena kurangnya seseorang yang dianggap penting",
+      "user_message_length": 106,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 137,
+        "end": 199,
+        "duration": 62
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 5,
+      "created_at": "2025-09-25T15:22:41.689363",
+      "ai_message": "Terima kasih sudah cerita, perubahan kecil itu tetap penting untuk diperhatikan ya. Nah, bagaimana dengan tidur? Apakah temanmu atau kamu sendiri merasa sulit tidur, susah lelap, atau malah tidur terlalu lama selama dua minggu terakhir ini? Biasanya apa yang bikin susah tidur atau justru bikin tidur jadi terlalu lama?",
+      "user_message": "mungkin agak berkurang tetapi tidak signifikan, terkadang juga masih normal",
+      "user_message_length": 75,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 215,
+        "end": 235,
+        "duration": 20
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 6,
+      "created_at": "2025-09-25T15:23:22.320558",
+      "ai_message": "Terima kasih sudah jujur ya. Kalau susah tidur itu, biasanya ada pikiran tertentu atau kegiatan sebelum tidur yang bikin susah lelap? Atau malah jadwal harian yang berubah? Dan saat tidur terlalu lama, biasanya kamu merasa ngantuk terus atau ada alasan lain?",
+      "user_message": "terkadang susah tidur, terkadang tidur juga terasa terlalu lama",
+      "user_message_length": 63,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 251,
+        "end": 275,
+        "duration": 24
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 7,
+      "created_at": "2025-09-25T15:24:02.516397",
+      "ai_message": "Aku ngerti banget, pikiran yang menumpuk memang bikin susah rileks sebelum tidur. Kalau teman atau kamu sendiri, apakah ada yang sempat bilang kamu jadi lebih lambat bergerak atau ngomong dari biasanya, atau malah jadi lebih gelisah? Biasanya perubahan itu muncul karena apa, ya?",
+      "user_message": "terkadang pikiran yang menumpuk atau gara gara aktifitas sebelum tidur",
+      "user_message_length": 70,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 286,
+        "end": 316,
+        "duration": 30
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 8,
+      "created_at": "2025-09-25T15:24:58.873747",
+      "ai_message": "Terima kasih sudah berbagi, kadang memang kalau semangatnya kurang, respons juga jadi pelan ya. Kalau soal energi atau kelelahan, apakah kamu atau temanmu merasa cepat lelah atau kehilangan energi hampir setiap hari? Biasanya kalau energi cepat turun, apa yang biasanya terjadi sebelumnya? Mungkin kurang tidur, beban pikiran, atau hal lain?",
+      "user_message": "terkadang lebih sering diam atau kurang merespon obrolan, biasanya disebabkan oleh kurangnya rasa excited",
+      "user_message_length": 105,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 333,
+        "end": 372,
+        "duration": 39
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 9,
+      "created_at": "2025-09-25T15:25:55.061936",
+      "ai_message": "Wah, itu pasti bikin capek banget ya, menghadapi situasi yang nggak nyaman bisa menyedot energi. Kalau soal perasaan diri, apakah temanmu atau kamu sendiri pernah merasa tidak berharga atau merasa bersalah secara berlebihan dalam dua minggu terakhir? Biasanya perasaan itu muncul karena situasi atau pikiran seperti apa?",
+      "user_message": "terkadang energi cepat habis, dan biasanya dikarenakan menghadapi orang orang yang merusak suasana",
+      "user_message_length": 98,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 386,
+        "end": 428,
+        "duration": 42
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 10,
+      "created_at": "2025-09-25T15:27:03.778864",
+      "ai_message": "Aku paham, perasaan nggak jelas arah memang bisa bikin kita merasa kurang berharga. Nah, selama dua minggu terakhir, apakah temanmu atau kamu mengalami kesulitan untuk konsentrasi atau membuat keputusan? Kalau iya, biasanya hal-hal apa yang paling mengganggu fokus atau bikin susah ambil keputusan?",
+      "user_message": "terkadang merasa kurang pencapaian, perasaan ini muncul di saat tidak adanya kejelasan apa yang dituju",
+      "user_message_length": 102,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 445,
+        "end": 497,
+        "duration": 52
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 11,
+      "created_at": "2025-09-25T15:28:09.680794",
+      "ai_message": "Syukurlah kalau konsentrasi dan pengambilan keputusan masih lancar ya! 😊 Nah, terakhir nih, apakah temanmu atau kamu pernah punya pikiran tentang kematian atau bahkan ide bunuh diri dalam dua minggu terakhir? Kalau iya, biasanya pikiran itu muncul kapan dan apa yang membuatnya semakin kuat?",
+      "user_message": "untuk konsentrasi masih aman dan tidak terlalu ada masalah dalam mengambil keputusan",
+      "user_message_length": 84,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 507,
+        "end": 563,
+        "duration": 56
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 12,
+      "created_at": "2025-09-25T15:28:36.131339",
+      "ai_message": "Terima kasih sudah jujur jawabannya ya, aku senang kamu atau temanmu nggak mengalami pikiran yang berat seperti itu. Dari yang kamu ceritain, aku lihat ada beberapa hal yang memang sedang berat dirasakan, tapi juga ada beberapa aspek yang masih cukup stabil. \n\nKalau boleh rangkum singkat, kamu atau temanmu akhir-akhir ini sering kehilangan minat karena merasa usaha nggak membuahkan hasil, suasana hati kadang terasa sedih karena merasa kosong tanpa seseorang yang penting, pola makan agak berubah tapi nggak signifikan, tidur kadang susah dan kadang terlalu lama karena pikiran yang menumpuk, serta energi cepat habis karena harus menghadapi situasi yang bikin nggak nyaman. Selain itu, ada perasaan kurang pencapaian yang muncul saat arah tujuan kurang jelas, tapi konsentrasi dan pengambilan keputusan masih baik, dan pikiran tentang kematian atau bunuh diri tidak ada.\n\nAku di sini siap dengerin kapan pun kamu butuh curhat atau sekadar berbagi cerita, ya. Apakah ada hal lain yang ingin kamu tambahkan atau kamu ceritakan? 😊",
+      "user_message": "kalo itu tidak pernah selama dua Minggu terkahir",
+      "user_message_length": 48,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 573,
+        "end": 587,
+        "duration": 14
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 13,
+      "created_at": "2025-09-25T15:29:21.071082",
+      "ai_message": "Oke, terima kasih sudah berbagi sampai sini ya. Kalau di lain waktu kamu merasa butuh teman ngobrol lagi, aku selalu siap mendengar kok. Semoga segala sesuatunya bisa membaik dan kamu tetap kuat menjalani hari-hari ke depan. Jaga diri baik-baik, ya! 😊\n\n</end_conversation>",
+      "user_message": "tidak ada",
+      "user_message_length": 9,
+      "has_end_conversation": true,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 630,
+        "end": 633,
+        "duration": 3
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    }
+  ]
+}

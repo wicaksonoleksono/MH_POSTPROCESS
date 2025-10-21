@@ -1,0 +1,55 @@
+FACIAL ANALYSIS EXPORT
+======================
+
+Session Information:
+- Session ID: 197ce667-7a9b-474b-bf15-ae7e5be482d1
+- User: AEMSX7 (ID: 239)
+- Session Number: 1
+- Created: 2025-09-23 06:10:02
+- Status: COMPLETED
+- Assessment Order: llm first
+
+Assessment Completion:
+- PHQ Assessment: ✓ Completed
+- LLM Assessment: ✓ Completed
+
+PHQ Results Summary:
+- Total Score: 14/27
+- Categories Assessed: 9
+
+Facial Analysis Results:
+------------------------
+
+PHQ Assessment Analysis:
+- Status: completed
+- Total Images Processed: 108
+- Faces Detected: 101
+- Failed: 7
+- Processing Time: 158.50s
+- Avg Time per Image: 1000.45ms
+- Dominant Emotion: Happiness
+
+LLM Assessment Analysis:
+- Status: completed
+- Total Images Processed: 830
+- Faces Detected: 774
+- Failed: 56
+- Processing Time: 1078.34s
+- Avg Time per Image: 957.50ms
+- Dominant Emotion: Neutral
+
+Export Contents:
+----------------
+- session_info.json - Session metadata
+- phq_responses.json - PHQ assessment responses
+- llm_conversation.json - LLM conversation history
+- facial_analysis/phq_analysis.jsonl - PHQ facial analysis results (frame-by-frame)
+- facial_analysis/llm_analysis.jsonl - LLM facial analysis results (frame-by-frame)
+- facial_analysis/metadata.json - Processing metadata and statistics
+
+NOTE: This export contains PHQ/LLM data + JSONL files. Images are NOT included.
+      For images, use the regular User Sessions export.
+
+Generated: 2025-10-21 16:01:32
+
+Note: This export contains sensitive mental health data. Handle with appropriate confidentiality.

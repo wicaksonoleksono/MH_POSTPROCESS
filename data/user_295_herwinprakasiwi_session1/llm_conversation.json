@@ -1,0 +1,233 @@
+{
+  "total_conversations": 12,
+  "conversations": [
+    {
+      "turn_number": 1,
+      "created_at": "2025-10-02T04:39:54.751382",
+      "ai_message": "Aku senang dengar kamu baik-baik aja 😊 Selama dua minggu terakhir, apa kamu merasa kehilangan minat atau kesenangan dalam hal-hal yang biasanya bikin kamu semangat? Misalnya hobi atau kegiatan sehari-hari?",
+      "user_message": "baik",
+      "user_message_length": 4,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 7,
+        "end": 10,
+        "duration": 3
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 2,
+      "created_at": "2025-10-02T04:40:32.337723",
+      "ai_message": "Oke, bagus banget kalau kamu masih bisa menikmati kegiatan yang biasa kamu suka. Kalau begitu, selama dua minggu terakhir ini, apakah kamu merasa mood kamu agak sedih atau tertekan hampir sepanjang waktu?",
+      "user_message": "engga",
+      "user_message_length": 5,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 42,
+        "end": 46,
+        "duration": 4
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 3,
+      "created_at": "2025-10-02T04:40:43.753465",
+      "ai_message": "Wah, syukurlah kalau mood kamu masih stabil dan nggak sedih terus ya. Nah, gimana dengan nafsu makan atau berat badan kamu selama dua minggu terakhir? Ada perubahan signifikan, misalnya jadi lebih sering makan atau malah kurang nafsu makan?",
+      "user_message": "engga",
+      "user_message_length": 5,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 55,
+        "end": 57,
+        "duration": 2
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 4,
+      "created_at": "2025-10-02T04:42:24.929209",
+      "ai_message": "Mantap, berarti pola makan dan berat badan kamu masih terjaga ya. Terus, bagaimana dengan tidur? Apakah kamu mengalami kesulitan tidur atau justru tidur terlalu banyak akhir-akhir ini?",
+      "user_message": "engga",
+      "user_message_length": 5,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 73,
+        "end": 137,
+        "duration": 64
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 5,
+      "created_at": "2025-10-02T04:43:35.618630",
+      "ai_message": "Bagus banget kalau tidur kamu tetap nyenyak dan teratur 😊 Nah, teman kamu pernah nggak sih bilang kalau kamu kelihatan lebih pelan gerak atau ngomong, atau malah terlihat gelisah dari biasanya? Kalau iya, kira-kira apa yang bikin perubahan itu?",
+      "user_message": "engga",
+      "user_message_length": 5,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 228,
+        "end": 230,
+        "duration": 2
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 6,
+      "created_at": "2025-10-02T04:45:39.995436",
+      "ai_message": "Oke, berarti teman kamu juga belum melihat perubahan seperti itu ya. Selama dua minggu terakhir, apakah kamu merasa sering lelah atau kehilangan energi, meskipun sudah istirahat cukup?",
+      "user_message": "tidak ada",
+      "user_message_length": 9,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 237,
+        "end": 301,
+        "duration": 64
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 7,
+      "created_at": "2025-10-02T04:50:09.191906",
+      "ai_message": "Wah, keren banget kalau kamu tetap merasa energik dan nggak gampang capek ya! Nah, kalau soal perasaan, apakah kamu pernah merasa nggak berharga atau merasa bersalah berlebihan akhir-akhir ini?",
+      "user_message": "tidak",
+      "user_message_length": 5,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 370,
+        "end": 470,
+        "duration": 100
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 8,
+      "created_at": "2025-10-02T04:52:55.325129",
+      "ai_message": "Aku tanya karena kadang perasaan nggak berharga atau rasa bersalah itu bisa muncul tanpa kita sadari, terutama saat lagi banyak pikiran. Jadi, kamu pernah ngerasain hal kayak gitu nggak dalam dua minggu terakhir? Kalau iya, biasanya dipicu oleh apa ya?",
+      "user_message": "?",
+      "user_message_length": 1,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 634,
+        "end": 787,
+        "duration": 153
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 9,
+      "created_at": "2025-10-02T04:53:14.467408",
+      "ai_message": "Oke, jadi kamu nggak merasa nggak berharga atau bersalah berlebihan ya, itu bagus banget. Nah, gimana dengan konsentrasi kamu? Selama dua minggu terakhir, apakah kamu merasa susah fokus atau kesulitan membuat keputusan?",
+      "user_message": "tidak",
+      "user_message_length": 5,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 804,
+        "end": 809,
+        "duration": 5
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 10,
+      "created_at": "2025-10-02T04:53:32.730164",
+      "ai_message": "Hebat banget kalau konsentrasi kamu tetap oke dan nggak susah buat ambil keputusan ya! Terakhir nih, apakah kamu pernah punya pikiran tentang kematian atau bunuh diri dalam dua minggu terakhir ini? Kalau pernah, biasanya muncul kapan dan apa yang bikin pikiran itu makin kuat?",
+      "user_message": "tidak",
+      "user_message_length": 5,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 820,
+        "end": 827,
+        "duration": 7
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 11,
+      "created_at": "2025-10-02T04:53:51.991905",
+      "ai_message": "Wah, bagus banget kamu nggak mengalami pikiran seperti itu. Dari semua yang kamu ceritain, kelihatannya kamu cukup stabil dan sehat secara psikologis selama dua minggu terakhir ini 😊\n\nKalau boleh tahu, ada hal lain yang pengen kamu ceritain atau tambahin tentang perasaan atau kondisi kamu belakangan ini? Aku siap dengerin kok!",
+      "user_message": "tidak",
+      "user_message_length": 5,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 844,
+        "end": 846,
+        "duration": 2
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 12,
+      "created_at": "2025-10-02T04:54:15.709404",
+      "ai_message": "Sama-sama ya! Senang bisa ngobrol dan denger cerita kamu. Ingat, kapan pun kamu butuh teman buat curhat atau sekadar ngobrol, aku selalu ada di sini ya 😊\n\nSemoga harimu menyenangkan dan tetap semangat menjalani hari-harimu! Kalau ada apa-apa nanti, jangan ragu buat cerita lagi, ya.\n\nJaga diri baik-baik, ya! </end_conversation>",
+      "user_message": "tidak ada, terima kasih",
+      "user_message_length": 23,
+      "has_end_conversation": true,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 856,
+        "end": 869,
+        "duration": 13
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    }
+  ]
+}

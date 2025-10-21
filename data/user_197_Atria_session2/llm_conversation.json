@@ -1,0 +1,290 @@
+{
+  "total_conversations": 15,
+  "conversations": [
+    {
+      "turn_number": 1,
+      "created_at": "2025-10-03T13:29:09.363089",
+      "ai_message": "Senang dengarnya kamu baik-baik saja 😊 Nah, aku pengen tahu nih, selama dua minggu terakhir ini, apakah kamu merasa kehilangan minat atau kesenangan dalam hal-hal yang biasanya kamu suka? Misalnya hobi, kegiatan kuliah, atau hal-hal kecil sehari-hari?",
+      "user_message": "baaaik",
+      "user_message_length": 6,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 8,
+        "end": 11,
+        "duration": 3
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 2,
+      "created_at": "2025-10-03T13:29:53.259588",
+      "ai_message": "Wah keren banget kamu bisa tetap menikmati proses tugas kuliah, itu nggak gampang lho! Nah, ngomong-ngomong soal suasana hati, belakangan ini kamu pernah merasa sedih atau tertekan hampir sepanjang hari nggak? Kalau iya, biasanya hal apa yang bikin perasaan itu muncul atau makin berat?",
+      "user_message": "gak sih, aku lumayan menikmati hari hari aku, maksudnya yang terjadi di kuliahan kayak tugas gtu aku selalu nikmatin aja proses nya jadi aku gak kehilangan minat sih",
+      "user_message_length": 165,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 22,
+        "end": 55,
+        "duration": 33
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 3,
+      "created_at": "2025-10-03T13:30:49.431996",
+      "ai_message": "Oke, jadi kamu lebih sering merasa bingung karena banyak tugas, tapi tetap bisa menikmatinya ya. Kalau bingung itu, biasanya muncul kapan dan gimana sih rasanya? Apakah bikin kamu jadi capek atau susah fokus juga?",
+      "user_message": "gak sih (kalo sepanjang hari) mungkin aku tertekan tugas karena banyak sih kayak lebih ke binggung aja tapi aku masih bisa enjoy disamping itu",
+      "user_message_length": 142,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 69,
+        "end": 111,
+        "duration": 42
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 4,
+      "created_at": "2025-10-03T13:31:11.852899",
+      "ai_message": "Iya, wajar banget tuh kalau bingung urutan ngerjain tugas bikin capek dan susah fokus. Kalau ngomongin soal makan dan berat badan, selama dua minggu terakhir ini ada nggak perubahan yang signifikan? Misalnya nafsu makan kamu berubah jadi lebih sedikit atau malah lebih banyak, atau berat badan kamu terasa naik atau turun?",
+      "user_message": "jadi capek dan susah fokus sih karena binggung mau ngerjain yang mana dulu",
+      "user_message_length": 74,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 116,
+        "end": 133,
+        "duration": 17
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 5,
+      "created_at": "2025-10-03T13:31:36.156028",
+      "ai_message": "Aku paham, kadang susah makan itu memang bisa terjadi terlepas dari mood. Kalau pola makan susah kayak gitu, biasanya apa yang mempengaruhi ya? Misalnya stres, jadwal padat, atau hal lain?",
+      "user_message": "aku emang susah makan sih walaupun mood sedang baik atau enggak jadi mungkin sama aja berat badan aku",
+      "user_message_length": 101,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 142,
+        "end": 158,
+        "duration": 16
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 6,
+      "created_at": "2025-10-03T13:31:58.880980",
+      "ai_message": "Wajar kok kalau kamu nggak yakin, kadang stres itu emang nggak terasa langsung. Kalau ngomongin tidur, selama dua minggu terakhir ini kamu pernah mengalami susah tidur atau malah tidur berlebihan? Kalau susah tidur, biasanya apa ya yang bikin kamu susah lelap?",
+      "user_message": "gaktau ya mungkin stress (?)",
+      "user_message_length": 28,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 170,
+        "end": 180,
+        "duration": 10
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 7,
+      "created_at": "2025-10-03T13:32:22.916803",
+      "ai_message": "Iya, main gadget memang kadang bikin susah tidur ya, apalagi kalau sebelum tidur. Kalau teman-teman kamu, mereka pernah bilang kamu kelihatan lebih pelan atau malah lebih gelisah dari biasanya gak? Kalau iya, biasanya apa yang mereka komentarin atau apa yang bikin perubahan itu terjadi menurut kamu?",
+      "user_message": "mungkin karena main gadget berlebih aja sih yang lain aku aman kok gak yang depresi gtu",
+      "user_message_length": 87,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 187,
+        "end": 204,
+        "duration": 17
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 8,
+      "created_at": "2025-10-03T13:32:35.408255",
+      "ai_message": "Oke, berarti dari teman kamu belum ada yang ngasih lihat kayak ada perubahan gerak atau pembicaraan ya. Kalau ngomongin energi, selama dua minggu terakhir ini kamu pernah merasa cepat capek atau kehilangan energi hampir setiap hari? Kalau iya, biasanya apa yang bikin energimu cepat habis?",
+      "user_message": "enggaakbsih",
+      "user_message_length": 11,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 215,
+        "end": 217,
+        "duration": 2
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 9,
+      "created_at": "2025-10-03T13:32:56.568473",
+      "ai_message": "Iya, ketemu banyak orang emang bisa bikin energi cepat habis, apalagi kalau kamu tipe yang butuh waktu sendiri buat recharge. Kalau ngomongin perasaan nggak berharga atau rasa bersalah, selama dua minggu terakhir ini ada gak perasaan kayak gitu muncul? Kalau ada, biasanya dipicu oleh situasi atau pikiran seperti apa?",
+      "user_message": "mungkin ketemu banyak orang di kampus, jadi energi ku habis ya itu normal sih(?)",
+      "user_message_length": 80,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 223,
+        "end": 238,
+        "duration": 15
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 10,
+      "created_at": "2025-10-03T13:33:28.541969",
+      "ai_message": "Oke, jadi kamu nggak merasa bersalah berlebihan atau merasa nggak berharga ya, itu bagus banget 😊 Nah, gimana dengan konsentrasi dan pengambilan keputusan? Selama dua minggu terakhir ini, kamu pernah merasa susah fokus atau bingung saat harus membuat keputusan? Kalau iya, biasanya apa yang ganggu fokus kamu? Notifikasi, kekhawatiran, atau mungkin kelelahan?",
+      "user_message": "enggak sih kalo bersalah gtu gtu",
+      "user_message_length": 32,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 256,
+        "end": 269,
+        "duration": 13
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 11,
+      "created_at": "2025-10-03T13:33:44.523587",
+      "ai_message": "Aku ngerti, kelelahan memang bisa banget ganggu fokus dan bikin susah ambil keputusan. Biasanya kelelahan itu muncul setelah aktivitas seperti apa? Kurang tidur, beban pikiran, atau mungkin pola kerja yang padat?",
+      "user_message": "kelelahan",
+      "user_message_length": 9,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 280,
+        "end": 286,
+        "duration": 6
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 12,
+      "created_at": "2025-10-03T13:34:01.934271",
+      "ai_message": "Beban pikiran itu memang berat, ya. Kadang susah banget buat tenang kalau pikiran lagi penuh. Nah, terakhir nih, selama dua minggu terakhir ini pernah nggak kamu merasa muncul pikiran tentang kematian atau bunuh diri? Kalau iya, biasanya pikiran itu muncul kapan dan apa yang bikin rasanya jadi lebih kuat?",
+      "user_message": "beban pikiran mungkin?",
+      "user_message_length": 22,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 295,
+        "end": 302,
+        "duration": 7
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 13,
+      "created_at": "2025-10-03T13:34:09.528878",
+      "ai_message": "Aku paham, kadang pikiran kayak gitu memang nggak tentu datangnya dan bisa bikin bingung. Kalau boleh tau, saat pikiran itu muncul, biasanya kamu ngelakuin apa atau ada sesuatu yang membantu supaya pikiran itu nggak makin berat?",
+      "user_message": "yaah gak nentu",
+      "user_message_length": 14,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 309,
+        "end": 311,
+        "duration": 2
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 14,
+      "created_at": "2025-10-03T13:34:18.421951",
+      "ai_message": "Tidur memang cara yang bagus buat ngusir pikiran berat itu ya, semoga kamu bisa cukup istirahat. Dari apa yang kamu ceritain, aku lihat kamu cukup kuat menghadapi tekanan tugas dan energi yang kadang habis karena kegiatan kampus. Kamu juga tetap bisa menikmati aktivitas sehari-hari walaupun ada rasa bingung dan lelah. Kalau kamu butuh cerita atau curhat kapan saja, aku siap mendengarkan, ya 😊\n\nAda hal lain yang kamu pengen tambahin atau ceritain lagi?",
+      "user_message": "tidur",
+      "user_message_length": 5,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 317,
+        "end": 319,
+        "duration": 2
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 15,
+      "created_at": "2025-10-03T13:34:22.711275",
+      "ai_message": "Oke, aku senang kamu sudah berbagi banyak sampai sekarang. Kalau nanti ada apa-apa atau pengen ngobrol lagi, jangan ragu ya untuk cerita. Semoga hari-harimu ke depan lebih ringan dan menyenangkan 😊\n\nKalau memang sudah cukup, aku pamit dulu ya. Jaga kesehatan dan semangat terus!  \n</end_conversation>",
+      "user_message": "gak",
+      "user_message_length": 3,
+      "has_end_conversation": true,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 323,
+        "end": 324,
+        "duration": 1
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    }
+  ]
+}

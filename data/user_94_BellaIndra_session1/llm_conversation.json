@@ -1,0 +1,43 @@
+{
+  "total_conversations": 2,
+  "conversations": [
+    {
+      "turn_number": 1,
+      "created_at": "2025-10-01T15:05:10.062149",
+      "ai_message": "Senang dengar kamu baik-baik saja 😊. Aku pengen tanya nih, selama dua minggu terakhir ini, apa kamu masih merasa semangat atau senang sama hal-hal yang biasanya kamu suka? Misalnya hobi, kuliah, atau kegiatan sehari-hari?",
+      "user_message": "Baik",
+      "user_message_length": 4,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 5,
+        "end": 6,
+        "duration": 1
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 2,
+      "created_at": "2025-10-01T15:05:20.772547",
+      "ai_message": "Oke, aku paham kok kalau kamu pengen berhenti dulu. Kalau nanti kamu mau cerita lagi atau butuh teman buat dengerin, aku selalu ada ya. Semangat terus, ya! 😊  \nKalau ada yang mau kamu tambahin atau kamu rasa pengen dibicarain, tinggal bilang aja, ya.  \n</end_conversation>",
+      "user_message": "Udah sindi stop lanjut selesai",
+      "user_message_length": 30,
+      "has_end_conversation": true,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 10,
+        "end": 17,
+        "duration": 7
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    }
+  ]
+}

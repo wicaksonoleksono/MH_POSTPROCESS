@@ -1,0 +1,309 @@
+{
+  "total_conversations": 16,
+  "conversations": [
+    {
+      "turn_number": 1,
+      "created_at": "2025-09-16T02:19:42.480080",
+      "ai_message": "Senang dengar kamu baik, belakangan ini kamu lagi sibuk atau ada kegiatan apa yang biasanya bikin kamu senang?",
+      "user_message": "baik",
+      "user_message_length": 4,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 106,
+        "end": 114,
+        "duration": 8
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 2,
+      "created_at": "2025-09-16T02:20:07.131133",
+      "ai_message": "Wah, semangat ya kuliahnya! Biasanya kalau lagi sibuk banget gitu, kamu masih sempat ngerasa seneng nggak sama hal-hal yang kamu suka atau biasanya kamu nikmatin?",
+      "user_message": "sekarang sedang kuliah",
+      "user_message_length": 22,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 125,
+        "end": 138,
+        "duration": 13
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 3,
+      "created_at": "2025-09-16T02:20:47.700628",
+      "ai_message": "Kadang masih bisa menikmati, itu bagus sih, tapi kalau lagi nggak bisa, biasanya kamu ngerasa gimana? Ada pikiran yang suka bikin kamu ngerasa down atau putus asa nggak?",
+      "user_message": "hmm kadang masih bisa menikmati",
+      "user_message_length": 31,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 151,
+        "end": 173,
+        "duration": 22
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 4,
+      "created_at": "2025-09-16T02:21:14.829898",
+      "ai_message": "Aku ngerti, kadang emang ada momen kayak gitu ya, kamu biasanya ngelakuin apa kalau lagi merasa down?",
+      "user_message": "kadang ada hal yang buat akku down",
+      "user_message_length": 34,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 195,
+        "end": 206,
+        "duration": 11
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 5,
+      "created_at": "2025-09-16T02:22:02.642007",
+      "ai_message": "Wah, seru ya bisa nyanyi dan jajan, itu pasti bikin mood agak naik ya! Tapi aku penasaran, kalau lagi nggak enak hati atau stres, kamu suka kepikiran hal-hal yang bikin kamu sedih atau susah move on gak sih? Kayak terus-terusan mikirin masalah yang sama gitu.",
+      "user_message": "aku melakukan hobiku yaitu bernyanyi, kadang juga makan jajan",
+      "user_message_length": 61,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 216,
+        "end": 251,
+        "duration": 35
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 6,
+      "created_at": "2025-09-16T02:22:31.628613",
+      "ai_message": "Aku ngerti, kadang pikiran kayak gitu memang bikin berat ya, apalagi kalau terus-terusan muncul. Kalau kamu lagi ngerasa kayak gitu, biasanya kamu jadi susah tidur atau malah kebanyakan tidur?",
+      "user_message": "ya kadang ada",
+      "user_message_length": 13,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 272,
+        "end": 284,
+        "duration": 12
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 7,
+      "created_at": "2025-09-16T02:22:53.856735",
+      "ai_message": "Syukurlah kalau tidurmu masih normal, itu penting banget. Nah, aku pengen nanya nih, biasanya kamu merasa lelah atau gerak-gerikmu jadi lambat nggak, kayak misalnya bicara jadi pelan atau susah buat bergerak cepat?",
+      "user_message": "hmm normal aja sih tidurku",
+      "user_message_length": 26,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 296,
+        "end": 307,
+        "duration": 11
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 8,
+      "created_at": "2025-09-16T02:23:10.149570",
+      "ai_message": "Iya, rasanya berat itu memang bikin aktivitas sehari-hari jadi makin susah ya, aku paham banget. Kalau soal interaksi dengan teman atau orang sekitar, kamu masih nyaman ngobrol dan kumpul atau lebih suka menyendiri?",
+      "user_message": "ya rasanya jadi berat",
+      "user_message_length": 21,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 316,
+        "end": 322,
+        "duration": 6
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 9,
+      "created_at": "2025-09-16T02:23:53.007207",
+      "ai_message": "Wah, berarti saat sendiri kamu sering terjebak di pikiran yang bikin kamu nggak enak ya? Apa sih yang biasanya kamu pikirkan sampai bikin kamu susah move on dari itu?",
+      "user_message": "kadang bersama teman bisa jadi lupa sama masalah tapi kalau lagi sendiri jadi kepikiran",
+      "user_message_length": 87,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 339,
+        "end": 366,
+        "duration": 27
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 10,
+      "created_at": "2025-09-16T02:24:07.130962",
+      "ai_message": "Aku ngerti, beban hidup itu kadang bikin kita pengen menarik diri dari orang lain. Kalau kamu lagi ngerasa berat banget, kamu suka gampang tersinggung atau marah nggak sih sama hal-hal kecil?",
+      "user_message": "beban hidup sih",
+      "user_message_length": 15,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 376,
+        "end": 380,
+        "duration": 4
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 11,
+      "created_at": "2025-09-16T02:24:31.701063",
+      "ai_message": "Itu bagus, kamu cukup kuat menghadapi situasi ya; tapi aku penasaran, kalau lagi stres atau down, kamu merasa gampang marah atau justru lebih cenderung menarik diri dari orang-orang di sekitarmu?",
+      "user_message": "aku bukan tipe orang yang gampang tersinggung",
+      "user_message_length": 45,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 387,
+        "end": 404,
+        "duration": 17
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 12,
+      "created_at": "2025-09-16T02:25:07.744424",
+      "ai_message": "Terima kasih sudah jujur ya, nangis itu wajar kok sebagai cara melepaskan perasaan. Kalau kamu boleh cerita, biasanya apa yang bikin kamu merasa sedih sampai menangis?",
+      "user_message": "jujur kadang gampang marah tapi lebih sering ke nangis",
+      "user_message_length": 54,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 419,
+        "end": 438,
+        "duration": 19
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 13,
+      "created_at": "2025-09-16T02:25:58.071770",
+      "ai_message": "Aku ikut sedih denger kamu merasa hidup ini nggak adil, apalagi kalau keadaan keluarga juga jadi beban tambahan buat kamu. Kadang, perasaan kayak gitu bisa bikin kita merasa kurang berharga atau bahkan merasa bersalah tanpa alasan yang jelas, kamu pernah ngerasain hal seperti itu nggak?",
+      "user_message": "keadaan keluarga dan merasa hidup ini tidak adil",
+      "user_message_length": 48,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 453,
+        "end": 491,
+        "duration": 38
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 14,
+      "created_at": "2025-09-16T02:26:21.559940",
+      "ai_message": "Aku tahu kadang sulit cerita soal hal yang bikin sedih, tapi aku di sini buat dengerin kapan pun kamu mau berbagi; ngomong-ngomong, belakangan ini kamu tidur cukup nyenyak atau ada masalah waktu tidur?",
+      "user_message": "pernah",
+      "user_message_length": 6,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 511,
+        "end": 513,
+        "duration": 2
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 15,
+      "created_at": "2025-09-16T02:26:39.544290",
+      "ai_message": "Oke, tidurmu tetap biasa saja, itu cukup membantu menjaga energi kamu. Kalau soal konsentrasi, misalnya pas belajar atau ngerjain tugas, kamu masih bisa fokus dengan baik atau sering merasa susah konsentrasi?",
+      "user_message": "tidur aku biasa ajasih",
+      "user_message_length": 22,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 525,
+        "end": 531,
+        "duration": 6
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 16,
+      "created_at": "2025-09-16T02:27:09.092007",
+      "ai_message": "Bagus banget kalau kamu masih bisa fokus dan konsentrasi meskipun lagi ada beban pikiran. Dari cerita kamu, aku bisa tangkap kalau kamu lagi ngerasa berat karena beban hidup dan keadaan keluarga, tapi kamu masih berusaha menikmati hal-hal kecil kayak nyanyi dan jajan, itu keren banget. Makasih banget ya udah mau cerita panjang lebar. Ingat ya, aku selalu ada buat kamu kalau kamu butuh teman buat dengerin atau curhat kapan pun. Jaga diri ya! </end_conversation>",
+      "user_message": "biasa aja, bisa fokus juga",
+      "user_message_length": 26,
+      "has_end_conversation": true,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 543,
+        "end": 558,
+        "duration": 15
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    }
+  ]
+}

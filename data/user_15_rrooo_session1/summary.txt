@@ -1,0 +1,55 @@
+FACIAL ANALYSIS EXPORT
+======================
+
+Session Information:
+- Session ID: 7fb7c082-4f1c-4252-a35c-a69858866a1d
+- User: rrooo (ID: 15)
+- Session Number: 1
+- Created: 2025-09-22 04:28:23
+- Status: COMPLETED
+- Assessment Order: llm first
+
+Assessment Completion:
+- PHQ Assessment: ✓ Completed
+- LLM Assessment: ✓ Completed
+
+PHQ Results Summary:
+- Total Score: 18/27
+- Categories Assessed: 9
+
+Facial Analysis Results:
+------------------------
+
+PHQ Assessment Analysis:
+- Status: completed
+- Total Images Processed: 71
+- Faces Detected: 1
+- Failed: 70
+- Processing Time: 20.95s
+- Avg Time per Image: 1021.00ms
+- Dominant Emotion: Neutral
+
+LLM Assessment Analysis:
+- Status: completed
+- Total Images Processed: 269
+- Faces Detected: 33
+- Failed: 236
+- Processing Time: 139.36s
+- Avg Time per Image: 967.15ms
+- Dominant Emotion: Happiness
+
+Export Contents:
+----------------
+- session_info.json - Session metadata
+- phq_responses.json - PHQ assessment responses
+- llm_conversation.json - LLM conversation history
+- facial_analysis/phq_analysis.jsonl - PHQ facial analysis results (frame-by-frame)
+- facial_analysis/llm_analysis.jsonl - LLM facial analysis results (frame-by-frame)
+- facial_analysis/metadata.json - Processing metadata and statistics
+
+NOTE: This export contains PHQ/LLM data + JSONL files. Images are NOT included.
+      For images, use the regular User Sessions export.
+
+Generated: 2025-10-21 16:01:40
+
+Note: This export contains sensitive mental health data. Handle with appropriate confidentiality.

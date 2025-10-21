@@ -1,0 +1,347 @@
+{
+  "total_conversations": 18,
+  "conversations": [
+    {
+      "turn_number": 1,
+      "created_at": "2025-10-01T13:19:48.545290",
+      "ai_message": "Halo Vani, aku juga baik, makasih ya sudah cerita 😊  \nBiar aku tahu lebih banyak, selama dua minggu terakhir, apa kamu masih menikmati kegiatan yang biasanya kamu suka? Atau ada yang terasa beda, kayak jadi kurang seru atau malah nggak pengen sama sekali?",
+      "user_message": "halo sindi, aku vani, kabarku baik, bagaimana denganmu?",
+      "user_message_length": 55,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 4,
+        "end": 14,
+        "duration": 10
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 2,
+      "created_at": "2025-10-01T13:20:04.052658",
+      "ai_message": "Bagus banget kalau masih menikmati ya, Vani 😊  \nKalau boleh tahu, biasanya kegiatan apa sih yang paling bikin kamu semangat akhir-akhir ini? Dan apa ada hal yang bikin kesenangan itu agak berkurang atau berubah?",
+      "user_message": "masih menikmati",
+      "user_message_length": 15,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 25,
+        "end": 29,
+        "duration": 4
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 3,
+      "created_at": "2025-10-01T13:20:16.430717",
+      "ai_message": "Wah, jajan itu memang seru banget ya, apalagi kalau ada camilan favorit 😄  \nKalau selama dua minggu terakhir ini, kamu masih suka jajan seperti biasa atau ada perubahan? Kadang, kalau lagi kurang mood, jajan juga bisa terasa kurang nikmat lho. Pernah ngalamin kayak gitu nggak?",
+      "user_message": "jajan",
+      "user_message_length": 5,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 39,
+        "end": 41,
+        "duration": 2
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 4,
+      "created_at": "2025-10-01T13:20:28.336665",
+      "ai_message": "Aku paham, Vani, kadang hal yang dulu seru jadi kurang berasa memang bikin sedih atau bingung ya 😔  \nKalau jajan yang terasa kurang nikmat itu biasanya kapan? Apakah sering terjadi, dan menurut kamu apa yang bikin rasanya berubah? Mungkin lagi banyak pikiran atau capek?",
+      "user_message": "pernah",
+      "user_message_length": 6,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 52,
+        "end": 53,
+        "duration": 1
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 5,
+      "created_at": "2025-10-01T13:20:50.071854",
+      "ai_message": "Terima kasih sudah jujur, Vani. Kalau kamu bilang sering, itu pasti cukup berat ya rasanya.  \nKalau boleh tahu, saat perasaan sedih itu muncul, biasanya apa yang memicu atau bikin perasaan itu makin berat? Ada kejadian khusus atau pikiran yang sering muncul?",
+      "user_message": "banya",
+      "user_message_length": 5,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 68,
+        "end": 74,
+        "duration": 6
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 6,
+      "created_at": "2025-10-01T13:21:22.896716",
+      "ai_message": "Kangen rumah itu memang bikin hati terasa berat, ya, apalagi kalau lagi jauh dari keluarga 😞  \nKalau kangen rumah itu muncul, biasanya kamu ngapain supaya perasaan itu agak reda? Atau ada hal lain yang bikin perasaan itu makin kuat?",
+      "user_message": "kangen rumah",
+      "user_message_length": 12,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 103,
+        "end": 108,
+        "duration": 5
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 7,
+      "created_at": "2025-10-01T13:21:41.292298",
+      "ai_message": "Wah, telepon orang tua memang bisa jadi pelipur rindu yang hangat ya, Vani ☺️  \nSeberapa sering kamu telepon mereka dalam dua minggu terakhir? Dan setelah telepon, apakah perasaan kangen itu jadi berkurang atau malah masih tetap ada?",
+      "user_message": "telfon orangtua",
+      "user_message_length": 15,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 121,
+        "end": 126,
+        "duration": 5
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 8,
+      "created_at": "2025-10-01T13:21:57.633719",
+      "ai_message": "Sedikit berkurang itu sudah bagus, Vani, berarti telepon itu membantu walau belum sepenuhnya hilang ya 😊  \nNah, selain perasaan kangen dan sedih itu, selama dua minggu terakhir ini, kamu merasa ada perubahan nggak soal pola makan atau berat badan? Misalnya jadi makan lebih banyak atau malah kurang?",
+      "user_message": "berkurang sedikit",
+      "user_message_length": 17,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 138,
+        "end": 142,
+        "duration": 4
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 9,
+      "created_at": "2025-10-01T13:22:15.605694",
+      "ai_message": "Oh, naik ya, Vani. Kalau boleh tahu, apa yang biasanya mempengaruhi nafsu makan kamu akhir-akhir ini? Apakah stres, perubahan jadwal, atau mungkin hal lain?",
+      "user_message": "bb ku naik",
+      "user_message_length": 10,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 158,
+        "end": 161,
+        "duration": 3
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 10,
+      "created_at": "2025-10-01T13:22:26.584243",
+      "ai_message": "Wah, jadi lebih sering makan karena emang suka makan ya, Vani? Kadang makan bisa jadi semacam penghibur juga, ya 😊  \nKalau soal tidur, gimana akhir-akhir ini? Apakah kamu merasa susah tidur, atau justru tidur lebih lama dari biasanya?",
+      "user_message": "karna suka makan aja",
+      "user_message_length": 20,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 167,
+        "end": 171,
+        "duration": 4
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 11,
+      "created_at": "2025-10-01T13:22:37.865879",
+      "ai_message": "Oke, berarti tidurmu masih cukup stabil ya, Vani.  \nNgomong-ngomong, ada nggak sih orang di sekitar kamu yang pernah bilang kalau kamu kelihatan lebih pelan atau malah lebih gelisah dari biasanya? Mungkin dari gerak-gerik atau cara ngomong?",
+      "user_message": "biasa aja",
+      "user_message_length": 9,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 180,
+        "end": 182,
+        "duration": 2
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 12,
+      "created_at": "2025-10-01T13:22:48.792114",
+      "ai_message": "Baik, berarti teman-teman kamu belum memperhatikan perubahan itu ya, Vani.  \nKalau kamu sendiri, akhir-akhir ini merasa cepat lelah atau kehilangan energi nggak? Misalnya setelah aktivitas yang biasanya ringan, kamu jadi cepat capek?",
+      "user_message": "ngga ada",
+      "user_message_length": 8,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 192,
+        "end": 194,
+        "duration": 2
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 13,
+      "created_at": "2025-10-01T13:22:58.060011",
+      "ai_message": "Syukurlah, Vani, kalau energimu masih cukup stabil 😊  \nKalau soal perasaan, pernah nggak kamu merasa nggak berharga atau terlalu banyak merasa bersalah, padahal mungkin sebenarnya gak perlu sampai segitunya?  \nKalau iya, biasanya apa yang bikin rasa itu muncul?",
+      "user_message": "ngga",
+      "user_message_length": 4,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 202,
+        "end": 203,
+        "duration": 1
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 14,
+      "created_at": "2025-10-01T13:23:13.075344",
+      "ai_message": "Bagus banget, Vani, kalau kamu nggak pernah merasa seperti itu, berarti kamu cukup kuat menghadapi tekanan 😊  \nKalau soal konsentrasi dan pengambilan keputusan, akhir-akhir ini kamu merasa gampang terganggu atau susah fokus nggak? Misalnya karena notifikasi, pikiran yang mengganggu, atau kelelahan?",
+      "user_message": "ga pernah kok",
+      "user_message_length": 13,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 215,
+        "end": 218,
+        "duration": 3
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 15,
+      "created_at": "2025-10-01T13:23:29.041732",
+      "ai_message": "Notifikasi memang bisa banget ganggu fokus ya, apalagi kalau sering muncul terus-menerus 😅  \nKalau notifikasi itu muncul, biasanya kamu langsung cek atau kamu coba abaikan? Dan seberapa sering gangguan itu bikin kamu sulit konsentrasi dalam dua minggu terakhir?",
+      "user_message": "notifikasi",
+      "user_message_length": 10,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 232,
+        "end": 234,
+        "duration": 2
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 16,
+      "created_at": "2025-10-01T13:23:43.460486",
+      "ai_message": "Wah, langsung cek ya, Vani, itu wajar sih, tapi kadang bikin fokus gampang buyar juga ya 😅  \nSelain itu, pernah nggak kamu ada pikiran tentang kematian atau bahkan bunuh diri dalam dua minggu terakhir? Kalau iya, biasanya kapan dan gimana rasanya?",
+      "user_message": "langsung cek",
+      "user_message_length": 12,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 245,
+        "end": 248,
+        "duration": 3
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 17,
+      "created_at": "2025-10-01T13:24:04.303811",
+      "ai_message": "Syukurlah banget, Vani, aku senang dengar kamu nggak pernah mengalami pikiran seperti itu 😊  \nJadi, kalau dirangkum dari cerita kamu, selama dua minggu terakhir kamu masih menikmati kegiatan yang kamu suka seperti jajan, walaupun kadang jajan terasa kurang nikmat karena kamu sering merasa sedih dan kangen rumah. Telepon ke orang tua sedikit membantu meringankan rindu itu. Pola makan kamu meningkat karena kamu suka makan, tapi tidur dan energi kamu masih cukup stabil. Teman-teman juga nggak melihat perubahan gerak atau bicara kamu, dan kamu nggak merasa bersalah berlebihan. Fokus kamu kadang terganggu oleh notifikasi yang langsung kamu cek.  \nKalau kamu mau, aku siap dengerin lagi kapan pun kamu butuh cerita ya.  \nAda yang mau kamu tambahin atau ceritain lagi, Vani?",
+      "user_message": "astaghfirullah ga pernah",
+      "user_message_length": 24,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 259,
+        "end": 267,
+        "duration": 8
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 18,
+      "created_at": "2025-10-01T13:24:45.121727",
+      "ai_message": "Sama-sama, Vani! Senang bisa ngobrol dan dengerin kamu hari ini 😊  \nKalau kapan-kapan kamu butuh teman cerita lagi, jangan ragu ya. Semangat terus buat kuliahnya dan jaga diri baik-baik!  \nSampai jumpa ya!  \n</end_conversation>",
+      "user_message": "cukup sindi, terimakaih",
+      "user_message_length": 23,
+      "has_end_conversation": true,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 298,
+        "end": 310,
+        "duration": 12
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    }
+  ]
+}

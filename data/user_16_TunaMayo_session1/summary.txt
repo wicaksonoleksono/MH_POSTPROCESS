@@ -1,0 +1,55 @@
+FACIAL ANALYSIS EXPORT
+======================
+
+Session Information:
+- Session ID: 16bf7188-c253-49e3-9ac3-b5ddbd46a206
+- User: TunaMayo (ID: 16)
+- Session Number: 1
+- Created: 2025-09-22 02:02:19
+- Status: COMPLETED
+- Assessment Order: llm first
+
+Assessment Completion:
+- PHQ Assessment: ✓ Completed
+- LLM Assessment: ✓ Completed
+
+PHQ Results Summary:
+- Total Score: 5/27
+- Categories Assessed: 9
+
+Facial Analysis Results:
+------------------------
+
+PHQ Assessment Analysis:
+- Status: completed
+- Total Images Processed: 88
+- Faces Detected: 0
+- Failed: 88
+- Processing Time: 47.71s
+- Avg Time per Image: 0.00ms
+- Dominant Emotion: N/A
+
+LLM Assessment Analysis:
+- Status: completed
+- Total Images Processed: 363
+- Faces Detected: 100
+- Failed: 263
+- Processing Time: 290.50s
+- Avg Time per Image: 1052.39ms
+- Dominant Emotion: Neutral
+
+Export Contents:
+----------------
+- session_info.json - Session metadata
+- phq_responses.json - PHQ assessment responses
+- llm_conversation.json - LLM conversation history
+- facial_analysis/phq_analysis.jsonl - PHQ facial analysis results (frame-by-frame)
+- facial_analysis/llm_analysis.jsonl - LLM facial analysis results (frame-by-frame)
+- facial_analysis/metadata.json - Processing metadata and statistics
+
+NOTE: This export contains PHQ/LLM data + JSONL files. Images are NOT included.
+      For images, use the regular User Sessions export.
+
+Generated: 2025-10-21 16:01:34
+
+Note: This export contains sensitive mental health data. Handle with appropriate confidentiality.

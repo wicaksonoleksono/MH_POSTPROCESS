@@ -1,0 +1,271 @@
+{
+  "total_conversations": 14,
+  "conversations": [
+    {
+      "turn_number": 1,
+      "created_at": "2025-10-03T11:31:07.259982",
+      "ai_message": "Senang dengar kamu baik 😊 Aku pengen tanya nih, selama dua minggu terakhir ini, apakah kamu merasa kehilangan minat atau kesenangan dalam hal-hal yang biasanya kamu suka? Kalau iya, kira-kira apa yang bikin rasa itu berubah?",
+      "user_message": "baik",
+      "user_message_length": 4,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 4,
+        "end": 5,
+        "duration": 1
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 2,
+      "created_at": "2025-10-03T11:31:25.116730",
+      "ai_message": "Oh, jadi kamu masih bisa menikmati kegiatan yang biasanya kamu suka ya, itu bagus banget 😊 Kalau boleh tahu, dalam dua minggu terakhir ini, apakah kamu merasa suasana hati kamu lebih sering sedih atau tertekan hampir setiap hari?",
+      "user_message": "tidak juga",
+      "user_message_length": 10,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 12,
+        "end": 23,
+        "duration": 11
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 3,
+      "created_at": "2025-10-03T11:31:59.757980",
+      "ai_message": "Aku paham, perubahan hormon emang bisa bikin perasaan jadi naik turun dan sensitif ya. Kalau lagi sensitif atau mood kamu turun, biasanya ada hal tertentu yang bikin perasaan itu jadi makin berat atau kamu bisa lebih cepat sadar dan coba atasi?",
+      "user_message": "biasa aja sih, tapi lately lagi sensitif tapi aku tau itu karena perubahan hormon mau halangan",
+      "user_message_length": 94,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 34,
+        "end": 58,
+        "duration": 24
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 4,
+      "created_at": "2025-10-03T11:32:23.615458",
+      "ai_message": "Wah, kangen rumah memang bisa bikin hati terasa berat ya, apalagi kalau lagi jauh dari keluarga. Kalau lagi homesick itu, seberapa sering kamu ngerasain sedihnya dan biasanya apa yang kamu lakukan buat ngurangin rasa itu?",
+      "user_message": "masih homesick kadang2 yg bikin sedih",
+      "user_message_length": 37,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 72,
+        "end": 81,
+        "duration": 9
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 5,
+      "created_at": "2025-10-03T11:32:43.718566",
+      "ai_message": "Bagus ya, video call sama mama bisa bantu banget buat ngeredain rasa kangen itu 😊 Nah, aku mau tanya lagi, selama dua minggu terakhir ini, ada nggak perubahan yang signifikan di berat badan atau nafsu makan kamu? Misalnya jadi lebih banyak makan atau malah kurang nafsu makan?",
+      "user_message": "sekarang sudah jarang, biasanya ya vc mama",
+      "user_message_length": 42,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 88,
+        "end": 101,
+        "duration": 13
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 6,
+      "created_at": "2025-10-03T11:33:00.960959",
+      "ai_message": "Oke, jadi pola makan kamu masih stabil ya, itu bagus banget 😊 Nah, gimana dengan tidur kamu? Selama dua minggu terakhir ini, kamu ada mengalami kesulitan tidur, susah tidur nyenyak, atau justru kebanyakan tidur? Biasanya ada hal tertentu yang bikin kamu susah tidur atau justru ngantuk terus?",
+      "user_message": "nafsu makanku normal aja",
+      "user_message_length": 24,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 111,
+        "end": 119,
+        "duration": 8
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 7,
+      "created_at": "2025-10-03T11:33:24.070556",
+      "ai_message": "Wah, kalau sering ketiduran karena kecapean berarti tubuh kamu lagi butuh istirahat ya. Biasanya, apa sih yang bikin kamu merasa kecapean sampai jadi lebih sering tidur? Mungkin karena aktivitas, pikiran, atau hal lainnya?",
+      "user_message": "lebih banyak tidur jujur, karena kecapean juga jadi sering ketiduran",
+      "user_message_length": 68,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 125,
+        "end": 142,
+        "duration": 17
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 8,
+      "created_at": "2025-10-03T11:33:52.603738",
+      "ai_message": "Duh, iya ya, tugas segunung apalagi yang harus bikin video pasti bikin capek banget. Kadang beban kayak gitu bisa bikin energi cepat habis. Temen-temen atau orang di sekitar kamu ada yang bilang kamu kelihatan lebih lambat atau malah gelisah dari biasanya nggak? Kalau mereka bilang ada perubahan, biasanya kamu merasa gimana atau apa yang kamu pikirin soal itu?",
+      "user_message": "karena kegiatan kuliah dan tugasnya yang segunung itu, mana banyak tugas video",
+      "user_message_length": 78,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 150,
+        "end": 170,
+        "duration": 20
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 9,
+      "created_at": "2025-10-03T11:34:08.465636",
+      "ai_message": "Oke, berarti sejauh ini kamu masih bisa jaga ritme gerak dan bicara ya, bagus tuh 😊 Nah, aku pengen tahu nih, selama dua minggu terakhir ini, kamu ngerasa cepat capek atau kehilangan energi hampir setiap hari nggak? Kalau iya, biasanya apa yang bikin energimu cepat habis?",
+      "user_message": "gak ada sih",
+      "user_message_length": 11,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 184,
+        "end": 187,
+        "duration": 3
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 10,
+      "created_at": "2025-10-03T11:34:22.178732",
+      "ai_message": "Sip, berarti energi kamu masih cukup stabil ya, itu bagus 😊 Gimana dengan perasaan kamu tentang diri sendiri? Ada nggak rasa nggak berharga atau rasa bersalah yang berlebihan akhir-akhir ini? Kalau ada, biasanya hal apa yang bikin kamu merasa seperti itu?",
+      "user_message": "gak juga",
+      "user_message_length": 8,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 198,
+        "end": 201,
+        "duration": 3
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 11,
+      "created_at": "2025-10-03T11:35:02.401467",
+      "ai_message": "Wah, keren banget kamu bisa lebih sayang sama diri sendiri dan perhatian sama kebutuhan kamu ya 😊 Itu tanda kamu sudah mulai jaga kesehatan mental dan fisik dengan baik. Nah, selama dua minggu terakhir ini, kamu pernah nggak merasa susah konsentrasi atau kesulitan buat ambil keputusan? Kalau iya, biasanya apa yang bikin fokus kamu buyar?",
+      "user_message": "aku jadi lebih sayang sama aku sih, kayak harus makan enak sama istirahat yang cukup",
+      "user_message_length": 84,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 209,
+        "end": 241,
+        "duration": 32
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 12,
+      "created_at": "2025-10-03T11:35:11.540305",
+      "ai_message": "Oke, berarti konsentrasi dan pengambilan keputusan kamu masih lancar ya, itu bagus banget 😊 Terakhir nih, selama dua minggu terakhir ini, ada nggak pikiran tentang kematian atau bunuh diri yang kadang muncul? Kalau iya, biasanya kapan dan apa yang bikin pikiran itu muncul?",
+      "user_message": "enggak sih",
+      "user_message_length": 10,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 248,
+        "end": 250,
+        "duration": 2
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 13,
+      "created_at": "2025-10-03T11:35:23.466940",
+      "ai_message": "Syukurlah kamu nggak ngalamin pikiran kayak gitu ya, itu penting banget buat kesehatan mentalmu 😊 Dari cerita kamu, aku lihat kamu masih bisa nikmati kegiatan yang kamu suka, suasana hati kamu cukup stabil walau kadang sensitif karena hormon, kamu juga udah pinter jaga diri dengan makan enak dan istirahat cukup, serta tetap bisa hadapi beban kuliah yang berat.\n\nKalau kamu mau, aku siap banget dengerin kalau ada hal lain yang pengen kamu ceritain atau tambahin. Ada yang ingin kamu bagi lagi?",
+      "user_message": "gak ada pls",
+      "user_message_length": 11,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 258,
+        "end": 261,
+        "duration": 3
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 14,
+      "created_at": "2025-10-03T11:36:02.302834",
+      "ai_message": "Wah, itu pilihan yang bagus banget, video call sama mama memang bisa jadi obat kangen dan bikin hati lebih ringan 😊 Semoga obrolan kalian menyenangkan dan bisa bikin kamu lebih semangat ya.\n\nKalau nanti kamu butuh teman buat ngobrol lagi, aku selalu siap dengerin kok. Jangan sungkan ya! Semoga harimu tetap baik dan semangat terus! </end_conversation>",
+      "user_message": "untuk saat ini gak ada sindi, karena abis ini aku bakal vc mama dan cerita banyak",
+      "user_message_length": 81,
+      "has_end_conversation": true,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 279,
+        "end": 300,
+        "duration": 21
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    }
+  ]
+}

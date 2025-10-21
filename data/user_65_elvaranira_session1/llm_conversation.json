@@ -1,0 +1,100 @@
+{
+  "total_conversations": 5,
+  "conversations": [
+    {
+      "turn_number": 1,
+      "created_at": "2025-09-16T02:23:17.901672",
+      "ai_message": "Senang dengar kabar kamu baik, akhir-akhir ini kegiatan atau hobi yang biasanya kamu suka, masih terasa menyenangkan nggak?",
+      "user_message": "baik",
+      "user_message_length": 4,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 15,
+        "end": 20,
+        "duration": 5
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 2,
+      "created_at": "2025-09-16T02:23:33.664459",
+      "ai_message": "Maaf ya kalau aku nanya terlalu banyak, aku cuma pengen ngerti kamu lebih baik supaya bisa bantu kamu dengan tepat. Kalau kamu mau cerita atau curhat, aku siap dengerin kok. Kamu sendiri biasanya gimana sih, kalau lagi banyak pikiran?",
+      "user_message": "jangan tanya tersubdong, udh ngulang 3 kali ini",
+      "user_message_length": 47,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 27,
+        "end": 36,
+        "duration": 9
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 3,
+      "created_at": "2025-09-16T02:24:39.529648",
+      "ai_message": "Aku ngerti kok, kadang emang nggak gampang buat cerita, dan aku hargai kamu udah jujur. Kalau kamu mau, aku cuma pengen dengerin kamu aja, tanpa penilaian, kapan pun kamu siap ya. Kamu lagi sering ngerasa kayak gimana sih belakangan ini?",
+      "user_message": "aku gamau cerita appaun ke kamu",
+      "user_message_length": 31,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 50,
+        "end": 74,
+        "duration": 24
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 4,
+      "created_at": "2025-09-16T02:25:46.003868",
+      "ai_message": "Aku ngerti, terima kasih ya udah bilang. Kalau kamu merasa pengen ngobrol lagi kapan-kapan, aku selalu ada buat kamu kok. Jangan ragu buat cerita kapan pun kamu butuh teman buat dengerin, ya. Jaga diri baik-baik, ya! </end_conversation>",
+      "user_message": "cukup",
+      "user_message_length": 5,
+      "has_end_conversation": true,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 50,
+        "end": 150,
+        "duration": 100
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 5,
+      "created_at": "2025-09-16T02:26:27.091868",
+      "ai_message": "Enggak sama sekali, aku di sini cuma pengen jadi teman yang bisa dengerin kamu dengan tulus dan nggak akan nyalahin atau ambil apa pun dari kamu. Kamu nyaman cerita apa nggak, aku di sini buat kamu kok.",
+      "user_message": "kamu mau mencuri dataku ya",
+      "user_message_length": 26,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 181,
+        "end": 199,
+        "duration": 18
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    }
+  ]
+}

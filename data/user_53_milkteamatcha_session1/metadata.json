@@ -1,0 +1,24 @@
+{
+  "phq_analysis": {
+    "status": "completed",
+    "total_images_processed": 72,
+    "images_with_faces_detected": 0,
+    "images_failed": 72,
+    "processing_time_seconds": 16.900243,
+    "avg_time_per_image_ms": 0.0,
+    "summary_stats": {},
+    "started_at": "2025-10-20T14:15:01.930284",
+    "completed_at": "2025-10-20T14:15:18.836434"
+  },
+  "llm_analysis": {
+    "status": "completed",
+    "total_images_processed": 331,
+    "images_with_faces_detected": 0,
+    "images_failed": 331,
+    "processing_time_seconds": 135.88873,
+    "avg_time_per_image_ms": 0.0,
+    "summary_stats": {},
+    "started_at": "2025-10-20T14:15:02.099274",
+    "completed_at": "2025-10-20T14:17:17.995045"
+  }
+}

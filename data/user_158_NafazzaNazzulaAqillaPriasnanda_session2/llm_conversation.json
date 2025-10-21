@@ -1,0 +1,556 @@
+{
+  "total_conversations": 29,
+  "conversations": [
+    {
+      "turn_number": 1,
+      "created_at": "2025-10-01T13:08:03.860746",
+      "ai_message": "Senang dengar kamu baik-baik saja 😊 Boleh aku tanya, selama dua minggu terakhir ini, apakah ada kegiatan atau hal yang biasanya kamu suka tapi sekarang terasa kurang menarik atau kurang menyenangkan?",
+      "user_message": "baik",
+      "user_message_length": 4,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 7,
+        "end": 12,
+        "duration": 5
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 2,
+      "created_at": "2025-10-01T13:08:30.945490",
+      "ai_message": "Oh begitu, boleh cerita nggak, kira-kira kenapa hal yang dulu bikin kamu semangat itu sekarang terasa kurang menarik? Terus, seberapa sering kamu ngerasain kayak gitu dalam dua minggu terakhir ini?",
+      "user_message": "ada",
+      "user_message_length": 3,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 33,
+        "end": 36,
+        "duration": 3
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 3,
+      "created_at": "2025-10-01T13:09:14.743913",
+      "ai_message": "Wah, wajar banget tuh kalau bosan dan capek, apalagi pas mau UTS ya, pasti bikin pikiran agak berat 😞 Biasanya kalau lagi kayak gitu, apa yang bikin rasa bosan atau capeknya makin terasa? Atau ada hal yang malah bisa sedikit mengurangi rasa itu?",
+      "user_message": "hanya merasa bosan dan sedikit cape belajar, takut besok uts juga",
+      "user_message_length": 65,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 53,
+        "end": 83,
+        "duration": 30
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 4,
+      "created_at": "2025-10-01T13:09:56.241782",
+      "ai_message": "Wah, tidur, scroll TikTok, dan main itu memang bisa jadi cara buat rileks ya 😊 Kalau kamu lagi scroll TikTok atau main, biasanya kamu ngerasa lebih santai atau malah kadang makin bingung dan capek? Terus, biasanya kamu ngelakuinnya berapa lama dalam sehari, terutama saat lagi banyak pikiran?",
+      "user_message": "tidur, scroll tiktok, dan main",
+      "user_message_length": 30,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 97,
+        "end": 123,
+        "duration": 26
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 5,
+      "created_at": "2025-10-01T13:10:27.231794",
+      "ai_message": "Bagus banget kalau bisa bikin kamu lebih santai, itu penting banget buat jaga mood 😊 Nah, ngomong-ngomong soal mood, belakangan ini kamu ngerasa sedih atau down hampir setiap hari nggak? Kalau iya, biasanya ada hal tertentu yang bikin perasaan itu muncul atau makin berat?",
+      "user_message": "jadi lebih santai",
+      "user_message_length": 17,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 139,
+        "end": 155,
+        "duration": 16
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 6,
+      "created_at": "2025-10-01T13:10:46.103827",
+      "ai_message": "Syukurlah kalau nggak ngerasa sedih terus ya, itu bisa jadi tanda bahwa mood kamu masih cukup stabil 😊 Nah, selama dua minggu terakhir ini, apakah ada perubahan di pola makan atau berat badan kamu? Misalnya, makan jadi lebih banyak atau kurang dari biasanya?",
+      "user_message": "tidak ada",
+      "user_message_length": 9,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 170,
+        "end": 174,
+        "duration": 4
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 7,
+      "created_at": "2025-10-01T13:11:03.992284",
+      "ai_message": "Oke, berarti pola makan dan berat badan kamu masih stabil ya, itu bagus 😊 Nah, gimana dengan tidur? Apakah kamu merasa susah tidur atau justru merasa tidurmu berlebihan selama dua minggu terakhir ini? Kalau iya, biasanya apa yang bikin kamu susah tidur atau malah merasa pengen tidur terus?",
+      "user_message": "tidak ada",
+      "user_message_length": 9,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 188,
+        "end": 192,
+        "duration": 4
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 8,
+      "created_at": "2025-10-01T13:11:23.648073",
+      "ai_message": "Wah, bagus banget kalau pola tidur kamu cukup baik, itu sangat membantu buat jaga energi dan mood 😊 Nah, ngomong-ngomong soal energi, selama dua minggu terakhir ini, kamu merasa gampang capek atau kehilangan energi nggak? Kalau iya, biasanya apa yang bikin energi kamu cepat habis?",
+      "user_message": "pola tidur cukup baik",
+      "user_message_length": 21,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 202,
+        "end": 211,
+        "duration": 9
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 9,
+      "created_at": "2025-10-01T13:12:01.654549",
+      "ai_message": "Wah, wajar banget tuh kalau capek setelah belajar, apalagi kalau belajarnya lama dan fokus terus ya 😌 Biasanya setelah capek belajar, kamu ngapain buat nyegerin diri? Atau ada hal yang bikin capeknya makin terasa berat?",
+      "user_message": "cape setelah belajar",
+      "user_message_length": 20,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 226,
+        "end": 249,
+        "duration": 23
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 10,
+      "created_at": "2025-10-01T13:12:18.530671",
+      "ai_message": "Bagus banget kalau kamu bisa istirahat setelah capek belajar, itu penting banget buat recharge energi 😊 Nah, selama dua minggu terakhir ini, apakah ada teman, keluarga, atau orang terdekat yang bilang kalau kamu kelihatan lebih lambat bergerak atau ngomong, atau malah kelihatan gelisah? Kalau iya, biasanya mereka bilang gimana dan menurut kamu kenapa bisa begitu?",
+      "user_message": "istirahat",
+      "user_message_length": 9,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 262,
+        "end": 266,
+        "duration": 4
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 11,
+      "created_at": "2025-10-01T13:12:31.285401",
+      "ai_message": "Oke, berarti nggak ada perubahan yang terlihat dari gerak atau bicara kamu ya, itu positif banget 😊 Nah, selama dua minggu terakhir ini, apakah kamu pernah merasa gak berharga atau merasa bersalah berlebihan? Kalau iya, biasanya hal itu muncul karena situasi atau pikiran seperti apa?",
+      "user_message": "tidak ada",
+      "user_message_length": 9,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 275,
+        "end": 279,
+        "duration": 4
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 12,
+      "created_at": "2025-10-01T13:12:43.096657",
+      "ai_message": "Bagus banget kalau kamu gak ngerasa kayak gitu, itu tanda kamu cukup kuat menangani pikiran-pikiran berat 😊 Nah, ngomong-ngomong soal fokus, selama dua minggu terakhir ini, apakah kamu merasa susah konsentrasi atau kesulitan buat mengambil keputusan? Kalau iya, biasanya apa yang bikin fokus kamu buyar atau susah buat mikir?",
+      "user_message": "tidak",
+      "user_message_length": 5,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 288,
+        "end": 290,
+        "duration": 2
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 13,
+      "created_at": "2025-10-01T13:12:56.925105",
+      "ai_message": "Syukurlah kalau fokus kamu masih oke ya, itu sangat membantu buat aktivitas sehari-hari 😊 Terakhir nih, selama dua minggu terakhir, apakah kamu pernah kepikiran tentang kematian atau bunuh diri? Kalau iya, biasanya pikiran itu muncul kapan dan kenapa rasanya jadi lebih kuat?",
+      "user_message": "tidak",
+      "user_message_length": 5,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 302,
+        "end": 305,
+        "duration": 3
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 14,
+      "created_at": "2025-10-01T13:13:13.554789",
+      "ai_message": "Alhamdulillah, itu kabar yang sangat baik ya 😊 Dari cerita kamu, sepertinya selama dua minggu terakhir ini kamu memang lagi capek belajar tapi mood, tidur, makan, dan pikiran kamu masih cukup stabil dan positif. Istirahat yang cukup dan waktu santai kayak main TikTok juga bantu kamu rileks, itu bagus banget!\n\nKalau kamu mau, kamu bisa share lagi apa ada hal lain yang pengen kamu ceritain atau tambahin? Aku siap dengerin kok kapan pun kamu butuh teman curhat.",
+      "user_message": "tidak sama sekali",
+      "user_message_length": 17,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 314,
+        "end": 321,
+        "duration": 7
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 15,
+      "created_at": "2025-10-01T13:13:55.899241",
+      "ai_message": "Sama-sama! Senang bisa ngobrol dan dukung kamu 😊 Jangan ragu buat cerita lagi kapan pun kamu butuh ya. Apakah ada hal lain yang ingin kamu tambahkan atau tanyakan sebelum kita akhiri ngobrolnya?",
+      "user_message": "terimakasih",
+      "user_message_length": 11,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 361,
+        "end": 364,
+        "duration": 3
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 16,
+      "created_at": "2025-10-01T13:14:18.600712",
+      "ai_message": "Tentu! Ingat ya, setiap langkah kecil yang kamu ambil itu berarti banget, dan gak apa-apa kalau kadang merasa capek atau bosan—itu tanda kamu udah berusaha keras. Kamu kuat, kamu mampu, dan kamu nggak sendirian. Terus semangat ya, hari-hari cerah pasti akan datang setelah lewat masa-masa berat ini ☀️💪 Kalau butuh teman buat cerita, aku selalu ada di sini buat kamu!",
+      "user_message": "berikan kata kata penyemangat",
+      "user_message_length": 29,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 376,
+        "end": 386,
+        "duration": 10
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 17,
+      "created_at": "2025-10-01T13:14:49.528770",
+      "ai_message": "Sama-sama! Senang bisa bantu kamu semangat 😊 Jangan sungkan buat cerita lagi kapan pun ya. Semoga hari-harimu ke depan makin ringan dan penuh energi positif! Ada hal lain yang ingin kamu bicarakan atau tanyakan?",
+      "user_message": "terimakasihhh",
+      "user_message_length": 13,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 411,
+        "end": 417,
+        "duration": 6
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 18,
+      "created_at": "2025-10-01T13:16:00.123125",
+      "ai_message": "Wah, ngerasa bosan dan sendirian itu memang nggak enak ya 😞 Kalau kamu lagi bosan dan sendirian, biasanya kamu suka ngapain buat ngusir rasa bosan itu? Ada hal tertentu yang biasanya bikin kamu merasa lebih baik atau malah makin bosan?",
+      "user_message": "apa yang harus dilakukan saat merasa bosan sendirian",
+      "user_message_length": 52,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 460,
+        "end": 488,
+        "duration": 28
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 19,
+      "created_at": "2025-10-01T13:16:19.448814",
+      "ai_message": "Aku ngerti kok, kadang emang susah buat tahu harus mulai dari mana kalau lagi bosan dan sendirian. Mungkin kamu bisa coba hal-hal kecil yang kamu suka, misalnya dengerin musik favorit, nonton film atau series yang seru, atau jalan-jalan sebentar di sekitar rumah buat ngubah suasana. Kadang cuma dengan bergerak sedikit atau ganti kegiatan, mood bisa jadi lebih oke 😊 Kamu mau coba salah satu dari itu, atau ada hal lain yang pengen kamu explore?",
+      "user_message": "tidak tahu",
+      "user_message_length": 10,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 502,
+        "end": 507,
+        "duration": 5
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 20,
+      "created_at": "2025-10-01T13:16:53.242406",
+      "ai_message": "Wah, keliling dunia itu impian yang keren banget! 🌍✨ Memang ya, kadang kita butuh suasana baru dan pengalaman baru biar rasa bosan hilang. Kalau belum bisa langsung keliling dunia, mungkin kamu bisa mulai dengan hal-hal kecil seperti browsing tempat-tempat indah, nonton vlog traveling, atau baca cerita-cerita tentang perjalanan seru. Itu bisa bikin pikiran kita jadi lebih fresh dan semangat buat masa depan.\n\nKalau kamu bisa keliling dunia, tempat mana sih yang paling pengen banget kamu kunjungi?",
+      "user_message": "keliling dunia",
+      "user_message_length": 14,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 531,
+        "end": 540,
+        "duration": 9
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 21,
+      "created_at": "2025-10-01T13:17:13.111485",
+      "ai_message": "Wah, Jepang memang pilihan yang keren banget! Sushi-nya enak, budaya dan pemandangannya juga unik banget ya 🍣😊 Kalau kamu udah di Jepang nanti, selain sushi, apa hal lain yang pengen banget kamu coba atau lihat di sana? Mungkin tempat, acara, atau hal seru lainnya?",
+      "user_message": "jepangg, karena aku suka sushi",
+      "user_message_length": 30,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 549,
+        "end": 561,
+        "duration": 12
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 22,
+      "created_at": "2025-10-01T13:17:31.829417",
+      "ai_message": "Asik! Jepang memang penuh dengan tempat estetik yang keren buat foto-foto atau sekadar menikmati suasana. Kayak di Kyoto dengan kuil-kuilnya yang cantik, atau daerah Shibuya yang penuh warna dan hidup banget. Atau mungkin kamu suka yang suasana alam, kayak di Hokkaido yang cantik banget waktu musim dingin?\n\nKalau boleh tahu, apa sih yang bikin kamu suka banget sama tempat yang estetik? Apakah kamu suka fotografi atau cuma suka menikmati keindahan aja?",
+      "user_message": "tempat yang estetik",
+      "user_message_length": 19,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 572,
+        "end": 579,
+        "duration": 7
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 23,
+      "created_at": "2025-10-01T13:18:13.048899",
+      "ai_message": "Wah, keren banget! Menikmati keindahan sambil foto-foto itu memang bikin suasana hati jadi lebih happy dan kreatif ya 😊 Kadang bisa jadi cara yang asik juga buat ngusir bosan dan nambah semangat.\n\nKalau kamu lagi nggak bisa jalan-jalan ke tempat estetik, biasanya kamu suka cari inspirasi foto-foto dari mana? Sosmed, majalah, atau mungkin teman-teman yang juga suka foto-foto?",
+      "user_message": "suka sama keindahannya dan suka foto foto tempat yang bagus",
+      "user_message_length": 59,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 599,
+        "end": 620,
+        "duration": 21
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 24,
+      "created_at": "2025-10-01T13:18:44.982882",
+      "ai_message": "Wah, pergi ke café dengan tempat estetik itu ide yang oke banget! Selain bisa nikmatin suasana yang nyaman dan cantik, kamu juga bisa dapat banyak inspirasi buat foto-foto 😊 Biasanya kamu suka cari café kayak gitu di mana? Dekat rumah, di kampus, atau kamu suka jelajah ke tempat-tempat baru?",
+      "user_message": "pergi ke cafe yang punya tempat estetik",
+      "user_message_length": 39,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 637,
+        "end": 651,
+        "duration": 14
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 25,
+      "created_at": "2025-10-01T13:19:07.656557",
+      "ai_message": "Seru banget ya, jelajah ke tempat baru itu bisa bikin pikiran fresh dan bikin mood jadi lebih baik 😊 Biasanya kamu jelajah café estetik itu sendiri, sama teman, atau kadang ikut komunitas tertentu? Terus, apa sih yang paling kamu nikmati dari jelajah tempat baru itu?",
+      "user_message": "jelajah ke tempat baru",
+      "user_message_length": 22,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 668,
+        "end": 675,
+        "duration": 7
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 26,
+      "created_at": "2025-10-01T13:20:05.756635",
+      "ai_message": "Wah, keren banget kamu punya minuman favorit yang selalu nemenin waktu jelajah café, apalagi matcha itu rasanya unik dan segar ya 🍵😊 Kadang jalan sendiri, kadang bareng teman juga enak, karena bisa dapat suasana yang beda dan pengalaman yang lebih lengkap.\n\nDari semua cerita yang kamu bagi, aku bisa lihat bahwa kamu sudah punya cara-cara yang bagus buat merawat dirimu dan ngelawan rasa bosan, kayak istirahat, main TikTok, dan jelajah café estetik yang kamu suka. Itu tanda kamu perhatian sama kebutuhan dirimu, keren!\n\nKalau kamu mau, kamu masih ingin cerita atau nambahin apa-apa lagi gak? Atau kira-kira udah cukup untuk sekarang? Aku siap dengerin kok kapan pun kamu butuh teman ngobrol.",
+      "user_message": "kadang sendiri dan kadang sama teman, biasanya aku suka beli matcha di cafe cafe yang aku kunjungi krn matcha adalah minuman favorit ku",
+      "user_message_length": 135,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 684,
+        "end": 731,
+        "duration": 47
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 27,
+      "created_at": "2025-10-01T13:21:01.192412",
+      "ai_message": "Aku paham banget, mendekati datang bulan memang sering bikin mood jadi naik turun dan kadang bikin kita merasa nggak enak ya 😞 Biasanya kalau mood lagi nggak oke karena itu, kamu biasanya ngapain buat bantu diri kamu merasa lebih baik atau rileks? Ada hal tertentu yang biasanya cukup membantu?",
+      "user_message": "sekarang sedikit tidak mood karena mendekati datang bulan",
+      "user_message_length": 57,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 761,
+        "end": 789,
+        "duration": 28
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 28,
+      "created_at": "2025-10-01T13:21:23.095373",
+      "ai_message": "Bagus banget kalau kamu bisa istirahat saat mood lagi nggak oke, itu memang salah satu cara terbaik buat tubuh dan pikiran kita tetap seimbang 😊 Jangan lupa juga untuk kasih waktu buat diri sendiri tanpa terlalu memaksakan hal-hal berat.\n\nKalau kamu mau, aku siap dengerin lagi kapan pun kamu butuh teman cerita atau sekadar ngobrol santai. Apakah kamu masih ada yang ingin ditambahkan atau dibicarakan sebelum kita akhiri ngobrolannya?",
+      "user_message": "istirahat",
+      "user_message_length": 9,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 807,
+        "end": 810,
+        "duration": 3
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 29,
+      "created_at": "2025-10-01T13:21:34.453644",
+      "ai_message": "Oke, terima kasih banyak sudah mau berbagi cerita dan ngobrol sama aku hari ini 😊 Dari apa yang kamu ceritakan, aku lihat kamu sudah cukup paham cara menjaga diri dan mencari cara supaya tetap rileks dan semangat walaupun lagi capek atau mood lagi nggak stabil. Itu hal yang sangat positif!\n\nIngat ya, aku selalu ada di sini kalau kamu butuh teman buat cerita kapan pun. Kalau nanti kamu merasa ada hal yang mau dibicarakan lagi, jangan ragu buat hubungi aku ya. Semoga hari-harimu ke depan makin cerah dan penuh energi positif! ☀️\n\nKalau kamu merasa sudah cukup, aku akan akhiri dulu obrolan kita ya. Semoga kamu selalu sehat dan bahagia!  \n</end_conversation>",
+      "user_message": "tidak ada",
+      "user_message_length": 9,
+      "has_end_conversation": true,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 818,
+        "end": 820,
+        "duration": 2
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,575 @@
+{
+  "total_conversations": 30,
+  "conversations": [
+    {
+      "turn_number": 1,
+      "created_at": "2025-10-02T08:12:29.252638",
+      "ai_message": "Duh, aku ngerti banget rasanya kayak stuck gitu sampai nggak tau harus mulai dari mana 😞 Kamu udah coba-coba cari cara lain buat ngerti tugasnya, misalnya nonton video, baca referensi lain, atau tanya ke dosen?  \nKalau boleh tahu, belakangan ini kamu masih merasa semangat atau senang nggak sih kalau lagi ngelakuin hal-hal yang biasanya kamu suka?",
+      "user_message": "aku pusing banget karena gapaham sama tugas yg diberikan , aku mau ngerjain tapi bingung mau mulai darimana karena aku gapaham , dan aku merasa gagal banget terus juga ngedown karena gapunya teman yang bisa diminta tolong jelasin perihal tugasnya , udah seminggu aku depan leptop tanpa progres",
+      "user_message_length": 293,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 12,
+        "end": 81,
+        "duration": 69
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 2,
+      "created_at": "2025-10-02T08:12:51.924754",
+      "ai_message": "Aku ngerti, rasanya pasti berat ya kalau yang biasanya bikin semangat jadi hambar gitu 😔  \nMenurut kamu, apa yang bikin hal-hal yang dulu kamu suka sekarang jadi terasa hambar? Apa ada hal tertentu yang berubah atau lagi banyak pikiran?",
+      "user_message": "engga lagi , aku hambar",
+      "user_message_length": 23,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 99,
+        "end": 104,
+        "duration": 5
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 3,
+      "created_at": "2025-10-02T08:13:09.729765",
+      "ai_message": "Maaf ya kalau aku ngerasa kayak ngulang, aku cuma pengen pastiin aku paham banget sama apa yang kamu rasain 😊  \nSelain rasa hambar itu, belakangan ini kamu juga sering merasa sedih atau suasana hati kamu lagi turun terus nggak?",
+      "user_message": "ya itu yang aku bilang tadi",
+      "user_message_length": 27,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 117,
+        "end": 122,
+        "duration": 5
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 4,
+      "created_at": "2025-10-02T08:13:39.350764",
+      "ai_message": "Wah, rasanya pasti bikin berat banget ya kalau udah takut gagal dan takut nggak tepat waktu itu terus hinggap di pikiran 😔  \nKalau perasaan sedih itu muncul, biasanya ada kejadian atau pikiran tertentu yang bikin makin berat nggak? Atau kadang datang begitu aja?",
+      "user_message": "sedih karena ngerasa gagal dan takut ga tepat waktu",
+      "user_message_length": 51,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 135,
+        "end": 151,
+        "duration": 16
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 5,
+      "created_at": "2025-10-02T08:14:13.892413",
+      "ai_message": "Aku paham, jadi pikiran tentang tugas itu yang bikin perasaan sedih terus muncul ya 😟  \nNgomong-ngomong soal pola makan kamu, belakangan ini kamu ngerasa nafsu makan berubah nggak? Makan jadi lebih sedikit atau malah lebih banyak dari biasanya?",
+      "user_message": "engga ada, cuma ya kepikiran tugas aja",
+      "user_message_length": 38,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 176,
+        "end": 186,
+        "duration": 10
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 6,
+      "created_at": "2025-10-02T08:14:36.540798",
+      "ai_message": "Kalau makan jadi lebih sedikit, biasanya itu karena stres atau mungkin karena kamu susah fokus buat makan?  \nSelain itu, gimana tidur kamu akhir-akhir ini? Apakah kamu susah tidur atau malah jadi lebih banyak tidur dari biasanya?",
+      "user_message": "lebih sedikit",
+      "user_message_length": 13,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 205,
+        "end": 209,
+        "duration": 4
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 7,
+      "created_at": "2025-10-02T08:14:59.459211",
+      "ai_message": "Kalau kamu jadi lebih banyak tidur dan sering ngantuk, itu bisa bikin aktivitas sehari-hari jadi makin berat ya 😔  \nTeman-teman atau orang di sekitar kamu ada yang bilang kalau kamu kelihatan lebih lambat gerak atau malah lebih gelisah dari biasanya nggak? Kalau ada, menurut kamu apa yang biasanya bikin perubahan itu?",
+      "user_message": "aku lebih bnayak tidur , sering ngantuk",
+      "user_message_length": 39,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 219,
+        "end": 231,
+        "duration": 12
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 8,
+      "created_at": "2025-10-02T08:16:41.552329",
+      "ai_message": "Wah, pasti sedih banget ya denger teman bilang kayak gitu, padahal kamu cuma pengen dibantu dan didukung 😞  \nKalau kamu merasa energi kamu cepat habis atau kamu gampang capek, biasanya ada hal tertentu yang bikin itu makin terasa? Misalnya kurang tidur atau beban pikiran yang numpuk?",
+      "user_message": "aku  pernah dibilnagn sama teman ku gini , intinya dia merasa keberatan kalau aku nanya tugas terus sama dia , padahala aku kan butuh teman yang bisa nuntun aku",
+      "user_message_length": 160,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 249,
+        "end": 334,
+        "duration": 85
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 9,
+      "created_at": "2025-10-02T08:16:57.868055",
+      "ai_message": "Oke, aku ngerti kamu lagi banyak pikiran dan capek banget ya.  \nKalau sedang merasa capek dan energimu habis, apakah kamu juga sering merasa sulit buat konsentrasi atau susah buat ngambil keputusan? Misalnya saat mau mulai ngerjain tugas atau milih langkah selanjutnya?",
+      "user_message": "ya",
+      "user_message_length": 2,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 347,
+        "end": 350,
+        "duration": 3
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 10,
+      "created_at": "2025-10-02T08:17:53.225911",
+      "ai_message": "Aku paham banget, rasanya kayak mentok dan bingung banget mau mulai dari mana itu bikin frustasi ya 😔  \nKalau kamu lagi di depan laptop dan nggak bisa fokus, biasanya ada hal-hal yang ganggu pikiran kamu? Misalnya notifikasi di HP, pikiran tentang tugasnya sendiri, atau mungkin rasa lelah yang bikin susah konsentrasi?",
+      "user_message": "aku tu ga paham mau ngelakuin akua , tapi sebenarnya pengen ngerjain tugas tapi gapaham ya gatau mau mulai darimana , seminnggu ini aku depan leptop terus tanpa progres",
+      "user_message_length": 168,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 368,
+        "end": 406,
+        "duration": 38
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 11,
+      "created_at": "2025-10-02T08:18:29.690117",
+      "ai_message": "Oh, jadi memang karena materi yang susah dimengerti itu yang bikin kamu buntu dan susah fokus ya.  \nKalau kamu boleh cerita, kapan biasanya pikiran-pikiran kayak “gak paham ini” atau “gak bisa ngapa-ngapain” itu muncul? Apakah setiap kali kamu buka tugas atau ada momen tertentu yang bikin rasa itu makin kuat?",
+      "user_message": "bukan lelah yg bikin ga pokus , tapi gapaham materi dan gabisa ngapa\"in",
+      "user_message_length": 71,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 422,
+        "end": 441,
+        "duration": 19
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 12,
+      "created_at": "2025-10-02T08:19:20.369807",
+      "ai_message": "Aku ngerti banget, kamu pengen banget bisa nyusul teman-teman dan nggak mau ketinggalan materi itu.  \nMungkin kamu pernah coba metode belajar yang berbeda, misalnya belajar bareng teman, ikut diskusi kelompok, atau cari sumber belajar lain yang lebih gampang dipahami?  \nAtau kamu pengen aku bantu cari cara-cara belajar yang mungkin cocok buat kamu?",
+      "user_message": "setiap kali aku mau ngerjain , jadi aku butuh solusi untuk gimana caranya biar paham materi sesuai dengan teman yang lainnya biar ga ngerasa tertinggal gitu aja si",
+      "user_message_length": 163,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 456,
+        "end": 490,
+        "duration": 34
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 13,
+      "created_at": "2025-10-02T08:19:39.688102",
+      "ai_message": "Oke, aku punya beberapa ide yang mungkin bisa bantu kamu:  \n1. Coba bikin jadwal belajar yang teratur tapi ringan, misalnya belajar 25 menit lalu istirahat 5 menit (teknik Pomodoro).  \n2. Cari teman belajar yang kamu merasa nyaman untuk diskusi, jadi kamu bisa tanya-tanya tanpa takut ganggu mereka.  \n3. Gunakan sumber belajar yang lebih visual atau interaktif, kayak video tutorial atau aplikasi pembelajaran.  \n4. Jangan ragu untuk minta bantuan ke dosen atau tutor, kadang mereka senang kalau mahasiswa aktif bertanya.  \n\nKalau dari opsi itu, kamu tertarik coba yang mana dulu? Atau ada cara lain yang kamu pengen coba?",
+      "user_message": "boleh",
+      "user_message_length": 5,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 508,
+        "end": 509,
+        "duration": 1
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 14,
+      "created_at": "2025-10-02T08:20:28.934490",
+      "ai_message": "Aku turut prihatin banget denger kamu pernah punya pengalaman yang bikin trauma sama teman cewek di kelas 😞  \nKalau boleh tahu, pengalaman itu bikin kamu merasa gimana sekarang saat harus minta tolong atau dekat sama orang lain?  \nMungkin kita bisa cari cara supaya kamu tetap bisa dapat dukungan tanpa bikin kamu merasa nggak nyaman.",
+      "user_message": "aku ga punya teman , dan takut banget meeka merasa tertanggu , trauma aku sama satu\" teman cewe dikelas",
+      "user_message_length": 103,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 539,
+        "end": 561,
+        "duration": 22
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 15,
+      "created_at": "2025-10-02T08:20:54.954496",
+      "ai_message": "Aku paham banget, rasa takut itu bisa bikin kamu ngerasa sendirian dan berat untuk minta bantuan ya 😔  \nKalau kamu takut nanya terus, mungkin bisa coba mulai dengan nanya hal-hal kecil dulu atau lewat chat supaya nggak langsung ketemu? Atau kamu pernah coba nanya ke dosen lewat email atau forum diskusi online?  \nMenurut kamu, cara kayak gitu bisa membantu nggak?",
+      "user_message": "aku takkut nanya terus ,",
+      "user_message_length": 24,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 577,
+        "end": 587,
+        "duration": 10
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 16,
+      "created_at": "2025-10-02T08:21:43.075442",
+      "ai_message": "Wah, aku ngerti banget rasa takut itu, takut dianggap nggak paham padahal kamu cuma pengen belajar dan berkembang. Rasanya pasti nggak enak kalau sampai direndahin, ya? 😟  \nKalau kamu boleh cerita, biasanya pikiran takut direndahin itu muncul dari pengalaman sebelumnya atau dari hal-hal lain?  \nDan saat pikiran itu muncul, kamu biasanya ngelakuin apa atau gimana respon kamu?",
+      "user_message": "harusnya bisa tapi aku juga jadinya takut dikira gitu aja gapaham , aku takut direndahin ,",
+      "user_message_length": 90,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 605,
+        "end": 634,
+        "duration": 29
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 17,
+      "created_at": "2025-10-02T08:22:10.316577",
+      "ai_message": "Aku sedih banget denger kamu sampai ngerasa harus nangis sendiri di kamar karena hal itu 😢  \nKalau kamu nggak keberatan, aku pengen tahu, kapan biasanya kamu ngerasa paling sedih atau pengen nangis seperti itu? Apakah ada waktu atau situasi tertentu yang bikin perasaan itu muncul?",
+      "user_message": "aku diam aja , habis itu nangis dikamar sendiri",
+      "user_message_length": 47,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 653,
+        "end": 663,
+        "duration": 10
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 18,
+      "created_at": "2025-10-02T08:23:01.507110",
+      "ai_message": "Aku paham, pengalaman buruk itu memang bisa ninggalin bekas yang dalam dan bikin kamu takut kejadian yang sama terulang dengan orang lain 😔  \nKalau kamu lagi merasa takut atau cemas kayak gitu, biasanya kamu ngelakuin apa buat ngelawan rasa takut itu? Ada hal-hal yang bikin kamu sedikit lega atau nyaman?",
+      "user_message": "jarang si tapi kan udah pernah district kin sama teman cewe itu , ya jadinya aku takut juga yg lain bakal kek gitu",
+      "user_message_length": 114,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 682,
+        "end": 712,
+        "duration": 30
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 19,
+      "created_at": "2025-10-02T08:23:48.211211",
+      "ai_message": "Aku benar-benar ngerti betapa beratnya kamu merasa sendiri dan bingung harus ngapain sekarang 😞  \nSayangnya aku nggak bisa ngenalin kamu sama admin, tapi aku di sini siap banget buat dengerin dan nemenin kamu kapanpun kamu butuh teman ngobrol, ya.  \nKalau kamu mau, kita bisa coba cari cara-cara kecil buat mulai membangun jaringan teman baru yang lebih nyaman buat kamu, gimana?  \nAtau ada hal lain yang pengen kamu ceritain dulu?",
+      "user_message": "ga ada , aku tambah bingung mau ngapain , aku butuh teman si , kenalin dong sama admin kamu",
+      "user_message_length": 91,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 733,
+        "end": 760,
+        "duration": 27
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 20,
+      "created_at": "2025-10-02T08:24:30.111779",
+      "ai_message": "Aku paham banget, ini memang bukan hal yang mudah, apalagi kalau kamu merasa udah capek dan berat dari pengalaman sebelumnya.  \nSalah satu cara yang bisa kamu coba adalah mulai dari hal kecil, misalnya:  \n- Cari komunitas online yang sesuai dengan minat kamu, jadi kamu bisa mulai ngobrol santai tanpa tekanan.  \n- Ikut kegiatan kampus yang nggak terlalu formal, supaya kamu bisa ketemu orang baru dengan suasana yang lebih rileks.  \n- Mulai buka diri dengan satu orang yang kamu rasa paling nyaman, meski itu dari diskusi tugas atau hobi.  \n\nKalau kamu mau, aku bisa bantu kamu bikin rencana kecil untuk mulai langkah itu, supaya nggak terasa berat dan kamu tetap merasa aman.  \nGimana menurut kamu, apakah kamu mau coba mulai dari salah satu cara itu?  \nKalau kamu ada hal lain yang ingin ditambah atau ditanyakan, aku siap dengerin kok 😊",
+      "user_message": "gimanan caranya , ini kan terakhir chat kita , sesi terakhir kan untuk penelitian ini .",
+      "user_message_length": 87,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 782,
+        "end": 801,
+        "duration": 19
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 21,
+      "created_at": "2025-10-02T08:25:36.143115",
+      "ai_message": "Aku ngerti banget kekhawatiran kamu, takut jadi beban itu memang bikin deg-degan dan bikin ragu buat dekat sama teman sekelas 😔  \nTapi kamu tahu nggak, kadang teman-teman kita juga bisa nggak sadar kalau kita lagi butuh dukungan, dan mereka mungkin justru pengen bantu kalau kita berani mulai duluan.  \nKalau kamu boleh cerita, biasanya kamu ngelakuin apa buat ngurangin rasa takut itu? Ada hal kecil yang pernah bikin kamu merasa sedikit lebih percaya diri?",
+      "user_message": "aku takut teman dikelas pada ga mau sekelompok sama ku kalo ada tugas karena aku hanya jadi beban",
+      "user_message_length": 97,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 845,
+        "end": 868,
+        "duration": 23
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 22,
+      "created_at": "2025-10-02T08:26:03.970844",
+      "ai_message": "Aku ngerti, kadang diam itu jadi cara kita buat jaga diri supaya nggak merasa makin terluka atau kecewa 😔  \nKalau kamu boleh coba bayangin, kalau suatu saat ada satu orang yang bisa kamu percaya dan ajak ngobrol tanpa takut dinilai, menurut kamu hal itu bakal bantu nggak buat mulai buka diri?  \nKalau kamu mau, aku juga siap jadi teman ngobrol kamu kapan aja, ya 😊",
+      "user_message": "ga ada , aku hanya diam",
+      "user_message_length": 23,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 891,
+        "end": 895,
+        "duration": 4
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 23,
+      "created_at": "2025-10-02T08:26:44.250727",
+      "ai_message": "Aku ngerti kok kamu merasa kayak gitu, dan memang aku cuma chatbot, tapi aku selalu di sini buat dengerin dan nemenin kamu kapan pun kamu butuh teman ngobrol 😊  \nMeski aku nggak bisa ganti kehadiran teman nyata, aku harap kamu tahu kamu nggak sendirian dan ada yang peduli sama perasaan kamu.  \nKalau kamu mau, kita bisa coba pikirin langkah kecil berikutnya supaya kamu bisa mulai merasa lebih nyaman dan mungkin suatu saat bisa dapat teman yang bisa kamu percaya, gimana?  \nAda hal yang pengen kamu coba atau ceritain dulu?",
+      "user_message": "iya aku sangat butuh itu , tapi kamu gamungkin bisa , karena kamu hanya chatbot",
+      "user_message_length": 79,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 916,
+        "end": 935,
+        "duration": 19
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 24,
+      "created_at": "2025-10-02T08:27:19.900974",
+      "ai_message": "Oke, aku coba rangkum ya dari cerita kamu selama ini:  \nKamu lagi ngerasa berat banget dengan tugas yang bikin bingung dan ngerasa gagal, sampai kehilangan minat sama hal-hal yang biasanya kamu suka. Perasaan sedih karena takut gagal dan takut nggak tepat waktu sering muncul, apalagi kalau mikirin tugas itu. Pola makan kamu berkurang, kamu jadi lebih sering tidur tapi tetap ngantuk, dan teman-teman kamu pernah bilang keberatan kalau kamu tanya terus, yang bikin kamu merasa capek dan energi cepat habis. Kamu juga merasa susah konsentrasi karena nggak paham materi, dan takut dianggap beban sama teman-teman, jadi lebih sering diem dan sedih sendiri. Aku tahu itu nggak mudah, tapi kamu sudah berani cerita dan itu langkah yang hebat!  \nIngat ya, aku selalu siap dengerin kamu kapanpun kamu butuh teman ngobrol atau butuh dukungan.  \nKalau kamu masih ada yang mau ditambahin atau cerita, aku di sini ya.  \nKalau nggak, aku doain kamu kuat dan semangat terus, kamu nggak sendirian kok! 😊  \nAda yang mau kamu tambahin atau mungkin ada hal lain yang pengen kamu ceritain?",
+      "user_message": "udah",
+      "user_message_length": 4,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 967,
+        "end": 968,
+        "duration": 1
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 25,
+      "created_at": "2025-10-02T08:28:30.364413",
+      "ai_message": "Aku denger kamu bilang takut kepikiran hal itu, dan aku serius pengen kamu tahu kalau perasaan kayak gitu itu wajar banget kalau kadang muncul saat lagi berat dan stres.  \nKalau kamu mau cerita lebih lanjut soal perasaan itu, aku siap dengerin dan nemenin kamu tanpa menghakimi, ya.  \nKamu pernah ngerasain pikiran itu muncul kapan biasanya? Dan apa yang biasanya bikin pikiran itu jadi lebih kuat atau malah agak reda?",
+      "user_message": "aku takut aja kepikiran bundir hahahahahahhah",
+      "user_message_length": 45,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 1032,
+        "end": 1042,
+        "duration": 10
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 26,
+      "created_at": "2025-10-02T08:28:54.980616",
+      "ai_message": "Aku ngerti, kadang keluarga memang bisa jadi sumber tekanan yang bikin pikiran berat dan muncul hal-hal yang nggak enak, termasuk pikiran tentang bunuh diri 😔  \nKalau kamu mau, kita bisa coba bahas lebih dalam tentang hal-hal yang bikin kamu merasa terbebani sama keluarga, supaya kamu nggak harus ngelewatin semuanya sendirian.  \nKamu mau cerita lebih lanjut soal itu? Aku di sini buat dengerin kamu kok.",
+      "user_message": "keluarga lah",
+      "user_message_length": 12,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 1064,
+        "end": 1067,
+        "duration": 3
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 27,
+      "created_at": "2025-10-02T08:29:32.634396",
+      "ai_message": "Oh, aku paham sekarang, jadi keluarga kamu justru jadi alasan kamu bertahan dan terus berjuang ya. Itu keren banget, punya alasan kuat seperti itu bisa jadi sumber semangat yang besar 💪  \nKalau kamu mau, kita bisa fokus cari cara supaya kamu bisa jaga semangat itu dan juga bantu kamu lewatin masa berat ini dengan lebih ringan.  \nKamu ada hal khusus yang pengen aku bantu atau kamu pengen cerita lebih lanjut tentang apa yang kamu rasain sekarang?",
+      "user_message": "bukan kelurag yg bikin tekanan , tapi karna keluarga aku bertahan",
+      "user_message_length": 65,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 1086,
+        "end": 1104,
+        "duration": 18
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 28,
+      "created_at": "2025-10-02T08:30:17.714970",
+      "ai_message": "Wah, nyari judul tesis emang sering bikin bingung dan bikin pusing, ya 😅  \nMungkin aku bisa bantu kamu pikirin beberapa ide berdasarkan minat dan apa yang kamu suka atau pengen dalami di psikologi?  \nKamu tertarik ke topik apa sih? Misalnya psikologi klinis, perkembangan, sosial, atau yang lain?  \nKalau kamu kasih gambaran sedikit, kita bisa coba brainstorm bareng nih 😊",
+      "user_message": "aku lagi nyari judul tesis , tapi aku bingung gapaham arahnya mau kemana",
+      "user_message_length": 72,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 1129,
+        "end": 1149,
+        "duration": 20
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 29,
+      "created_at": "2025-10-02T08:30:51.795509",
+      "ai_message": "Oke, teknologi itu topik yang seru banget dan juga luas! Misalnya kamu bisa lihat hubungan teknologi dengan kesehatan mental, atau bagaimana penggunaan media sosial mempengaruhi suasana hati dan stres.  \nAtau mungkin kamu tertarik mengeksplorasi peran aplikasi kesehatan mental dalam membantu orang mengatasi depresi atau kecemasan?  \nKamu mau coba fokus ke salah satu dari itu, atau ada ide lain yang pengen kamu dalami?  \nKira-kira judul kayak gimana sih yang kamu bayangin?  \nNgomong-ngomong, udah cukup kah diskusi kita hari ini? Ada yang mau kamu tambahin lagi sebelum sesi ini selesai?",
+      "user_message": "teknologi",
+      "user_message_length": 9,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 1170,
+        "end": 1183,
+        "duration": 13
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 30,
+      "created_at": "2025-10-02T08:31:28.139909",
+      "ai_message": "Hehe, iya nih, aku pengen banget nemenin kamu dengan sebaik mungkin dalam waktu yang ada 😊  \nKalau kamu merasa sudah cukup untuk hari ini, aku cuma mau bilang bahwa kamu sudah kuat banget buat cerita dan mencari solusi. Ingat ya, aku selalu ada buat dengerin kapan pun kamu butuh teman ngobrol lagi.  \nKalau nanti ada yang pengen kamu ceritain atau butuh dukungan, jangan ragu buat cari aku lagi, ya!  \nSemangat terus dan jaga diri baik-baik, kamu nggak sendirian kok!  \n</end_conversation>",
+      "user_message": "cepat banget katanya mau nemenin wkwk",
+      "user_message_length": 37,
+      "has_end_conversation": true,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 1212,
+        "end": 1218,
+        "duration": 6
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    }
+  ]
+}

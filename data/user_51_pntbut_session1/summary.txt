@@ -1,0 +1,55 @@
+FACIAL ANALYSIS EXPORT
+======================
+
+Session Information:
+- Session ID: 5b475f7b-7898-4252-bfd4-77689f7f8e92
+- User: pntbut (ID: 51)
+- Session Number: 1
+- Created: 2025-09-22 05:09:53
+- Status: COMPLETED
+- Assessment Order: phq first
+
+Assessment Completion:
+- PHQ Assessment: ✓ Completed
+- LLM Assessment: ✓ Completed
+
+PHQ Results Summary:
+- Total Score: 5/27
+- Categories Assessed: 9
+
+Facial Analysis Results:
+------------------------
+
+PHQ Assessment Analysis:
+- Status: completed
+- Total Images Processed: 87
+- Faces Detected: 87
+- Failed: 0
+- Processing Time: 121.83s
+- Avg Time per Image: 911.45ms
+- Dominant Emotion: Happiness
+
+LLM Assessment Analysis:
+- Status: completed
+- Total Images Processed: 343
+- Faces Detected: 343
+- Failed: 0
+- Processing Time: 471.99s
+- Avg Time per Image: 890.99ms
+- Dominant Emotion: Neutral
+
+Export Contents:
+----------------
+- session_info.json - Session metadata
+- phq_responses.json - PHQ assessment responses
+- llm_conversation.json - LLM conversation history
+- facial_analysis/phq_analysis.jsonl - PHQ facial analysis results (frame-by-frame)
+- facial_analysis/llm_analysis.jsonl - LLM facial analysis results (frame-by-frame)
+- facial_analysis/metadata.json - Processing metadata and statistics
+
+NOTE: This export contains PHQ/LLM data + JSONL files. Images are NOT included.
+      For images, use the regular User Sessions export.
+
+Generated: 2025-10-21 16:01:39
+
+Note: This export contains sensitive mental health data. Handle with appropriate confidentiality.

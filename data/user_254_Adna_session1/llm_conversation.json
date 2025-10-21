@@ -1,0 +1,366 @@
+{
+  "total_conversations": 19,
+  "conversations": [
+    {
+      "turn_number": 1,
+      "created_at": "2025-09-23T17:11:47.573014",
+      "ai_message": "Aku ngerti, kadang memang ada hari-hari yang rasanya begitulah ya. Kalau aku boleh tahu, selama dua minggu terakhir ini, teman kamu ada nggak sih yang keliatan mulai nggak tertarik lagi sama hal-hal yang biasanya bikin dia semangat? Misalnya hobi atau kegiatan yang biasanya dia suka?",
+      "user_message": "Ya begitulah",
+      "user_message_length": 12,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 6,
+        "end": 10,
+        "duration": 4
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 2,
+      "created_at": "2025-09-23T17:12:08.411537",
+      "ai_message": "Oke, kalau minat dan kesenangannya masih relatif sama, itu bagus sih. Nah, bagaimana dengan suasana hati teman kamu? Apakah dia sering terlihat sedih, murung, atau suasananya tertekan hampir setiap hari?",
+      "user_message": "Aku rasa gak ada",
+      "user_message_length": 16,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 26,
+        "end": 31,
+        "duration": 5
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 3,
+      "created_at": "2025-09-23T17:12:27.528919",
+      "ai_message": "Kalau begitu, itu juga hal yang positif ya. Kalau teman kamu selama dua minggu terakhir ini, ada nggak sih perubahan yang signifikan di berat badan atau nafsu makannya? Misalnya tiba-tiba jadi lebih banyak makan atau malah kehilangan nafsu makan?",
+      "user_message": "Aku rasa tidak",
+      "user_message_length": 14,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 47,
+        "end": 50,
+        "duration": 3
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 4,
+      "created_at": "2025-09-23T17:12:46.554536",
+      "ai_message": "Wajar kok, kadang perubahan itu nggak langsung kelihatan dari luar. Kalau boleh tahu, biasanya teman kamu cerita nggak soal pola makannya? Atau mungkin ada hal yang bisa bikin pola makannya berubah, misalnya stres atau perubahan jadwal?",
+      "user_message": "Kalau itu sih aku kurang Tau",
+      "user_message_length": 28,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 59,
+        "end": 67,
+        "duration": 8
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 5,
+      "created_at": "2025-09-23T17:13:00.920799",
+      "ai_message": "Oke, makasih ya udah jujur. Kadang emang susah buat tahu semua hal, apalagi soal pola makan orang lain. Nah, mungkin dari sisi tidurnya, selama dua minggu terakhir ini, teman kamu ada nggak sih yang kelihatan susah tidur, atau malah tidur berlebihan? Biasanya kalau susah tidur itu ada pikiran atau kebiasaan tertentu yang bikin susah tidur?",
+      "user_message": "Jujur enggak",
+      "user_message_length": 12,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 76,
+        "end": 83,
+        "duration": 7
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 6,
+      "created_at": "2025-09-23T17:13:25.924281",
+      "ai_message": "Makasih udah bilang jujur. Kalau tidur teman kamu masih cukup dan teratur, itu hal yang baik. Nah, apakah teman kamu belakangan ini ada kelihatan lebih lambat gerak atau bicara? Atau justru terlihat gelisah atau nggak bisa diem? Kadang perubahan itu bisa jadi tanda kalau lagi banyak pikiran.",
+      "user_message": "Jujur engga",
+      "user_message_length": 11,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 92,
+        "end": 100,
+        "duration": 8
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 7,
+      "created_at": "2025-09-23T17:13:34.245010",
+      "ai_message": "Bagus kalau teman kamu masih seperti biasanya dari segi gerak dan bicara. Terus nih, selama dua minggu terakhir, teman kamu ada nggak sih kelihatan cepat capek atau kehilangan energi, misalnya biasanya aktif tiba-tiba jadi sering lelah? Biasanya kalau energi turun, ada hal tertentu yang jadi penyebabnya?",
+      "user_message": "Kayaknya engga",
+      "user_message_length": 14,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 112,
+        "end": 116,
+        "duration": 4
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 8,
+      "created_at": "2025-09-23T17:13:44.520104",
+      "ai_message": "Gak apa-apa kok kalau kamu kurang tahu, kadang hal-hal kayak gitu memang nggak langsung kelihatan kalau kita nggak benar-benar dekat. Kalau boleh tahu, teman kamu pernah nggak bilang atau nunjukin rasa nggak berharga, atau mungkin merasa bersalah berlebihan akhir-akhir ini? Biasanya hal itu muncul karena hal tertentu nggak sih?",
+      "user_message": "Aku kurang tau",
+      "user_message_length": 14,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 123,
+        "end": 127,
+        "duration": 4
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 9,
+      "created_at": "2025-09-23T17:13:56.738915",
+      "ai_message": "Oke, makasih ya udah jawab. Kalau teman kamu enggak menunjukkan rasa bersalah atau merasa nggak berharga, itu berarti dari sisi itu dia cukup stabil. Nah, selama dua minggu terakhir, teman kamu ada gak kesulitan buat fokus atau konsentrasi? Misalnya susah mengambil keputusan atau gampang banget terganggu saat belajar atau ngerjain tugas?",
+      "user_message": "Enggak sih",
+      "user_message_length": 10,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 134,
+        "end": 138,
+        "duration": 4
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 10,
+      "created_at": "2025-09-23T17:14:44.868882",
+      "ai_message": "Wajar banget kalau kamu merasa gak tahu soal itu, kadang fokus dan konsentrasi itu hal yang personal dan gak selalu keliatan dari luar. Kalau kamu perhatiin, ada gak sih hal-hal kayak notifikasi atau kekhawatiran tertentu yang biasanya bikin teman kamu jadi gampang terganggu atau susah fokus? Atau mungkin dia pernah cerita soal itu?",
+      "user_message": "Gak tau",
+      "user_message_length": 7,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 180,
+        "end": 187,
+        "duration": 7
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 11,
+      "created_at": "2025-09-23T17:14:55.411246",
+      "ai_message": "Gak apa-apa, makasih udah jujur ya. Kadang emang susah banget buat tahu hal-hal kayak gitu dari orang lain. Terakhir nih, selama dua minggu terakhir, teman kamu ada gak pernah bilang atau nunjukin pikiran tentang kematian atau bunuh diri? Kalau iya, biasanya kapan dan kenapa itu muncul?",
+      "user_message": "Aku gak tau",
+      "user_message_length": 11,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 195,
+        "end": 198,
+        "duration": 3
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 12,
+      "created_at": "2025-09-23T17:15:04.221761",
+      "ai_message": "Terima kasih sudah jujur, kadang memang susah banget buat tahu hal-hal yang sangat pribadi seperti itu. Dari yang kamu ceritain, sepertinya teman kamu cukup stabil dari beberapa aspek yang kita bahas tadi. Kamu sendiri gimana, apakah kamu merasa ada hal yang lagi berat atau pengen dibicarain? Aku siap dengerin kok 😊",
+      "user_message": "Aku gak tau",
+      "user_message_length": 11,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 203,
+        "end": 207,
+        "duration": 4
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 13,
+      "created_at": "2025-09-23T17:15:43.867435",
+      "ai_message": "Aku ngerti banget, itu pasti rasanya berat ya, apalagi kalau udah berhenti minum obat dan merasa relapse. Boleh cerita nggak, biasanya apa sih yang bikin kamu merasa relapse itu muncul? Apakah ada gejala atau perasaan tertentu yang kamu rasain?",
+      "user_message": "Gak tau sih, somehow aku kayaknya lumayan relapse karena udah ga minum obat lagi",
+      "user_message_length": 80,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 218,
+        "end": 247,
+        "duration": 29
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 14,
+      "created_at": "2025-09-23T17:16:23.207337",
+      "ai_message": "Wah, itu memang terasa berat banget ya. Gelisah, marah, dan suasana hati yang berubah-ubah bisa bikin kita capek sendiri. Kalau boleh tahu, gejala-gejala itu biasanya muncul kapan dan seberapa sering? Misalnya setiap hari, atau cuma kadang-kadang aja?",
+      "user_message": "Gelisah, marah, suasana hati berubah rubah, sesak di dada, dan kadang resah tertekan",
+      "user_message_length": 84,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 255,
+        "end": 285,
+        "duration": 30
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 15,
+      "created_at": "2025-09-23T17:16:33.023698",
+      "ai_message": "Setiap hari, ya... itu pasti bikin kamu merasa kelelahan juga, ya? Kalau sesak di dada dan rasa resah tertekan itu, biasanya ada hal tertentu yang memicu atau bikin makin parah, misalnya pikiran atau situasi tertentu? Atau kadang datang begitu saja?",
+      "user_message": "Setiap hari",
+      "user_message_length": 11,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 291,
+        "end": 295,
+        "duration": 4
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 16,
+      "created_at": "2025-09-23T17:16:52.875669",
+      "ai_message": "Aku paham, kadang perasaan kayak gitu bisa muncul tanpa kita harapkan, dan itu bikin semuanya terasa makin berat. Kalau kamu ingat, saat perasaan itu muncul, biasanya kamu ngelakuin apa? Ada hal-hal tertentu yang bisa sedikit membantu meredakan atau mengalihkan perasaan itu?",
+      "user_message": "Datang begitu saja",
+      "user_message_length": 18,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 310,
+        "end": 315,
+        "duration": 5
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 17,
+      "created_at": "2025-09-23T17:17:08.512958",
+      "ai_message": "Itu langkah yang bagus banget, mencoba untuk tenang itu penting. Kadang cuma dengan tarik napas dalam-dalam atau duduk sejenak bisa sedikit membantu. Kalau kamu mau, aku siap dengerin terus dan menemani kamu kapan pun kamu butuh, ya. Ada hal lain yang pengen kamu ceritain atau kamu rasain sekarang?",
+      "user_message": "Aku akan coba tenang",
+      "user_message_length": 20,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 321,
+        "end": 331,
+        "duration": 10
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 18,
+      "created_at": "2025-09-23T17:17:40.500760",
+      "ai_message": "Aku setuju banget, psikoterapi dan dukungan dari psikolog bisa sangat membantu untuk melewati masa-masa sulit ini. Semoga kamu bisa segera mendapatkan bantuan yang kamu butuhkan ya. Kalau nanti kamu butuh teman untuk cerita atau sekadar didengar, aku selalu ada buat kamu. Apakah ada hal lain yang ingin kamu tambahkan atau tanyakan sebelum kita akhiri pembicaraan ini?",
+      "user_message": "Gak ada, aku juga butuh soon psikoterapi dan psikolog",
+      "user_message_length": 53,
+      "has_end_conversation": false,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 335,
+        "end": 363,
+        "duration": 28
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    },
+    {
+      "turn_number": 19,
+      "created_at": "2025-09-23T17:17:48.539512",
+      "ai_message": "Oke, makasih banget ya udah mau cerita dan berbagi sampai sini. Ingat, kamu nggak sendiri kok, dan aku selalu siap dengerin kapan pun kamu butuh. Semoga langkah kamu buat cari bantuan jadi awal yang baik buat kamu. Kalau nanti ada apa-apa, jangan ragu buat cerita lagi, ya. Semangat terus, kamu kuat! 😊</end_conversation>",
+      "user_message": "Gak asa",
+      "user_message_length": 7,
+      "has_end_conversation": true,
+      "ai_model_used": "gpt-4.1-mini-2025-04-14",
+      "user_timing": {
+        "start": 368,
+        "end": 370,
+        "duration": 2
+      },
+      "ai_timing": {
+        "start": null,
+        "end": null,
+        "duration": null
+      }
+    }
+  ]
+}

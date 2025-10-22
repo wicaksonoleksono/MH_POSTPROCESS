@@ -5,7 +5,7 @@ from pathlib import Path
 from typing import Any
 
 from llm_postprocessor.schemas.input_schemas import SessionData
-from llm_postprocessor.io.conversation_loader import ConversationLoader
+from llm_postprocessor.io.conversation_loader import ConversationLoader, ChatHistoryFormatter
 
 
 class JsonReader:
@@ -65,3 +65,15 @@ class JsonReader:
                 if line.strip():
                     results.append(json.loads(line))
         return results
+
+    @staticmethod
+    def format_conversation(file_path: str | Path) -> str:
+        """Load and format conversation for LLM prompts (mahasiswa/sindi format).
+
+        Args:
+            file_path: Path to llm_conversation.json
+
+        Returns:
+            Formatted conversation string
+        """
+        return ChatHistoryFormatter.format_from_file(file_path)

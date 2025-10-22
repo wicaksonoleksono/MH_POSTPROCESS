@@ -25,15 +25,15 @@ class ConversationLoader:
         messages = []
 
         for turn in conversations:
-            # AI message first
-            ai_msg = turn.get("ai_message")
-            if ai_msg:
-                messages.append({"role": "ai", "content": ai_msg})
-
-            # Then user message
+            # User message first
             user_msg = turn.get("user_message")
             if user_msg:
                 messages.append({"role": "user", "content": user_msg})
+
+            # Then AI message
+            ai_msg = turn.get("ai_message")
+            if ai_msg:
+                messages.append({"role": "ai", "content": ai_msg})
 
         return messages
 
@@ -51,15 +51,15 @@ class ConversationLoader:
         messages = []
 
         for turn in conversations:
-            # AI message first
-            ai_msg = turn.get("ai_message")
-            if ai_msg:
-                messages.append({"role": "ai", "content": ai_msg})
-
-            # Then user message
+            # User message first
             user_msg = turn.get("user_message")
             if user_msg:
                 messages.append({"role": "user", "content": user_msg})
+
+            # Then AI message
+            ai_msg = turn.get("ai_message")
+            if ai_msg:
+                messages.append({"role": "ai", "content": ai_msg})
 
         return messages
 
@@ -76,14 +76,138 @@ class ConversationLoader:
         messages = []
 
         for turn in conversations:
-            # AI message first
-            ai_msg = turn.get("ai_message")
-            if ai_msg:
-                messages.append({"role": "ai", "content": ai_msg})
-
-            # Then user message
+            # User message first
             user_msg = turn.get("user_message")
             if user_msg:
                 messages.append({"role": "user", "content": user_msg})
 
+            # Then AI message
+            ai_msg = turn.get("ai_message")
+            if ai_msg:
+                messages.append({"role": "ai", "content": ai_msg})
+
         return messages
+
+
+class ChatHistoryFormatter:
+    """Format conversation messages for LLM prompts."""
+
+    # Role mapping configurations
+    ROLE_MAP = {
+        "user": "mahasiswa",
+        "ai": "sindi",
+    }
+
+    @staticmethod
+    def validate_messages(messages: list[dict[str, str]]) -> bool:
+        """Validate message structure.
+
+        Args:
+            messages: List of message dicts
+
+        Returns:
+            True if valid, False otherwise
+        """
+        if not messages:
+            return False
+
+        for msg in messages:
+            if not isinstance(msg, dict):
+                return False
+            if "role" not in msg or "content" not in msg:
+                return False
+            if not msg.get("content"):
+                return False
+
+        return True
+
+    @staticmethod
+    def format_messages(
+        messages: list[dict[str, str]],
+        role_map: dict[str, str] | None = None,
+        include_metadata: bool = False,
+    ) -> str:
+        """Format messages to structured format.
+
+        Args:
+            messages: List of {"role": "user"|"ai", "content": "..."} dicts
+            role_map: Custom role mapping (default: {"user": "mahasiswa", "ai": "sindi"})
+            include_metadata: Include turn numbers and stats (default: False)
+
+        Returns:
+            Formatted conversation string
+        """
+        if not ChatHistoryFormatter.validate_messages(messages):
+            raise ValueError("Invalid message structure")
+
+        role_map = role_map or ChatHistoryFormatter.ROLE_MAP
+        formatted_lines = []
+
+        for turn, msg in enumerate(messages, 1):
+            role = msg.get("role", "")
+            content = msg.get("content", "").strip()
+
+            if role and content:
+                formatted_role = role_map.get(role, role)
+
+                if include_metadata:
+                    formatted_lines.append(f"[Turn {turn}] {formatted_role}: {content}")
+                else:
+                    formatted_lines.append(f"{formatted_role}: {content}")
+
+        return "\n".join(formatted_lines)
+
+    @staticmethod
+    def format_from_file(
+        file_path: str | Path,
+        role_map: dict[str, str] | None = None,
+        include_metadata: bool = False,
+    ) -> str:
+        """Load conversation from file and format for prompts.
+
+        Args:
+            file_path: Path to llm_conversation.json
+            role_map: Custom role mapping
+            include_metadata: Include turn numbers and stats
+
+        Returns:
+            Formatted conversation string
+        """
+        messages = ConversationLoader.load_from_file(file_path)
+        return ChatHistoryFormatter.format_messages(
+            messages, role_map=role_map, include_metadata=include_metadata
+        )
+
+    @staticmethod
+    def get_stats(messages: list[dict[str, str]]) -> dict:
+        """Get conversation statistics.
+
+        Args:
+            messages: List of messages
+
+        Returns:
+            Dictionary with stats: {"total": count, "mahasiswa": count, "sindi": count, "avg_length": float}
+        """
+        if not messages:
+            return {"total": 0, "mahasiswa": 0, "sindi": 0, "avg_length": 0.0}
+
+        role_counts = {"user": 0, "ai": 0}
+        total_chars = 0
+
+        for msg in messages:
+            role = msg.get("role", "")
+            content = msg.get("content", "")
+            if role in role_counts:
+                role_counts[role] += 1
+            total_chars += len(content)
+
+        total = len(messages)
+        avg_length = total_chars / total if total > 0 else 0
+
+        return {
+            "total": total,
+            "mahasiswa": role_counts["user"],
+            "sindi": role_counts["ai"],
+            "avg_length": round(avg_length, 2),
+            "total_chars": total_chars,
+        }

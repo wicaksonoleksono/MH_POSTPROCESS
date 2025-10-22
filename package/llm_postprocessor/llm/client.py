@@ -18,20 +18,20 @@ class OpenAIClient(LLMClient):
 
     def __init__(
         self,
-        model_name: str = "gpt-3.5-turbo",
-        temperature: float = 0.7,
-        max_tokens: int = 2000,
+        model_name: str = "",
+        temperature: float = 0,
+        seed:int=42,
     ):
         self.model_name = model_name
         self.temperature = temperature
-        self.max_tokens = max_tokens
+        self.seed = seed
 
     def get_client(self) -> BaseChatModel:
         """Get OpenAI LLM client (reads OPENAI_API_KEY from env)."""
         return ChatOpenAI(
             model=self.model_name,
             temperature=self.temperature,
-            max_tokens=self.max_tokens,
+            seed = self.seed
         )
 
 class TogetherAIClient(LLMClient):
@@ -39,18 +39,18 @@ class TogetherAIClient(LLMClient):
 
     def __init__(
         self,
-        model_name: str = "meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo",
-        temperature: float = 0.7,
-        max_tokens: int = 2000,
+        model_name: str = "",
+        temperature: float = 0,
+        seed : int = 0
     ):
         self.model_name = model_name
         self.temperature = temperature
-        self.max_tokens = max_tokens
+        self.seed = seed
 
     def get_client(self) -> BaseChatModel:
         """Get TogetherAI LLM client (reads TOGETHER_API_KEY from env)."""
         return ChatTogether(
             model=self.model_name,
             temperature=self.temperature,
-            max_tokens=self.max_tokens,
+            seed=self.seed
         )

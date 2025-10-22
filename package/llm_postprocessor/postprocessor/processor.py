@@ -14,10 +14,8 @@ from llm_postprocessor.io.conversation_loader import ChatHistoryFormatter
 
 class PostProcessor:
     """Main post-processor for LLM analysis."""
-
     def __init__(self, settings: Optional[Settings] = None):
         """Initialize post-processor.
-
         Args:
             settings: Application settings. If None, loads from environment.
         """

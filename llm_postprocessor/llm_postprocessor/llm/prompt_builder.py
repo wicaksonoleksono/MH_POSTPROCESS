@@ -2,7 +2,6 @@
 
 from typing import Any
 from langchain_core.messages import HumanMessage, AIMessage, SystemMessage
-
 from llm_postprocessor.schemas.aspects import PHQAspects
 from llm_postprocessor.schemas.scale import PHQScales
 from llm_postprocessor.llm.prompts import (
@@ -34,24 +33,17 @@ class PromptBuilder:
             List of LangChain messages (HumanMessage, AIMessage)
         """
         messages = []
-
-        # Turn 1: Human instruction
         human_msg_1 = HumanMessage(
             content=HUMAN_INST_1.format()
         )
         messages.append(human_msg_1)
-
-        # Turn 1: AI response
         ai_msg_1 = AIMessage(
             content=AI_RESPONSE_1.format()
         )
         messages.append(ai_msg_1)
-
-        # Turn 2: Human provides aspects and scales
         aspects_str = PHQAspects.get_aspect()
         phq_scale_str = PHQScales.format_scale("phq_scale")
         operational_scale_str = PHQScales.format_scale("operational_scale")
-
         human_msg_2 = HumanMessage(
             content=HUMAN_INST_2.format(
                 aspects=aspects_str,
@@ -60,16 +52,11 @@ class PromptBuilder:
             )
         )
         messages.append(human_msg_2)
-
-        # Turn 2: AI response
         ai_msg_2 = AIMessage(
             content=AI_RESPONSE_2.format()
         )
         messages.append(ai_msg_2)
-
-        # Turn 3: Human provides chat history for analysis
         chat_history_str = self._format_chat_history(chat_history)
-
         human_msg_3 = HumanMessage(
             content=HUMAN_INST_3.format(chatHistory=chat_history_str)
         )

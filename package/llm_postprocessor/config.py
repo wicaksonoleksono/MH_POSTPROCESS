@@ -2,7 +2,7 @@
 
 from typing import Literal
 
-from pydantic import Field
+from pydantic import Field, ConfigDict
 
 try:
     # Prefer dedicated package available in Pydantic v2 ecosystem
@@ -30,9 +30,11 @@ class LLMSettings(BaseSettings):
     temperature: float = Field(default=0.7, description="Model temperature")
     max_tokens: int = Field(default=2000, description="Maximum tokens in response")
 
-    class Config:
-        env_file = ".env"
-        env_prefix = "LLM_"
+    model_config = ConfigDict(
+        env_file=".env",
+        env_prefix="LLM_",
+        extra="ignore"  # Allow extra fields from environment
+    )
 
 
 class ProcessorSettings(BaseSettings):
@@ -42,9 +44,11 @@ class ProcessorSettings(BaseSettings):
     output_dir: str = Field(default="./output", description="Output directory")
     batch_size: int = Field(default=10, description="Batch size for processing")
 
-    class Config:
-        env_file = ".env"
-        env_prefix = "PROCESSOR_"
+    model_config = ConfigDict(
+        env_file=".env",
+        env_prefix="PROCESSOR_",
+        extra="ignore"
+    )
 
 
 class Settings(BaseSettings):
@@ -53,8 +57,10 @@ class Settings(BaseSettings):
     llm: LLMSettings = Field(default_factory=LLMSettings)
     processor: ProcessorSettings = Field(default_factory=ProcessorSettings)
 
-    class Config:
-        env_file = ".env"
+    model_config = ConfigDict(
+        env_file=".env",
+        extra="ignore"
+    )
 
 
 def get_settings() -> Settings:

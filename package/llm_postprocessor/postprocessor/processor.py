@@ -198,7 +198,8 @@ class BatchFileProcessor:
 
                 output_file = output_subfolder / "analysis_result.json"
                 with open(output_file, "w", encoding="utf-8") as f:
-                    json.dump(_model_to_dict(result), f, indent=2, ensure_ascii=False)
+                    # Use model_dump_json for proper serialization
+                    f.write(result.model_dump_json(indent=2))
 
                 results.append({
                     "folder": folder.name,

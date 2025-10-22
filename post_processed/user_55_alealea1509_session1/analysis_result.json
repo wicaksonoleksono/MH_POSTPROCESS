@@ -1,0 +1,18 @@
+{
+  "user_id": "user_55_alealea1509",
+  "session_id": "session1",
+  "llm_extraction": {
+    "key_themes": [
+      "error"
+    ],
+    "overall_sentiment": "error",
+    "risk_factors": [],
+    "insights": "LLM extraction failed: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable"
+  },
+  "processed_at": "2025-10-22T16:05:46.030853",
+  "metadata": {
+    "folder_name": "user_55_alealea1509_session1",
+    "data_path": "data/user_55_alealea1509_session1/llm_conversation.json",
+    "formatted_conversation": "mahasiswa: Hari ini rasanya capek, dan crowded parah. Walau kelas start jam 1 tapi sampe jam 9 malem gada stop buat istirahat karena ngejar deadline 2 tugas dihari yg sama\nsindi: Wah, capek banget ya kamu hari ini, sampai gak sempat istirahat sama sekali? Biasanya setelah hari yang sibuk banget gitu, kamu masih sempat ngerasa seneng sama hal-hal kecil yang biasanya kamu suka nggak?\nmahasiswa: Masih kok\nsindi: Bagus ya masih ada hal-hal yang bikin kamu seneng walaupun lagi sibuk banget, itu penting banget buat jaga semangat. Tapi aku penasaran, pas lagi sibuk dan capek gitu, apakah kamu sering merasa pikiranmu terus muter-muter tentang masalah tugas atau hal lain sampai susah berhenti mikir?\nmahasiswa: IYAA MASIH KEPIKIRANN takut ada yg kelewat dan kurang aja dikerjain\nsindi: Aku ngerti banget, rasanya berat ya kalau pikiran terus nyangkut gitu sampai nggak bisa istirahat beneran; kamu jadi merasa stres banget nggak sih waktu kayak gitu?\nmahasiswa: Tertekan hahah\nsindi: Wajar banget sih kamu ngerasa tertekan, apalagi kalau beban tugas numpuk terus. Biasanya, saat merasa tertekan kayak gitu, kamu jadi lebih gampang kesal atau marah nggak sih ke orang-orang sekitar atau ke diri sendiri?\nmahasiswa: Nggaa sih. Aku lebih banyak diem kl berkutat dengan pikiranku sendiri\nsindi: Aku paham, kadang memang berat kalau pikiran terus berputar seperti itu, kamu lagi banyak mikirin apa sih akhir-akhir ini?\nmahasiswa: Sudah dulu ya\nsindi: Makasih banget ya udah mau cerita dan berbagi hari ini, aku selalu ada buat kamu kalau butuh teman ngobrol lagi kapan saja. Jaga diri baik-baik ya! </end_conversation>"
+  }
+}

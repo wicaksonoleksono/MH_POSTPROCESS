@@ -1,0 +1,18 @@
+{
+  "user_id": "user_65_elvaranira",
+  "session_id": "session1",
+  "llm_extraction": {
+    "key_themes": [
+      "error"
+    ],
+    "overall_sentiment": "error",
+    "risk_factors": [],
+    "insights": "LLM extraction failed: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable"
+  },
+  "processed_at": "2025-10-22T16:05:46.033203",
+  "metadata": {
+    "folder_name": "user_65_elvaranira_session1",
+    "data_path": "data/user_65_elvaranira_session1/llm_conversation.json",
+    "formatted_conversation": "mahasiswa: baik\nsindi: Senang dengar kabar kamu baik, akhir-akhir ini kegiatan atau hobi yang biasanya kamu suka, masih terasa menyenangkan nggak?\nmahasiswa: jangan tanya tersubdong, udh ngulang 3 kali ini\nsindi: Maaf ya kalau aku nanya terlalu banyak, aku cuma pengen ngerti kamu lebih baik supaya bisa bantu kamu dengan tepat. Kalau kamu mau cerita atau curhat, aku siap dengerin kok. Kamu sendiri biasanya gimana sih, kalau lagi banyak pikiran?\nmahasiswa: aku gamau cerita appaun ke kamu\nsindi: Aku ngerti kok, kadang emang nggak gampang buat cerita, dan aku hargai kamu udah jujur. Kalau kamu mau, aku cuma pengen dengerin kamu aja, tanpa penilaian, kapan pun kamu siap ya. Kamu lagi sering ngerasa kayak gimana sih belakangan ini?\nmahasiswa: cukup\nsindi: Aku ngerti, terima kasih ya udah bilang. Kalau kamu merasa pengen ngobrol lagi kapan-kapan, aku selalu ada buat kamu kok. Jangan ragu buat cerita kapan pun kamu butuh teman buat dengerin, ya. Jaga diri baik-baik, ya! </end_conversation>\nmahasiswa: kamu mau mencuri dataku ya\nsindi: Enggak sama sekali, aku di sini cuma pengen jadi teman yang bisa dengerin kamu dengan tulus dan nggak akan nyalahin atau ambil apa pun dari kamu. Kamu nyaman cerita apa nggak, aku di sini buat kamu kok."
+  }
+}

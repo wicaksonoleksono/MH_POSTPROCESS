@@ -1,7 +1,7 @@
 {
   "user_id": "user_161_rogertwo1",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:13.436629",
+  "processed_at": "2025-10-23T15:27:21.703675",
   "metadata": {
     "folder_name": "user_161_rogertwo1_session1",
     "data_path": "data/user_161_rogertwo1_session1/llm_conversation.json",
@@ -381,10 +381,111 @@
         "completed_at": "2025-10-20T11:02:37.595484"
       }
     },
-    "phq_analysis_file": "user_161_rogertwo1_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_161_rogertwo1_session1/llm_analysis.jsonl",
+    "llm_frames_by_turn_file": "user_161_rogertwo1_session1/llm_frames_by_turn.json",
     "phq_responses_file": "user_161_rogertwo1_session1/phq_responses.json",
-    "session_metadata_file": "user_161_rogertwo1_session1/metadata.json"
+    "session_metadata_file": "user_161_rogertwo1_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_161_rogertwo1_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_161_rogertwo1_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_161_rogertwo1_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_161_rogertwo1_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 12,
+            "end": 13
+          },
+          {
+            "turn_number": 2,
+            "start": 25,
+            "end": 28
+          },
+          {
+            "turn_number": 3,
+            "start": 38,
+            "end": 40
+          },
+          {
+            "turn_number": 4,
+            "start": 49,
+            "end": 51
+          },
+          {
+            "turn_number": 5,
+            "start": 61,
+            "end": 61
+          },
+          {
+            "turn_number": 6,
+            "start": 72,
+            "end": 73
+          },
+          {
+            "turn_number": 7,
+            "start": 89,
+            "end": 93
+          },
+          {
+            "turn_number": 8,
+            "start": 100,
+            "end": 105
+          },
+          {
+            "turn_number": 9,
+            "start": 123,
+            "end": 132
+          },
+          {
+            "turn_number": 10,
+            "start": 141,
+            "end": 142
+          },
+          {
+            "turn_number": 11,
+            "start": 150,
+            "end": 152
+          },
+          {
+            "turn_number": 12,
+            "start": 159,
+            "end": 160
+          },
+          {
+            "turn_number": 13,
+            "start": 171,
+            "end": 173
+          },
+          {
+            "turn_number": 14,
+            "start": 180,
+            "end": 181
+          },
+          {
+            "turn_number": 15,
+            "start": 185,
+            "end": 188
+          },
+          {
+            "turn_number": 16,
+            "start": 194,
+            "end": 195
+          },
+          {
+            "turn_number": 17,
+            "start": 202,
+            "end": 204
+          },
+          {
+            "turn_number": 18,
+            "start": 211,
+            "end": 212
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -397,7 +498,7 @@
     },
     "total_rows": 30,
     "data_rows": 29,
-    "file_path": "user_161_rogertwo1_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 0,
       "max_possible_score": 27,
@@ -531,6 +632,24 @@
         },
         "started_at": "2025-10-20T10:57:52.187362",
         "completed_at": "2025-10-20T10:58:25.359366"
+      },
+      "frame_count": 29,
+      "emotion_distribution": {
+        "Neutral": 28
+      },
+      "average_au_intensities": {
+        "au_1": 0.0477,
+        "au_2": 0.0406,
+        "au_4": 0.064,
+        "au_5": 0.026,
+        "au_6": 0.0191,
+        "au_9": 0.0299,
+        "au_12": 0.0335,
+        "au_15": 0.074,
+        "au_17": 0.1113,
+        "au_20": 0.0746,
+        "au_25": 0.0058,
+        "au_26": 0.0318
       }
     }
   },
@@ -545,7 +664,7 @@
     },
     "total_rows": 210,
     "data_rows": 209,
-    "file_path": "user_161_rogertwo1_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -572,7 +691,49 @@
         },
         "started_at": "2025-10-20T10:58:01.944853",
         "completed_at": "2025-10-20T11:02:37.595484"
-      }
+      },
+      "frame_count": 208,
+      "emotion_distribution": {
+        "Neutral": 192,
+        "Happiness": 13
+      },
+      "average_au_intensities": {
+        "au_1": 0.043,
+        "au_2": 0.0364,
+        "au_4": 0.0541,
+        "au_5": 0.0219,
+        "au_6": 0.0146,
+        "au_9": 0.0281,
+        "au_12": 0.0525,
+        "au_15": 0.0613,
+        "au_17": 0.0538,
+        "au_20": 0.0475,
+        "au_25": 0.0295,
+        "au_26": 0.0383
+      },
+      "frames_per_turn": {
+        "1": 2,
+        "2": 15,
+        "3": 12,
+        "4": 12,
+        "5": 10,
+        "6": 13,
+        "7": 20,
+        "8": 13,
+        "9": 28,
+        "10": 10,
+        "11": 10,
+        "12": 9,
+        "13": 13,
+        "14": 8,
+        "15": 8,
+        "16": 7,
+        "17": 9,
+        "18": 9
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

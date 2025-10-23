@@ -1,7 +1,7 @@
 {
   "user_id": "user_63_Herwinprakasiwi",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:15.126939",
+  "processed_at": "2025-10-23T15:27:31.989436",
   "metadata": {
     "folder_name": "user_63_Herwinprakasiwi_session1",
     "data_path": "data/user_63_Herwinprakasiwi_session1/llm_conversation.json",
@@ -386,10 +386,111 @@
         "completed_at": "2025-10-20T09:47:16.108025"
       }
     },
-    "phq_analysis_file": "user_63_Herwinprakasiwi_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_63_Herwinprakasiwi_session1/llm_analysis.jsonl",
+    "llm_frames_by_turn_file": "user_63_Herwinprakasiwi_session1/llm_frames_by_turn.json",
     "phq_responses_file": "user_63_Herwinprakasiwi_session1/phq_responses.json",
-    "session_metadata_file": "user_63_Herwinprakasiwi_session1/metadata.json"
+    "session_metadata_file": "user_63_Herwinprakasiwi_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_63_Herwinprakasiwi_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_63_Herwinprakasiwi_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_63_Herwinprakasiwi_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_63_Herwinprakasiwi_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 5,
+            "end": 6
+          },
+          {
+            "turn_number": 2,
+            "start": 18,
+            "end": 20
+          },
+          {
+            "turn_number": 3,
+            "start": 28,
+            "end": 32
+          },
+          {
+            "turn_number": 4,
+            "start": 45,
+            "end": 52
+          },
+          {
+            "turn_number": 5,
+            "start": 66,
+            "end": 76
+          },
+          {
+            "turn_number": 6,
+            "start": 87,
+            "end": 100
+          },
+          {
+            "turn_number": 7,
+            "start": 110,
+            "end": 111
+          },
+          {
+            "turn_number": 8,
+            "start": 128,
+            "end": 132
+          },
+          {
+            "turn_number": 9,
+            "start": 148,
+            "end": 153
+          },
+          {
+            "turn_number": 10,
+            "start": 162,
+            "end": 165
+          },
+          {
+            "turn_number": 11,
+            "start": 176,
+            "end": 182
+          },
+          {
+            "turn_number": 12,
+            "start": 190,
+            "end": 193
+          },
+          {
+            "turn_number": 13,
+            "start": 200,
+            "end": 201
+          },
+          {
+            "turn_number": 14,
+            "start": 220,
+            "end": 221
+          },
+          {
+            "turn_number": 15,
+            "start": 231,
+            "end": 237
+          },
+          {
+            "turn_number": 16,
+            "start": 243,
+            "end": 245
+          },
+          {
+            "turn_number": 17,
+            "start": 254,
+            "end": 256
+          },
+          {
+            "turn_number": 18,
+            "start": 277,
+            "end": 278
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -402,7 +503,7 @@
     },
     "total_rows": 56,
     "data_rows": 55,
-    "file_path": "user_63_Herwinprakasiwi_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 2,
       "max_possible_score": 27,
@@ -541,6 +642,25 @@
         },
         "started_at": "2025-10-20T09:40:21.943182",
         "completed_at": "2025-10-20T09:41:34.915434"
+      },
+      "frame_count": 55,
+      "emotion_distribution": {
+        "Neutral": 16,
+        "Happiness": 38
+      },
+      "average_au_intensities": {
+        "au_1": 0.2156,
+        "au_2": 0.1135,
+        "au_4": 0.5286,
+        "au_5": 0.1031,
+        "au_6": 0.3259,
+        "au_9": 0.1685,
+        "au_12": 0.2506,
+        "au_15": 0.2498,
+        "au_17": 0.1623,
+        "au_20": 0.1379,
+        "au_25": 0.6368,
+        "au_26": 0.3357
       }
     }
   },
@@ -555,7 +675,7 @@
     },
     "total_rows": 282,
     "data_rows": 281,
-    "file_path": "user_63_Herwinprakasiwi_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -582,7 +702,49 @@
         },
         "started_at": "2025-10-20T09:40:42.186057",
         "completed_at": "2025-10-20T09:47:16.108025"
-      }
+      },
+      "frame_count": 280,
+      "emotion_distribution": {
+        "Happiness": 53,
+        "Neutral": 216
+      },
+      "average_au_intensities": {
+        "au_1": 0.0901,
+        "au_2": 0.0512,
+        "au_4": 0.1732,
+        "au_5": 0.0417,
+        "au_6": 0.0598,
+        "au_9": 0.0719,
+        "au_12": 0.0438,
+        "au_15": 0.1684,
+        "au_17": 0.0795,
+        "au_20": 0.0745,
+        "au_25": 0.1167,
+        "au_26": 0.1086
+      },
+      "frames_per_turn": {
+        "1": 2,
+        "2": 14,
+        "3": 12,
+        "4": 21,
+        "5": 24,
+        "6": 25,
+        "7": 11,
+        "8": 21,
+        "9": 22,
+        "10": 12,
+        "11": 17,
+        "12": 12,
+        "13": 8,
+        "14": 20,
+        "15": 17,
+        "16": 8,
+        "17": 11,
+        "18": 23
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

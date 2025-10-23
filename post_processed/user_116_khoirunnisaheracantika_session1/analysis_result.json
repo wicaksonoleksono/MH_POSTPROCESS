@@ -1,7 +1,7 @@
 {
   "user_id": "user_116_khoirunnisaheracantika",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:13.021428",
+  "processed_at": "2025-10-23T15:27:19.284459",
   "metadata": {
     "folder_name": "user_116_khoirunnisaheracantika_session1",
     "data_path": "data/user_116_khoirunnisaheracantika_session1/llm_conversation.json",
@@ -759,10 +759,216 @@
         "completed_at": "2025-10-20T10:15:16.202095"
       }
     },
-    "phq_analysis_file": "user_116_khoirunnisaheracantika_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_116_khoirunnisaheracantika_session1/llm_analysis.jsonl",
+    "llm_frames_by_turn_file": "user_116_khoirunnisaheracantika_session1/llm_frames_by_turn.json",
     "phq_responses_file": "user_116_khoirunnisaheracantika_session1/phq_responses.json",
-    "session_metadata_file": "user_116_khoirunnisaheracantika_session1/metadata.json"
+    "session_metadata_file": "user_116_khoirunnisaheracantika_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_116_khoirunnisaheracantika_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_116_khoirunnisaheracantika_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_116_khoirunnisaheracantika_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_116_khoirunnisaheracantika_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 5,
+            "end": 24
+          },
+          {
+            "turn_number": 2,
+            "start": 31,
+            "end": 41
+          },
+          {
+            "turn_number": 3,
+            "start": 79,
+            "end": 99
+          },
+          {
+            "turn_number": 4,
+            "start": 107,
+            "end": 128
+          },
+          {
+            "turn_number": 5,
+            "start": 147,
+            "end": 183
+          },
+          {
+            "turn_number": 6,
+            "start": 233,
+            "end": 268
+          },
+          {
+            "turn_number": 7,
+            "start": 285,
+            "end": 346
+          },
+          {
+            "turn_number": 8,
+            "start": 373,
+            "end": 385
+          },
+          {
+            "turn_number": 9,
+            "start": 398,
+            "end": 419
+          },
+          {
+            "turn_number": 10,
+            "start": 430,
+            "end": 433
+          },
+          {
+            "turn_number": 11,
+            "start": 447,
+            "end": 463
+          },
+          {
+            "turn_number": 12,
+            "start": 476,
+            "end": 508
+          },
+          {
+            "turn_number": 13,
+            "start": 533,
+            "end": 541
+          },
+          {
+            "turn_number": 14,
+            "start": 553,
+            "end": 599
+          },
+          {
+            "turn_number": 15,
+            "start": 618,
+            "end": 621
+          },
+          {
+            "turn_number": 16,
+            "start": 637,
+            "end": 644
+          },
+          {
+            "turn_number": 17,
+            "start": 654,
+            "end": 683
+          },
+          {
+            "turn_number": 18,
+            "start": 711,
+            "end": 723
+          },
+          {
+            "turn_number": 19,
+            "start": 738,
+            "end": 764
+          },
+          {
+            "turn_number": 20,
+            "start": 782,
+            "end": 795
+          },
+          {
+            "turn_number": 21,
+            "start": 22829,
+            "end": 22936
+          },
+          {
+            "turn_number": 22,
+            "start": 22958,
+            "end": 22964
+          },
+          {
+            "turn_number": 23,
+            "start": 22979,
+            "end": 23038
+          },
+          {
+            "turn_number": 24,
+            "start": 23052,
+            "end": 23082
+          },
+          {
+            "turn_number": 25,
+            "start": 23107,
+            "end": 23131
+          },
+          {
+            "turn_number": 26,
+            "start": 23147,
+            "end": 23181
+          },
+          {
+            "turn_number": 27,
+            "start": 23196,
+            "end": 23252
+          },
+          {
+            "turn_number": 28,
+            "start": 23265,
+            "end": 23268
+          },
+          {
+            "turn_number": 29,
+            "start": 23310,
+            "end": 23330
+          },
+          {
+            "turn_number": 30,
+            "start": 23347,
+            "end": 23361
+          },
+          {
+            "turn_number": 31,
+            "start": 23377,
+            "end": 23383
+          },
+          {
+            "turn_number": 32,
+            "start": 23412,
+            "end": 23433
+          },
+          {
+            "turn_number": 33,
+            "start": 23442,
+            "end": 23444
+          },
+          {
+            "turn_number": 34,
+            "start": 23458,
+            "end": 23488
+          },
+          {
+            "turn_number": 35,
+            "start": 23549,
+            "end": 23603
+          },
+          {
+            "turn_number": 36,
+            "start": 23623,
+            "end": 23662
+          },
+          {
+            "turn_number": 37,
+            "start": 23683,
+            "end": 23737
+          },
+          {
+            "turn_number": 38,
+            "start": 23764,
+            "end": 23824
+          },
+          {
+            "turn_number": 39,
+            "start": 23850,
+            "end": 23984
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -775,7 +981,7 @@
     },
     "total_rows": 168,
     "data_rows": 167,
-    "file_path": "user_116_khoirunnisaheracantika_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 8,
       "max_possible_score": 27,
@@ -910,6 +1116,25 @@
         },
         "started_at": "2025-10-20T09:57:48.831447",
         "completed_at": "2025-10-20T10:01:26.050804"
+      },
+      "frame_count": 167,
+      "emotion_distribution": {
+        "Neutral": 156,
+        "Happiness": 9
+      },
+      "average_au_intensities": {
+        "au_1": 0.0521,
+        "au_2": 0.0333,
+        "au_4": 0.1208,
+        "au_5": 0.0239,
+        "au_6": 0.0116,
+        "au_9": 0.037,
+        "au_12": 0.0134,
+        "au_15": 0.0856,
+        "au_17": 0.0706,
+        "au_20": 0.053,
+        "au_25": 0.0161,
+        "au_26": 0.0407
       }
     }
   },
@@ -924,7 +1149,7 @@
     },
     "total_rows": 1880,
     "data_rows": 1879,
-    "file_path": "user_116_khoirunnisaheracantika_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -950,7 +1175,70 @@
         },
         "started_at": "2025-10-20T09:58:01.924630",
         "completed_at": "2025-10-20T10:15:16.202095"
-      }
+      },
+      "frame_count": 1878,
+      "emotion_distribution": {
+        "Happiness": 315,
+        "Neutral": 13
+      },
+      "average_au_intensities": {
+        "au_1": 0.0066,
+        "au_2": 0.0065,
+        "au_4": 0.0221,
+        "au_5": 0.0051,
+        "au_6": 0.0021,
+        "au_9": 0.0048,
+        "au_12": 0.0016,
+        "au_15": 0.0187,
+        "au_17": 0.0153,
+        "au_20": 0.0117,
+        "au_25": 0.0014,
+        "au_26": 0.0068
+      },
+      "frames_per_turn": {
+        "1": 2,
+        "2": 1,
+        "3": 5,
+        "4": 2,
+        "5": 4,
+        "6": 7,
+        "7": 6,
+        "8": 3,
+        "9": 3,
+        "10": 1,
+        "11": 2,
+        "12": 4,
+        "13": 2,
+        "14": 5,
+        "15": 2,
+        "16": 2,
+        "17": 3,
+        "18": 3,
+        "19": 3,
+        "20": 2,
+        "21": 1733,
+        "22": 3,
+        "23": 5,
+        "24": 4,
+        "25": 4,
+        "26": 4,
+        "27": 5,
+        "28": 1,
+        "29": 5,
+        "30": 3,
+        "31": 1,
+        "32": 4,
+        "33": 1,
+        "34": 4,
+        "35": 9,
+        "36": 4,
+        "37": 6,
+        "38": 7,
+        "39": 13
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

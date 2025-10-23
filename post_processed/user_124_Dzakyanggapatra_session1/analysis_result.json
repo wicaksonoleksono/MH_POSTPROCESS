@@ -1,7 +1,7 @@
 {
   "user_id": "user_124_Dzakyanggapatra",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:13.069440",
+  "processed_at": "2025-10-23T15:27:19.541403",
   "metadata": {
     "folder_name": "user_124_Dzakyanggapatra_session1",
     "data_path": "data/user_124_Dzakyanggapatra_session1/llm_conversation.json",
@@ -423,10 +423,121 @@
         "completed_at": "2025-10-20T11:10:38.959577"
       }
     },
-    "phq_analysis_file": "user_124_Dzakyanggapatra_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_124_Dzakyanggapatra_session1/llm_analysis.jsonl",
+    "llm_frames_by_turn_file": "user_124_Dzakyanggapatra_session1/llm_frames_by_turn.json",
     "phq_responses_file": "user_124_Dzakyanggapatra_session1/phq_responses.json",
-    "session_metadata_file": "user_124_Dzakyanggapatra_session1/metadata.json"
+    "session_metadata_file": "user_124_Dzakyanggapatra_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_124_Dzakyanggapatra_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_124_Dzakyanggapatra_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_124_Dzakyanggapatra_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_124_Dzakyanggapatra_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 6,
+            "end": 9
+          },
+          {
+            "turn_number": 2,
+            "start": 18,
+            "end": 54
+          },
+          {
+            "turn_number": 3,
+            "start": 59,
+            "end": 82
+          },
+          {
+            "turn_number": 4,
+            "start": 94,
+            "end": 135
+          },
+          {
+            "turn_number": 5,
+            "start": 147,
+            "end": 157
+          },
+          {
+            "turn_number": 6,
+            "start": 163,
+            "end": 178
+          },
+          {
+            "turn_number": 7,
+            "start": 209,
+            "end": 215
+          },
+          {
+            "turn_number": 8,
+            "start": 246,
+            "end": 251
+          },
+          {
+            "turn_number": 9,
+            "start": 261,
+            "end": 273
+          },
+          {
+            "turn_number": 10,
+            "start": 286,
+            "end": 303
+          },
+          {
+            "turn_number": 11,
+            "start": 318,
+            "end": 323
+          },
+          {
+            "turn_number": 12,
+            "start": 333,
+            "end": 337
+          },
+          {
+            "turn_number": 13,
+            "start": 348,
+            "end": 355
+          },
+          {
+            "turn_number": 14,
+            "start": 363,
+            "end": 381
+          },
+          {
+            "turn_number": 15,
+            "start": 409,
+            "end": 421
+          },
+          {
+            "turn_number": 16,
+            "start": 440,
+            "end": 442
+          },
+          {
+            "turn_number": 17,
+            "start": 455,
+            "end": 463
+          },
+          {
+            "turn_number": 18,
+            "start": 472,
+            "end": 483
+          },
+          {
+            "turn_number": 19,
+            "start": 490,
+            "end": 495
+          },
+          {
+            "turn_number": 20,
+            "start": 539,
+            "end": 544
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -439,7 +550,7 @@
     },
     "total_rows": 71,
     "data_rows": 70,
-    "file_path": "user_124_Dzakyanggapatra_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 5,
       "max_possible_score": 27,
@@ -576,6 +687,25 @@
         },
         "started_at": "2025-10-20T10:58:25.375298",
         "completed_at": "2025-10-20T10:59:56.373688"
+      },
+      "frame_count": 70,
+      "emotion_distribution": {
+        "Neutral": 54,
+        "Happiness": 15
+      },
+      "average_au_intensities": {
+        "au_1": 0.0375,
+        "au_2": 0.037,
+        "au_4": 0.063,
+        "au_5": 0.0276,
+        "au_6": 0.0318,
+        "au_9": 0.0356,
+        "au_12": 0.0258,
+        "au_15": 0.0489,
+        "au_17": 0.0524,
+        "au_20": 0.0552,
+        "au_25": 0.2378,
+        "au_26": 0.0799
       }
     }
   },
@@ -590,7 +720,7 @@
     },
     "total_rows": 546,
     "data_rows": 545,
-    "file_path": "user_124_Dzakyanggapatra_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -620,7 +750,54 @@
         },
         "started_at": "2025-10-20T10:58:43.180969",
         "completed_at": "2025-10-20T11:10:38.959577"
-      }
+      },
+      "frame_count": 544,
+      "emotion_distribution": {
+        "Happiness": 129,
+        "Neutral": 359,
+        "Surprise": 5,
+        "Anger": 1,
+        "Sadness": 1
+      },
+      "average_au_intensities": {
+        "au_1": 0.0302,
+        "au_2": 0.0328,
+        "au_4": 0.0503,
+        "au_5": 0.0278,
+        "au_6": 0.0609,
+        "au_9": 0.0299,
+        "au_12": 0.1274,
+        "au_15": 0.0492,
+        "au_17": 0.0527,
+        "au_20": 0.0616,
+        "au_25": 0.2071,
+        "au_26": 0.0845
+      },
+      "frames_per_turn": {
+        "1": 4,
+        "2": 45,
+        "3": 28,
+        "4": 54,
+        "5": 22,
+        "6": 21,
+        "7": 37,
+        "8": 37,
+        "9": 22,
+        "10": 30,
+        "11": 20,
+        "12": 15,
+        "13": 18,
+        "14": 26,
+        "15": 40,
+        "16": 22,
+        "17": 21,
+        "18": 20,
+        "19": 12,
+        "20": 50
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

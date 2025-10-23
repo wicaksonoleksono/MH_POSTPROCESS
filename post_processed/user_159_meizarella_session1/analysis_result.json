@@ -1,7 +1,7 @@
 {
   "user_id": "user_159_meizarella",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:13.409021",
+  "processed_at": "2025-10-23T15:27:21.572960",
   "metadata": {
     "folder_name": "user_159_meizarella_session1",
     "data_path": "data/user_159_meizarella_session1/llm_conversation.json",
@@ -468,10 +468,136 @@
         "completed_at": "2025-10-20T11:59:07.965434"
       }
     },
-    "phq_analysis_file": "user_159_meizarella_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_159_meizarella_session1/llm_analysis.jsonl",
+    "llm_frames_by_turn_file": "user_159_meizarella_session1/llm_frames_by_turn.json",
     "phq_responses_file": "user_159_meizarella_session1/phq_responses.json",
-    "session_metadata_file": "user_159_meizarella_session1/metadata.json"
+    "session_metadata_file": "user_159_meizarella_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_159_meizarella_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_159_meizarella_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_159_meizarella_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_159_meizarella_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 5,
+            "end": 6
+          },
+          {
+            "turn_number": 2,
+            "start": 11,
+            "end": 12
+          },
+          {
+            "turn_number": 3,
+            "start": 35,
+            "end": 42
+          },
+          {
+            "turn_number": 4,
+            "start": 57,
+            "end": 58
+          },
+          {
+            "turn_number": 5,
+            "start": 66,
+            "end": 69
+          },
+          {
+            "turn_number": 6,
+            "start": 83,
+            "end": 85
+          },
+          {
+            "turn_number": 7,
+            "start": 90,
+            "end": 96
+          },
+          {
+            "turn_number": 8,
+            "start": 101,
+            "end": 108
+          },
+          {
+            "turn_number": 9,
+            "start": 117,
+            "end": 118
+          },
+          {
+            "turn_number": 10,
+            "start": 130,
+            "end": 132
+          },
+          {
+            "turn_number": 11,
+            "start": 137,
+            "end": 138
+          },
+          {
+            "turn_number": 12,
+            "start": 154,
+            "end": 155
+          },
+          {
+            "turn_number": 13,
+            "start": 161,
+            "end": 162
+          },
+          {
+            "turn_number": 14,
+            "start": 170,
+            "end": 196
+          },
+          {
+            "turn_number": 15,
+            "start": 203,
+            "end": 206
+          },
+          {
+            "turn_number": 16,
+            "start": 214,
+            "end": 216
+          },
+          {
+            "turn_number": 17,
+            "start": 233,
+            "end": 241
+          },
+          {
+            "turn_number": 18,
+            "start": 247,
+            "end": 248
+          },
+          {
+            "turn_number": 19,
+            "start": 256,
+            "end": 264
+          },
+          {
+            "turn_number": 20,
+            "start": 271,
+            "end": 274
+          },
+          {
+            "turn_number": 21,
+            "start": 279,
+            "end": 290
+          },
+          {
+            "turn_number": 22,
+            "start": 294,
+            "end": 300
+          },
+          {
+            "turn_number": 23,
+            "start": 306,
+            "end": 317
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -484,7 +610,7 @@
     },
     "total_rows": 72,
     "data_rows": 71,
-    "file_path": "user_159_meizarella_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 12,
       "max_possible_score": 27,
@@ -619,6 +745,25 @@
         },
         "started_at": "2025-10-20T11:50:29.320857",
         "completed_at": "2025-10-20T11:52:05.092548"
+      },
+      "frame_count": 71,
+      "emotion_distribution": {
+        "Happiness": 20,
+        "Neutral": 50
+      },
+      "average_au_intensities": {
+        "au_1": 0.0496,
+        "au_2": 0.0393,
+        "au_4": 0.0406,
+        "au_5": 0.0267,
+        "au_6": 0.0156,
+        "au_9": 0.0401,
+        "au_12": 0.0161,
+        "au_15": 0.0966,
+        "au_17": 0.0444,
+        "au_20": 0.0539,
+        "au_25": 0.0292,
+        "au_26": 0.0435
       }
     }
   },
@@ -633,7 +778,7 @@
     },
     "total_rows": 320,
     "data_rows": 319,
-    "file_path": "user_159_meizarella_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -656,7 +801,54 @@
         },
         "started_at": "2025-10-20T11:52:01.930241",
         "completed_at": "2025-10-20T11:59:07.965434"
-      }
+      },
+      "frame_count": 318,
+      "emotion_distribution": {
+        "Neutral": 308,
+        "Happiness": 8
+      },
+      "average_au_intensities": {
+        "au_1": 0.0406,
+        "au_2": 0.0287,
+        "au_4": 0.0381,
+        "au_5": 0.0223,
+        "au_6": 0.0107,
+        "au_9": 0.032,
+        "au_12": 0.0137,
+        "au_15": 0.1033,
+        "au_17": 0.041,
+        "au_20": 0.0473,
+        "au_25": 0.0259,
+        "au_26": 0.0367
+      },
+      "frames_per_turn": {
+        "1": 2,
+        "2": 6,
+        "3": 30,
+        "4": 16,
+        "5": 12,
+        "6": 16,
+        "7": 11,
+        "8": 12,
+        "9": 10,
+        "10": 15,
+        "11": 6,
+        "12": 17,
+        "13": 7,
+        "14": 35,
+        "15": 10,
+        "16": 10,
+        "17": 25,
+        "18": 7,
+        "19": 17,
+        "20": 10,
+        "21": 16,
+        "22": 10,
+        "23": 18
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

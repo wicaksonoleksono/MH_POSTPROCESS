@@ -1,7 +1,7 @@
 {
   "user_id": "user_250_finnzhida",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:14.390365",
+  "processed_at": "2025-10-23T15:27:27.347321",
   "metadata": {
     "folder_name": "user_250_finnzhida_session1",
     "data_path": "data/user_250_finnzhida_session1/llm_conversation.json",
@@ -349,10 +349,101 @@
         "completed_at": "2025-10-20T12:57:09.876208"
       }
     },
-    "phq_analysis_file": "user_250_finnzhida_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_250_finnzhida_session1/llm_analysis.jsonl",
+    "llm_frames_by_turn_file": "user_250_finnzhida_session1/llm_frames_by_turn.json",
     "phq_responses_file": "user_250_finnzhida_session1/phq_responses.json",
-    "session_metadata_file": "user_250_finnzhida_session1/metadata.json"
+    "session_metadata_file": "user_250_finnzhida_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_250_finnzhida_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_250_finnzhida_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_250_finnzhida_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_250_finnzhida_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 10,
+            "end": 18
+          },
+          {
+            "turn_number": 2,
+            "start": 39,
+            "end": 43
+          },
+          {
+            "turn_number": 3,
+            "start": 59,
+            "end": 62
+          },
+          {
+            "turn_number": 4,
+            "start": 97,
+            "end": 144
+          },
+          {
+            "turn_number": 5,
+            "start": 165,
+            "end": 193
+          },
+          {
+            "turn_number": 6,
+            "start": 233,
+            "end": 235
+          },
+          {
+            "turn_number": 7,
+            "start": 257,
+            "end": 263
+          },
+          {
+            "turn_number": 8,
+            "start": 273,
+            "end": 282
+          },
+          {
+            "turn_number": 9,
+            "start": 296,
+            "end": 297
+          },
+          {
+            "turn_number": 10,
+            "start": 311,
+            "end": 316
+          },
+          {
+            "turn_number": 11,
+            "start": 336,
+            "end": 353
+          },
+          {
+            "turn_number": 12,
+            "start": 367,
+            "end": 385
+          },
+          {
+            "turn_number": 13,
+            "start": 397,
+            "end": 399
+          },
+          {
+            "turn_number": 14,
+            "start": 412,
+            "end": 413
+          },
+          {
+            "turn_number": 15,
+            "start": 431,
+            "end": 439
+          },
+          {
+            "turn_number": 16,
+            "start": 452,
+            "end": 455
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -365,7 +456,7 @@
     },
     "total_rows": 124,
     "data_rows": 123,
-    "file_path": "user_250_finnzhida_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 2,
       "max_possible_score": 27,
@@ -501,6 +592,24 @@
         },
         "started_at": "2025-10-20T12:45:03.776719",
         "completed_at": "2025-10-20T12:47:37.269779"
+      },
+      "frame_count": 123,
+      "emotion_distribution": {
+        "Neutral": 122
+      },
+      "average_au_intensities": {
+        "au_1": 0.5091,
+        "au_2": 0.2904,
+        "au_4": 0.049,
+        "au_5": 0.0557,
+        "au_6": 0.0194,
+        "au_9": 0.0458,
+        "au_12": 0.0323,
+        "au_15": 0.1081,
+        "au_17": 0.4258,
+        "au_20": 0.2345,
+        "au_25": 0.0029,
+        "au_26": 0.0525
       }
     }
   },
@@ -515,7 +624,7 @@
     },
     "total_rows": 453,
     "data_rows": 452,
-    "file_path": "user_250_finnzhida_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -544,7 +653,49 @@
         },
         "started_at": "2025-10-20T12:46:21.924512",
         "completed_at": "2025-10-20T12:57:09.876208"
-      }
+      },
+      "frame_count": 451,
+      "emotion_distribution": {
+        "Neutral": 394,
+        "Surprise": 3,
+        "Happiness": 49,
+        "Sadness": 1
+      },
+      "average_au_intensities": {
+        "au_1": 0.0685,
+        "au_2": 0.0462,
+        "au_4": 0.0747,
+        "au_5": 0.0265,
+        "au_6": 0.0207,
+        "au_9": 0.0485,
+        "au_12": 0.0234,
+        "au_15": 0.1208,
+        "au_17": 0.1128,
+        "au_20": 0.0607,
+        "au_25": 0.0137,
+        "au_26": 0.0456
+      },
+      "frames_per_turn": {
+        "1": 9,
+        "2": 25,
+        "3": 19,
+        "4": 83,
+        "5": 50,
+        "6": 42,
+        "7": 28,
+        "8": 20,
+        "9": 15,
+        "10": 19,
+        "11": 37,
+        "12": 33,
+        "13": 14,
+        "14": 14,
+        "15": 26,
+        "16": 17
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "user_id": "user_244_Neraner",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:14.256645",
+  "processed_at": "2025-10-23T15:27:26.440285",
   "metadata": {
     "folder_name": "user_244_Neraner_session1",
     "data_path": "data/user_244_Neraner_session1/llm_conversation.json",
@@ -432,10 +432,126 @@
         "completed_at": "2025-10-20T13:37:53.496964"
       }
     },
-    "phq_analysis_file": "user_244_Neraner_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_244_Neraner_session1/llm_analysis.jsonl",
+    "llm_frames_by_turn_file": "user_244_Neraner_session1/llm_frames_by_turn.json",
     "phq_responses_file": "user_244_Neraner_session1/phq_responses.json",
-    "session_metadata_file": "user_244_Neraner_session1/metadata.json"
+    "session_metadata_file": "user_244_Neraner_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_244_Neraner_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_244_Neraner_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_244_Neraner_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_244_Neraner_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 4,
+            "end": 4
+          },
+          {
+            "turn_number": 2,
+            "start": 11,
+            "end": 14
+          },
+          {
+            "turn_number": 3,
+            "start": 30,
+            "end": 56
+          },
+          {
+            "turn_number": 4,
+            "start": 70,
+            "end": 131
+          },
+          {
+            "turn_number": 5,
+            "start": 140,
+            "end": 151
+          },
+          {
+            "turn_number": 6,
+            "start": 156,
+            "end": 160
+          },
+          {
+            "turn_number": 7,
+            "start": 164,
+            "end": 174
+          },
+          {
+            "turn_number": 8,
+            "start": 177,
+            "end": 178
+          },
+          {
+            "turn_number": 9,
+            "start": 182,
+            "end": 185
+          },
+          {
+            "turn_number": 10,
+            "start": 189,
+            "end": 193
+          },
+          {
+            "turn_number": 11,
+            "start": 199,
+            "end": 220
+          },
+          {
+            "turn_number": 12,
+            "start": 224,
+            "end": 226
+          },
+          {
+            "turn_number": 13,
+            "start": 233,
+            "end": 241
+          },
+          {
+            "turn_number": 14,
+            "start": 251,
+            "end": 272
+          },
+          {
+            "turn_number": 15,
+            "start": 277,
+            "end": 279
+          },
+          {
+            "turn_number": 16,
+            "start": 292,
+            "end": 307
+          },
+          {
+            "turn_number": 17,
+            "start": 318,
+            "end": 337
+          },
+          {
+            "turn_number": 18,
+            "start": 353,
+            "end": 378
+          },
+          {
+            "turn_number": 19,
+            "start": 393,
+            "end": 406
+          },
+          {
+            "turn_number": 20,
+            "start": 431,
+            "end": 443
+          },
+          {
+            "turn_number": 21,
+            "start": 454,
+            "end": 455
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -448,7 +564,7 @@
     },
     "total_rows": 30,
     "data_rows": 29,
-    "file_path": "user_244_Neraner_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 5,
       "max_possible_score": 27,
@@ -582,6 +698,24 @@
         },
         "started_at": "2025-10-20T13:28:02.001684",
         "completed_at": "2025-10-20T13:28:32.824853"
+      },
+      "frame_count": 29,
+      "emotion_distribution": {
+        "Neutral": 28
+      },
+      "average_au_intensities": {
+        "au_1": 0.0276,
+        "au_2": 0.0213,
+        "au_4": 0.0444,
+        "au_5": 0.0193,
+        "au_6": 0.0136,
+        "au_9": 0.0256,
+        "au_12": 0.0081,
+        "au_15": 0.0689,
+        "au_17": 0.0562,
+        "au_20": 0.0524,
+        "au_25": 0.0048,
+        "au_26": 0.0285
       }
     }
   },
@@ -596,7 +730,7 @@
     },
     "total_rows": 458,
     "data_rows": 457,
-    "file_path": "user_244_Neraner_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -620,7 +754,53 @@
         },
         "started_at": "2025-10-20T13:28:11.916313",
         "completed_at": "2025-10-20T13:37:53.496964"
-      }
+      },
+      "frame_count": 456,
+      "emotion_distribution": {
+        "Neutral": 440,
+        "Happiness": 12,
+        "Sadness": 4
+      },
+      "average_au_intensities": {
+        "au_1": 0.0259,
+        "au_2": 0.0204,
+        "au_4": 0.0435,
+        "au_5": 0.0177,
+        "au_6": 0.0131,
+        "au_9": 0.0236,
+        "au_12": 0.0072,
+        "au_15": 0.0847,
+        "au_17": 0.0792,
+        "au_20": 0.0697,
+        "au_25": 0.0053,
+        "au_26": 0.0299
+      },
+      "frames_per_turn": {
+        "1": 1,
+        "2": 10,
+        "3": 42,
+        "4": 76,
+        "5": 20,
+        "6": 9,
+        "7": 14,
+        "8": 4,
+        "9": 7,
+        "10": 8,
+        "11": 27,
+        "12": 6,
+        "13": 16,
+        "14": 31,
+        "15": 7,
+        "16": 28,
+        "17": 30,
+        "18": 42,
+        "19": 28,
+        "20": 37,
+        "21": 13
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

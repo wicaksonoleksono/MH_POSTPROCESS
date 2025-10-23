@@ -1,7 +1,7 @@
 {
   "user_id": "user_94_BellaIndra",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:15.405194",
+  "processed_at": "2025-10-23T15:27:33.837159",
   "metadata": {
     "folder_name": "user_94_BellaIndra_session1",
     "data_path": "data/user_94_BellaIndra_session1/llm_conversation.json",
@@ -96,10 +96,31 @@
         "completed_at": "2025-10-20T16:33:31.947901"
       }
     },
-    "phq_analysis_file": "user_94_BellaIndra_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_94_BellaIndra_session1/llm_analysis.jsonl",
+    "llm_frames_by_turn_file": "user_94_BellaIndra_session1/llm_frames_by_turn.json",
     "phq_responses_file": "user_94_BellaIndra_session1/phq_responses.json",
-    "session_metadata_file": "user_94_BellaIndra_session1/metadata.json"
+    "session_metadata_file": "user_94_BellaIndra_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_94_BellaIndra_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_94_BellaIndra_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_94_BellaIndra_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_94_BellaIndra_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 5,
+            "end": 6
+          },
+          {
+            "turn_number": 2,
+            "start": 10,
+            "end": 17
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -112,7 +133,7 @@
     },
     "total_rows": 82,
     "data_rows": 81,
-    "file_path": "user_94_BellaIndra_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 11,
       "max_possible_score": 27,
@@ -250,6 +271,26 @@
         },
         "started_at": "2025-10-20T16:31:41.031741",
         "completed_at": "2025-10-20T16:33:08.528018"
+      },
+      "frame_count": 81,
+      "emotion_distribution": {
+        "Sadness": 4,
+        "Neutral": 3,
+        "Happiness": 47
+      },
+      "average_au_intensities": {
+        "au_1": 0.0129,
+        "au_2": 0.0077,
+        "au_4": 0.1451,
+        "au_5": 0.0075,
+        "au_6": 0.0046,
+        "au_9": 0.0156,
+        "au_12": 0.009,
+        "au_15": 0.0209,
+        "au_17": 0.1072,
+        "au_20": 0.0498,
+        "au_25": 0.0059,
+        "au_26": 0.0084
       }
     }
   },
@@ -264,7 +305,7 @@
     },
     "total_rows": 21,
     "data_rows": 20,
-    "file_path": "user_94_BellaIndra_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -290,7 +331,33 @@
         },
         "started_at": "2025-10-20T16:33:12.094212",
         "completed_at": "2025-10-20T16:33:31.947901"
-      }
+      },
+      "frame_count": 19,
+      "emotion_distribution": {
+        "Happiness": 2,
+        "Neutral": 10
+      },
+      "average_au_intensities": {
+        "au_1": 0.0575,
+        "au_2": 0.0297,
+        "au_4": 0.8788,
+        "au_5": 0.0219,
+        "au_6": 0.0174,
+        "au_9": 0.0644,
+        "au_12": 0.0356,
+        "au_15": 0.048,
+        "au_17": 0.0873,
+        "au_20": 0.053,
+        "au_25": 0.0236,
+        "au_26": 0.0203
+      },
+      "frames_per_turn": {
+        "1": 2,
+        "2": 17
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

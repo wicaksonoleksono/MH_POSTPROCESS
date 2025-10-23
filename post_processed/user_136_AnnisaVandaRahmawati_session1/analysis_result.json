@@ -1,7 +1,7 @@
 {
   "user_id": "user_136_AnnisaVandaRahmawati",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:13.233950",
+  "processed_at": "2025-10-23T15:27:20.513904",
   "metadata": {
     "folder_name": "user_136_AnnisaVandaRahmawati_session1",
     "data_path": "data/user_136_AnnisaVandaRahmawati_session1/llm_conversation.json",
@@ -373,10 +373,106 @@
         "completed_at": "2025-10-20T12:05:29.957996"
       }
     },
-    "phq_analysis_file": "user_136_AnnisaVandaRahmawati_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_136_AnnisaVandaRahmawati_session1/llm_analysis.jsonl",
+    "llm_frames_by_turn_file": "user_136_AnnisaVandaRahmawati_session1/llm_frames_by_turn.json",
     "phq_responses_file": "user_136_AnnisaVandaRahmawati_session1/phq_responses.json",
-    "session_metadata_file": "user_136_AnnisaVandaRahmawati_session1/metadata.json"
+    "session_metadata_file": "user_136_AnnisaVandaRahmawati_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_136_AnnisaVandaRahmawati_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_136_AnnisaVandaRahmawati_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_136_AnnisaVandaRahmawati_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_136_AnnisaVandaRahmawati_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 5,
+            "end": 51
+          },
+          {
+            "turn_number": 2,
+            "start": 72,
+            "end": 84
+          },
+          {
+            "turn_number": 3,
+            "start": 89,
+            "end": 135
+          },
+          {
+            "turn_number": 4,
+            "start": 145,
+            "end": 152
+          },
+          {
+            "turn_number": 5,
+            "start": 164,
+            "end": 189
+          },
+          {
+            "turn_number": 6,
+            "start": 203,
+            "end": 264
+          },
+          {
+            "turn_number": 7,
+            "start": 298,
+            "end": 487
+          },
+          {
+            "turn_number": 8,
+            "start": 506,
+            "end": 508
+          },
+          {
+            "turn_number": 9,
+            "start": 521,
+            "end": 527
+          },
+          {
+            "turn_number": 10,
+            "start": 534,
+            "end": 547
+          },
+          {
+            "turn_number": 11,
+            "start": 556,
+            "end": 565
+          },
+          {
+            "turn_number": 12,
+            "start": 579,
+            "end": 581
+          },
+          {
+            "turn_number": 13,
+            "start": 594,
+            "end": 602
+          },
+          {
+            "turn_number": 14,
+            "start": 609,
+            "end": 618
+          },
+          {
+            "turn_number": 15,
+            "start": 627,
+            "end": 633
+          },
+          {
+            "turn_number": 16,
+            "start": 641,
+            "end": 644
+          },
+          {
+            "turn_number": 17,
+            "start": 656,
+            "end": 673
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -389,7 +485,7 @@
     },
     "total_rows": 163,
     "data_rows": 162,
-    "file_path": "user_136_AnnisaVandaRahmawati_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 0,
       "max_possible_score": 27,
@@ -530,6 +626,27 @@
         },
         "started_at": "2025-10-20T11:52:05.103638",
         "completed_at": "2025-10-20T11:55:11.890155"
+      },
+      "frame_count": 162,
+      "emotion_distribution": {
+        "Neutral": 60,
+        "Happiness": 56,
+        "Sadness": 6,
+        "Surprise": 1
+      },
+      "average_au_intensities": {
+        "au_1": 0.0671,
+        "au_2": 0.0629,
+        "au_4": 0.4355,
+        "au_5": 0.0753,
+        "au_6": 0.061,
+        "au_9": 0.0809,
+        "au_12": 0.2865,
+        "au_15": 0.1442,
+        "au_17": 0.0555,
+        "au_20": 0.0669,
+        "au_25": 0.2261,
+        "au_26": 0.0988
       }
     }
   },
@@ -544,7 +661,7 @@
     },
     "total_rows": 648,
     "data_rows": 647,
-    "file_path": "user_136_AnnisaVandaRahmawati_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -574,7 +691,51 @@
         },
         "started_at": "2025-10-20T11:54:42.005965",
         "completed_at": "2025-10-20T12:05:29.957996"
-      }
+      },
+      "frame_count": 646,
+      "emotion_distribution": {
+        "Happiness": 334,
+        "Neutral": 181,
+        "Fear": 1,
+        "Sadness": 10,
+        "Surprise": 1
+      },
+      "average_au_intensities": {
+        "au_1": 0.084,
+        "au_2": 0.078,
+        "au_4": 0.5591,
+        "au_5": 0.073,
+        "au_6": 0.0712,
+        "au_9": 0.0909,
+        "au_12": 0.4121,
+        "au_15": 0.1293,
+        "au_17": 0.0617,
+        "au_20": 0.0734,
+        "au_25": 0.1813,
+        "au_26": 0.0813
+      },
+      "frames_per_turn": {
+        "1": 45,
+        "2": 32,
+        "3": 49,
+        "4": 16,
+        "5": 36,
+        "6": 73,
+        "7": 215,
+        "8": 20,
+        "9": 19,
+        "10": 19,
+        "11": 17,
+        "12": 16,
+        "13": 20,
+        "14": 15,
+        "15": 15,
+        "16": 10,
+        "17": 29
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

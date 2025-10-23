@@ -1,7 +1,7 @@
 {
   "user_id": "user_252_RafaMath",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:14.416922",
+  "processed_at": "2025-10-23T15:27:27.459253",
   "metadata": {
     "folder_name": "user_252_RafaMath_session1",
     "data_path": "data/user_252_RafaMath_session1/llm_conversation.json",
@@ -551,10 +551,156 @@
         "completed_at": "2025-10-20T12:26:53.653009"
       }
     },
-    "phq_analysis_file": "user_252_RafaMath_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_252_RafaMath_session1/llm_analysis.jsonl",
+    "llm_frames_by_turn_file": "user_252_RafaMath_session1/llm_frames_by_turn.json",
     "phq_responses_file": "user_252_RafaMath_session1/phq_responses.json",
-    "session_metadata_file": "user_252_RafaMath_session1/metadata.json"
+    "session_metadata_file": "user_252_RafaMath_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_252_RafaMath_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_252_RafaMath_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_252_RafaMath_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_252_RafaMath_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 5,
+            "end": 11
+          },
+          {
+            "turn_number": 2,
+            "start": 27,
+            "end": 73
+          },
+          {
+            "turn_number": 3,
+            "start": 116,
+            "end": 181
+          },
+          {
+            "turn_number": 4,
+            "start": 201,
+            "end": 215
+          },
+          {
+            "turn_number": 5,
+            "start": 233,
+            "end": 256
+          },
+          {
+            "turn_number": 6,
+            "start": 268,
+            "end": 284
+          },
+          {
+            "turn_number": 7,
+            "start": 293,
+            "end": 303
+          },
+          {
+            "turn_number": 8,
+            "start": 318,
+            "end": 330
+          },
+          {
+            "turn_number": 9,
+            "start": 342,
+            "end": 346
+          },
+          {
+            "turn_number": 10,
+            "start": 358,
+            "end": 372
+          },
+          {
+            "turn_number": 11,
+            "start": 388,
+            "end": 416
+          },
+          {
+            "turn_number": 12,
+            "start": 429,
+            "end": 447
+          },
+          {
+            "turn_number": 13,
+            "start": 481,
+            "end": 492
+          },
+          {
+            "turn_number": 14,
+            "start": 502,
+            "end": 536
+          },
+          {
+            "turn_number": 15,
+            "start": 559,
+            "end": 600
+          },
+          {
+            "turn_number": 16,
+            "start": 626,
+            "end": 640
+          },
+          {
+            "turn_number": 17,
+            "start": 650,
+            "end": 656
+          },
+          {
+            "turn_number": 18,
+            "start": 675,
+            "end": 723
+          },
+          {
+            "turn_number": 19,
+            "start": 739,
+            "end": 771
+          },
+          {
+            "turn_number": 20,
+            "start": 789,
+            "end": 828
+          },
+          {
+            "turn_number": 21,
+            "start": 849,
+            "end": 853
+          },
+          {
+            "turn_number": 22,
+            "start": 867,
+            "end": 868
+          },
+          {
+            "turn_number": 23,
+            "start": 879,
+            "end": 880
+          },
+          {
+            "turn_number": 24,
+            "start": 888,
+            "end": 889
+          },
+          {
+            "turn_number": 25,
+            "start": 898,
+            "end": 919
+          },
+          {
+            "turn_number": 26,
+            "start": 925,
+            "end": 989
+          },
+          {
+            "turn_number": 27,
+            "start": 1000,
+            "end": 1014
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -567,7 +713,7 @@
     },
     "total_rows": 64,
     "data_rows": 63,
-    "file_path": "user_252_RafaMath_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 17,
       "max_possible_score": 27,
@@ -708,6 +854,27 @@
         },
         "started_at": "2025-10-20T12:08:22.005432",
         "completed_at": "2025-10-20T12:09:55.153505"
+      },
+      "frame_count": 63,
+      "emotion_distribution": {
+        "Neutral": 32,
+        "Anger": 25,
+        "Sadness": 1,
+        "Happiness": 4
+      },
+      "average_au_intensities": {
+        "au_1": 0.0361,
+        "au_2": 0.0382,
+        "au_4": 0.0745,
+        "au_5": 0.0348,
+        "au_6": 0.0199,
+        "au_9": 0.0364,
+        "au_12": 0.0311,
+        "au_15": 0.1323,
+        "au_17": 0.1812,
+        "au_20": 0.1087,
+        "au_25": 0.021,
+        "au_26": 0.0298
       }
     }
   },
@@ -722,7 +889,7 @@
     },
     "total_rows": 1016,
     "data_rows": 1015,
-    "file_path": "user_252_RafaMath_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -750,7 +917,60 @@
         },
         "started_at": "2025-10-20T12:09:24.598549",
         "completed_at": "2025-10-20T12:26:53.653009"
-      }
+      },
+      "frame_count": 1014,
+      "emotion_distribution": {
+        "Neutral": 408,
+        "Happiness": 58,
+        "Anger": 94,
+        "Sadness": 6
+      },
+      "average_au_intensities": {
+        "au_1": 0.0187,
+        "au_2": 0.0187,
+        "au_4": 0.0233,
+        "au_5": 0.0147,
+        "au_6": 0.0071,
+        "au_9": 0.0154,
+        "au_12": 0.0067,
+        "au_15": 0.0458,
+        "au_17": 0.0308,
+        "au_20": 0.0332,
+        "au_25": 0.0102,
+        "au_26": 0.0167
+      },
+      "frames_per_turn": {
+        "1": 7,
+        "2": 62,
+        "3": 108,
+        "4": 34,
+        "5": 41,
+        "6": 29,
+        "7": 19,
+        "8": 27,
+        "9": 16,
+        "10": 26,
+        "11": 44,
+        "12": 31,
+        "13": 45,
+        "14": 45,
+        "15": 64,
+        "16": 40,
+        "17": 16,
+        "18": 67,
+        "19": 49,
+        "20": 57,
+        "21": 25,
+        "22": 15,
+        "23": 12,
+        "24": 9,
+        "25": 30,
+        "26": 70,
+        "27": 26
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

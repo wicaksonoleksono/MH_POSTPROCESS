@@ -1,7 +1,7 @@
 {
   "user_id": "user_108_LabibaKhoiriyaSalma",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:12.920275",
+  "processed_at": "2025-10-23T15:27:18.575919",
   "metadata": {
     "folder_name": "user_108_LabibaKhoiriyaSalma_session1",
     "data_path": "data/user_108_LabibaKhoiriyaSalma_session1/llm_conversation.json",
@@ -404,10 +404,116 @@
         "completed_at": "2025-10-20T11:50:29.309205"
       }
     },
-    "phq_analysis_file": "user_108_LabibaKhoiriyaSalma_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_108_LabibaKhoiriyaSalma_session1/llm_analysis.jsonl",
+    "llm_frames_by_turn_file": "user_108_LabibaKhoiriyaSalma_session1/llm_frames_by_turn.json",
     "phq_responses_file": "user_108_LabibaKhoiriyaSalma_session1/phq_responses.json",
-    "session_metadata_file": "user_108_LabibaKhoiriyaSalma_session1/metadata.json"
+    "session_metadata_file": "user_108_LabibaKhoiriyaSalma_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_108_LabibaKhoiriyaSalma_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_108_LabibaKhoiriyaSalma_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_108_LabibaKhoiriyaSalma_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_108_LabibaKhoiriyaSalma_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 8,
+            "end": 16
+          },
+          {
+            "turn_number": 2,
+            "start": 24,
+            "end": 122
+          },
+          {
+            "turn_number": 3,
+            "start": 130,
+            "end": 198
+          },
+          {
+            "turn_number": 4,
+            "start": 227,
+            "end": 265
+          },
+          {
+            "turn_number": 5,
+            "start": 283,
+            "end": 289
+          },
+          {
+            "turn_number": 6,
+            "start": 297,
+            "end": 368
+          },
+          {
+            "turn_number": 7,
+            "start": 375,
+            "end": 420
+          },
+          {
+            "turn_number": 8,
+            "start": 433,
+            "end": 453
+          },
+          {
+            "turn_number": 9,
+            "start": 460,
+            "end": 540
+          },
+          {
+            "turn_number": 10,
+            "start": 550,
+            "end": 577
+          },
+          {
+            "turn_number": 11,
+            "start": 592,
+            "end": 603
+          },
+          {
+            "turn_number": 12,
+            "start": 616,
+            "end": 618
+          },
+          {
+            "turn_number": 13,
+            "start": 628,
+            "end": 631
+          },
+          {
+            "turn_number": 14,
+            "start": 637,
+            "end": 652
+          },
+          {
+            "turn_number": 15,
+            "start": 666,
+            "end": 667
+          },
+          {
+            "turn_number": 16,
+            "start": 676,
+            "end": 681
+          },
+          {
+            "turn_number": 17,
+            "start": 688,
+            "end": 702
+          },
+          {
+            "turn_number": 18,
+            "start": 715,
+            "end": 765
+          },
+          {
+            "turn_number": 19,
+            "start": 808,
+            "end": 836
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -420,7 +526,7 @@
     },
     "total_rows": 91,
     "data_rows": 90,
-    "file_path": "user_108_LabibaKhoiriyaSalma_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 7,
       "max_possible_score": 27,
@@ -557,6 +663,24 @@
         },
         "started_at": "2025-10-20T11:27:38.662244",
         "completed_at": "2025-10-20T11:29:58.289961"
+      },
+      "frame_count": 90,
+      "emotion_distribution": {
+        "Neutral": 89
+      },
+      "average_au_intensities": {
+        "au_1": 0.1072,
+        "au_2": 0.0713,
+        "au_4": 0.2803,
+        "au_5": 0.0547,
+        "au_6": 0.0342,
+        "au_9": 0.1378,
+        "au_12": 0.1281,
+        "au_15": 0.2187,
+        "au_17": 0.0612,
+        "au_20": 0.0859,
+        "au_25": 0.0985,
+        "au_26": 0.0837
       }
     }
   },
@@ -571,7 +695,7 @@
     },
     "total_rows": 826,
     "data_rows": 825,
-    "file_path": "user_108_LabibaKhoiriyaSalma_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -600,7 +724,52 @@
         },
         "started_at": "2025-10-20T11:30:02.195208",
         "completed_at": "2025-10-20T11:50:29.309205"
-      }
+      },
+      "frame_count": 824,
+      "emotion_distribution": {
+        "Happiness": 20,
+        "Neutral": 790,
+        "Sadness": 8,
+        "Surprise": 1
+      },
+      "average_au_intensities": {
+        "au_1": 0.1836,
+        "au_2": 0.1147,
+        "au_4": 0.525,
+        "au_5": 0.0654,
+        "au_6": 0.041,
+        "au_9": 0.1805,
+        "au_12": 0.0896,
+        "au_15": 0.3388,
+        "au_17": 0.0698,
+        "au_20": 0.0882,
+        "au_25": 0.1225,
+        "au_26": 0.1138
+      },
+      "frames_per_turn": {
+        "1": 8,
+        "2": 106,
+        "3": 75,
+        "4": 67,
+        "5": 24,
+        "6": 78,
+        "7": 52,
+        "8": 33,
+        "9": 86,
+        "10": 37,
+        "11": 26,
+        "12": 15,
+        "13": 13,
+        "14": 21,
+        "15": 15,
+        "16": 13,
+        "17": 21,
+        "18": 63,
+        "19": 71
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

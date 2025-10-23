@@ -1,7 +1,7 @@
 {
   "user_id": "user_88_AndienRiyantikaSari",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:15.383919",
+  "processed_at": "2025-10-23T15:27:33.634443",
   "metadata": {
     "folder_name": "user_88_AndienRiyantikaSari_session1",
     "data_path": "data/user_88_AndienRiyantikaSari_session1/llm_conversation.json",
@@ -332,10 +332,96 @@
         "completed_at": "2025-10-20T09:40:39.975188"
       }
     },
-    "phq_analysis_file": "user_88_AndienRiyantikaSari_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_88_AndienRiyantikaSari_session1/llm_analysis.jsonl",
+    "llm_frames_by_turn_file": "user_88_AndienRiyantikaSari_session1/llm_frames_by_turn.json",
     "phq_responses_file": "user_88_AndienRiyantikaSari_session1/phq_responses.json",
-    "session_metadata_file": "user_88_AndienRiyantikaSari_session1/metadata.json"
+    "session_metadata_file": "user_88_AndienRiyantikaSari_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_88_AndienRiyantikaSari_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_88_AndienRiyantikaSari_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_88_AndienRiyantikaSari_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_88_AndienRiyantikaSari_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 15,
+            "end": 16
+          },
+          {
+            "turn_number": 2,
+            "start": 33,
+            "end": 47
+          },
+          {
+            "turn_number": 3,
+            "start": 63,
+            "end": 120
+          },
+          {
+            "turn_number": 4,
+            "start": 136,
+            "end": 151
+          },
+          {
+            "turn_number": 5,
+            "start": 207,
+            "end": 214
+          },
+          {
+            "turn_number": 6,
+            "start": 225,
+            "end": 270
+          },
+          {
+            "turn_number": 7,
+            "start": 291,
+            "end": 399
+          },
+          {
+            "turn_number": 8,
+            "start": 470,
+            "end": 478
+          },
+          {
+            "turn_number": 9,
+            "start": 495,
+            "end": 521
+          },
+          {
+            "turn_number": 10,
+            "start": 546,
+            "end": 549
+          },
+          {
+            "turn_number": 11,
+            "start": 559,
+            "end": 564
+          },
+          {
+            "turn_number": 12,
+            "start": 579,
+            "end": 585
+          },
+          {
+            "turn_number": 13,
+            "start": 605,
+            "end": 625
+          },
+          {
+            "turn_number": 14,
+            "start": 676,
+            "end": 694
+          },
+          {
+            "turn_number": 15,
+            "start": 764,
+            "end": 775
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -348,7 +434,7 @@
     },
     "total_rows": 125,
     "data_rows": 124,
-    "file_path": "user_88_AndienRiyantikaSari_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 12,
       "max_possible_score": 27,
@@ -484,6 +570,26 @@
         },
         "started_at": "2025-10-20T09:24:53.124283",
         "completed_at": "2025-10-20T09:27:45.721296"
+      },
+      "frame_count": 124,
+      "emotion_distribution": {
+        "Neutral": 118,
+        "Happiness": 1,
+        "Sadness": 1
+      },
+      "average_au_intensities": {
+        "au_1": 0.0386,
+        "au_2": 0.031,
+        "au_4": 0.0648,
+        "au_5": 0.0231,
+        "au_6": 0.0098,
+        "au_9": 0.0337,
+        "au_12": 0.0181,
+        "au_15": 0.0448,
+        "au_17": 0.0372,
+        "au_20": 0.0462,
+        "au_25": 0.0644,
+        "au_26": 0.0559
       }
     }
   },
@@ -498,7 +604,7 @@
     },
     "total_rows": 756,
     "data_rows": 755,
-    "file_path": "user_88_AndienRiyantikaSari_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -528,7 +634,49 @@
         },
         "started_at": "2025-10-20T09:25:36.846567",
         "completed_at": "2025-10-20T09:40:39.975188"
-      }
+      },
+      "frame_count": 754,
+      "emotion_distribution": {
+        "Neutral": 524,
+        "Happiness": 80,
+        "Surprise": 2,
+        "Anger": 2,
+        "Sadness": 4
+      },
+      "average_au_intensities": {
+        "au_1": 0.0549,
+        "au_2": 0.0372,
+        "au_4": 0.0783,
+        "au_5": 0.0285,
+        "au_6": 0.0159,
+        "au_9": 0.0435,
+        "au_12": 0.0439,
+        "au_15": 0.108,
+        "au_17": 0.0526,
+        "au_20": 0.0563,
+        "au_25": 0.1293,
+        "au_26": 0.1052
+      },
+      "frames_per_turn": {
+        "1": 1,
+        "2": 31,
+        "3": 73,
+        "4": 30,
+        "5": 63,
+        "6": 55,
+        "7": 128,
+        "8": 78,
+        "9": 43,
+        "10": 28,
+        "11": 14,
+        "12": 21,
+        "13": 40,
+        "14": 68,
+        "15": 81
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

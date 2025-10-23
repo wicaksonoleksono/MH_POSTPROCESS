@@ -1,7 +1,7 @@
 {
   "user_id": "user_65_elvaranira",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:15.142496",
+  "processed_at": "2025-10-23T15:27:32.110880",
   "metadata": {
     "folder_name": "user_65_elvaranira_session1",
     "data_path": "data/user_65_elvaranira_session1/llm_conversation.json",
@@ -154,10 +154,46 @@
         "completed_at": "2025-10-20T10:14:22.719192"
       }
     },
-    "phq_analysis_file": "user_65_elvaranira_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_65_elvaranira_session1/llm_analysis.jsonl",
+    "llm_frames_by_turn_file": "user_65_elvaranira_session1/llm_frames_by_turn.json",
     "phq_responses_file": "user_65_elvaranira_session1/phq_responses.json",
-    "session_metadata_file": "user_65_elvaranira_session1/metadata.json"
+    "session_metadata_file": "user_65_elvaranira_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_65_elvaranira_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_65_elvaranira_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_65_elvaranira_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_65_elvaranira_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 15,
+            "end": 20
+          },
+          {
+            "turn_number": 2,
+            "start": 27,
+            "end": 36
+          },
+          {
+            "turn_number": 3,
+            "start": 50,
+            "end": 74
+          },
+          {
+            "turn_number": 4,
+            "start": 50,
+            "end": 150
+          },
+          {
+            "turn_number": 5,
+            "start": 181,
+            "end": 199
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -170,7 +206,7 @@
     },
     "total_rows": 104,
     "data_rows": 103,
-    "file_path": "user_65_elvaranira_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 13,
       "max_possible_score": 27,
@@ -310,6 +346,26 @@
         },
         "started_at": "2025-10-20T10:11:18.111233",
         "completed_at": "2025-10-20T10:12:29.546599"
+      },
+      "frame_count": 103,
+      "emotion_distribution": {
+        "Neutral": 12,
+        "Happiness": 33,
+        "Sadness": 1
+      },
+      "average_au_intensities": {
+        "au_1": 0.0849,
+        "au_2": 0.0905,
+        "au_4": 0.2332,
+        "au_5": 0.1706,
+        "au_6": 0.0185,
+        "au_9": 0.0455,
+        "au_12": 0.1232,
+        "au_15": 0.0966,
+        "au_17": 0.0451,
+        "au_20": 0.0756,
+        "au_25": 0.0283,
+        "au_26": 0.0428
       }
     }
   },
@@ -324,7 +380,7 @@
     },
     "total_rows": 226,
     "data_rows": 225,
-    "file_path": "user_65_elvaranira_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -352,7 +408,37 @@
         },
         "started_at": "2025-10-20T10:12:31.942466",
         "completed_at": "2025-10-20T10:14:22.719192"
-      }
+      },
+      "frame_count": 224,
+      "emotion_distribution": {
+        "Neutral": 26,
+        "Happiness": 20,
+        "Sadness": 7
+      },
+      "average_au_intensities": {
+        "au_1": 0.0555,
+        "au_2": 0.0431,
+        "au_4": 0.1128,
+        "au_5": 0.0545,
+        "au_6": 0.0077,
+        "au_9": 0.0263,
+        "au_12": 0.0496,
+        "au_15": 0.0463,
+        "au_17": 0.0274,
+        "au_20": 0.0415,
+        "au_25": 0.0141,
+        "au_26": 0.0331
+      },
+      "frames_per_turn": {
+        "1": 7,
+        "2": 19,
+        "3": 46,
+        "4": 92,
+        "5": 60
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

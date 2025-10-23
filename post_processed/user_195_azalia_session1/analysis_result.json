@@ -1,7 +1,7 @@
 {
   "user_id": "user_195_azalia",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:13.832516",
+  "processed_at": "2025-10-23T15:27:23.937674",
   "metadata": {
     "folder_name": "user_195_azalia_session1",
     "data_path": "data/user_195_azalia_session1/llm_conversation.json",
@@ -293,10 +293,86 @@
         "completed_at": "2025-10-20T12:19:02.259631"
       }
     },
-    "phq_analysis_file": "user_195_azalia_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_195_azalia_session1/llm_analysis.jsonl",
+    "llm_frames_by_turn_file": "user_195_azalia_session1/llm_frames_by_turn.json",
     "phq_responses_file": "user_195_azalia_session1/phq_responses.json",
-    "session_metadata_file": "user_195_azalia_session1/metadata.json"
+    "session_metadata_file": "user_195_azalia_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_195_azalia_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_195_azalia_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_195_azalia_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_195_azalia_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 6,
+            "end": 15
+          },
+          {
+            "turn_number": 2,
+            "start": 25,
+            "end": 59
+          },
+          {
+            "turn_number": 3,
+            "start": 67,
+            "end": 81
+          },
+          {
+            "turn_number": 4,
+            "start": 97,
+            "end": 132
+          },
+          {
+            "turn_number": 5,
+            "start": 140,
+            "end": 142
+          },
+          {
+            "turn_number": 6,
+            "start": 152,
+            "end": 181
+          },
+          {
+            "turn_number": 7,
+            "start": 190,
+            "end": 194
+          },
+          {
+            "turn_number": 8,
+            "start": 204,
+            "end": 250
+          },
+          {
+            "turn_number": 9,
+            "start": 260,
+            "end": 270
+          },
+          {
+            "turn_number": 10,
+            "start": 278,
+            "end": 280
+          },
+          {
+            "turn_number": 11,
+            "start": 293,
+            "end": 295
+          },
+          {
+            "turn_number": 12,
+            "start": 304,
+            "end": 305
+          },
+          {
+            "turn_number": 13,
+            "start": 313,
+            "end": 332
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -309,7 +385,7 @@
     },
     "total_rows": 65,
     "data_rows": 64,
-    "file_path": "user_195_azalia_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 4,
       "max_possible_score": 27,
@@ -445,6 +521,25 @@
         },
         "started_at": "2025-10-20T12:10:02.011563",
         "completed_at": "2025-10-20T12:11:28.667490"
+      },
+      "frame_count": 64,
+      "emotion_distribution": {
+        "Happiness": 5,
+        "Neutral": 58
+      },
+      "average_au_intensities": {
+        "au_1": 0.0485,
+        "au_2": 0.0439,
+        "au_4": 0.1048,
+        "au_5": 0.0422,
+        "au_6": 0.0339,
+        "au_9": 0.0704,
+        "au_12": 0.08,
+        "au_15": 0.0739,
+        "au_17": 0.0608,
+        "au_20": 0.082,
+        "au_25": 0.0992,
+        "au_26": 0.0398
       }
     }
   },
@@ -459,7 +554,7 @@
     },
     "total_rows": 335,
     "data_rows": 334,
-    "file_path": "user_195_azalia_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -486,7 +581,45 @@
         },
         "started_at": "2025-10-20T12:10:51.916015",
         "completed_at": "2025-10-20T12:19:02.259631"
-      }
+      },
+      "frame_count": 333,
+      "emotion_distribution": {
+        "Neutral": 295,
+        "Happiness": 35,
+        "Surprise": 3
+      },
+      "average_au_intensities": {
+        "au_1": 0.0657,
+        "au_2": 0.0683,
+        "au_4": 0.109,
+        "au_5": 0.0451,
+        "au_6": 0.0239,
+        "au_9": 0.089,
+        "au_12": 0.0561,
+        "au_15": 0.0985,
+        "au_17": 0.1004,
+        "au_20": 0.1271,
+        "au_25": 0.0524,
+        "au_26": 0.032
+      },
+      "frames_per_turn": {
+        "1": 10,
+        "2": 44,
+        "3": 23,
+        "4": 52,
+        "5": 10,
+        "6": 40,
+        "7": 13,
+        "8": 57,
+        "9": 20,
+        "10": 11,
+        "11": 15,
+        "12": 10,
+        "13": 28
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "user_id": "user_61_samdra48",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:15.095629",
+  "processed_at": "2025-10-23T15:27:31.826941",
   "metadata": {
     "folder_name": "user_61_samdra48_session1",
     "data_path": "data/user_61_samdra48_session1/llm_conversation.json",
@@ -424,10 +424,121 @@
         "completed_at": "2025-10-20T10:21:49.604505"
       }
     },
-    "phq_analysis_file": "user_61_samdra48_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_61_samdra48_session1/llm_analysis.jsonl",
+    "llm_frames_by_turn_file": "user_61_samdra48_session1/llm_frames_by_turn.json",
     "phq_responses_file": "user_61_samdra48_session1/phq_responses.json",
-    "session_metadata_file": "user_61_samdra48_session1/metadata.json"
+    "session_metadata_file": "user_61_samdra48_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_61_samdra48_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_61_samdra48_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_61_samdra48_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_61_samdra48_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 15,
+            "end": 25
+          },
+          {
+            "turn_number": 2,
+            "start": 36,
+            "end": 95
+          },
+          {
+            "turn_number": 3,
+            "start": 105,
+            "end": 108
+          },
+          {
+            "turn_number": 4,
+            "start": 118,
+            "end": 127
+          },
+          {
+            "turn_number": 5,
+            "start": 137,
+            "end": 146
+          },
+          {
+            "turn_number": 6,
+            "start": 163,
+            "end": 172
+          },
+          {
+            "turn_number": 7,
+            "start": 188,
+            "end": 200
+          },
+          {
+            "turn_number": 8,
+            "start": 209,
+            "end": 271
+          },
+          {
+            "turn_number": 9,
+            "start": 291,
+            "end": 298
+          },
+          {
+            "turn_number": 10,
+            "start": 327,
+            "end": 329
+          },
+          {
+            "turn_number": 11,
+            "start": 342,
+            "end": 352
+          },
+          {
+            "turn_number": 12,
+            "start": 422,
+            "end": 424
+          },
+          {
+            "turn_number": 13,
+            "start": 435,
+            "end": 436
+          },
+          {
+            "turn_number": 14,
+            "start": 443,
+            "end": 447
+          },
+          {
+            "turn_number": 15,
+            "start": 460,
+            "end": 462
+          },
+          {
+            "turn_number": 16,
+            "start": 495,
+            "end": 500
+          },
+          {
+            "turn_number": 17,
+            "start": 510,
+            "end": 523
+          },
+          {
+            "turn_number": 18,
+            "start": 532,
+            "end": 534
+          },
+          {
+            "turn_number": 19,
+            "start": 538,
+            "end": 542
+          },
+          {
+            "turn_number": 20,
+            "start": 552,
+            "end": 564
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -440,7 +551,7 @@
     },
     "total_rows": 92,
     "data_rows": 91,
-    "file_path": "user_61_samdra48_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 4,
       "max_possible_score": 27,
@@ -579,6 +690,25 @@
         },
         "started_at": "2025-10-20T10:15:16.220152",
         "completed_at": "2025-10-20T10:16:10.098364"
+      },
+      "frame_count": 91,
+      "emotion_distribution": {
+        "Neutral": 24,
+        "Happiness": 3
+      },
+      "average_au_intensities": {
+        "au_1": 0.0223,
+        "au_2": 0.021,
+        "au_4": 0.0591,
+        "au_5": 0.0233,
+        "au_6": 0.1104,
+        "au_9": 0.0224,
+        "au_12": 0.1346,
+        "au_15": 0.0295,
+        "au_17": 0.0349,
+        "au_20": 0.0368,
+        "au_25": 0.1055,
+        "au_26": 0.0438
       }
     }
   },
@@ -593,7 +723,7 @@
     },
     "total_rows": 553,
     "data_rows": 552,
-    "file_path": "user_61_samdra48_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -622,7 +752,53 @@
         },
         "started_at": "2025-10-20T10:15:41.942770",
         "completed_at": "2025-10-20T10:21:49.604505"
-      }
+      },
+      "frame_count": 551,
+      "emotion_distribution": {
+        "Happiness": 23,
+        "Neutral": 72,
+        "Sadness": 4,
+        "Surprise": 1
+      },
+      "average_au_intensities": {
+        "au_1": 0.0124,
+        "au_2": 0.0133,
+        "au_4": 0.0618,
+        "au_5": 0.0122,
+        "au_6": 0.0254,
+        "au_9": 0.0149,
+        "au_12": 0.0332,
+        "au_15": 0.0359,
+        "au_17": 0.0259,
+        "au_20": 0.036,
+        "au_25": 0.0306,
+        "au_26": 0.0161
+      },
+      "frames_per_turn": {
+        "1": 11,
+        "2": 70,
+        "3": 13,
+        "4": 19,
+        "5": 19,
+        "6": 26,
+        "7": 28,
+        "8": 71,
+        "9": 27,
+        "10": 31,
+        "11": 23,
+        "12": 72,
+        "13": 12,
+        "14": 11,
+        "15": 15,
+        "16": 38,
+        "17": 23,
+        "18": 11,
+        "19": 8,
+        "20": 23
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

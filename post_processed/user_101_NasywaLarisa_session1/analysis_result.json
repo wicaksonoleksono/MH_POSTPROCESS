@@ -1,7 +1,7 @@
 {
   "user_id": "user_101_NasywaLarisa",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:12.826272",
+  "processed_at": "2025-10-23T15:27:18.093563",
   "metadata": {
     "folder_name": "user_101_NasywaLarisa_session1",
     "data_path": "data/user_101_NasywaLarisa_session1/llm_conversation.json",
@@ -457,10 +457,131 @@
         "completed_at": "2025-10-20T11:52:00.052254"
       }
     },
-    "phq_analysis_file": "user_101_NasywaLarisa_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_101_NasywaLarisa_session1/llm_analysis.jsonl",
+    "llm_frames_by_turn_file": "user_101_NasywaLarisa_session1/llm_frames_by_turn.json",
     "phq_responses_file": "user_101_NasywaLarisa_session1/phq_responses.json",
-    "session_metadata_file": "user_101_NasywaLarisa_session1/metadata.json"
+    "session_metadata_file": "user_101_NasywaLarisa_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_101_NasywaLarisa_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_101_NasywaLarisa_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_101_NasywaLarisa_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_101_NasywaLarisa_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 7,
+            "end": 9
+          },
+          {
+            "turn_number": 2,
+            "start": 13,
+            "end": 16
+          },
+          {
+            "turn_number": 3,
+            "start": 21,
+            "end": 27
+          },
+          {
+            "turn_number": 4,
+            "start": 34,
+            "end": 37
+          },
+          {
+            "turn_number": 5,
+            "start": 48,
+            "end": 60
+          },
+          {
+            "turn_number": 6,
+            "start": 70,
+            "end": 71
+          },
+          {
+            "turn_number": 7,
+            "start": 76,
+            "end": 79
+          },
+          {
+            "turn_number": 8,
+            "start": 88,
+            "end": 112
+          },
+          {
+            "turn_number": 9,
+            "start": 126,
+            "end": 135
+          },
+          {
+            "turn_number": 10,
+            "start": 141,
+            "end": 153
+          },
+          {
+            "turn_number": 11,
+            "start": 160,
+            "end": 170
+          },
+          {
+            "turn_number": 12,
+            "start": 176,
+            "end": 189
+          },
+          {
+            "turn_number": 13,
+            "start": 200,
+            "end": 242
+          },
+          {
+            "turn_number": 14,
+            "start": 250,
+            "end": 254
+          },
+          {
+            "turn_number": 15,
+            "start": 265,
+            "end": 267
+          },
+          {
+            "turn_number": 16,
+            "start": 271,
+            "end": 280
+          },
+          {
+            "turn_number": 17,
+            "start": 294,
+            "end": 296
+          },
+          {
+            "turn_number": 18,
+            "start": 303,
+            "end": 329
+          },
+          {
+            "turn_number": 19,
+            "start": 337,
+            "end": 351
+          },
+          {
+            "turn_number": 20,
+            "start": 362,
+            "end": 364
+          },
+          {
+            "turn_number": 21,
+            "start": 376,
+            "end": 382
+          },
+          {
+            "turn_number": 22,
+            "start": 393,
+            "end": 401
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -473,7 +594,7 @@
     },
     "total_rows": 55,
     "data_rows": 54,
-    "file_path": "user_101_NasywaLarisa_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 2,
       "max_possible_score": 27,
@@ -609,6 +730,25 @@
         },
         "started_at": "2025-10-20T11:42:02.008423",
         "completed_at": "2025-10-20T11:43:21.010107"
+      },
+      "frame_count": 54,
+      "emotion_distribution": {
+        "Neutral": 51,
+        "Anger": 2
+      },
+      "average_au_intensities": {
+        "au_1": 0.0397,
+        "au_2": 0.0258,
+        "au_4": 0.0354,
+        "au_5": 0.0219,
+        "au_6": 0.0097,
+        "au_9": 0.026,
+        "au_12": 0.0336,
+        "au_15": 0.1484,
+        "au_17": 0.0751,
+        "au_20": 0.0865,
+        "au_25": 0.0361,
+        "au_26": 0.0561
       }
     }
   },
@@ -623,7 +763,7 @@
     },
     "total_rows": 405,
     "data_rows": 404,
-    "file_path": "user_101_NasywaLarisa_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -652,7 +792,55 @@
         },
         "started_at": "2025-10-20T11:42:35.182882",
         "completed_at": "2025-10-20T11:52:00.052254"
-      }
+      },
+      "frame_count": 403,
+      "emotion_distribution": {
+        "Neutral": 389,
+        "Sadness": 1,
+        "Happiness": 11,
+        "Surprise": 2
+      },
+      "average_au_intensities": {
+        "au_1": 0.0317,
+        "au_2": 0.0224,
+        "au_4": 0.0444,
+        "au_5": 0.0197,
+        "au_6": 0.0151,
+        "au_9": 0.0304,
+        "au_12": 0.0368,
+        "au_15": 0.118,
+        "au_17": 0.0904,
+        "au_20": 0.0761,
+        "au_25": 0.0884,
+        "au_26": 0.0525
+      },
+      "frames_per_turn": {
+        "1": 3,
+        "2": 7,
+        "3": 11,
+        "4": 10,
+        "5": 24,
+        "6": 11,
+        "7": 8,
+        "8": 34,
+        "9": 23,
+        "10": 18,
+        "11": 18,
+        "12": 19,
+        "13": 54,
+        "14": 13,
+        "15": 13,
+        "16": 13,
+        "17": 16,
+        "18": 34,
+        "19": 22,
+        "20": 14,
+        "21": 18,
+        "22": 20
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

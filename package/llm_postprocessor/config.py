@@ -1,68 +1,88 @@
-"""Configuration management for LLM Post-processor."""
+"""Lightweight configuration helpers without external dependencies."""
 
-from typing import Literal
+from __future__ import annotations
 
-from pydantic import Field, ConfigDict
+import os
+from dataclasses import dataclass, field
+from typing import Callable
 
-try:
-    # Prefer dedicated package available in Pydantic v2 ecosystem
-    from pydantic_settings import BaseSettings  # type: ignore
-except ImportError:  # pragma: no cover
+
+def _get_env(
+    key: str,
+    default,
+    cast: Callable[[str], object] | None = None,
+):
+    """Read environment variable and cast when possible."""
+    value = os.getenv(key)
+    if value is None:
+        return default
+    if cast is None:
+        return value
     try:
-        # Fallback for Pydantic v1 where BaseSettings lives in pydantic itself
-        from pydantic import BaseSettings  # type: ignore
-    except ImportError as exc:  # pragma: no cover
-        raise ImportError(
-            "pydantic-settings is required when using pydantic>=2.0. "
-            "Install with `pip install llm-postprocessor[settings]`."
-        ) from exc
+        return cast(value)
+    except (TypeError, ValueError):
+        return default
 
 
-class LLMSettings(BaseSettings):
-    """Settings for LLM configuration."""
-
-    provider: Literal["openai", "togetherai"] = Field(
-        default="openai", description="LLM provider to use"
-    )
-    model_name: str = Field(
-        default="gpt-3.5-turbo", description="Model name to use"
-    )
-    temperature: float = Field(default=0.7, description="Model temperature")
-    max_tokens: int = Field(default=2000, description="Maximum tokens in response")
-
-    model_config = ConfigDict(
-        env_file=".env",
-        env_prefix="LLM_",
-        extra="ignore"  # Allow extra fields from environment
-    )
+def _to_float(value: str) -> float:
+    return float(value.strip())
 
 
-class ProcessorSettings(BaseSettings):
-    """Settings for the post-processor."""
-
-    input_dir: str = Field(default="./data", description="Input data directory")
-    output_dir: str = Field(default="./output", description="Output directory")
-    batch_size: int = Field(default=10, description="Batch size for processing")
-
-    model_config = ConfigDict(
-        env_file=".env",
-        env_prefix="PROCESSOR_",
-        extra="ignore"
-    )
+def _to_int(value: str) -> int:
+    return int(value.strip())
 
 
-class Settings(BaseSettings):
-    """Main settings class."""
+@dataclass
+class LLMSettings:
+    """Configuration for LLM provider."""
 
-    llm: LLMSettings = Field(default_factory=LLMSettings)
-    processor: ProcessorSettings = Field(default_factory=ProcessorSettings)
+    provider: str = "openai"
+    model_name: str = "gpt-3.5-turbo"
+    temperature: float = 0.7
+    max_tokens: int = 2000
 
-    model_config = ConfigDict(
-        env_file=".env",
-        extra="ignore"
-    )
+    @classmethod
+    def from_env(cls) -> "LLMSettings":
+        return cls(
+            provider=_get_env("LLM_PROVIDER", cls.provider, str),
+            model_name=_get_env("LLM_MODEL_NAME", cls.model_name, str),
+            temperature=_get_env("LLM_TEMPERATURE", cls.temperature, _to_float),
+            max_tokens=_get_env("LLM_MAX_TOKENS", cls.max_tokens, _to_int),
+        )
+
+
+@dataclass
+class ProcessorSettings:
+    """Configuration for the post-processor."""
+
+    input_dir: str = "./data"
+    output_dir: str = "./output"
+    batch_size: int = 10
+
+    @classmethod
+    def from_env(cls) -> "ProcessorSettings":
+        return cls(
+            input_dir=_get_env("PROCESSOR_INPUT_DIR", cls.input_dir, str),
+            output_dir=_get_env("PROCESSOR_OUTPUT_DIR", cls.output_dir, str),
+            batch_size=_get_env("PROCESSOR_BATCH_SIZE", cls.batch_size, _to_int),
+        )
+
+
+@dataclass
+class Settings:
+    """Aggregate settings container."""
+
+    llm: LLMSettings = field(default_factory=LLMSettings)
+    processor: ProcessorSettings = field(default_factory=ProcessorSettings)
+
+    @classmethod
+    def from_env(cls) -> "Settings":
+        return cls(
+            llm=LLMSettings.from_env(),
+            processor=ProcessorSettings.from_env(),
+        )
 
 
 def get_settings() -> Settings:
-    """Get application settings."""
-    return Settings()
+    """Return settings populated from environment variables."""
+    return Settings.from_env()

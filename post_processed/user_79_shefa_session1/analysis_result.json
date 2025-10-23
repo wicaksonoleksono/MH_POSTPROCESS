@@ -1,7 +1,7 @@
 {
   "user_id": "user_79_shefa",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:15.268167",
+  "processed_at": "2025-10-23T15:27:32.848442",
   "metadata": {
     "folder_name": "user_79_shefa_session1",
     "data_path": "data/user_79_shefa_session1/llm_conversation.json",
@@ -696,10 +696,196 @@
         "completed_at": "2025-10-20T10:19:02.558080"
       }
     },
-    "phq_analysis_file": "user_79_shefa_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_79_shefa_session1/llm_analysis.jsonl",
+    "llm_frames_by_turn_file": "user_79_shefa_session1/llm_frames_by_turn.json",
     "phq_responses_file": "user_79_shefa_session1/phq_responses.json",
-    "session_metadata_file": "user_79_shefa_session1/metadata.json"
+    "session_metadata_file": "user_79_shefa_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_79_shefa_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_79_shefa_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_79_shefa_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_79_shefa_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 5,
+            "end": 59
+          },
+          {
+            "turn_number": 2,
+            "start": 76,
+            "end": 96
+          },
+          {
+            "turn_number": 3,
+            "start": 103,
+            "end": 126
+          },
+          {
+            "turn_number": 4,
+            "start": 139,
+            "end": 142
+          },
+          {
+            "turn_number": 5,
+            "start": 153,
+            "end": 157
+          },
+          {
+            "turn_number": 6,
+            "start": 168,
+            "end": 192
+          },
+          {
+            "turn_number": 7,
+            "start": 200,
+            "end": 222
+          },
+          {
+            "turn_number": 8,
+            "start": 229,
+            "end": 233
+          },
+          {
+            "turn_number": 9,
+            "start": 245,
+            "end": 274
+          },
+          {
+            "turn_number": 10,
+            "start": 284,
+            "end": 303
+          },
+          {
+            "turn_number": 11,
+            "start": 310,
+            "end": 318
+          },
+          {
+            "turn_number": 12,
+            "start": 332,
+            "end": 344
+          },
+          {
+            "turn_number": 13,
+            "start": 381,
+            "end": 387
+          },
+          {
+            "turn_number": 14,
+            "start": 395,
+            "end": 407
+          },
+          {
+            "turn_number": 15,
+            "start": 415,
+            "end": 418
+          },
+          {
+            "turn_number": 16,
+            "start": 426,
+            "end": 434
+          },
+          {
+            "turn_number": 17,
+            "start": 441,
+            "end": 453
+          },
+          {
+            "turn_number": 18,
+            "start": 468,
+            "end": 473
+          },
+          {
+            "turn_number": 19,
+            "start": 482,
+            "end": 487
+          },
+          {
+            "turn_number": 20,
+            "start": 493,
+            "end": 506
+          },
+          {
+            "turn_number": 21,
+            "start": 520,
+            "end": 523
+          },
+          {
+            "turn_number": 22,
+            "start": 532,
+            "end": 536
+          },
+          {
+            "turn_number": 23,
+            "start": 544,
+            "end": 548
+          },
+          {
+            "turn_number": 24,
+            "start": 556,
+            "end": 561
+          },
+          {
+            "turn_number": 25,
+            "start": 571,
+            "end": 576
+          },
+          {
+            "turn_number": 26,
+            "start": 586,
+            "end": 601
+          },
+          {
+            "turn_number": 27,
+            "start": 610,
+            "end": 625
+          },
+          {
+            "turn_number": 28,
+            "start": 633,
+            "end": 639
+          },
+          {
+            "turn_number": 29,
+            "start": 648,
+            "end": 659
+          },
+          {
+            "turn_number": 30,
+            "start": 669,
+            "end": 672
+          },
+          {
+            "turn_number": 31,
+            "start": 679,
+            "end": 684
+          },
+          {
+            "turn_number": 32,
+            "start": 691,
+            "end": 695
+          },
+          {
+            "turn_number": 33,
+            "start": 702,
+            "end": 705
+          },
+          {
+            "turn_number": 34,
+            "start": 711,
+            "end": 715
+          },
+          {
+            "turn_number": 35,
+            "start": 723,
+            "end": 729
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -712,7 +898,7 @@
     },
     "total_rows": 54,
     "data_rows": 53,
-    "file_path": "user_79_shefa_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 9,
       "max_possible_score": 27,
@@ -852,6 +1038,26 @@
         },
         "started_at": "2025-10-20T10:00:42.323424",
         "completed_at": "2025-10-20T10:02:01.790614"
+      },
+      "frame_count": 53,
+      "emotion_distribution": {
+        "Neutral": 45,
+        "Surprise": 6,
+        "Happiness": 1
+      },
+      "average_au_intensities": {
+        "au_1": 0.131,
+        "au_2": 0.0801,
+        "au_4": 0.3424,
+        "au_5": 0.0912,
+        "au_6": 0.0371,
+        "au_9": 0.1261,
+        "au_12": 0.4865,
+        "au_15": 0.1016,
+        "au_17": 0.0689,
+        "au_20": 0.0968,
+        "au_25": 0.3032,
+        "au_26": 0.1552
       }
     }
   },
@@ -866,7 +1072,7 @@
     },
     "total_rows": 731,
     "data_rows": 730,
-    "file_path": "user_79_shefa_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -896,7 +1102,69 @@
         },
         "started_at": "2025-10-20T10:01:31.930932",
         "completed_at": "2025-10-20T10:19:02.558080"
-      }
+      },
+      "frame_count": 729,
+      "emotion_distribution": {
+        "Neutral": 654,
+        "Sadness": 58,
+        "Happiness": 9,
+        "Surprise": 4,
+        "Anger": 3
+      },
+      "average_au_intensities": {
+        "au_1": 0.0693,
+        "au_2": 0.0541,
+        "au_4": 0.1874,
+        "au_5": 0.0405,
+        "au_6": 0.0167,
+        "au_9": 0.0621,
+        "au_12": 0.2339,
+        "au_15": 0.0482,
+        "au_17": 0.0508,
+        "au_20": 0.0671,
+        "au_25": 0.0869,
+        "au_26": 0.0581
+      },
+      "frames_per_turn": {
+        "1": 55,
+        "2": 37,
+        "3": 30,
+        "4": 16,
+        "5": 15,
+        "6": 36,
+        "7": 30,
+        "8": 11,
+        "9": 41,
+        "10": 29,
+        "11": 15,
+        "12": 26,
+        "13": 44,
+        "14": 20,
+        "15": 11,
+        "16": 16,
+        "17": 19,
+        "18": 20,
+        "19": 14,
+        "20": 19,
+        "21": 17,
+        "22": 13,
+        "23": 13,
+        "24": 13,
+        "25": 15,
+        "26": 25,
+        "27": 24,
+        "28": 14,
+        "29": 20,
+        "30": 13,
+        "31": 12,
+        "32": 11,
+        "33": 10,
+        "34": 10,
+        "35": 15
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

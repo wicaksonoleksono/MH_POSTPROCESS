@@ -1,7 +1,7 @@
 {
   "user_id": "user_276_anafilaksisz",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:14.627261",
+  "processed_at": "2025-10-23T15:27:28.807231",
   "metadata": {
     "folder_name": "user_276_anafilaksisz_session1",
     "data_path": "data/user_276_anafilaksisz_session1/llm_conversation.json",
@@ -401,10 +401,116 @@
         "completed_at": "2025-10-20T12:33:01.723104"
       }
     },
-    "phq_analysis_file": "user_276_anafilaksisz_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_276_anafilaksisz_session1/llm_analysis.jsonl",
+    "llm_frames_by_turn_file": "user_276_anafilaksisz_session1/llm_frames_by_turn.json",
     "phq_responses_file": "user_276_anafilaksisz_session1/phq_responses.json",
-    "session_metadata_file": "user_276_anafilaksisz_session1/metadata.json"
+    "session_metadata_file": "user_276_anafilaksisz_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_276_anafilaksisz_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_276_anafilaksisz_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_276_anafilaksisz_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_276_anafilaksisz_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 5,
+            "end": 14
+          },
+          {
+            "turn_number": 2,
+            "start": 32,
+            "end": 35
+          },
+          {
+            "turn_number": 3,
+            "start": 50,
+            "end": 53
+          },
+          {
+            "turn_number": 4,
+            "start": 65,
+            "end": 66
+          },
+          {
+            "turn_number": 5,
+            "start": 82,
+            "end": 86
+          },
+          {
+            "turn_number": 6,
+            "start": 95,
+            "end": 97
+          },
+          {
+            "turn_number": 7,
+            "start": 104,
+            "end": 106
+          },
+          {
+            "turn_number": 8,
+            "start": 115,
+            "end": 119
+          },
+          {
+            "turn_number": 9,
+            "start": 131,
+            "end": 166
+          },
+          {
+            "turn_number": 10,
+            "start": 179,
+            "end": 189
+          },
+          {
+            "turn_number": 11,
+            "start": 204,
+            "end": 235
+          },
+          {
+            "turn_number": 12,
+            "start": 256,
+            "end": 265
+          },
+          {
+            "turn_number": 13,
+            "start": 275,
+            "end": 280
+          },
+          {
+            "turn_number": 14,
+            "start": 296,
+            "end": 301
+          },
+          {
+            "turn_number": 15,
+            "start": 318,
+            "end": 378
+          },
+          {
+            "turn_number": 16,
+            "start": 422,
+            "end": 432
+          },
+          {
+            "turn_number": 17,
+            "start": 442,
+            "end": 447
+          },
+          {
+            "turn_number": 18,
+            "start": 462,
+            "end": 466
+          },
+          {
+            "turn_number": 19,
+            "start": 486,
+            "end": 491
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -417,7 +523,7 @@
     },
     "total_rows": 142,
     "data_rows": 141,
-    "file_path": "user_276_anafilaksisz_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 13,
       "max_possible_score": 27,
@@ -554,6 +660,25 @@
         },
         "started_at": "2025-10-20T12:23:57.686281",
         "completed_at": "2025-10-20T12:26:17.368211"
+      },
+      "frame_count": 141,
+      "emotion_distribution": {
+        "Neutral": 53,
+        "Happiness": 18
+      },
+      "average_au_intensities": {
+        "au_1": 0.0297,
+        "au_2": 0.0187,
+        "au_4": 0.1078,
+        "au_5": 0.0148,
+        "au_6": 0.0256,
+        "au_9": 0.0257,
+        "au_12": 0.0078,
+        "au_15": 0.0294,
+        "au_17": 0.0782,
+        "au_20": 0.0527,
+        "au_25": 0.0316,
+        "au_26": 0.0232
       }
     }
   },
@@ -568,7 +693,7 @@
     },
     "total_rows": 486,
     "data_rows": 485,
-    "file_path": "user_276_anafilaksisz_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -594,7 +719,50 @@
         },
         "started_at": "2025-10-20T12:25:17.449524",
         "completed_at": "2025-10-20T12:33:01.723104"
-      }
+      },
+      "frame_count": 484,
+      "emotion_distribution": {
+        "Neutral": 230,
+        "Happiness": 11
+      },
+      "average_au_intensities": {
+        "au_1": 0.0245,
+        "au_2": 0.0142,
+        "au_4": 0.095,
+        "au_5": 0.0127,
+        "au_6": 0.0138,
+        "au_9": 0.0185,
+        "au_12": 0.0061,
+        "au_15": 0.0286,
+        "au_17": 0.0543,
+        "au_20": 0.0399,
+        "au_25": 0.0233,
+        "au_26": 0.0214
+      },
+      "frames_per_turn": {
+        "1": 9,
+        "2": 21,
+        "3": 18,
+        "4": 13,
+        "5": 20,
+        "6": 11,
+        "7": 9,
+        "8": 13,
+        "9": 47,
+        "10": 22,
+        "11": 46,
+        "12": 30,
+        "13": 15,
+        "14": 21,
+        "15": 76,
+        "16": 54,
+        "17": 15,
+        "18": 19,
+        "19": 25
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

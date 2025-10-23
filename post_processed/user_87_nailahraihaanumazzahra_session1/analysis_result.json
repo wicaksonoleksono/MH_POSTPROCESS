@@ -1,7 +1,7 @@
 {
   "user_id": "user_87_nailahraihaanumazzahra",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:15.361804",
+  "processed_at": "2025-10-23T15:27:33.456311",
   "metadata": {
     "folder_name": "user_87_nailahraihaanumazzahra_session1",
     "data_path": "data/user_87_nailahraihaanumazzahra_session1/llm_conversation.json",
@@ -425,10 +425,121 @@
         "completed_at": "2025-10-20T09:52:23.965202"
       }
     },
-    "phq_analysis_file": "user_87_nailahraihaanumazzahra_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_87_nailahraihaanumazzahra_session1/llm_analysis.jsonl",
+    "llm_frames_by_turn_file": "user_87_nailahraihaanumazzahra_session1/llm_frames_by_turn.json",
     "phq_responses_file": "user_87_nailahraihaanumazzahra_session1/phq_responses.json",
-    "session_metadata_file": "user_87_nailahraihaanumazzahra_session1/metadata.json"
+    "session_metadata_file": "user_87_nailahraihaanumazzahra_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_87_nailahraihaanumazzahra_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_87_nailahraihaanumazzahra_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_87_nailahraihaanumazzahra_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_87_nailahraihaanumazzahra_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 24,
+            "end": 89
+          },
+          {
+            "turn_number": 2,
+            "start": 105,
+            "end": 179
+          },
+          {
+            "turn_number": 3,
+            "start": 214,
+            "end": 232
+          },
+          {
+            "turn_number": 4,
+            "start": 245,
+            "end": 306
+          },
+          {
+            "turn_number": 5,
+            "start": 328,
+            "end": 384
+          },
+          {
+            "turn_number": 6,
+            "start": 397,
+            "end": 442
+          },
+          {
+            "turn_number": 7,
+            "start": 462,
+            "end": 504
+          },
+          {
+            "turn_number": 8,
+            "start": 520,
+            "end": 541
+          },
+          {
+            "turn_number": 9,
+            "start": 554,
+            "end": 558
+          },
+          {
+            "turn_number": 10,
+            "start": 571,
+            "end": 583
+          },
+          {
+            "turn_number": 11,
+            "start": 595,
+            "end": 622
+          },
+          {
+            "turn_number": 12,
+            "start": 657,
+            "end": 660
+          },
+          {
+            "turn_number": 13,
+            "start": 678,
+            "end": 692
+          },
+          {
+            "turn_number": 14,
+            "start": 702,
+            "end": 714
+          },
+          {
+            "turn_number": 15,
+            "start": 732,
+            "end": 734
+          },
+          {
+            "turn_number": 16,
+            "start": 742,
+            "end": 752
+          },
+          {
+            "turn_number": 17,
+            "start": 790,
+            "end": 794
+          },
+          {
+            "turn_number": 18,
+            "start": 805,
+            "end": 810
+          },
+          {
+            "turn_number": 19,
+            "start": 819,
+            "end": 837
+          },
+          {
+            "turn_number": 20,
+            "start": 850,
+            "end": 863
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -441,7 +552,7 @@
     },
     "total_rows": 99,
     "data_rows": 98,
-    "file_path": "user_87_nailahraihaanumazzahra_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 15,
       "max_possible_score": 27,
@@ -580,6 +691,25 @@
         },
         "started_at": "2025-10-20T09:31:12.096448",
         "completed_at": "2025-10-20T09:33:34.801938"
+      },
+      "frame_count": 98,
+      "emotion_distribution": {
+        "Neutral": 88,
+        "Happiness": 9
+      },
+      "average_au_intensities": {
+        "au_1": 0.0561,
+        "au_2": 0.0342,
+        "au_4": 0.1454,
+        "au_5": 0.0275,
+        "au_6": 0.0161,
+        "au_9": 0.0396,
+        "au_12": 0.0387,
+        "au_15": 0.0721,
+        "au_17": 0.0532,
+        "au_20": 0.0451,
+        "au_25": 0.1095,
+        "au_26": 0.1031
       }
     }
   },
@@ -594,7 +724,7 @@
     },
     "total_rows": 863,
     "data_rows": 862,
-    "file_path": "user_87_nailahraihaanumazzahra_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -624,7 +754,54 @@
         },
         "started_at": "2025-10-20T09:32:06.120272",
         "completed_at": "2025-10-20T09:52:23.965202"
-      }
+      },
+      "frame_count": 861,
+      "emotion_distribution": {
+        "Happiness": 48,
+        "Neutral": 775,
+        "Surprise": 4,
+        "Fear": 3,
+        "Anger": 1
+      },
+      "average_au_intensities": {
+        "au_1": 0.044,
+        "au_2": 0.0298,
+        "au_4": 0.1009,
+        "au_5": 0.0249,
+        "au_6": 0.0306,
+        "au_9": 0.0336,
+        "au_12": 0.0561,
+        "au_15": 0.0972,
+        "au_17": 0.0445,
+        "au_20": 0.0406,
+        "au_25": 0.0951,
+        "au_26": 0.0768
+      },
+      "frames_per_turn": {
+        "1": 67,
+        "2": 92,
+        "3": 55,
+        "4": 76,
+        "5": 80,
+        "6": 59,
+        "7": 64,
+        "8": 37,
+        "9": 18,
+        "10": 25,
+        "11": 40,
+        "12": 39,
+        "13": 33,
+        "14": 23,
+        "15": 20,
+        "16": 19,
+        "17": 43,
+        "18": 16,
+        "19": 28,
+        "20": 27
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

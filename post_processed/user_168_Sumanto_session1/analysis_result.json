@@ -1,7 +1,7 @@
 {
   "user_id": "user_168_Sumanto",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:13.580889",
+  "processed_at": "2025-10-23T15:27:22.403909",
   "metadata": {
     "folder_name": "user_168_Sumanto_session1",
     "data_path": "data/user_168_Sumanto_session1/llm_conversation.json",
@@ -600,10 +600,171 @@
         "completed_at": "2025-10-20T10:55:18.614847"
       }
     },
-    "phq_analysis_file": "user_168_Sumanto_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_168_Sumanto_session1/llm_analysis.jsonl",
+    "llm_frames_by_turn_file": "user_168_Sumanto_session1/llm_frames_by_turn.json",
     "phq_responses_file": "user_168_Sumanto_session1/phq_responses.json",
-    "session_metadata_file": "user_168_Sumanto_session1/metadata.json"
+    "session_metadata_file": "user_168_Sumanto_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_168_Sumanto_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_168_Sumanto_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_168_Sumanto_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_168_Sumanto_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 40,
+            "end": 45
+          },
+          {
+            "turn_number": 2,
+            "start": 53,
+            "end": 66
+          },
+          {
+            "turn_number": 3,
+            "start": 87,
+            "end": 98
+          },
+          {
+            "turn_number": 4,
+            "start": 106,
+            "end": 143
+          },
+          {
+            "turn_number": 5,
+            "start": 174,
+            "end": 177
+          },
+          {
+            "turn_number": 6,
+            "start": 185,
+            "end": 263
+          },
+          {
+            "turn_number": 7,
+            "start": 294,
+            "end": 299
+          },
+          {
+            "turn_number": 8,
+            "start": 312,
+            "end": 327
+          },
+          {
+            "turn_number": 9,
+            "start": 348,
+            "end": 350
+          },
+          {
+            "turn_number": 10,
+            "start": 382,
+            "end": 390
+          },
+          {
+            "turn_number": 11,
+            "start": 399,
+            "end": 401
+          },
+          {
+            "turn_number": 12,
+            "start": 412,
+            "end": 421
+          },
+          {
+            "turn_number": 13,
+            "start": 433,
+            "end": 443
+          },
+          {
+            "turn_number": 14,
+            "start": 458,
+            "end": 470
+          },
+          {
+            "turn_number": 15,
+            "start": 484,
+            "end": 490
+          },
+          {
+            "turn_number": 16,
+            "start": 499,
+            "end": 507
+          },
+          {
+            "turn_number": 17,
+            "start": 537,
+            "end": 548
+          },
+          {
+            "turn_number": 18,
+            "start": 559,
+            "end": 578
+          },
+          {
+            "turn_number": 19,
+            "start": 587,
+            "end": 599
+          },
+          {
+            "turn_number": 20,
+            "start": 609,
+            "end": 618
+          },
+          {
+            "turn_number": 21,
+            "start": 631,
+            "end": 646
+          },
+          {
+            "turn_number": 22,
+            "start": 669,
+            "end": 689
+          },
+          {
+            "turn_number": 23,
+            "start": 696,
+            "end": 721
+          },
+          {
+            "turn_number": 24,
+            "start": 733,
+            "end": 744
+          },
+          {
+            "turn_number": 25,
+            "start": 753,
+            "end": 777
+          },
+          {
+            "turn_number": 26,
+            "start": 785,
+            "end": 804
+          },
+          {
+            "turn_number": 27,
+            "start": 816,
+            "end": 827
+          },
+          {
+            "turn_number": 28,
+            "start": 835,
+            "end": 850
+          },
+          {
+            "turn_number": 29,
+            "start": 866,
+            "end": 875
+          },
+          {
+            "turn_number": 30,
+            "start": 887,
+            "end": 913
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -616,7 +777,7 @@
     },
     "total_rows": 76,
     "data_rows": 75,
-    "file_path": "user_168_Sumanto_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 9,
       "max_possible_score": 27,
@@ -752,6 +913,24 @@
         },
         "started_at": "2025-10-20T10:33:08.158859",
         "completed_at": "2025-10-20T10:34:54.784091"
+      },
+      "frame_count": 75,
+      "emotion_distribution": {
+        "Neutral": 74
+      },
+      "average_au_intensities": {
+        "au_1": 0.0775,
+        "au_2": 0.0875,
+        "au_4": 0.2033,
+        "au_5": 0.0611,
+        "au_6": 0.0311,
+        "au_9": 0.0553,
+        "au_12": 0.0181,
+        "au_15": 0.1433,
+        "au_17": 0.1348,
+        "au_20": 0.2436,
+        "au_25": 0.0305,
+        "au_26": 0.0564
       }
     }
   },
@@ -766,7 +945,7 @@
     },
     "total_rows": 916,
     "data_rows": 915,
-    "file_path": "user_168_Sumanto_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -794,7 +973,62 @@
         },
         "started_at": "2025-10-20T10:34:41.942650",
         "completed_at": "2025-10-20T10:55:18.614847"
-      }
+      },
+      "frame_count": 914,
+      "emotion_distribution": {
+        "Happiness": 46,
+        "Neutral": 835,
+        "Anger": 18
+      },
+      "average_au_intensities": {
+        "au_1": 0.0962,
+        "au_2": 0.1401,
+        "au_4": 0.2632,
+        "au_5": 0.0518,
+        "au_6": 0.0182,
+        "au_9": 0.036,
+        "au_12": 0.0115,
+        "au_15": 0.1236,
+        "au_17": 0.2484,
+        "au_20": 0.2513,
+        "au_25": 0.0098,
+        "au_26": 0.0284
+      },
+      "frames_per_turn": {
+        "1": 6,
+        "2": 22,
+        "3": 33,
+        "4": 47,
+        "5": 36,
+        "6": 90,
+        "7": 37,
+        "8": 30,
+        "9": 24,
+        "10": 42,
+        "11": 11,
+        "12": 21,
+        "13": 23,
+        "14": 28,
+        "15": 21,
+        "16": 18,
+        "17": 43,
+        "18": 31,
+        "19": 22,
+        "20": 20,
+        "21": 29,
+        "22": 45,
+        "23": 34,
+        "24": 24,
+        "25": 34,
+        "26": 29,
+        "27": 24,
+        "28": 24,
+        "29": 26,
+        "30": 40
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

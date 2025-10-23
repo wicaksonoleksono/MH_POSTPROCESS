@@ -1,7 +1,7 @@
 {
   "user_id": "user_296_octivafairuz",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:14.939749",
+  "processed_at": "2025-10-23T15:27:30.763931",
   "metadata": {
     "folder_name": "user_296_octivafairuz_session1",
     "data_path": "data/user_296_octivafairuz_session1/llm_conversation.json",
@@ -457,10 +457,131 @@
         "completed_at": "2025-10-20T16:39:30.325475"
       }
     },
-    "phq_analysis_file": "user_296_octivafairuz_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_296_octivafairuz_session1/llm_analysis.jsonl",
+    "llm_frames_by_turn_file": "user_296_octivafairuz_session1/llm_frames_by_turn.json",
     "phq_responses_file": "user_296_octivafairuz_session1/phq_responses.json",
-    "session_metadata_file": "user_296_octivafairuz_session1/metadata.json"
+    "session_metadata_file": "user_296_octivafairuz_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_296_octivafairuz_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_296_octivafairuz_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_296_octivafairuz_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_296_octivafairuz_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 8,
+            "end": 14
+          },
+          {
+            "turn_number": 2,
+            "start": 23,
+            "end": 121
+          },
+          {
+            "turn_number": 3,
+            "start": 145,
+            "end": 170
+          },
+          {
+            "turn_number": 4,
+            "start": 179,
+            "end": 225
+          },
+          {
+            "turn_number": 5,
+            "start": 235,
+            "end": 265
+          },
+          {
+            "turn_number": 6,
+            "start": 277,
+            "end": 291
+          },
+          {
+            "turn_number": 7,
+            "start": 303,
+            "end": 357
+          },
+          {
+            "turn_number": 8,
+            "start": 370,
+            "end": 389
+          },
+          {
+            "turn_number": 9,
+            "start": 401,
+            "end": 449
+          },
+          {
+            "turn_number": 10,
+            "start": 461,
+            "end": 473
+          },
+          {
+            "turn_number": 11,
+            "start": 508,
+            "end": 542
+          },
+          {
+            "turn_number": 12,
+            "start": 550,
+            "end": 552
+          },
+          {
+            "turn_number": 13,
+            "start": 562,
+            "end": 660
+          },
+          {
+            "turn_number": 14,
+            "start": 684,
+            "end": 687
+          },
+          {
+            "turn_number": 15,
+            "start": 704,
+            "end": 710
+          },
+          {
+            "turn_number": 16,
+            "start": 717,
+            "end": 730
+          },
+          {
+            "turn_number": 17,
+            "start": 741,
+            "end": 745
+          },
+          {
+            "turn_number": 18,
+            "start": 761,
+            "end": 784
+          },
+          {
+            "turn_number": 19,
+            "start": 791,
+            "end": 825
+          },
+          {
+            "turn_number": 20,
+            "start": 833,
+            "end": 856
+          },
+          {
+            "turn_number": 21,
+            "start": 865,
+            "end": 892
+          },
+          {
+            "turn_number": 22,
+            "start": 900,
+            "end": 901
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -473,7 +594,7 @@
     },
     "total_rows": 64,
     "data_rows": 63,
-    "file_path": "user_296_octivafairuz_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 21,
       "max_possible_score": 27,
@@ -611,6 +732,25 @@
         },
         "started_at": "2025-10-20T16:17:00.077347",
         "completed_at": "2025-10-20T16:18:36.126135"
+      },
+      "frame_count": 63,
+      "emotion_distribution": {
+        "Neutral": 4,
+        "Happiness": 54
+      },
+      "average_au_intensities": {
+        "au_1": 0.0952,
+        "au_2": 0.0772,
+        "au_4": 0.1053,
+        "au_5": 0.0689,
+        "au_6": 0.1389,
+        "au_9": 0.0602,
+        "au_12": 0.8132,
+        "au_15": 0.0567,
+        "au_17": 0.0734,
+        "au_20": 0.089,
+        "au_25": 0.6368,
+        "au_26": 0.1723
       }
     }
   },
@@ -625,7 +765,7 @@
     },
     "total_rows": 895,
     "data_rows": 894,
-    "file_path": "user_296_octivafairuz_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -652,7 +792,53 @@
         },
         "started_at": "2025-10-20T16:17:07.676136",
         "completed_at": "2025-10-20T16:39:30.325475"
-      }
+      },
+      "frame_count": 893,
+      "emotion_distribution": {
+        "Happiness": 706,
+        "Neutral": 167
+      },
+      "average_au_intensities": {
+        "au_1": 0.1356,
+        "au_2": 0.0999,
+        "au_4": 0.1429,
+        "au_5": 0.1042,
+        "au_6": 0.3193,
+        "au_9": 0.0945,
+        "au_12": 1.2646,
+        "au_15": 0.088,
+        "au_17": 0.0825,
+        "au_20": 0.1003,
+        "au_25": 1.4357,
+        "au_26": 0.3072
+      },
+      "frames_per_turn": {
+        "1": 6,
+        "2": 107,
+        "3": 49,
+        "4": 55,
+        "5": 40,
+        "6": 26,
+        "7": 66,
+        "8": 32,
+        "9": 60,
+        "10": 24,
+        "11": 69,
+        "12": 10,
+        "13": 108,
+        "14": 27,
+        "15": 23,
+        "16": 20,
+        "17": 15,
+        "18": 39,
+        "19": 41,
+        "20": 31,
+        "21": 36,
+        "22": 9
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

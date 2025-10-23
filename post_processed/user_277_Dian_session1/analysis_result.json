@@ -1,7 +1,7 @@
 {
   "user_id": "user_277_Dian",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:14.643340",
+  "processed_at": "2025-10-23T15:27:28.869496",
   "metadata": {
     "folder_name": "user_277_Dian_session1",
     "data_path": "data/user_277_Dian_session1/llm_conversation.json",
@@ -353,10 +353,101 @@
         "completed_at": "2025-10-20T13:05:44.626102"
       }
     },
-    "phq_analysis_file": "user_277_Dian_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_277_Dian_session1/llm_analysis.jsonl",
+    "llm_frames_by_turn_file": "user_277_Dian_session1/llm_frames_by_turn.json",
     "phq_responses_file": "user_277_Dian_session1/phq_responses.json",
-    "session_metadata_file": "user_277_Dian_session1/metadata.json"
+    "session_metadata_file": "user_277_Dian_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_277_Dian_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_277_Dian_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_277_Dian_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_277_Dian_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 6,
+            "end": 12
+          },
+          {
+            "turn_number": 2,
+            "start": 27,
+            "end": 46
+          },
+          {
+            "turn_number": 3,
+            "start": 60,
+            "end": 89
+          },
+          {
+            "turn_number": 4,
+            "start": 103,
+            "end": 121
+          },
+          {
+            "turn_number": 5,
+            "start": 131,
+            "end": 134
+          },
+          {
+            "turn_number": 6,
+            "start": 154,
+            "end": 168
+          },
+          {
+            "turn_number": 7,
+            "start": 179,
+            "end": 187
+          },
+          {
+            "turn_number": 8,
+            "start": 195,
+            "end": 197
+          },
+          {
+            "turn_number": 9,
+            "start": 205,
+            "end": 211
+          },
+          {
+            "turn_number": 10,
+            "start": 222,
+            "end": 242
+          },
+          {
+            "turn_number": 11,
+            "start": 253,
+            "end": 262
+          },
+          {
+            "turn_number": 12,
+            "start": 285,
+            "end": 303
+          },
+          {
+            "turn_number": 13,
+            "start": 320,
+            "end": 322
+          },
+          {
+            "turn_number": 14,
+            "start": 337,
+            "end": 342
+          },
+          {
+            "turn_number": 15,
+            "start": 351,
+            "end": 354
+          },
+          {
+            "turn_number": 16,
+            "start": 371,
+            "end": 374
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -369,7 +460,7 @@
     },
     "total_rows": 161,
     "data_rows": 160,
-    "file_path": "user_277_Dian_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 7,
       "max_possible_score": 27,
@@ -510,6 +601,27 @@
         },
         "started_at": "2025-10-20T12:54:02.190910",
         "completed_at": "2025-10-20T12:57:57.746946"
+      },
+      "frame_count": 160,
+      "emotion_distribution": {
+        "Neutral": 148,
+        "Sadness": 6,
+        "Happiness": 4,
+        "Anger": 1
+      },
+      "average_au_intensities": {
+        "au_1": 0.1249,
+        "au_2": 0.0855,
+        "au_4": 0.6695,
+        "au_5": 0.0846,
+        "au_6": 0.1643,
+        "au_9": 0.163,
+        "au_12": 1.0908,
+        "au_15": 0.0842,
+        "au_17": 0.0904,
+        "au_20": 0.0974,
+        "au_25": 0.5044,
+        "au_26": 0.0915
       }
     }
   },
@@ -524,7 +636,7 @@
     },
     "total_rows": 375,
     "data_rows": 374,
-    "file_path": "user_277_Dian_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -552,7 +664,48 @@
         },
         "started_at": "2025-10-20T12:56:48.993013",
         "completed_at": "2025-10-20T13:05:44.626102"
-      }
+      },
+      "frame_count": 373,
+      "emotion_distribution": {
+        "Neutral": 352,
+        "Sadness": 18,
+        "Anger": 3
+      },
+      "average_au_intensities": {
+        "au_1": 0.1054,
+        "au_2": 0.0677,
+        "au_4": 0.8209,
+        "au_5": 0.0631,
+        "au_6": 0.1654,
+        "au_9": 0.1942,
+        "au_12": 0.8458,
+        "au_15": 0.0658,
+        "au_17": 0.0727,
+        "au_20": 0.0964,
+        "au_25": 0.402,
+        "au_26": 0.0837
+      },
+      "frames_per_turn": {
+        "1": 7,
+        "2": 34,
+        "3": 43,
+        "4": 33,
+        "5": 13,
+        "6": 34,
+        "7": 19,
+        "8": 11,
+        "9": 14,
+        "10": 31,
+        "11": 20,
+        "12": 42,
+        "13": 19,
+        "14": 20,
+        "15": 12,
+        "16": 21
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

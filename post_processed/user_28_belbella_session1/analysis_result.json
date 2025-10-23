@@ -1,7 +1,7 @@
 {
   "user_id": "user_28_belbella",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:14.898916",
+  "processed_at": "2025-10-23T15:27:30.657061",
   "metadata": {
     "folder_name": "user_28_belbella_session1",
     "data_path": "data/user_28_belbella_session1/llm_conversation.json",
@@ -266,10 +266,85 @@
         "completed_at": "2025-10-20T12:46:20.151055"
       }
     },
-    "phq_analysis_file": "user_28_belbella_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_28_belbella_session1/llm_analysis.jsonl",
     "phq_responses_file": "user_28_belbella_session1/phq_responses.json",
-    "session_metadata_file": "user_28_belbella_session1/metadata.json"
+    "session_metadata_file": "user_28_belbella_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_28_belbella_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_28_belbella_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_28_belbella_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_28_belbella_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 4,
+            "end": 15
+          },
+          {
+            "turn_number": 2,
+            "start": 31,
+            "end": 32
+          },
+          {
+            "turn_number": 3,
+            "start": 38,
+            "end": 45
+          },
+          {
+            "turn_number": 4,
+            "start": 55,
+            "end": 56
+          },
+          {
+            "turn_number": 5,
+            "start": 64,
+            "end": 73
+          },
+          {
+            "turn_number": 6,
+            "start": 81,
+            "end": 113
+          },
+          {
+            "turn_number": 7,
+            "start": 124,
+            "end": 129
+          },
+          {
+            "turn_number": 8,
+            "start": 150,
+            "end": 154
+          },
+          {
+            "turn_number": 9,
+            "start": 166,
+            "end": 185
+          },
+          {
+            "turn_number": 10,
+            "start": 196,
+            "end": 207
+          },
+          {
+            "turn_number": 11,
+            "start": 215,
+            "end": 225
+          },
+          {
+            "turn_number": 12,
+            "start": 235,
+            "end": 242
+          },
+          {
+            "turn_number": 13,
+            "start": 274,
+            "end": 306
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -282,7 +357,7 @@
     },
     "total_rows": 98,
     "data_rows": 97,
-    "file_path": "user_28_belbella_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 4,
       "max_possible_score": 27,
@@ -406,7 +481,10 @@
         "summary_stats": {},
         "started_at": "2025-10-20T12:43:35.223032",
         "completed_at": "2025-10-20T12:44:24.961105"
-      }
+      },
+      "frame_count": 97,
+      "emotion_distribution": {},
+      "average_au_intensities": {}
     }
   },
   "llm_summary": {
@@ -420,7 +498,7 @@
     },
     "total_rows": 309,
     "data_rows": 308,
-    "file_path": "user_28_belbella_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -432,7 +510,28 @@
         "summary_stats": {},
         "started_at": "2025-10-20T12:44:24.974817",
         "completed_at": "2025-10-20T12:46:20.151055"
-      }
+      },
+      "frame_count": 307,
+      "emotion_distribution": {},
+      "average_au_intensities": {},
+      "frames_per_turn": {
+        "1": 12,
+        "2": 17,
+        "3": 13,
+        "4": 11,
+        "5": 17,
+        "6": 41,
+        "7": 16,
+        "8": 25,
+        "9": 32,
+        "10": 22,
+        "11": 18,
+        "12": 18,
+        "13": 65
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

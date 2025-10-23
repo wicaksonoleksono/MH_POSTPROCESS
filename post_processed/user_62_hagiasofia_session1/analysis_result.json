@@ -1,7 +1,7 @@
 {
   "user_id": "user_62_hagiasofia",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:15.116423",
+  "processed_at": "2025-10-23T15:27:31.880287",
   "metadata": {
     "folder_name": "user_62_hagiasofia_session1",
     "data_path": "data/user_62_hagiasofia_session1/llm_conversation.json",
@@ -460,10 +460,131 @@
         "completed_at": "2025-10-20T09:54:31.647083"
       }
     },
-    "phq_analysis_file": "user_62_hagiasofia_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_62_hagiasofia_session1/llm_analysis.jsonl",
+    "llm_frames_by_turn_file": "user_62_hagiasofia_session1/llm_frames_by_turn.json",
     "phq_responses_file": "user_62_hagiasofia_session1/phq_responses.json",
-    "session_metadata_file": "user_62_hagiasofia_session1/metadata.json"
+    "session_metadata_file": "user_62_hagiasofia_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_62_hagiasofia_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_62_hagiasofia_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_62_hagiasofia_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_62_hagiasofia_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 12,
+            "end": 43
+          },
+          {
+            "turn_number": 2,
+            "start": 58,
+            "end": 69
+          },
+          {
+            "turn_number": 3,
+            "start": 93,
+            "end": 104
+          },
+          {
+            "turn_number": 4,
+            "start": 125,
+            "end": 130
+          },
+          {
+            "turn_number": 5,
+            "start": 149,
+            "end": 155
+          },
+          {
+            "turn_number": 6,
+            "start": 174,
+            "end": 184
+          },
+          {
+            "turn_number": 7,
+            "start": 192,
+            "end": 216
+          },
+          {
+            "turn_number": 8,
+            "start": 236,
+            "end": 240
+          },
+          {
+            "turn_number": 9,
+            "start": 251,
+            "end": 267
+          },
+          {
+            "turn_number": 10,
+            "start": 276,
+            "end": 280
+          },
+          {
+            "turn_number": 11,
+            "start": 293,
+            "end": 299
+          },
+          {
+            "turn_number": 12,
+            "start": 324,
+            "end": 327
+          },
+          {
+            "turn_number": 13,
+            "start": 337,
+            "end": 339
+          },
+          {
+            "turn_number": 14,
+            "start": 349,
+            "end": 350
+          },
+          {
+            "turn_number": 15,
+            "start": 366,
+            "end": 393
+          },
+          {
+            "turn_number": 16,
+            "start": 406,
+            "end": 438
+          },
+          {
+            "turn_number": 17,
+            "start": 449,
+            "end": 456
+          },
+          {
+            "turn_number": 18,
+            "start": 473,
+            "end": 483
+          },
+          {
+            "turn_number": 19,
+            "start": 563,
+            "end": 569
+          },
+          {
+            "turn_number": 20,
+            "start": 599,
+            "end": 604
+          },
+          {
+            "turn_number": 21,
+            "start": 615,
+            "end": 624
+          },
+          {
+            "turn_number": 22,
+            "start": 699,
+            "end": 730
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -476,7 +597,7 @@
     },
     "total_rows": 32,
     "data_rows": 31,
-    "file_path": "user_62_hagiasofia_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 7,
       "max_possible_score": 27,
@@ -615,6 +736,25 @@
         },
         "started_at": "2025-10-20T09:33:34.812539",
         "completed_at": "2025-10-20T09:34:24.492645"
+      },
+      "frame_count": 31,
+      "emotion_distribution": {
+        "Neutral": 29,
+        "Sadness": 1
+      },
+      "average_au_intensities": {
+        "au_1": 0.1817,
+        "au_2": 0.1102,
+        "au_4": 0.2747,
+        "au_5": 0.0769,
+        "au_6": 0.0575,
+        "au_9": 0.0875,
+        "au_12": 0.2632,
+        "au_15": 0.0801,
+        "au_17": 0.0663,
+        "au_20": 0.0841,
+        "au_25": 0.336,
+        "au_26": 0.2362
       }
     }
   },
@@ -629,7 +769,7 @@
     },
     "total_rows": 741,
     "data_rows": 740,
-    "file_path": "user_62_hagiasofia_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -658,7 +798,55 @@
         },
         "started_at": "2025-10-20T09:34:24.512957",
         "completed_at": "2025-10-20T09:54:31.647083"
-      }
+      },
+      "frame_count": 739,
+      "emotion_distribution": {
+        "Neutral": 528,
+        "Surprise": 2,
+        "Happiness": 133,
+        "Sadness": 22
+      },
+      "average_au_intensities": {
+        "au_1": 0.0954,
+        "au_2": 0.0607,
+        "au_4": 0.1541,
+        "au_5": 0.046,
+        "au_6": 0.0722,
+        "au_9": 0.0476,
+        "au_12": 0.2736,
+        "au_15": 0.0498,
+        "au_17": 0.0676,
+        "au_20": 0.0549,
+        "au_25": 0.1415,
+        "au_26": 0.1291
+      },
+      "frames_per_turn": {
+        "1": 32,
+        "2": 27,
+        "3": 36,
+        "4": 27,
+        "5": 25,
+        "6": 30,
+        "7": 33,
+        "8": 25,
+        "9": 28,
+        "10": 13,
+        "11": 19,
+        "12": 29,
+        "13": 13,
+        "14": 11,
+        "15": 44,
+        "16": 46,
+        "17": 19,
+        "18": 28,
+        "19": 88,
+        "20": 36,
+        "21": 21,
+        "22": 109
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

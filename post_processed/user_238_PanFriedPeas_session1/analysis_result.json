@@ -1,7 +1,7 @@
 {
   "user_id": "user_238_PanFriedPeas",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:14.201854",
+  "processed_at": "2025-10-23T15:27:26.090261",
   "metadata": {
     "folder_name": "user_238_PanFriedPeas_session1",
     "data_path": "data/user_238_PanFriedPeas_session1/llm_conversation.json",
@@ -353,10 +353,101 @@
         "completed_at": "2025-10-20T13:16:00.414236"
       }
     },
-    "phq_analysis_file": "user_238_PanFriedPeas_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_238_PanFriedPeas_session1/llm_analysis.jsonl",
+    "llm_frames_by_turn_file": "user_238_PanFriedPeas_session1/llm_frames_by_turn.json",
     "phq_responses_file": "user_238_PanFriedPeas_session1/phq_responses.json",
-    "session_metadata_file": "user_238_PanFriedPeas_session1/metadata.json"
+    "session_metadata_file": "user_238_PanFriedPeas_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_238_PanFriedPeas_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_238_PanFriedPeas_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_238_PanFriedPeas_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_238_PanFriedPeas_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 58,
+            "end": 61
+          },
+          {
+            "turn_number": 2,
+            "start": 77,
+            "end": 119
+          },
+          {
+            "turn_number": 3,
+            "start": 129,
+            "end": 194
+          },
+          {
+            "turn_number": 4,
+            "start": 215,
+            "end": 244
+          },
+          {
+            "turn_number": 5,
+            "start": 257,
+            "end": 282
+          },
+          {
+            "turn_number": 6,
+            "start": 287,
+            "end": 318
+          },
+          {
+            "turn_number": 7,
+            "start": 326,
+            "end": 331
+          },
+          {
+            "turn_number": 8,
+            "start": 339,
+            "end": 349
+          },
+          {
+            "turn_number": 9,
+            "start": 359,
+            "end": 384
+          },
+          {
+            "turn_number": 10,
+            "start": 397,
+            "end": 429
+          },
+          {
+            "turn_number": 11,
+            "start": 434,
+            "end": 478
+          },
+          {
+            "turn_number": 12,
+            "start": 488,
+            "end": 496
+          },
+          {
+            "turn_number": 13,
+            "start": 508,
+            "end": 541
+          },
+          {
+            "turn_number": 14,
+            "start": 571,
+            "end": 617
+          },
+          {
+            "turn_number": 15,
+            "start": 628,
+            "end": 647
+          },
+          {
+            "turn_number": 16,
+            "start": 670,
+            "end": 672
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -369,7 +460,7 @@
     },
     "total_rows": 113,
     "data_rows": 112,
-    "file_path": "user_238_PanFriedPeas_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 7,
       "max_possible_score": 27,
@@ -509,6 +600,26 @@
         },
         "started_at": "2025-10-20T13:05:02.454591",
         "completed_at": "2025-10-20T13:06:39.019339"
+      },
+      "frame_count": 112,
+      "emotion_distribution": {
+        "Neutral": 16,
+        "Happiness": 43,
+        "Surprise": 2
+      },
+      "average_au_intensities": {
+        "au_1": 0.0466,
+        "au_2": 0.0295,
+        "au_4": 0.1957,
+        "au_5": 0.0299,
+        "au_6": 0.0307,
+        "au_9": 0.0498,
+        "au_12": 0.0988,
+        "au_15": 0.0338,
+        "au_17": 0.0691,
+        "au_20": 0.0628,
+        "au_25": 0.0964,
+        "au_26": 0.0378
       }
     }
   },
@@ -523,7 +634,7 @@
     },
     "total_rows": 668,
     "data_rows": 667,
-    "file_path": "user_238_PanFriedPeas_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -552,7 +663,49 @@
         },
         "started_at": "2025-10-20T13:05:28.541033",
         "completed_at": "2025-10-20T13:16:00.414236"
-      }
+      },
+      "frame_count": 666,
+      "emotion_distribution": {
+        "Happiness": 193,
+        "Neutral": 177,
+        "Surprise": 1,
+        "Anger": 1
+      },
+      "average_au_intensities": {
+        "au_1": 0.051,
+        "au_2": 0.0349,
+        "au_4": 0.4214,
+        "au_5": 0.0467,
+        "au_6": 0.062,
+        "au_9": 0.0686,
+        "au_12": 0.2244,
+        "au_15": 0.0475,
+        "au_17": 0.0925,
+        "au_20": 0.0674,
+        "au_25": 0.1232,
+        "au_26": 0.0413
+      },
+      "frames_per_turn": {
+        "1": 4,
+        "2": 63,
+        "3": 81,
+        "4": 54,
+        "5": 41,
+        "6": 39,
+        "7": 14,
+        "8": 20,
+        "9": 38,
+        "10": 48,
+        "11": 53,
+        "12": 20,
+        "13": 49,
+        "14": 82,
+        "15": 32,
+        "16": 28
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

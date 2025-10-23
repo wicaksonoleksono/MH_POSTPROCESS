@@ -1,7 +1,7 @@
 {
   "user_id": "user_270_Nafisa_Naila_Husna",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:14.568060",
+  "processed_at": "2025-10-23T15:27:28.441561",
   "metadata": {
     "folder_name": "user_270_Nafisa_Naila_Husna_session1",
     "data_path": "data/user_270_Nafisa_Naila_Husna_session1/llm_conversation.json",
@@ -352,10 +352,101 @@
         "completed_at": "2025-10-20T13:40:42.746754"
       }
     },
-    "phq_analysis_file": "user_270_Nafisa_Naila_Husna_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_270_Nafisa_Naila_Husna_session1/llm_analysis.jsonl",
+    "llm_frames_by_turn_file": "user_270_Nafisa_Naila_Husna_session1/llm_frames_by_turn.json",
     "phq_responses_file": "user_270_Nafisa_Naila_Husna_session1/phq_responses.json",
-    "session_metadata_file": "user_270_Nafisa_Naila_Husna_session1/metadata.json"
+    "session_metadata_file": "user_270_Nafisa_Naila_Husna_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_270_Nafisa_Naila_Husna_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_270_Nafisa_Naila_Husna_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_270_Nafisa_Naila_Husna_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_270_Nafisa_Naila_Husna_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 5,
+            "end": 6
+          },
+          {
+            "turn_number": 2,
+            "start": 17,
+            "end": 20
+          },
+          {
+            "turn_number": 3,
+            "start": 32,
+            "end": 36
+          },
+          {
+            "turn_number": 4,
+            "start": 41,
+            "end": 45
+          },
+          {
+            "turn_number": 5,
+            "start": 51,
+            "end": 56
+          },
+          {
+            "turn_number": 6,
+            "start": 62,
+            "end": 64
+          },
+          {
+            "turn_number": 7,
+            "start": 70,
+            "end": 71
+          },
+          {
+            "turn_number": 8,
+            "start": 78,
+            "end": 80
+          },
+          {
+            "turn_number": 9,
+            "start": 89,
+            "end": 90
+          },
+          {
+            "turn_number": 10,
+            "start": 95,
+            "end": 96
+          },
+          {
+            "turn_number": 11,
+            "start": 101,
+            "end": 104
+          },
+          {
+            "turn_number": 12,
+            "start": 111,
+            "end": 113
+          },
+          {
+            "turn_number": 13,
+            "start": 133,
+            "end": 135
+          },
+          {
+            "turn_number": 14,
+            "start": 151,
+            "end": 152
+          },
+          {
+            "turn_number": 15,
+            "start": 160,
+            "end": 162
+          },
+          {
+            "turn_number": 16,
+            "start": 166,
+            "end": 168
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -368,7 +459,7 @@
     },
     "total_rows": 77,
     "data_rows": 76,
-    "file_path": "user_270_Nafisa_Naila_Husna_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 13,
       "max_possible_score": 27,
@@ -510,6 +601,28 @@
         },
         "started_at": "2025-10-20T13:34:44.039790",
         "completed_at": "2025-10-20T13:36:36.916260"
+      },
+      "frame_count": 76,
+      "emotion_distribution": {
+        "Neutral": 44,
+        "Happiness": 28,
+        "Disgust": 1,
+        "Anger": 1,
+        "Surprise": 1
+      },
+      "average_au_intensities": {
+        "au_1": 0.0581,
+        "au_2": 0.0548,
+        "au_4": 0.1109,
+        "au_5": 0.0554,
+        "au_6": 0.1097,
+        "au_9": 0.0637,
+        "au_12": 0.4575,
+        "au_15": 0.1445,
+        "au_17": 0.0799,
+        "au_20": 0.0788,
+        "au_25": 0.5509,
+        "au_26": 0.1662
       }
     }
   },
@@ -524,7 +637,7 @@
     },
     "total_rows": 172,
     "data_rows": 171,
-    "file_path": "user_270_Nafisa_Naila_Husna_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -550,7 +663,48 @@
         },
         "started_at": "2025-10-20T13:36:42.094579",
         "completed_at": "2025-10-20T13:40:42.746754"
-      }
+      },
+      "frame_count": 170,
+      "emotion_distribution": {
+        "Happiness": 1,
+        "Neutral": 168,
+        "Anger": 1
+      },
+      "average_au_intensities": {
+        "au_1": 0.0367,
+        "au_2": 0.0341,
+        "au_4": 0.0546,
+        "au_5": 0.0358,
+        "au_6": 0.0229,
+        "au_9": 0.0416,
+        "au_12": 0.094,
+        "au_15": 0.0989,
+        "au_17": 0.0546,
+        "au_20": 0.0765,
+        "au_25": 0.0145,
+        "au_26": 0.031
+      },
+      "frames_per_turn": {
+        "1": 2,
+        "2": 14,
+        "3": 17,
+        "4": 9,
+        "5": 11,
+        "6": 9,
+        "7": 7,
+        "8": 9,
+        "9": 11,
+        "10": 6,
+        "11": 8,
+        "12": 9,
+        "13": 23,
+        "14": 18,
+        "15": 10,
+        "16": 7
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

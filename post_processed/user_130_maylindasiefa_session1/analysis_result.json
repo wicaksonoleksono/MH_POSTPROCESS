@@ -1,7 +1,7 @@
 {
   "user_id": "user_130_maylindasiefa",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:13.159552",
+  "processed_at": "2025-10-23T15:27:20.142340",
   "metadata": {
     "folder_name": "user_130_maylindasiefa_session1",
     "data_path": "data/user_130_maylindasiefa_session1/llm_conversation.json",
@@ -383,10 +383,110 @@
         "completed_at": "2025-10-20T11:50:22.919557"
       }
     },
-    "phq_analysis_file": "user_130_maylindasiefa_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_130_maylindasiefa_session1/llm_analysis.jsonl",
     "phq_responses_file": "user_130_maylindasiefa_session1/phq_responses.json",
-    "session_metadata_file": "user_130_maylindasiefa_session1/metadata.json"
+    "session_metadata_file": "user_130_maylindasiefa_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_130_maylindasiefa_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_130_maylindasiefa_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_130_maylindasiefa_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_130_maylindasiefa_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 995,
+            "end": 999
+          },
+          {
+            "turn_number": 2,
+            "start": 1006,
+            "end": 1011
+          },
+          {
+            "turn_number": 3,
+            "start": 1017,
+            "end": 1026
+          },
+          {
+            "turn_number": 4,
+            "start": 1037,
+            "end": 1044
+          },
+          {
+            "turn_number": 5,
+            "start": 1055,
+            "end": 1075
+          },
+          {
+            "turn_number": 6,
+            "start": 1087,
+            "end": 1100
+          },
+          {
+            "turn_number": 7,
+            "start": 1121,
+            "end": 1124
+          },
+          {
+            "turn_number": 8,
+            "start": 1136,
+            "end": 1140
+          },
+          {
+            "turn_number": 9,
+            "start": 1149,
+            "end": 1153
+          },
+          {
+            "turn_number": 10,
+            "start": 1214,
+            "end": 1222
+          },
+          {
+            "turn_number": 11,
+            "start": 1230,
+            "end": 1232
+          },
+          {
+            "turn_number": 12,
+            "start": 1236,
+            "end": 1239
+          },
+          {
+            "turn_number": 13,
+            "start": 1244,
+            "end": 1257
+          },
+          {
+            "turn_number": 14,
+            "start": 1266,
+            "end": 1284
+          },
+          {
+            "turn_number": 15,
+            "start": 2658,
+            "end": 2666
+          },
+          {
+            "turn_number": 16,
+            "start": 2670,
+            "end": 2851
+          },
+          {
+            "turn_number": 17,
+            "start": 4215,
+            "end": 4224
+          },
+          {
+            "turn_number": 18,
+            "start": 4230,
+            "end": 4235
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -399,7 +499,7 @@
     },
     "total_rows": 20,
     "data_rows": 19,
-    "file_path": "user_130_maylindasiefa_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 10,
       "max_possible_score": 27,
@@ -534,6 +634,24 @@
         },
         "started_at": "2025-10-20T11:48:24.168267",
         "completed_at": "2025-10-20T11:48:47.338693"
+      },
+      "frame_count": 19,
+      "emotion_distribution": {
+        "Neutral": 18
+      },
+      "average_au_intensities": {
+        "au_1": 0.0376,
+        "au_2": 0.0267,
+        "au_4": 0.1034,
+        "au_5": 0.0207,
+        "au_6": 0.0105,
+        "au_9": 0.0271,
+        "au_12": 0.0065,
+        "au_15": 0.0977,
+        "au_17": 0.0929,
+        "au_20": 0.0775,
+        "au_25": 0.0058,
+        "au_26": 0.0306
       }
     }
   },
@@ -548,7 +666,7 @@
     },
     "total_rows": 95,
     "data_rows": 94,
-    "file_path": "user_130_maylindasiefa_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -576,7 +694,46 @@
         },
         "started_at": "2025-10-20T11:48:47.348680",
         "completed_at": "2025-10-20T11:50:22.919557"
-      }
+      },
+      "frame_count": 93,
+      "emotion_distribution": {
+        "Neutral": 17,
+        "Happiness": 14,
+        "Sadness": 9,
+        "Fear": 4,
+        "Surprise": 2
+      },
+      "average_au_intensities": {
+        "au_1": 0.0392,
+        "au_2": 0.0292,
+        "au_4": 0.1151,
+        "au_5": 0.0254,
+        "au_6": 0.0208,
+        "au_9": 0.037,
+        "au_12": 0.044,
+        "au_15": 0.0469,
+        "au_17": 0.043,
+        "au_20": 0.0421,
+        "au_25": 0.2292,
+        "au_26": 0.0839
+      },
+      "frames_per_turn": {
+        "1": 1,
+        "4": 1,
+        "5": 1,
+        "7": 1,
+        "8": 1,
+        "10": 2,
+        "13": 1,
+        "14": 1,
+        "15": 39,
+        "16": 5,
+        "17": 39,
+        "18": 1
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "user_id": "user_213_xyz",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:14.021121",
+  "processed_at": "2025-10-23T15:27:24.933154",
   "metadata": {
     "folder_name": "user_213_xyz_session1",
     "data_path": "data/user_213_xyz_session1/llm_conversation.json",
@@ -328,10 +328,96 @@
         "completed_at": "2025-10-20T13:25:28.667567"
       }
     },
-    "phq_analysis_file": "user_213_xyz_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_213_xyz_session1/llm_analysis.jsonl",
+    "llm_frames_by_turn_file": "user_213_xyz_session1/llm_frames_by_turn.json",
     "phq_responses_file": "user_213_xyz_session1/phq_responses.json",
-    "session_metadata_file": "user_213_xyz_session1/metadata.json"
+    "session_metadata_file": "user_213_xyz_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_213_xyz_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_213_xyz_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_213_xyz_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_213_xyz_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 10,
+            "end": 18
+          },
+          {
+            "turn_number": 2,
+            "start": 38,
+            "end": 43
+          },
+          {
+            "turn_number": 3,
+            "start": 59,
+            "end": 82
+          },
+          {
+            "turn_number": 4,
+            "start": 93,
+            "end": 188
+          },
+          {
+            "turn_number": 5,
+            "start": 201,
+            "end": 211
+          },
+          {
+            "turn_number": 6,
+            "start": 222,
+            "end": 314
+          },
+          {
+            "turn_number": 7,
+            "start": 345,
+            "end": 412
+          },
+          {
+            "turn_number": 8,
+            "start": 429,
+            "end": 475
+          },
+          {
+            "turn_number": 9,
+            "start": 492,
+            "end": 545
+          },
+          {
+            "turn_number": 10,
+            "start": 558,
+            "end": 655
+          },
+          {
+            "turn_number": 11,
+            "start": 669,
+            "end": 678
+          },
+          {
+            "turn_number": 12,
+            "start": 685,
+            "end": 703
+          },
+          {
+            "turn_number": 13,
+            "start": 724,
+            "end": 778
+          },
+          {
+            "turn_number": 14,
+            "start": 815,
+            "end": 896
+          },
+          {
+            "turn_number": 15,
+            "start": 916,
+            "end": 945
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -344,7 +430,7 @@
     },
     "total_rows": 108,
     "data_rows": 107,
-    "file_path": "user_213_xyz_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 9,
       "max_possible_score": 27,
@@ -480,6 +566,25 @@
         },
         "started_at": "2025-10-20T13:00:54.933602",
         "completed_at": "2025-10-20T13:03:27.087445"
+      },
+      "frame_count": 107,
+      "emotion_distribution": {
+        "Neutral": 73,
+        "Happiness": 33
+      },
+      "average_au_intensities": {
+        "au_1": 0.0245,
+        "au_2": 0.05,
+        "au_4": 0.03,
+        "au_5": 0.0273,
+        "au_6": 0.0116,
+        "au_9": 0.0349,
+        "au_12": 0.0283,
+        "au_15": 0.0737,
+        "au_17": 0.0726,
+        "au_20": 0.1258,
+        "au_25": 0.0157,
+        "au_26": 0.0183
       }
     }
   },
@@ -494,7 +599,7 @@
     },
     "total_rows": 945,
     "data_rows": 944,
-    "file_path": "user_213_xyz_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -520,7 +625,47 @@
         },
         "started_at": "2025-10-20T13:03:27.101335",
         "completed_at": "2025-10-20T13:25:28.667567"
-      }
+      },
+      "frame_count": 943,
+      "emotion_distribution": {
+        "Neutral": 834,
+        "Happiness": 106,
+        "Sadness": 3
+      },
+      "average_au_intensities": {
+        "au_1": 0.0241,
+        "au_2": 0.0713,
+        "au_4": 0.0459,
+        "au_5": 0.0314,
+        "au_6": 0.0166,
+        "au_9": 0.0401,
+        "au_12": 0.0473,
+        "au_15": 0.0813,
+        "au_17": 0.0928,
+        "au_20": 0.1357,
+        "au_25": 0.0199,
+        "au_26": 0.0195
+      },
+      "frames_per_turn": {
+        "1": 9,
+        "2": 25,
+        "3": 39,
+        "4": 107,
+        "5": 23,
+        "6": 104,
+        "7": 99,
+        "8": 63,
+        "9": 71,
+        "10": 110,
+        "11": 24,
+        "12": 25,
+        "13": 75,
+        "14": 119,
+        "15": 50
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

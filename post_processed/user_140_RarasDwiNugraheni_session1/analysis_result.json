@@ -1,7 +1,7 @@
 {
   "user_id": "user_140_RarasDwiNugraheni",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:13.256040",
+  "processed_at": "2025-10-23T15:27:20.681357",
   "metadata": {
     "folder_name": "user_140_RarasDwiNugraheni_session1",
     "data_path": "data/user_140_RarasDwiNugraheni_session1/llm_conversation.json",
@@ -353,10 +353,101 @@
         "completed_at": "2025-10-20T11:54:40.895958"
       }
     },
-    "phq_analysis_file": "user_140_RarasDwiNugraheni_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_140_RarasDwiNugraheni_session1/llm_analysis.jsonl",
+    "llm_frames_by_turn_file": "user_140_RarasDwiNugraheni_session1/llm_frames_by_turn.json",
     "phq_responses_file": "user_140_RarasDwiNugraheni_session1/phq_responses.json",
-    "session_metadata_file": "user_140_RarasDwiNugraheni_session1/metadata.json"
+    "session_metadata_file": "user_140_RarasDwiNugraheni_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_140_RarasDwiNugraheni_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_140_RarasDwiNugraheni_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_140_RarasDwiNugraheni_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_140_RarasDwiNugraheni_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 7,
+            "end": 45
+          },
+          {
+            "turn_number": 2,
+            "start": 63,
+            "end": 79
+          },
+          {
+            "turn_number": 3,
+            "start": 115,
+            "end": 122
+          },
+          {
+            "turn_number": 4,
+            "start": 151,
+            "end": 157
+          },
+          {
+            "turn_number": 5,
+            "start": 180,
+            "end": 183
+          },
+          {
+            "turn_number": 6,
+            "start": 192,
+            "end": 193
+          },
+          {
+            "turn_number": 7,
+            "start": 206,
+            "end": 209
+          },
+          {
+            "turn_number": 8,
+            "start": 222,
+            "end": 271
+          },
+          {
+            "turn_number": 9,
+            "start": 283,
+            "end": 286
+          },
+          {
+            "turn_number": 10,
+            "start": 293,
+            "end": 295
+          },
+          {
+            "turn_number": 11,
+            "start": 308,
+            "end": 310
+          },
+          {
+            "turn_number": 12,
+            "start": 321,
+            "end": 325
+          },
+          {
+            "turn_number": 13,
+            "start": 332,
+            "end": 333
+          },
+          {
+            "turn_number": 14,
+            "start": 343,
+            "end": 346
+          },
+          {
+            "turn_number": 15,
+            "start": 354,
+            "end": 357
+          },
+          {
+            "turn_number": 16,
+            "start": 367,
+            "end": 372
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -369,7 +460,7 @@
     },
     "total_rows": 59,
     "data_rows": 58,
-    "file_path": "user_140_RarasDwiNugraheni_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 0,
       "max_possible_score": 27,
@@ -509,6 +600,26 @@
         },
         "started_at": "2025-10-20T11:45:51.914599",
         "completed_at": "2025-10-20T11:47:07.466221"
+      },
+      "frame_count": 58,
+      "emotion_distribution": {
+        "Neutral": 51,
+        "Happiness": 3,
+        "Sadness": 1
+      },
+      "average_au_intensities": {
+        "au_1": 0.1451,
+        "au_2": 0.1136,
+        "au_4": 0.5162,
+        "au_5": 0.1592,
+        "au_6": 0.113,
+        "au_9": 0.1194,
+        "au_12": 0.5998,
+        "au_15": 0.1043,
+        "au_17": 0.149,
+        "au_20": 0.1158,
+        "au_25": 0.1581,
+        "au_26": 0.143
       }
     }
   },
@@ -523,7 +634,7 @@
     },
     "total_rows": 367,
     "data_rows": 366,
-    "file_path": "user_140_RarasDwiNugraheni_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -552,7 +663,49 @@
         },
         "started_at": "2025-10-20T11:45:52.007924",
         "completed_at": "2025-10-20T11:54:40.895958"
-      }
+      },
+      "frame_count": 365,
+      "emotion_distribution": {
+        "Neutral": 259,
+        "Happiness": 44,
+        "Sadness": 55,
+        "Surprise": 1
+      },
+      "average_au_intensities": {
+        "au_1": 0.134,
+        "au_2": 0.1225,
+        "au_4": 0.6468,
+        "au_5": 0.1812,
+        "au_6": 0.124,
+        "au_9": 0.1262,
+        "au_12": 0.5742,
+        "au_15": 0.119,
+        "au_17": 0.1971,
+        "au_20": 0.1439,
+        "au_25": 0.1322,
+        "au_26": 0.1291
+      },
+      "frames_per_turn": {
+        "1": 38,
+        "2": 34,
+        "3": 43,
+        "4": 35,
+        "5": 26,
+        "6": 10,
+        "7": 16,
+        "8": 62,
+        "9": 15,
+        "10": 9,
+        "11": 15,
+        "12": 15,
+        "13": 8,
+        "14": 13,
+        "15": 11,
+        "16": 15
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "user_id": "user_105_astri",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:12.892792",
+  "processed_at": "2025-10-23T15:27:18.464927",
   "metadata": {
     "folder_name": "user_105_astri_session1",
     "data_path": "data/user_105_astri_session1/llm_conversation.json",
@@ -496,10 +496,141 @@
         "completed_at": "2025-10-20T09:54:40.574128"
       }
     },
-    "phq_analysis_file": "user_105_astri_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_105_astri_session1/llm_analysis.jsonl",
+    "llm_frames_by_turn_file": "user_105_astri_session1/llm_frames_by_turn.json",
     "phq_responses_file": "user_105_astri_session1/phq_responses.json",
-    "session_metadata_file": "user_105_astri_session1/metadata.json"
+    "session_metadata_file": "user_105_astri_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_105_astri_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_105_astri_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_105_astri_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_105_astri_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 6,
+            "end": 12
+          },
+          {
+            "turn_number": 2,
+            "start": 17,
+            "end": 34
+          },
+          {
+            "turn_number": 3,
+            "start": 46,
+            "end": 58
+          },
+          {
+            "turn_number": 4,
+            "start": 65,
+            "end": 66
+          },
+          {
+            "turn_number": 5,
+            "start": 76,
+            "end": 87
+          },
+          {
+            "turn_number": 6,
+            "start": 95,
+            "end": 103
+          },
+          {
+            "turn_number": 7,
+            "start": 113,
+            "end": 136
+          },
+          {
+            "turn_number": 8,
+            "start": 146,
+            "end": 153
+          },
+          {
+            "turn_number": 9,
+            "start": 162,
+            "end": 179
+          },
+          {
+            "turn_number": 10,
+            "start": 185,
+            "end": 200
+          },
+          {
+            "turn_number": 11,
+            "start": 208,
+            "end": 297
+          },
+          {
+            "turn_number": 12,
+            "start": 307,
+            "end": 309
+          },
+          {
+            "turn_number": 13,
+            "start": 318,
+            "end": 322
+          },
+          {
+            "turn_number": 14,
+            "start": 329,
+            "end": 333
+          },
+          {
+            "turn_number": 15,
+            "start": 341,
+            "end": 343
+          },
+          {
+            "turn_number": 16,
+            "start": 348,
+            "end": 350
+          },
+          {
+            "turn_number": 17,
+            "start": 358,
+            "end": 367
+          },
+          {
+            "turn_number": 18,
+            "start": 377,
+            "end": 378
+          },
+          {
+            "turn_number": 19,
+            "start": 386,
+            "end": 395
+          },
+          {
+            "turn_number": 20,
+            "start": 405,
+            "end": 411
+          },
+          {
+            "turn_number": 21,
+            "start": 421,
+            "end": 439
+          },
+          {
+            "turn_number": 22,
+            "start": 448,
+            "end": 449
+          },
+          {
+            "turn_number": 23,
+            "start": 454,
+            "end": 459
+          },
+          {
+            "turn_number": 24,
+            "start": 464,
+            "end": 465
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -512,7 +643,7 @@
     },
     "total_rows": 77,
     "data_rows": 76,
-    "file_path": "user_105_astri_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 8,
       "max_possible_score": 27,
@@ -650,6 +781,25 @@
         },
         "started_at": "2025-10-20T09:41:34.929648",
         "completed_at": "2025-10-20T09:43:27.295806"
+      },
+      "frame_count": 76,
+      "emotion_distribution": {
+        "Neutral": 71,
+        "Happiness": 4
+      },
+      "average_au_intensities": {
+        "au_1": 0.0881,
+        "au_2": 0.1327,
+        "au_4": 0.3762,
+        "au_5": 0.0608,
+        "au_6": 0.0297,
+        "au_9": 0.0705,
+        "au_12": 0.0696,
+        "au_15": 0.1777,
+        "au_17": 0.0584,
+        "au_20": 0.1316,
+        "au_25": 0.0216,
+        "au_26": 0.0375
       }
     }
   },
@@ -664,7 +814,7 @@
     },
     "total_rows": 459,
     "data_rows": 458,
-    "file_path": "user_105_astri_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -694,7 +844,58 @@
         },
         "started_at": "2025-10-20T09:43:31.942641",
         "completed_at": "2025-10-20T09:54:40.574128"
-      }
+      },
+      "frame_count": 457,
+      "emotion_distribution": {
+        "Neutral": 256,
+        "Happiness": 181,
+        "Sadness": 3,
+        "Surprise": 1,
+        "Disgust": 10
+      },
+      "average_au_intensities": {
+        "au_1": 0.0999,
+        "au_2": 0.1941,
+        "au_4": 0.2137,
+        "au_5": 0.086,
+        "au_6": 0.0378,
+        "au_9": 0.0726,
+        "au_12": 0.1586,
+        "au_15": 0.1768,
+        "au_17": 0.0922,
+        "au_20": 0.1567,
+        "au_25": 0.0673,
+        "au_26": 0.074
+      },
+      "frames_per_turn": {
+        "1": 6,
+        "2": 22,
+        "3": 24,
+        "4": 8,
+        "5": 21,
+        "6": 16,
+        "7": 33,
+        "8": 17,
+        "9": 25,
+        "10": 21,
+        "11": 97,
+        "12": 12,
+        "13": 12,
+        "14": 11,
+        "15": 10,
+        "16": 7,
+        "17": 17,
+        "18": 11,
+        "19": 17,
+        "20": 16,
+        "21": 28,
+        "22": 10,
+        "23": 10,
+        "24": 6
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

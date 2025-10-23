@@ -1,7 +1,7 @@
 {
   "user_id": "user_239_AEMSX7",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:14.227843",
+  "processed_at": "2025-10-23T15:27:26.199508",
   "metadata": {
     "folder_name": "user_239_AEMSX7_session1",
     "data_path": "data/user_239_AEMSX7_session1/llm_conversation.json",
@@ -420,10 +420,121 @@
         "completed_at": "2025-10-20T13:09:34.770900"
       }
     },
-    "phq_analysis_file": "user_239_AEMSX7_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_239_AEMSX7_session1/llm_analysis.jsonl",
+    "llm_frames_by_turn_file": "user_239_AEMSX7_session1/llm_frames_by_turn.json",
     "phq_responses_file": "user_239_AEMSX7_session1/phq_responses.json",
-    "session_metadata_file": "user_239_AEMSX7_session1/metadata.json"
+    "session_metadata_file": "user_239_AEMSX7_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_239_AEMSX7_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_239_AEMSX7_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_239_AEMSX7_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_239_AEMSX7_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 4,
+            "end": 11
+          },
+          {
+            "turn_number": 2,
+            "start": 26,
+            "end": 61
+          },
+          {
+            "turn_number": 3,
+            "start": 89,
+            "end": 94
+          },
+          {
+            "turn_number": 4,
+            "start": 116,
+            "end": 165
+          },
+          {
+            "turn_number": 5,
+            "start": 182,
+            "end": 238
+          },
+          {
+            "turn_number": 6,
+            "start": 265,
+            "end": 292
+          },
+          {
+            "turn_number": 7,
+            "start": 309,
+            "end": 329
+          },
+          {
+            "turn_number": 8,
+            "start": 339,
+            "end": 359
+          },
+          {
+            "turn_number": 9,
+            "start": 370,
+            "end": 390
+          },
+          {
+            "turn_number": 10,
+            "start": 407,
+            "end": 426
+          },
+          {
+            "turn_number": 11,
+            "start": 438,
+            "end": 450
+          },
+          {
+            "turn_number": 12,
+            "start": 468,
+            "end": 519
+          },
+          {
+            "turn_number": 13,
+            "start": 534,
+            "end": 537
+          },
+          {
+            "turn_number": 14,
+            "start": 554,
+            "end": 581
+          },
+          {
+            "turn_number": 15,
+            "start": 591,
+            "end": 622
+          },
+          {
+            "turn_number": 16,
+            "start": 680,
+            "end": 708
+          },
+          {
+            "turn_number": 17,
+            "start": 733,
+            "end": 746
+          },
+          {
+            "turn_number": 18,
+            "start": 774,
+            "end": 788
+          },
+          {
+            "turn_number": 19,
+            "start": 802,
+            "end": 808
+          },
+          {
+            "turn_number": 20,
+            "start": 826,
+            "end": 831
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -436,7 +547,7 @@
     },
     "total_rows": 110,
     "data_rows": 109,
-    "file_path": "user_239_AEMSX7_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 14,
       "max_possible_score": 27,
@@ -573,6 +684,27 @@
         },
         "started_at": "2025-10-20T12:49:42.187416",
         "completed_at": "2025-10-20T12:52:20.697386"
+      },
+      "frame_count": 109,
+      "emotion_distribution": {
+        "Happiness": 63,
+        "Neutral": 36,
+        "Sadness": 1,
+        "Surprise": 1
+      },
+      "average_au_intensities": {
+        "au_1": 0.0354,
+        "au_2": 0.0268,
+        "au_4": 0.0456,
+        "au_5": 0.0253,
+        "au_6": 0.0194,
+        "au_9": 0.0358,
+        "au_12": 0.0311,
+        "au_15": 0.0463,
+        "au_17": 0.0451,
+        "au_20": 0.0491,
+        "au_25": 0.0143,
+        "au_26": 0.0349
       }
     }
   },
@@ -587,7 +719,7 @@
     },
     "total_rows": 832,
     "data_rows": 831,
-    "file_path": "user_239_AEMSX7_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -614,7 +746,53 @@
         },
         "started_at": "2025-10-20T12:51:36.416973",
         "completed_at": "2025-10-20T13:09:34.770900"
-      }
+      },
+      "frame_count": 830,
+      "emotion_distribution": {
+        "Neutral": 573,
+        "Happiness": 195,
+        "Sadness": 5,
+        "Disgust": 1
+      },
+      "average_au_intensities": {
+        "au_1": 0.0378,
+        "au_2": 0.0285,
+        "au_4": 0.0474,
+        "au_5": 0.024,
+        "au_6": 0.0162,
+        "au_9": 0.0315,
+        "au_12": 0.0293,
+        "au_15": 0.0563,
+        "au_17": 0.0549,
+        "au_20": 0.0666,
+        "au_25": 0.0247,
+        "au_26": 0.0389
+      },
+      "frames_per_turn": {
+        "1": 8,
+        "2": 50,
+        "3": 33,
+        "4": 71,
+        "5": 73,
+        "6": 54,
+        "7": 37,
+        "8": 30,
+        "9": 31,
+        "10": 37,
+        "11": 24,
+        "12": 69,
+        "13": 18,
+        "14": 44,
+        "15": 41,
+        "16": 86,
+        "17": 38,
+        "18": 42,
+        "19": 20,
+        "20": 24
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

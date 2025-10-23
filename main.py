@@ -138,11 +138,10 @@ async def main() -> None:
     )
 
     for session_idx, session_dir in enumerate(data_sessions):
-        if session_idx > 0:
-            break  # process only the first conversation; remove this guard for full batch
-
+        # if session_idx > 0:
+        #     break  # process only the first conversation; remove this guard for full batch
+        print(f"[INFO] Processing session folder: {session_dir.name}")
         result_file = post_processed_path / session_dir.name / "analysis_result.json"
-
         with open(result_file, encoding="utf-8") as f:
             data = json.load(f)
 

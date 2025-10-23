@@ -1,7 +1,7 @@
 {
   "user_id": "user_229_Syva",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:14.169767",
+  "processed_at": "2025-10-23T15:27:25.952103",
   "metadata": {
     "folder_name": "user_229_Syva_session1",
     "data_path": "data/user_229_Syva_session1/llm_conversation.json",
@@ -232,10 +232,71 @@
         "completed_at": "2025-10-20T13:13:05.545757"
       }
     },
-    "phq_analysis_file": "user_229_Syva_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_229_Syva_session1/llm_analysis.jsonl",
+    "llm_frames_by_turn_file": "user_229_Syva_session1/llm_frames_by_turn.json",
     "phq_responses_file": "user_229_Syva_session1/phq_responses.json",
-    "session_metadata_file": "user_229_Syva_session1/metadata.json"
+    "session_metadata_file": "user_229_Syva_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_229_Syva_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_229_Syva_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_229_Syva_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_229_Syva_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 6,
+            "end": 7
+          },
+          {
+            "turn_number": 2,
+            "start": 13,
+            "end": 15
+          },
+          {
+            "turn_number": 3,
+            "start": 30,
+            "end": 34
+          },
+          {
+            "turn_number": 4,
+            "start": 45,
+            "end": 47
+          },
+          {
+            "turn_number": 5,
+            "start": 54,
+            "end": 59
+          },
+          {
+            "turn_number": 6,
+            "start": 64,
+            "end": 67
+          },
+          {
+            "turn_number": 7,
+            "start": 72,
+            "end": 82
+          },
+          {
+            "turn_number": 8,
+            "start": 92,
+            "end": 96
+          },
+          {
+            "turn_number": 9,
+            "start": 103,
+            "end": 105
+          },
+          {
+            "turn_number": 10,
+            "start": 111,
+            "end": 112
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -248,7 +309,7 @@
     },
     "total_rows": 40,
     "data_rows": 39,
-    "file_path": "user_229_Syva_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 1,
       "max_possible_score": 27,
@@ -380,6 +441,24 @@
         },
         "started_at": "2025-10-20T13:09:34.786112",
         "completed_at": "2025-10-20T13:10:31.801004"
+      },
+      "frame_count": 39,
+      "emotion_distribution": {
+        "Neutral": 38
+      },
+      "average_au_intensities": {
+        "au_1": 0.0633,
+        "au_2": 0.0342,
+        "au_4": 0.1479,
+        "au_5": 0.0249,
+        "au_6": 0.0235,
+        "au_9": 0.0526,
+        "au_12": 0.0166,
+        "au_15": 0.0504,
+        "au_17": 0.0485,
+        "au_20": 0.0394,
+        "au_25": 0.181,
+        "au_26": 0.0607
       }
     }
   },
@@ -394,7 +473,7 @@
     },
     "total_rows": 115,
     "data_rows": 114,
-    "file_path": "user_229_Syva_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -418,7 +497,42 @@
         },
         "started_at": "2025-10-20T13:10:32.093389",
         "completed_at": "2025-10-20T13:13:05.545757"
-      }
+      },
+      "frame_count": 113,
+      "emotion_distribution": {
+        "Neutral": 110,
+        "Sadness": 1,
+        "Happiness": 2
+      },
+      "average_au_intensities": {
+        "au_1": 0.0789,
+        "au_2": 0.041,
+        "au_4": 0.1775,
+        "au_5": 0.0314,
+        "au_6": 0.0298,
+        "au_9": 0.0624,
+        "au_12": 0.0296,
+        "au_15": 0.0602,
+        "au_17": 0.0594,
+        "au_20": 0.0538,
+        "au_25": 0.2096,
+        "au_26": 0.075
+      },
+      "frames_per_turn": {
+        "1": 2,
+        "2": 8,
+        "3": 20,
+        "4": 14,
+        "5": 13,
+        "6": 8,
+        "7": 16,
+        "8": 15,
+        "9": 9,
+        "10": 8
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

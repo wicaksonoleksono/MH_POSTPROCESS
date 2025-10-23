@@ -1,7 +1,7 @@
 {
   "user_id": "user_154_SAKAARDILAPRAKOSO",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:13.342917",
+  "processed_at": "2025-10-23T15:27:21.190551",
   "metadata": {
     "folder_name": "user_154_SAKAARDILAPRAKOSO_session1",
     "data_path": "data/user_154_SAKAARDILAPRAKOSO_session1/llm_conversation.json",
@@ -362,10 +362,106 @@
         "completed_at": "2025-10-20T11:31:21.340824"
       }
     },
-    "phq_analysis_file": "user_154_SAKAARDILAPRAKOSO_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_154_SAKAARDILAPRAKOSO_session1/llm_analysis.jsonl",
+    "llm_frames_by_turn_file": "user_154_SAKAARDILAPRAKOSO_session1/llm_frames_by_turn.json",
     "phq_responses_file": "user_154_SAKAARDILAPRAKOSO_session1/phq_responses.json",
-    "session_metadata_file": "user_154_SAKAARDILAPRAKOSO_session1/metadata.json"
+    "session_metadata_file": "user_154_SAKAARDILAPRAKOSO_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_154_SAKAARDILAPRAKOSO_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_154_SAKAARDILAPRAKOSO_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_154_SAKAARDILAPRAKOSO_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_154_SAKAARDILAPRAKOSO_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 5,
+            "end": 20
+          },
+          {
+            "turn_number": 2,
+            "start": 32,
+            "end": 80
+          },
+          {
+            "turn_number": 3,
+            "start": 92,
+            "end": 116
+          },
+          {
+            "turn_number": 4,
+            "start": 130,
+            "end": 133
+          },
+          {
+            "turn_number": 5,
+            "start": 143,
+            "end": 147
+          },
+          {
+            "turn_number": 6,
+            "start": 161,
+            "end": 162
+          },
+          {
+            "turn_number": 7,
+            "start": 173,
+            "end": 182
+          },
+          {
+            "turn_number": 8,
+            "start": 199,
+            "end": 202
+          },
+          {
+            "turn_number": 9,
+            "start": 221,
+            "end": 230
+          },
+          {
+            "turn_number": 10,
+            "start": 243,
+            "end": 244
+          },
+          {
+            "turn_number": 11,
+            "start": 251,
+            "end": 255
+          },
+          {
+            "turn_number": 12,
+            "start": 262,
+            "end": 263
+          },
+          {
+            "turn_number": 13,
+            "start": 270,
+            "end": 272
+          },
+          {
+            "turn_number": 14,
+            "start": 277,
+            "end": 292
+          },
+          {
+            "turn_number": 15,
+            "start": 306,
+            "end": 333
+          },
+          {
+            "turn_number": 16,
+            "start": 341,
+            "end": 341
+          },
+          {
+            "turn_number": 17,
+            "start": 349,
+            "end": 356
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -378,7 +474,7 @@
     },
     "total_rows": 63,
     "data_rows": 62,
-    "file_path": "user_154_SAKAARDILAPRAKOSO_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 2,
       "max_possible_score": 27,
@@ -514,6 +610,25 @@
         },
         "started_at": "2025-10-20T11:22:32.094002",
         "completed_at": "2025-10-20T11:23:59.444127"
+      },
+      "frame_count": 62,
+      "emotion_distribution": {
+        "Neutral": 60,
+        "Happiness": 1
+      },
+      "average_au_intensities": {
+        "au_1": 0.0369,
+        "au_2": 0.0319,
+        "au_4": 0.0499,
+        "au_5": 0.0227,
+        "au_6": 0.0147,
+        "au_9": 0.0189,
+        "au_12": 0.0311,
+        "au_15": 0.0542,
+        "au_17": 0.0668,
+        "au_20": 0.0477,
+        "au_25": 0.0281,
+        "au_26": 0.0475
       }
     }
   },
@@ -528,7 +643,7 @@
     },
     "total_rows": 356,
     "data_rows": 355,
-    "file_path": "user_154_SAKAARDILAPRAKOSO_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -552,7 +667,49 @@
         },
         "started_at": "2025-10-20T11:22:35.092815",
         "completed_at": "2025-10-20T11:31:21.340824"
-      }
+      },
+      "frame_count": 354,
+      "emotion_distribution": {
+        "Neutral": 315,
+        "Sadness": 7,
+        "Anger": 32
+      },
+      "average_au_intensities": {
+        "au_1": 0.0333,
+        "au_2": 0.0278,
+        "au_4": 0.0421,
+        "au_5": 0.0192,
+        "au_6": 0.0118,
+        "au_9": 0.0188,
+        "au_12": 0.0084,
+        "au_15": 0.0453,
+        "au_17": 0.0545,
+        "au_20": 0.0557,
+        "au_25": 0.0144,
+        "au_26": 0.0332
+      },
+      "frames_per_turn": {
+        "1": 16,
+        "2": 60,
+        "3": 36,
+        "4": 17,
+        "5": 14,
+        "6": 15,
+        "7": 21,
+        "8": 20,
+        "9": 28,
+        "10": 14,
+        "11": 11,
+        "12": 8,
+        "13": 9,
+        "14": 20,
+        "15": 41,
+        "16": 8,
+        "17": 16
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

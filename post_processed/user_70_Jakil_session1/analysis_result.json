@@ -1,7 +1,7 @@
 {
   "user_id": "user_70_Jakil",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:15.194058",
+  "processed_at": "2025-10-23T15:27:32.277855",
   "metadata": {
     "folder_name": "user_70_Jakil_session1",
     "data_path": "data/user_70_Jakil_session1/llm_conversation.json",
@@ -459,10 +459,131 @@
         "completed_at": "2025-10-20T11:45:42.678094"
       }
     },
-    "phq_analysis_file": "user_70_Jakil_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_70_Jakil_session1/llm_analysis.jsonl",
+    "llm_frames_by_turn_file": "user_70_Jakil_session1/llm_frames_by_turn.json",
     "phq_responses_file": "user_70_Jakil_session1/phq_responses.json",
-    "session_metadata_file": "user_70_Jakil_session1/metadata.json"
+    "session_metadata_file": "user_70_Jakil_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_70_Jakil_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_70_Jakil_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_70_Jakil_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_70_Jakil_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 6,
+            "end": 11
+          },
+          {
+            "turn_number": 2,
+            "start": 18,
+            "end": 47
+          },
+          {
+            "turn_number": 3,
+            "start": 78,
+            "end": 105
+          },
+          {
+            "turn_number": 4,
+            "start": 122,
+            "end": 156
+          },
+          {
+            "turn_number": 5,
+            "start": 170,
+            "end": 193
+          },
+          {
+            "turn_number": 6,
+            "start": 220,
+            "end": 257
+          },
+          {
+            "turn_number": 7,
+            "start": 275,
+            "end": 296
+          },
+          {
+            "turn_number": 8,
+            "start": 313,
+            "end": 363
+          },
+          {
+            "turn_number": 9,
+            "start": 388,
+            "end": 452
+          },
+          {
+            "turn_number": 10,
+            "start": 466,
+            "end": 494
+          },
+          {
+            "turn_number": 11,
+            "start": 535,
+            "end": 581
+          },
+          {
+            "turn_number": 12,
+            "start": 600,
+            "end": 647
+          },
+          {
+            "turn_number": 13,
+            "start": 674,
+            "end": 681
+          },
+          {
+            "turn_number": 14,
+            "start": 699,
+            "end": 725
+          },
+          {
+            "turn_number": 15,
+            "start": 757,
+            "end": 790
+          },
+          {
+            "turn_number": 16,
+            "start": 810,
+            "end": 891
+          },
+          {
+            "turn_number": 17,
+            "start": 925,
+            "end": 949
+          },
+          {
+            "turn_number": 18,
+            "start": 965,
+            "end": 975
+          },
+          {
+            "turn_number": 19,
+            "start": 988,
+            "end": 990
+          },
+          {
+            "turn_number": 20,
+            "start": 1001,
+            "end": 1013
+          },
+          {
+            "turn_number": 21,
+            "start": 1029,
+            "end": 1049
+          },
+          {
+            "turn_number": 22,
+            "start": 1077,
+            "end": 1082
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -475,7 +596,7 @@
     },
     "total_rows": 121,
     "data_rows": 120,
-    "file_path": "user_70_Jakil_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 10,
       "max_possible_score": 27,
@@ -614,6 +735,25 @@
         },
         "started_at": "2025-10-20T11:16:37.279182",
         "completed_at": "2025-10-20T11:19:16.685820"
+      },
+      "frame_count": 120,
+      "emotion_distribution": {
+        "Neutral": 107,
+        "Happiness": 6
+      },
+      "average_au_intensities": {
+        "au_1": 0.0727,
+        "au_2": 0.0746,
+        "au_4": 0.1989,
+        "au_5": 0.0643,
+        "au_6": 0.2457,
+        "au_9": 0.0797,
+        "au_12": 0.853,
+        "au_15": 0.0711,
+        "au_17": 0.2013,
+        "au_20": 0.1033,
+        "au_25": 0.2062,
+        "au_26": 0.0838
       }
     }
   },
@@ -628,7 +768,7 @@
     },
     "total_rows": 1077,
     "data_rows": 1076,
-    "file_path": "user_70_Jakil_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -656,7 +796,54 @@
         },
         "started_at": "2025-10-20T11:19:16.700471",
         "completed_at": "2025-10-20T11:45:42.678094"
-      }
+      },
+      "frame_count": 1075,
+      "emotion_distribution": {
+        "Neutral": 1038,
+        "Happiness": 23,
+        "Surprise": 1
+      },
+      "average_au_intensities": {
+        "au_1": 0.0648,
+        "au_2": 0.0618,
+        "au_4": 0.1189,
+        "au_5": 0.0523,
+        "au_6": 0.254,
+        "au_9": 0.067,
+        "au_12": 0.526,
+        "au_15": 0.0594,
+        "au_17": 0.1357,
+        "au_20": 0.0827,
+        "au_25": 0.1292,
+        "au_26": 0.0653
+      },
+      "frames_per_turn": {
+        "1": 5,
+        "2": 36,
+        "3": 58,
+        "4": 51,
+        "5": 37,
+        "6": 64,
+        "7": 39,
+        "8": 67,
+        "9": 89,
+        "10": 42,
+        "11": 86,
+        "12": 66,
+        "13": 34,
+        "14": 44,
+        "15": 65,
+        "16": 101,
+        "17": 58,
+        "18": 26,
+        "19": 15,
+        "20": 23,
+        "21": 36,
+        "22": 33
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

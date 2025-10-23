@@ -1,7 +1,7 @@
 {
   "user_id": "user_268_nissaaa",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:14.549151",
+  "processed_at": "2025-10-23T15:27:28.254516",
   "metadata": {
     "folder_name": "user_268_nissaaa_session1",
     "data_path": "data/user_268_nissaaa_session1/llm_conversation.json",
@@ -496,10 +496,141 @@
         "completed_at": "2025-10-20T14:39:46.636232"
       }
     },
-    "phq_analysis_file": "user_268_nissaaa_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_268_nissaaa_session1/llm_analysis.jsonl",
+    "llm_frames_by_turn_file": "user_268_nissaaa_session1/llm_frames_by_turn.json",
     "phq_responses_file": "user_268_nissaaa_session1/phq_responses.json",
-    "session_metadata_file": "user_268_nissaaa_session1/metadata.json"
+    "session_metadata_file": "user_268_nissaaa_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_268_nissaaa_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_268_nissaaa_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_268_nissaaa_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_268_nissaaa_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 13,
+            "end": 14
+          },
+          {
+            "turn_number": 2,
+            "start": 23,
+            "end": 39
+          },
+          {
+            "turn_number": 3,
+            "start": 69,
+            "end": 81
+          },
+          {
+            "turn_number": 4,
+            "start": 87,
+            "end": 89
+          },
+          {
+            "turn_number": 5,
+            "start": 102,
+            "end": 108
+          },
+          {
+            "turn_number": 6,
+            "start": 122,
+            "end": 186
+          },
+          {
+            "turn_number": 7,
+            "start": 210,
+            "end": 256
+          },
+          {
+            "turn_number": 8,
+            "start": 262,
+            "end": 270
+          },
+          {
+            "turn_number": 9,
+            "start": 277,
+            "end": 292
+          },
+          {
+            "turn_number": 10,
+            "start": 309,
+            "end": 313
+          },
+          {
+            "turn_number": 11,
+            "start": 322,
+            "end": 357
+          },
+          {
+            "turn_number": 12,
+            "start": 373,
+            "end": 397
+          },
+          {
+            "turn_number": 13,
+            "start": 407,
+            "end": 408
+          },
+          {
+            "turn_number": 14,
+            "start": 421,
+            "end": 431
+          },
+          {
+            "turn_number": 15,
+            "start": 486,
+            "end": 494
+          },
+          {
+            "turn_number": 16,
+            "start": 530,
+            "end": 538
+          },
+          {
+            "turn_number": 17,
+            "start": 547,
+            "end": 554
+          },
+          {
+            "turn_number": 18,
+            "start": 609,
+            "end": 622
+          },
+          {
+            "turn_number": 19,
+            "start": 631,
+            "end": 639
+          },
+          {
+            "turn_number": 20,
+            "start": 644,
+            "end": 660
+          },
+          {
+            "turn_number": 21,
+            "start": 670,
+            "end": 674
+          },
+          {
+            "turn_number": 22,
+            "start": 686,
+            "end": 687
+          },
+          {
+            "turn_number": 23,
+            "start": 700,
+            "end": 755
+          },
+          {
+            "turn_number": 24,
+            "start": 767,
+            "end": 768
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -512,7 +643,7 @@
     },
     "total_rows": 104,
     "data_rows": 103,
-    "file_path": "user_268_nissaaa_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 9,
       "max_possible_score": 27,
@@ -650,6 +781,25 @@
         },
         "started_at": "2025-10-20T14:20:56.374597",
         "completed_at": "2025-10-20T14:23:18.904043"
+      },
+      "frame_count": 103,
+      "emotion_distribution": {
+        "Neutral": 90,
+        "Happiness": 12
+      },
+      "average_au_intensities": {
+        "au_1": 0.1004,
+        "au_2": 0.0647,
+        "au_4": 0.1272,
+        "au_5": 0.034,
+        "au_6": 0.0715,
+        "au_9": 0.0427,
+        "au_12": 0.2505,
+        "au_15": 0.025,
+        "au_17": 0.0893,
+        "au_20": 0.0686,
+        "au_25": 0.0787,
+        "au_26": 0.0449
       }
     }
   },
@@ -664,7 +814,7 @@
     },
     "total_rows": 769,
     "data_rows": 768,
-    "file_path": "user_268_nissaaa_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -694,7 +844,58 @@
         },
         "started_at": "2025-10-20T14:22:52.964690",
         "completed_at": "2025-10-20T14:39:46.636232"
-      }
+      },
+      "frame_count": 767,
+      "emotion_distribution": {
+        "Neutral": 563,
+        "Surprise": 19,
+        "Happiness": 63,
+        "Sadness": 10,
+        "Fear": 1
+      },
+      "average_au_intensities": {
+        "au_1": 0.0998,
+        "au_2": 0.0798,
+        "au_4": 0.0982,
+        "au_5": 0.0376,
+        "au_6": 0.0485,
+        "au_9": 0.0391,
+        "au_12": 0.1864,
+        "au_15": 0.04,
+        "au_17": 0.0782,
+        "au_20": 0.0802,
+        "au_25": 0.0412,
+        "au_26": 0.0403
+      },
+      "frames_per_turn": {
+        "1": 2,
+        "2": 25,
+        "3": 42,
+        "4": 9,
+        "5": 19,
+        "6": 79,
+        "7": 71,
+        "8": 14,
+        "9": 23,
+        "10": 21,
+        "11": 45,
+        "12": 40,
+        "13": 11,
+        "14": 24,
+        "15": 64,
+        "16": 44,
+        "17": 16,
+        "18": 69,
+        "19": 18,
+        "20": 21,
+        "21": 14,
+        "22": 13,
+        "23": 69,
+        "24": 14
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

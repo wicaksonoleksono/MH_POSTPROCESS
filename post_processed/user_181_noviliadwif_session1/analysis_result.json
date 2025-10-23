@@ -1,7 +1,7 @@
 {
   "user_id": "user_181_noviliadwif",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:13.629963",
+  "processed_at": "2025-10-23T15:27:22.722260",
   "metadata": {
     "folder_name": "user_181_noviliadwif_session1",
     "data_path": "data/user_181_noviliadwif_session1/llm_conversation.json",
@@ -348,10 +348,101 @@
         "completed_at": "2025-10-20T10:57:49.719235"
       }
     },
-    "phq_analysis_file": "user_181_noviliadwif_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_181_noviliadwif_session1/llm_analysis.jsonl",
+    "llm_frames_by_turn_file": "user_181_noviliadwif_session1/llm_frames_by_turn.json",
     "phq_responses_file": "user_181_noviliadwif_session1/phq_responses.json",
-    "session_metadata_file": "user_181_noviliadwif_session1/metadata.json"
+    "session_metadata_file": "user_181_noviliadwif_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_181_noviliadwif_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_181_noviliadwif_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_181_noviliadwif_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_181_noviliadwif_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 20,
+            "end": 29
+          },
+          {
+            "turn_number": 2,
+            "start": 41,
+            "end": 83
+          },
+          {
+            "turn_number": 3,
+            "start": 104,
+            "end": 125
+          },
+          {
+            "turn_number": 4,
+            "start": 164,
+            "end": 186
+          },
+          {
+            "turn_number": 5,
+            "start": 225,
+            "end": 237
+          },
+          {
+            "turn_number": 6,
+            "start": 249,
+            "end": 260
+          },
+          {
+            "turn_number": 7,
+            "start": 275,
+            "end": 289
+          },
+          {
+            "turn_number": 8,
+            "start": 357,
+            "end": 362
+          },
+          {
+            "turn_number": 9,
+            "start": 385,
+            "end": 394
+          },
+          {
+            "turn_number": 10,
+            "start": 425,
+            "end": 432
+          },
+          {
+            "turn_number": 11,
+            "start": 489,
+            "end": 501
+          },
+          {
+            "turn_number": 12,
+            "start": 521,
+            "end": 584
+          },
+          {
+            "turn_number": 13,
+            "start": 605,
+            "end": 611
+          },
+          {
+            "turn_number": 14,
+            "start": 624,
+            "end": 680
+          },
+          {
+            "turn_number": 15,
+            "start": 697,
+            "end": 699
+          },
+          {
+            "turn_number": 16,
+            "start": 714,
+            "end": 724
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -364,7 +455,7 @@
     },
     "total_rows": 107,
     "data_rows": 106,
-    "file_path": "user_181_noviliadwif_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 12,
       "max_possible_score": 27,
@@ -501,6 +592,25 @@
         },
         "started_at": "2025-10-20T10:45:58.191938",
         "completed_at": "2025-10-20T10:48:40.440049"
+      },
+      "frame_count": 106,
+      "emotion_distribution": {
+        "Neutral": 91,
+        "Happiness": 14
+      },
+      "average_au_intensities": {
+        "au_1": 0.0302,
+        "au_2": 0.0364,
+        "au_4": 0.172,
+        "au_5": 0.0381,
+        "au_6": 0.035,
+        "au_9": 0.0544,
+        "au_12": 0.0494,
+        "au_15": 0.2177,
+        "au_17": 0.0982,
+        "au_20": 0.1694,
+        "au_25": 0.0377,
+        "au_26": 0.0312
       }
     }
   },
@@ -515,7 +625,7 @@
     },
     "total_rows": 700,
     "data_rows": 699,
-    "file_path": "user_181_noviliadwif_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -542,7 +652,47 @@
         },
         "started_at": "2025-10-20T10:46:02.191625",
         "completed_at": "2025-10-20T10:57:49.719235"
-      }
+      },
+      "frame_count": 698,
+      "emotion_distribution": {
+        "Neutral": 204,
+        "Happiness": 182
+      },
+      "average_au_intensities": {
+        "au_1": 0.0258,
+        "au_2": 0.0256,
+        "au_4": 0.0574,
+        "au_5": 0.0209,
+        "au_6": 0.0208,
+        "au_9": 0.0289,
+        "au_12": 0.0363,
+        "au_15": 0.0942,
+        "au_17": 0.0508,
+        "au_20": 0.0611,
+        "au_25": 0.0196,
+        "au_26": 0.0161
+      },
+      "frames_per_turn": {
+        "1": 9,
+        "2": 54,
+        "3": 41,
+        "4": 61,
+        "5": 50,
+        "6": 23,
+        "7": 29,
+        "8": 72,
+        "9": 32,
+        "10": 37,
+        "11": 69,
+        "12": 82,
+        "13": 27,
+        "14": 68,
+        "15": 19,
+        "16": 25
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

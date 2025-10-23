@@ -1,7 +1,7 @@
 {
   "user_id": "user_246_AynabatVeljanova",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:14.311808",
+  "processed_at": "2025-10-23T15:27:26.589404",
   "metadata": {
     "folder_name": "user_246_AynabatVeljanova_session1",
     "data_path": "data/user_246_AynabatVeljanova_session1/llm_conversation.json",
@@ -434,10 +434,126 @@
         "completed_at": "2025-10-20T13:29:01.240477"
       }
     },
-    "phq_analysis_file": "user_246_AynabatVeljanova_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_246_AynabatVeljanova_session1/llm_analysis.jsonl",
+    "llm_frames_by_turn_file": "user_246_AynabatVeljanova_session1/llm_frames_by_turn.json",
     "phq_responses_file": "user_246_AynabatVeljanova_session1/phq_responses.json",
-    "session_metadata_file": "user_246_AynabatVeljanova_session1/metadata.json"
+    "session_metadata_file": "user_246_AynabatVeljanova_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_246_AynabatVeljanova_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_246_AynabatVeljanova_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_246_AynabatVeljanova_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_246_AynabatVeljanova_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 8,
+            "end": 33
+          },
+          {
+            "turn_number": 2,
+            "start": 89,
+            "end": 204
+          },
+          {
+            "turn_number": 3,
+            "start": 264,
+            "end": 349
+          },
+          {
+            "turn_number": 4,
+            "start": 413,
+            "end": 458
+          },
+          {
+            "turn_number": 5,
+            "start": 485,
+            "end": 529
+          },
+          {
+            "turn_number": 6,
+            "start": 555,
+            "end": 746
+          },
+          {
+            "turn_number": 7,
+            "start": 786,
+            "end": 790
+          },
+          {
+            "turn_number": 8,
+            "start": 796,
+            "end": 798
+          },
+          {
+            "turn_number": 9,
+            "start": 827,
+            "end": 894
+          },
+          {
+            "turn_number": 10,
+            "start": 943,
+            "end": 965
+          },
+          {
+            "turn_number": 11,
+            "start": 1005,
+            "end": 1021
+          },
+          {
+            "turn_number": 12,
+            "start": 1094,
+            "end": 1097
+          },
+          {
+            "turn_number": 13,
+            "start": 1125,
+            "end": 1203
+          },
+          {
+            "turn_number": 14,
+            "start": 1218,
+            "end": 1219
+          },
+          {
+            "turn_number": 15,
+            "start": 1281,
+            "end": 1299
+          },
+          {
+            "turn_number": 16,
+            "start": 1324,
+            "end": 1342
+          },
+          {
+            "turn_number": 17,
+            "start": 1349,
+            "end": 1609
+          },
+          {
+            "turn_number": 18,
+            "start": 1640,
+            "end": 1648
+          },
+          {
+            "turn_number": 19,
+            "start": 1671,
+            "end": 1677
+          },
+          {
+            "turn_number": 20,
+            "start": 1710,
+            "end": 1714
+          },
+          {
+            "turn_number": 21,
+            "start": 1743,
+            "end": 1748
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -450,7 +566,7 @@
     },
     "total_rows": 249,
     "data_rows": 248,
-    "file_path": "user_246_AynabatVeljanova_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 8,
       "max_possible_score": 27,
@@ -585,6 +701,24 @@
         },
         "started_at": "2025-10-20T12:47:22.258952",
         "completed_at": "2025-10-20T12:53:34.150782"
+      },
+      "frame_count": 248,
+      "emotion_distribution": {
+        "Neutral": 247
+      },
+      "average_au_intensities": {
+        "au_1": 0.0393,
+        "au_2": 0.0344,
+        "au_4": 0.0884,
+        "au_5": 0.0232,
+        "au_6": 0.0114,
+        "au_9": 0.033,
+        "au_12": 0.0136,
+        "au_15": 0.0732,
+        "au_17": 0.0586,
+        "au_20": 0.0558,
+        "au_25": 0.011,
+        "au_26": 0.0287
       }
     }
   },
@@ -599,7 +733,7 @@
     },
     "total_rows": 1750,
     "data_rows": 1749,
-    "file_path": "user_246_AynabatVeljanova_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -624,7 +758,53 @@
         },
         "started_at": "2025-10-20T12:47:37.293834",
         "completed_at": "2025-10-20T13:29:01.240477"
-      }
+      },
+      "frame_count": 1748,
+      "emotion_distribution": {
+        "Neutral": 1723,
+        "Happiness": 24,
+        "Sadness": 1
+      },
+      "average_au_intensities": {
+        "au_1": 0.0358,
+        "au_2": 0.0393,
+        "au_4": 0.1066,
+        "au_5": 0.0258,
+        "au_6": 0.0159,
+        "au_9": 0.0377,
+        "au_12": 0.0173,
+        "au_15": 0.0859,
+        "au_17": 0.0711,
+        "au_20": 0.0665,
+        "au_25": 0.015,
+        "au_26": 0.0328
+      },
+      "frames_per_turn": {
+        "1": 26,
+        "2": 171,
+        "3": 146,
+        "4": 109,
+        "5": 72,
+        "6": 217,
+        "7": 45,
+        "8": 8,
+        "9": 96,
+        "10": 71,
+        "11": 57,
+        "12": 76,
+        "13": 106,
+        "14": 16,
+        "15": 81,
+        "16": 43,
+        "17": 268,
+        "18": 39,
+        "19": 29,
+        "20": 37,
+        "21": 35
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

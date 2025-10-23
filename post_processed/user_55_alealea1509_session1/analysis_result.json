@@ -1,7 +1,7 @@
 {
   "user_id": "user_55_alealea1509",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:15.089395",
+  "processed_at": "2025-10-23T15:27:31.791321",
   "metadata": {
     "folder_name": "user_55_alealea1509_session1",
     "data_path": "data/user_55_alealea1509_session1/llm_conversation.json",
@@ -168,10 +168,51 @@
         "completed_at": "2025-10-20T10:00:42.311828"
       }
     },
-    "phq_analysis_file": "user_55_alealea1509_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_55_alealea1509_session1/llm_analysis.jsonl",
+    "llm_frames_by_turn_file": "user_55_alealea1509_session1/llm_frames_by_turn.json",
     "phq_responses_file": "user_55_alealea1509_session1/phq_responses.json",
-    "session_metadata_file": "user_55_alealea1509_session1/metadata.json"
+    "session_metadata_file": "user_55_alealea1509_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_55_alealea1509_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_55_alealea1509_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_55_alealea1509_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_55_alealea1509_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 8,
+            "end": 44
+          },
+          {
+            "turn_number": 2,
+            "start": 66,
+            "end": 68
+          },
+          {
+            "turn_number": 3,
+            "start": 86,
+            "end": 114
+          },
+          {
+            "turn_number": 4,
+            "start": 128,
+            "end": 131
+          },
+          {
+            "turn_number": 5,
+            "start": 196,
+            "end": 236
+          },
+          {
+            "turn_number": 6,
+            "start": 254,
+            "end": 258
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -184,7 +225,7 @@
     },
     "total_rows": 59,
     "data_rows": 58,
-    "file_path": "user_55_alealea1509_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 8,
       "max_possible_score": 27,
@@ -319,6 +360,24 @@
         },
         "started_at": "2025-10-20T09:56:47.038044",
         "completed_at": "2025-10-20T09:57:48.819610"
+      },
+      "frame_count": 58,
+      "emotion_distribution": {
+        "Neutral": 48
+      },
+      "average_au_intensities": {
+        "au_1": 0.0351,
+        "au_2": 0.0282,
+        "au_4": 0.0951,
+        "au_5": 0.0285,
+        "au_6": 0.0172,
+        "au_9": 0.0396,
+        "au_12": 0.0827,
+        "au_15": 0.1026,
+        "au_17": 0.0968,
+        "au_20": 0.108,
+        "au_25": 0.0075,
+        "au_26": 0.0301
       }
     }
   },
@@ -333,7 +392,7 @@
     },
     "total_rows": 225,
     "data_rows": 224,
-    "file_path": "user_55_alealea1509_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -362,7 +421,39 @@
         },
         "started_at": "2025-10-20T09:57:01.942653",
         "completed_at": "2025-10-20T10:00:42.311828"
-      }
+      },
+      "frame_count": 223,
+      "emotion_distribution": {
+        "Neutral": 140,
+        "Sadness": 3,
+        "Anger": 1,
+        "Happiness": 2
+      },
+      "average_au_intensities": {
+        "au_1": 0.0316,
+        "au_2": 0.0274,
+        "au_4": 0.1597,
+        "au_5": 0.0254,
+        "au_6": 0.0151,
+        "au_9": 0.0411,
+        "au_12": 0.0701,
+        "au_15": 0.084,
+        "au_17": 0.074,
+        "au_20": 0.0868,
+        "au_25": 0.0129,
+        "au_26": 0.0249
+      },
+      "frames_per_turn": {
+        "1": 32,
+        "2": 22,
+        "3": 41,
+        "4": 15,
+        "5": 93,
+        "6": 20
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

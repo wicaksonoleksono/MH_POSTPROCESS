@@ -1,7 +1,7 @@
 {
   "user_id": "user_134_Adjani_Amelia",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:13.213759",
+  "processed_at": "2025-10-23T15:27:20.450963",
   "metadata": {
     "folder_name": "user_134_Adjani_Amelia_session1",
     "data_path": "data/user_134_Adjani_Amelia_session1/llm_conversation.json",
@@ -372,10 +372,106 @@
         "completed_at": "2025-10-20T11:31:39.534859"
       }
     },
-    "phq_analysis_file": "user_134_Adjani_Amelia_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_134_Adjani_Amelia_session1/llm_analysis.jsonl",
+    "llm_frames_by_turn_file": "user_134_Adjani_Amelia_session1/llm_frames_by_turn.json",
     "phq_responses_file": "user_134_Adjani_Amelia_session1/phq_responses.json",
-    "session_metadata_file": "user_134_Adjani_Amelia_session1/metadata.json"
+    "session_metadata_file": "user_134_Adjani_Amelia_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_134_Adjani_Amelia_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_134_Adjani_Amelia_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_134_Adjani_Amelia_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_134_Adjani_Amelia_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 6,
+            "end": 10
+          },
+          {
+            "turn_number": 2,
+            "start": 22,
+            "end": 29
+          },
+          {
+            "turn_number": 3,
+            "start": 37,
+            "end": 50
+          },
+          {
+            "turn_number": 4,
+            "start": 58,
+            "end": 60
+          },
+          {
+            "turn_number": 5,
+            "start": 68,
+            "end": 71
+          },
+          {
+            "turn_number": 6,
+            "start": 82,
+            "end": 91
+          },
+          {
+            "turn_number": 7,
+            "start": 102,
+            "end": 103
+          },
+          {
+            "turn_number": 8,
+            "start": 116,
+            "end": 126
+          },
+          {
+            "turn_number": 9,
+            "start": 133,
+            "end": 138
+          },
+          {
+            "turn_number": 10,
+            "start": 148,
+            "end": 154
+          },
+          {
+            "turn_number": 11,
+            "start": 181,
+            "end": 181
+          },
+          {
+            "turn_number": 12,
+            "start": 193,
+            "end": 201
+          },
+          {
+            "turn_number": 13,
+            "start": 208,
+            "end": 209
+          },
+          {
+            "turn_number": 14,
+            "start": 215,
+            "end": 217
+          },
+          {
+            "turn_number": 15,
+            "start": 223,
+            "end": 225
+          },
+          {
+            "turn_number": 16,
+            "start": 237,
+            "end": 245
+          },
+          {
+            "turn_number": 17,
+            "start": 262,
+            "end": 267
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -388,7 +484,7 @@
     },
     "total_rows": 115,
     "data_rows": 114,
-    "file_path": "user_134_Adjani_Amelia_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 15,
       "max_possible_score": 27,
@@ -529,6 +625,27 @@
         },
         "started_at": "2025-10-20T11:23:59.457146",
         "completed_at": "2025-10-20T11:26:32.085010"
+      },
+      "frame_count": 114,
+      "emotion_distribution": {
+        "Neutral": 90,
+        "Surprise": 1,
+        "Happiness": 9,
+        "Sadness": 1
+      },
+      "average_au_intensities": {
+        "au_1": 0.0418,
+        "au_2": 0.0395,
+        "au_4": 0.076,
+        "au_5": 0.0264,
+        "au_6": 0.0341,
+        "au_9": 0.0351,
+        "au_12": 0.0777,
+        "au_15": 0.058,
+        "au_17": 0.0521,
+        "au_20": 0.0497,
+        "au_25": 0.0415,
+        "au_26": 0.0573
       }
     }
   },
@@ -543,7 +660,7 @@
     },
     "total_rows": 269,
     "data_rows": 268,
-    "file_path": "user_134_Adjani_Amelia_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -572,7 +689,51 @@
         },
         "started_at": "2025-10-20T11:25:25.565925",
         "completed_at": "2025-10-20T11:31:39.534859"
-      }
+      },
+      "frame_count": 267,
+      "emotion_distribution": {
+        "Neutral": 245,
+        "Surprise": 1,
+        "Disgust": 2,
+        "Happiness": 8,
+        "Sadness": 1
+      },
+      "average_au_intensities": {
+        "au_1": 0.0333,
+        "au_2": 0.0288,
+        "au_4": 0.0391,
+        "au_5": 0.0189,
+        "au_6": 0.0107,
+        "au_9": 0.0265,
+        "au_12": 0.0195,
+        "au_15": 0.0697,
+        "au_17": 0.045,
+        "au_20": 0.0493,
+        "au_25": 0.014,
+        "au_26": 0.03
+      },
+      "frames_per_turn": {
+        "1": 5,
+        "2": 19,
+        "3": 21,
+        "4": 11,
+        "5": 11,
+        "6": 20,
+        "7": 12,
+        "8": 24,
+        "9": 12,
+        "10": 16,
+        "11": 28,
+        "12": 20,
+        "13": 8,
+        "14": 9,
+        "15": 8,
+        "16": 20,
+        "17": 23
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

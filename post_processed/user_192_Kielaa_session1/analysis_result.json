@@ -1,7 +1,7 @@
 {
   "user_id": "user_192_Kielaa",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:13.787750",
+  "processed_at": "2025-10-23T15:27:23.617009",
   "metadata": {
     "folder_name": "user_192_Kielaa_session1",
     "data_path": "data/user_192_Kielaa_session1/llm_conversation.json",
@@ -364,10 +364,106 @@
         "completed_at": "2025-10-20T10:37:05.156632"
       }
     },
-    "phq_analysis_file": "user_192_Kielaa_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_192_Kielaa_session1/llm_analysis.jsonl",
+    "llm_frames_by_turn_file": "user_192_Kielaa_session1/llm_frames_by_turn.json",
     "phq_responses_file": "user_192_Kielaa_session1/phq_responses.json",
-    "session_metadata_file": "user_192_Kielaa_session1/metadata.json"
+    "session_metadata_file": "user_192_Kielaa_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_192_Kielaa_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_192_Kielaa_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_192_Kielaa_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_192_Kielaa_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 5,
+            "end": 8
+          },
+          {
+            "turn_number": 2,
+            "start": 17,
+            "end": 30
+          },
+          {
+            "turn_number": 3,
+            "start": 41,
+            "end": 62
+          },
+          {
+            "turn_number": 4,
+            "start": 71,
+            "end": 86
+          },
+          {
+            "turn_number": 5,
+            "start": 99,
+            "end": 117
+          },
+          {
+            "turn_number": 6,
+            "start": 123,
+            "end": 150
+          },
+          {
+            "turn_number": 7,
+            "start": 157,
+            "end": 178
+          },
+          {
+            "turn_number": 8,
+            "start": 187,
+            "end": 195
+          },
+          {
+            "turn_number": 9,
+            "start": 213,
+            "end": 226
+          },
+          {
+            "turn_number": 10,
+            "start": 240,
+            "end": 272
+          },
+          {
+            "turn_number": 11,
+            "start": 288,
+            "end": 301
+          },
+          {
+            "turn_number": 12,
+            "start": 334,
+            "end": 346
+          },
+          {
+            "turn_number": 13,
+            "start": 364,
+            "end": 386
+          },
+          {
+            "turn_number": 14,
+            "start": 406,
+            "end": 431
+          },
+          {
+            "turn_number": 15,
+            "start": 444,
+            "end": 449
+          },
+          {
+            "turn_number": 16,
+            "start": 457,
+            "end": 480
+          },
+          {
+            "turn_number": 17,
+            "start": 501,
+            "end": 522
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -380,7 +476,7 @@
     },
     "total_rows": 84,
     "data_rows": 83,
-    "file_path": "user_192_Kielaa_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 9,
       "max_possible_score": 27,
@@ -516,6 +612,25 @@
         },
         "started_at": "2025-10-20T10:23:25.682981",
         "completed_at": "2025-10-20T10:25:03.591066"
+      },
+      "frame_count": 83,
+      "emotion_distribution": {
+        "Neutral": 61,
+        "Happiness": 21
+      },
+      "average_au_intensities": {
+        "au_1": 0.044,
+        "au_2": 0.04,
+        "au_4": 0.0666,
+        "au_5": 0.0278,
+        "au_6": 0.0163,
+        "au_9": 0.0341,
+        "au_12": 0.0232,
+        "au_15": 0.0648,
+        "au_17": 0.1294,
+        "au_20": 0.0556,
+        "au_25": 0.014,
+        "au_26": 0.0321
       }
     }
   },
@@ -530,7 +645,7 @@
     },
     "total_rows": 525,
     "data_rows": 524,
-    "file_path": "user_192_Kielaa_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -556,7 +671,48 @@
         },
         "started_at": "2025-10-20T10:25:03.608165",
         "completed_at": "2025-10-20T10:37:05.156632"
-      }
+      },
+      "frame_count": 523,
+      "emotion_distribution": {
+        "Happiness": 82,
+        "Neutral": 441
+      },
+      "average_au_intensities": {
+        "au_1": 0.0444,
+        "au_2": 0.0357,
+        "au_4": 0.0712,
+        "au_5": 0.024,
+        "au_6": 0.0164,
+        "au_9": 0.0337,
+        "au_12": 0.0204,
+        "au_15": 0.0465,
+        "au_17": 0.0599,
+        "au_20": 0.0395,
+        "au_25": 0.0148,
+        "au_26": 0.0316
+      },
+      "frames_per_turn": {
+        "1": 4,
+        "2": 22,
+        "3": 32,
+        "4": 24,
+        "5": 32,
+        "6": 33,
+        "7": 28,
+        "8": 17,
+        "9": 32,
+        "10": 46,
+        "11": 29,
+        "12": 46,
+        "13": 40,
+        "14": 46,
+        "15": 18,
+        "16": 31,
+        "17": 43
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

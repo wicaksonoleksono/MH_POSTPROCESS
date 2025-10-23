@@ -1,7 +1,7 @@
 {
   "user_id": "user_166_Eren",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:13.521463",
+  "processed_at": "2025-10-23T15:27:22.200149",
   "metadata": {
     "folder_name": "user_166_Eren_session1",
     "data_path": "data/user_166_Eren_session1/llm_conversation.json",
@@ -978,10 +978,276 @@
         "completed_at": "2025-10-20T12:04:41.889095"
       }
     },
-    "phq_analysis_file": "user_166_Eren_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_166_Eren_session1/llm_analysis.jsonl",
+    "llm_frames_by_turn_file": "user_166_Eren_session1/llm_frames_by_turn.json",
     "phq_responses_file": "user_166_Eren_session1/phq_responses.json",
-    "session_metadata_file": "user_166_Eren_session1/metadata.json"
+    "session_metadata_file": "user_166_Eren_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_166_Eren_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_166_Eren_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_166_Eren_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_166_Eren_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 8,
+            "end": 11
+          },
+          {
+            "turn_number": 2,
+            "start": 22,
+            "end": 28
+          },
+          {
+            "turn_number": 3,
+            "start": 40,
+            "end": 42
+          },
+          {
+            "turn_number": 4,
+            "start": 47,
+            "end": 63
+          },
+          {
+            "turn_number": 5,
+            "start": 74,
+            "end": 164
+          },
+          {
+            "turn_number": 6,
+            "start": 173,
+            "end": 181
+          },
+          {
+            "turn_number": 7,
+            "start": 192,
+            "end": 203
+          },
+          {
+            "turn_number": 8,
+            "start": 239,
+            "end": 243
+          },
+          {
+            "turn_number": 9,
+            "start": 255,
+            "end": 258
+          },
+          {
+            "turn_number": 10,
+            "start": 265,
+            "end": 268
+          },
+          {
+            "turn_number": 11,
+            "start": 279,
+            "end": 288
+          },
+          {
+            "turn_number": 12,
+            "start": 301,
+            "end": 336
+          },
+          {
+            "turn_number": 13,
+            "start": 373,
+            "end": 378
+          },
+          {
+            "turn_number": 14,
+            "start": 404,
+            "end": 409
+          },
+          {
+            "turn_number": 15,
+            "start": 422,
+            "end": 436
+          },
+          {
+            "turn_number": 16,
+            "start": 455,
+            "end": 457
+          },
+          {
+            "turn_number": 17,
+            "start": 544,
+            "end": 552
+          },
+          {
+            "turn_number": 18,
+            "start": 559,
+            "end": 560
+          },
+          {
+            "turn_number": 19,
+            "start": 576,
+            "end": 578
+          },
+          {
+            "turn_number": 20,
+            "start": 584,
+            "end": 600
+          },
+          {
+            "turn_number": 21,
+            "start": 660,
+            "end": 669
+          },
+          {
+            "turn_number": 22,
+            "start": 678,
+            "end": 679
+          },
+          {
+            "turn_number": 23,
+            "start": 684,
+            "end": 694
+          },
+          {
+            "turn_number": 24,
+            "start": 708,
+            "end": 728
+          },
+          {
+            "turn_number": 25,
+            "start": 741,
+            "end": 760
+          },
+          {
+            "turn_number": 26,
+            "start": 767,
+            "end": 772
+          },
+          {
+            "turn_number": 27,
+            "start": 810,
+            "end": 812
+          },
+          {
+            "turn_number": 28,
+            "start": 825,
+            "end": 840
+          },
+          {
+            "turn_number": 29,
+            "start": 866,
+            "end": 869
+          },
+          {
+            "turn_number": 30,
+            "start": 878,
+            "end": 887
+          },
+          {
+            "turn_number": 31,
+            "start": 902,
+            "end": 909
+          },
+          {
+            "turn_number": 32,
+            "start": 926,
+            "end": 944
+          },
+          {
+            "turn_number": 33,
+            "start": 956,
+            "end": 960
+          },
+          {
+            "turn_number": 34,
+            "start": 973,
+            "end": 983
+          },
+          {
+            "turn_number": 35,
+            "start": 1000,
+            "end": 1008
+          },
+          {
+            "turn_number": 36,
+            "start": 1016,
+            "end": 1018
+          },
+          {
+            "turn_number": 37,
+            "start": 1039,
+            "end": 1048
+          },
+          {
+            "turn_number": 38,
+            "start": 1066,
+            "end": 1079
+          },
+          {
+            "turn_number": 39,
+            "start": 1090,
+            "end": 1102
+          },
+          {
+            "turn_number": 40,
+            "start": 1118,
+            "end": 1123
+          },
+          {
+            "turn_number": 41,
+            "start": 1138,
+            "end": 1144
+          },
+          {
+            "turn_number": 42,
+            "start": 1154,
+            "end": 1158
+          },
+          {
+            "turn_number": 43,
+            "start": 1163,
+            "end": 1169
+          },
+          {
+            "turn_number": 44,
+            "start": 1219,
+            "end": 1252
+          },
+          {
+            "turn_number": 45,
+            "start": 1268,
+            "end": 1273
+          },
+          {
+            "turn_number": 46,
+            "start": 1291,
+            "end": 1296
+          },
+          {
+            "turn_number": 47,
+            "start": 1303,
+            "end": 1310
+          },
+          {
+            "turn_number": 48,
+            "start": 1321,
+            "end": 1327
+          },
+          {
+            "turn_number": 49,
+            "start": 1342,
+            "end": 1363
+          },
+          {
+            "turn_number": 50,
+            "start": 1391,
+            "end": 1399
+          },
+          {
+            "turn_number": 51,
+            "start": 1409,
+            "end": 1412
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -994,7 +1260,7 @@
     },
     "total_rows": 110,
     "data_rows": 109,
-    "file_path": "user_166_Eren_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 8,
       "max_possible_score": 27,
@@ -1133,6 +1399,25 @@
         },
         "started_at": "2025-10-20T11:55:11.907935",
         "completed_at": "2025-10-20T11:57:35.100086"
+      },
+      "frame_count": 109,
+      "emotion_distribution": {
+        "Neutral": 95,
+        "Happiness": 13
+      },
+      "average_au_intensities": {
+        "au_1": 0.0762,
+        "au_2": 0.0579,
+        "au_4": 0.1017,
+        "au_5": 0.0476,
+        "au_6": 0.0919,
+        "au_9": 0.0469,
+        "au_12": 0.597,
+        "au_15": 0.088,
+        "au_17": 0.2214,
+        "au_20": 0.0736,
+        "au_25": 0.3606,
+        "au_26": 0.133
       }
     }
   },
@@ -1147,7 +1432,7 @@
     },
     "total_rows": 1415,
     "data_rows": 1414,
-    "file_path": "user_166_Eren_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -1172,7 +1457,81 @@
         },
         "started_at": "2025-10-20T11:56:53.290546",
         "completed_at": "2025-10-20T12:04:41.889095"
-      }
+      },
+      "frame_count": 1413,
+      "emotion_distribution": {
+        "Neutral": 54
+      },
+      "average_au_intensities": {
+        "au_1": 0.0025,
+        "au_2": 0.0019,
+        "au_4": 0.0031,
+        "au_5": 0.0014,
+        "au_6": 0.0015,
+        "au_9": 0.0014,
+        "au_12": 0.0094,
+        "au_15": 0.0029,
+        "au_17": 0.0055,
+        "au_20": 0.0031,
+        "au_25": 0.0026,
+        "au_26": 0.0029
+      },
+      "frames_per_turn": {
+        "1": 4,
+        "2": 17,
+        "3": 14,
+        "4": 21,
+        "5": 101,
+        "6": 17,
+        "7": 23,
+        "8": 40,
+        "9": 15,
+        "10": 10,
+        "11": 20,
+        "12": 48,
+        "13": 43,
+        "14": 31,
+        "15": 27,
+        "16": 21,
+        "17": 96,
+        "18": 8,
+        "19": 18,
+        "20": 22,
+        "21": 69,
+        "22": 10,
+        "23": 15,
+        "24": 35,
+        "25": 32,
+        "26": 12,
+        "27": 40,
+        "28": 28,
+        "29": 29,
+        "30": 19,
+        "31": 22,
+        "32": 35,
+        "33": 16,
+        "34": 23,
+        "35": 25,
+        "36": 10,
+        "37": 30,
+        "38": 32,
+        "39": 23,
+        "40": 21,
+        "41": 21,
+        "42": 14,
+        "43": 11,
+        "44": 84,
+        "45": 21,
+        "46": 23,
+        "47": 14,
+        "48": 17,
+        "49": 36,
+        "50": 36,
+        "51": 14
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

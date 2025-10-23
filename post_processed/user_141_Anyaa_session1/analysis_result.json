@@ -1,7 +1,7 @@
 {
   "user_id": "user_141_Anyaa",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:13.290730",
+  "processed_at": "2025-10-23T15:27:20.779076",
   "metadata": {
     "folder_name": "user_141_Anyaa_session1",
     "data_path": "data/user_141_Anyaa_session1/llm_conversation.json",
@@ -371,10 +371,106 @@
         "completed_at": "2025-10-20T11:47:25.277099"
       }
     },
-    "phq_analysis_file": "user_141_Anyaa_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_141_Anyaa_session1/llm_analysis.jsonl",
+    "llm_frames_by_turn_file": "user_141_Anyaa_session1/llm_frames_by_turn.json",
     "phq_responses_file": "user_141_Anyaa_session1/phq_responses.json",
-    "session_metadata_file": "user_141_Anyaa_session1/metadata.json"
+    "session_metadata_file": "user_141_Anyaa_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_141_Anyaa_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_141_Anyaa_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_141_Anyaa_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_141_Anyaa_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 10,
+            "end": 54
+          },
+          {
+            "turn_number": 2,
+            "start": 72,
+            "end": 229
+          },
+          {
+            "turn_number": 3,
+            "start": 240,
+            "end": 246
+          },
+          {
+            "turn_number": 4,
+            "start": 280,
+            "end": 312
+          },
+          {
+            "turn_number": 5,
+            "start": 330,
+            "end": 342
+          },
+          {
+            "turn_number": 6,
+            "start": 429,
+            "end": 526
+          },
+          {
+            "turn_number": 7,
+            "start": 550,
+            "end": 577
+          },
+          {
+            "turn_number": 8,
+            "start": 593,
+            "end": 651
+          },
+          {
+            "turn_number": 9,
+            "start": 680,
+            "end": 690
+          },
+          {
+            "turn_number": 10,
+            "start": 703,
+            "end": 715
+          },
+          {
+            "turn_number": 11,
+            "start": 747,
+            "end": 775
+          },
+          {
+            "turn_number": 12,
+            "start": 827,
+            "end": 856
+          },
+          {
+            "turn_number": 13,
+            "start": 875,
+            "end": 880
+          },
+          {
+            "turn_number": 14,
+            "start": 938,
+            "end": 1000
+          },
+          {
+            "turn_number": 15,
+            "start": 1018,
+            "end": 1026
+          },
+          {
+            "turn_number": 16,
+            "start": 1153,
+            "end": 1159
+          },
+          {
+            "turn_number": 17,
+            "start": 1174,
+            "end": 1178
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -387,7 +483,7 @@
     },
     "total_rows": 94,
     "data_rows": 93,
-    "file_path": "user_141_Anyaa_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 20,
       "max_possible_score": 27,
@@ -525,6 +621,26 @@
         },
         "started_at": "2025-10-20T11:20:22.379178",
         "completed_at": "2025-10-20T11:22:28.652037"
+      },
+      "frame_count": 93,
+      "emotion_distribution": {
+        "Happiness": 8,
+        "Neutral": 82,
+        "Surprise": 2
+      },
+      "average_au_intensities": {
+        "au_1": 0.0639,
+        "au_2": 0.0403,
+        "au_4": 0.1135,
+        "au_5": 0.0248,
+        "au_6": 0.0166,
+        "au_9": 0.0396,
+        "au_12": 0.0356,
+        "au_15": 0.0558,
+        "au_17": 0.0405,
+        "au_20": 0.0383,
+        "au_25": 0.1694,
+        "au_26": 0.0968
       }
     }
   },
@@ -539,7 +655,7 @@
     },
     "total_rows": 1142,
     "data_rows": 1141,
-    "file_path": "user_141_Anyaa_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -570,7 +686,52 @@
         },
         "started_at": "2025-10-20T11:20:49.962614",
         "completed_at": "2025-10-20T11:47:25.277099"
-      }
+      },
+      "frame_count": 1140,
+      "emotion_distribution": {
+        "Neutral": 882,
+        "Happiness": 173,
+        "Disgust": 4,
+        "Sadness": 20,
+        "Surprise": 6,
+        "Fear": 2
+      },
+      "average_au_intensities": {
+        "au_1": 0.0529,
+        "au_2": 0.0383,
+        "au_4": 0.0821,
+        "au_5": 0.0309,
+        "au_6": 0.0168,
+        "au_9": 0.0418,
+        "au_12": 0.027,
+        "au_15": 0.0797,
+        "au_17": 0.0489,
+        "au_20": 0.05,
+        "au_25": 0.1357,
+        "au_26": 0.0829
+      },
+      "frames_per_turn": {
+        "1": 43,
+        "2": 171,
+        "3": 17,
+        "4": 64,
+        "5": 29,
+        "6": 180,
+        "7": 49,
+        "8": 73,
+        "9": 38,
+        "10": 24,
+        "11": 59,
+        "12": 78,
+        "13": 24,
+        "14": 117,
+        "15": 25,
+        "16": 130,
+        "17": 19
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

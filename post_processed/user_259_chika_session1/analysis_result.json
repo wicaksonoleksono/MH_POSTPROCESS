@@ -1,7 +1,7 @@
 {
   "user_id": "user_259_chika",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:14.473106",
+  "processed_at": "2025-10-23T15:27:27.748955",
   "metadata": {
     "folder_name": "user_259_chika_session1",
     "data_path": "data/user_259_chika_session1/llm_conversation.json",
@@ -477,10 +477,136 @@
         "completed_at": "2025-10-20T14:08:49.242297"
       }
     },
-    "phq_analysis_file": "user_259_chika_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_259_chika_session1/llm_analysis.jsonl",
+    "llm_frames_by_turn_file": "user_259_chika_session1/llm_frames_by_turn.json",
     "phq_responses_file": "user_259_chika_session1/phq_responses.json",
-    "session_metadata_file": "user_259_chika_session1/metadata.json"
+    "session_metadata_file": "user_259_chika_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_259_chika_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_259_chika_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_259_chika_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_259_chika_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 6,
+            "end": 8
+          },
+          {
+            "turn_number": 2,
+            "start": 26,
+            "end": 48
+          },
+          {
+            "turn_number": 3,
+            "start": 61,
+            "end": 79
+          },
+          {
+            "turn_number": 4,
+            "start": 94,
+            "end": 97
+          },
+          {
+            "turn_number": 5,
+            "start": 107,
+            "end": 136
+          },
+          {
+            "turn_number": 6,
+            "start": 150,
+            "end": 151
+          },
+          {
+            "turn_number": 7,
+            "start": 165,
+            "end": 168
+          },
+          {
+            "turn_number": 8,
+            "start": 185,
+            "end": 189
+          },
+          {
+            "turn_number": 9,
+            "start": 210,
+            "end": 231
+          },
+          {
+            "turn_number": 10,
+            "start": 245,
+            "end": 256
+          },
+          {
+            "turn_number": 11,
+            "start": 288,
+            "end": 302
+          },
+          {
+            "turn_number": 12,
+            "start": 326,
+            "end": 385
+          },
+          {
+            "turn_number": 13,
+            "start": 400,
+            "end": 405
+          },
+          {
+            "turn_number": 14,
+            "start": 418,
+            "end": 436
+          },
+          {
+            "turn_number": 15,
+            "start": 456,
+            "end": 467
+          },
+          {
+            "turn_number": 16,
+            "start": 478,
+            "end": 489
+          },
+          {
+            "turn_number": 17,
+            "start": 502,
+            "end": 505
+          },
+          {
+            "turn_number": 18,
+            "start": 524,
+            "end": 529
+          },
+          {
+            "turn_number": 19,
+            "start": 550,
+            "end": 565
+          },
+          {
+            "turn_number": 20,
+            "start": 586,
+            "end": 603
+          },
+          {
+            "turn_number": 21,
+            "start": 633,
+            "end": 653
+          },
+          {
+            "turn_number": 22,
+            "start": 673,
+            "end": 692
+          },
+          {
+            "turn_number": 23,
+            "start": 716,
+            "end": 722
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -493,7 +619,7 @@
     },
     "total_rows": 131,
     "data_rows": 130,
-    "file_path": "user_259_chika_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 9,
       "max_possible_score": 27,
@@ -632,6 +758,25 @@
         },
         "started_at": "2025-10-20T13:49:25.871481",
         "completed_at": "2025-10-20T13:52:18.859676"
+      },
+      "frame_count": 130,
+      "emotion_distribution": {
+        "Neutral": 118,
+        "Sadness": 1
+      },
+      "average_au_intensities": {
+        "au_1": 0.0906,
+        "au_2": 0.0687,
+        "au_4": 0.2364,
+        "au_5": 0.04,
+        "au_6": 0.0296,
+        "au_9": 0.0607,
+        "au_12": 0.0367,
+        "au_15": 0.0931,
+        "au_17": 0.0548,
+        "au_20": 0.0509,
+        "au_25": 0.0445,
+        "au_26": 0.0464
       }
     }
   },
@@ -646,7 +791,7 @@
     },
     "total_rows": 721,
     "data_rows": 720,
-    "file_path": "user_259_chika_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -674,7 +819,55 @@
         },
         "started_at": "2025-10-20T13:50:16.362668",
         "completed_at": "2025-10-20T14:08:49.242297"
-      }
+      },
+      "frame_count": 719,
+      "emotion_distribution": {
+        "Neutral": 710,
+        "Happiness": 2,
+        "Sadness": 3
+      },
+      "average_au_intensities": {
+        "au_1": 0.0542,
+        "au_2": 0.0335,
+        "au_4": 0.1444,
+        "au_5": 0.0248,
+        "au_6": 0.0221,
+        "au_9": 0.0569,
+        "au_12": 0.0511,
+        "au_15": 0.0541,
+        "au_17": 0.0336,
+        "au_20": 0.0422,
+        "au_25": 0.0553,
+        "au_26": 0.0451
+      },
+      "frames_per_turn": {
+        "1": 3,
+        "2": 40,
+        "3": 31,
+        "4": 18,
+        "5": 39,
+        "6": 15,
+        "7": 17,
+        "8": 21,
+        "9": 42,
+        "10": 25,
+        "11": 46,
+        "12": 84,
+        "13": 20,
+        "14": 31,
+        "15": 31,
+        "16": 22,
+        "17": 16,
+        "18": 24,
+        "19": 36,
+        "20": 38,
+        "21": 50,
+        "22": 39,
+        "23": 31
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

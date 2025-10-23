@@ -1,7 +1,7 @@
 {
   "user_id": "user_53_milkteamatcha",
   "session_id": "session1",
-  "processed_at": "2025-10-23T10:56:15.052456",
+  "processed_at": "2025-10-23T15:27:31.606651",
   "metadata": {
     "folder_name": "user_53_milkteamatcha_session1",
     "data_path": "data/user_53_milkteamatcha_session1/llm_conversation.json",
@@ -248,10 +248,80 @@
         "completed_at": "2025-10-20T14:17:17.995045"
       }
     },
-    "phq_analysis_file": "user_53_milkteamatcha_session1/phq_analysis.jsonl",
-    "llm_analysis_file": "user_53_milkteamatcha_session1/llm_analysis.jsonl",
     "phq_responses_file": "user_53_milkteamatcha_session1/phq_responses.json",
-    "session_metadata_file": "user_53_milkteamatcha_session1/metadata.json"
+    "session_metadata_file": "user_53_milkteamatcha_session1/metadata.json",
+    "facial_analysis": {
+      "phq": {
+        "summary_file": "user_53_milkteamatcha_session1/facial_analysis/phq_summary.json",
+        "frames_file": "user_53_milkteamatcha_session1/facial_analysis/phq_frames.jsonl"
+      },
+      "llm": {
+        "summary_file": "user_53_milkteamatcha_session1/facial_analysis/llm_summary.json",
+        "frames_file": "user_53_milkteamatcha_session1/facial_analysis/llm_frames.jsonl",
+        "user_timing_windows": [
+          {
+            "turn_number": 1,
+            "start": 8,
+            "end": 10
+          },
+          {
+            "turn_number": 2,
+            "start": 29,
+            "end": 36
+          },
+          {
+            "turn_number": 3,
+            "start": 71,
+            "end": 101
+          },
+          {
+            "turn_number": 4,
+            "start": 123,
+            "end": 135
+          },
+          {
+            "turn_number": 5,
+            "start": 164,
+            "end": 182
+          },
+          {
+            "turn_number": 6,
+            "start": 198,
+            "end": 205
+          },
+          {
+            "turn_number": 7,
+            "start": 218,
+            "end": 225
+          },
+          {
+            "turn_number": 8,
+            "start": 238,
+            "end": 246
+          },
+          {
+            "turn_number": 9,
+            "start": 267,
+            "end": 271
+          },
+          {
+            "turn_number": 10,
+            "start": 283,
+            "end": 293
+          },
+          {
+            "turn_number": 11,
+            "start": 303,
+            "end": 308
+          },
+          {
+            "turn_number": 12,
+            "start": 319,
+            "end": 331
+          }
+        ]
+      }
+    }
   },
   "phq_summary": {
     "metadata": {
@@ -264,7 +334,7 @@
     },
     "total_rows": 74,
     "data_rows": 73,
-    "file_path": "user_53_milkteamatcha_session1/phq_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "total_score": 0,
       "max_possible_score": 27,
@@ -388,7 +458,10 @@
         "summary_stats": {},
         "started_at": "2025-10-20T14:15:01.930284",
         "completed_at": "2025-10-20T14:15:18.836434"
-      }
+      },
+      "frame_count": 73,
+      "emotion_distribution": {},
+      "average_au_intensities": {}
     }
   },
   "llm_summary": {
@@ -402,7 +475,7 @@
     },
     "total_rows": 333,
     "data_rows": 332,
-    "file_path": "user_53_milkteamatcha_session1/llm_analysis.jsonl",
+    "file_path": null,
     "extra": {
       "analysis_stats": {
         "status": "completed",
@@ -414,7 +487,27 @@
         "summary_stats": {},
         "started_at": "2025-10-20T14:15:02.099274",
         "completed_at": "2025-10-20T14:17:17.995045"
-      }
+      },
+      "frame_count": 331,
+      "emotion_distribution": {},
+      "average_au_intensities": {},
+      "frames_per_turn": {
+        "1": 3,
+        "2": 26,
+        "3": 67,
+        "4": 34,
+        "5": 48,
+        "6": 24,
+        "7": 20,
+        "8": 22,
+        "9": 25,
+        "10": 23,
+        "11": 15,
+        "12": 24
+      },
+      "used_user_timing": true,
+      "used_sequential_timing": true,
+      "note": "timestamp_alignment_failed_used_sequential"
     }
   }
 }

@@ -1,4 +1,4 @@
-from package.llm_postprocessor.postprocessor.processor import BatchFileProcessor
+from package.llm_postprocessor.postprocessor.batch_processor import BatchFileProcessor
 
 processor = BatchFileProcessor()
 stats = processor.process_data_folder(

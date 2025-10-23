@@ -1,18 +1,680 @@
 {
   "user_id": "user_259_chika",
   "session_id": "session1",
-  "llm_extraction": {
-    "key_themes": [
-      "error"
-    ],
-    "overall_sentiment": "error",
-    "risk_factors": [],
-    "insights": "LLM extraction failed: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable"
-  },
-  "processed_at": "2025-10-22T16:46:17.359262",
+  "processed_at": "2025-10-23T10:56:14.473106",
   "metadata": {
     "folder_name": "user_259_chika_session1",
     "data_path": "data/user_259_chika_session1/llm_conversation.json",
-    "formatted_conversation": "mahasiswa: baik\nsindi: Senang dengar kabarmu baik 😊 Nah, aku mau tanya nih, selama dua minggu terakhir ini, apakah kamu merasa ada aktivitas yang biasanya kamu suka tapi sekarang terasa kurang menarik atau malah bikin kamu nggak semangat? Misalnya hobi atau hal-hal kecil sehari-hari?\nmahasiswa: tidak ada aktivitas yang aku suka yang akhir akhir ini aku lakukan\nsindi: Oh, jadi kamu memang lagi nggak ngelakuin hal-hal yang biasanya kamu suka ya? Kalau boleh tahu, apa yang bikin kamu jadi nggak tertarik buat ngelakuin hal-hal itu? Ada perasaan atau pikiran tertentu yang muncul?\nmahasiswa: lebih ke tidak punya waktu untuk melakukannya\nsindi: Wah, sibuk banget ya sampai nggak ada waktu buat hal yang kamu suka. Kalau sibuk kayak gini, biasanya perasaan kamu gimana? Apakah ada momen di mana kamu merasa sedih atau mood kamu jadi turun hampir tiap hari?\nmahasiswa: iya benar\nsindi: Aku ngerti, pasti berat ya kalau perasaan sedih itu datang terus. Biasanya, apa sih yang bikin perasaan sedih atau mood kamu jadi makin berat? Apakah ada kejadian atau pikiran yang sering muncul dan bikin kamu merasa seperti itu?\nmahasiswa: kangen rumah si pengen pulang sama stress karna banyak tugas, ngerasa ga ngerti materi\nsindi: Wah, kangen rumah dan tugas yang numpuk memang bisa bikin pikiran jadi berat banget. Kalau kamu lagi stres karena tugas dan merasa nggak ngerti materi, biasanya itu ngaruh ke pola makan kamu nggak? Misalnya, jadi makan lebih banyak, lebih sedikit, atau malah nggak napsu makan sama sekali?\nmahasiswa: ga si\nsindi: Oke, berarti pola makan kamu masih stabil ya walaupun lagi stres dan kangen rumah. Terus, gimana dengan tidur kamu selama dua minggu terakhir ini? Apakah kamu merasa susah tidur, sering terbangun di malam hari, atau malah jadi lebih banyak tidur dari biasanya?\nmahasiswa: tidur si aman\nsindi: Bagus ya kalau tidurmu masih aman, itu penting banget buat jaga energi. Nah, ada nggak sih teman atau orang sekitar yang bilang kalau kamu sekarang jadi lebih pelan gerak atau bicara, atau malah kelihatan lebih gelisah dari biasanya? Kalau iya, biasanya hal itu muncul kapan dan gimana reaksimu?\nmahasiswa: belum ada yang bilang\nsindi: Oke, berarti kalau dari orang sekitar belum ada yang notice perubahan itu. Kalau kamu sendiri, pernah ngerasa lelah banget atau kehilangan energi sampai susah buat ngelanjutin aktivitas sehari-hari? Biasanya kapan itu terjadi dan apa yang biasanya jadi penyebabnya?\nmahasiswa: pas lagi kuliah full dari pagi sampai sore terus malem nya ngerjain tugas lagi\nsindi: Wah, itu memang bisa bikin energi cepat habis ya, kuliah dari pagi sampai sore terus ngerjain tugas sampai malam. Kalau lagi capek banget seperti itu, apakah kamu pernah merasa ada rasa bersalah atau merasa nggak cukup baik terhadap diri sendiri, misalnya merasa gagal atau kurang produktif? Biasanya pikiran itu muncul di situasi seperti apa?\nmahasiswa: iyaa pernah, muncul saat itu juga\nsindi: Aku paham, itu memang bikin perasaan jadi berat ya. Kalau kamu merasa gampang kehilangan fokus atau kesulitan buat konsentrasi selama kuliah atau ngerjain tugas, gimana biasanya? Apa yang sering ganggu kamu sampai susah fokus?\nmahasiswa: karena materinya susah, terus keinget pulang terus juga\nsindi: Wah, jadi pikiran tentang materi yang susah dan keinginan pulang itu bikin fokus kamu buyar ya. Kalau pikiran tentang pulang itu muncul, apakah kamu pernah juga kepikiran hal-hal yang lebih berat, misalnya tentang mati atau bunuh diri? Kalau iya, biasanya kapan dan apa yang bikin pikiran itu datang?\nmahasiswa: pernah, kapannya saat lagi stress dan ngerasa kalo aku cuman nyusahin orang tua dan saat pikiran untuk mau berenti kuliah aja\nsindi: Aku sangat menghargai kamu sudah berani cerita hal ini, itu nggak mudah. Perasaan seperti itu pasti berat banget ya, apalagi kalau merasa nyusahin orang tua dan mikir buat berhenti kuliah. Kalau kamu mau, aku pengen tahu, biasanya kamu ngelakuin apa atau ada hal apa yang bisa sedikit meredakan pikiran atau perasaan seperti itu?\nmahasiswa: nangis si\nsindi: Aku tahu menangis itu salah satu cara hati melepas beban, dan itu wajar banget kamu lakukan. Kalau kamu nggak keberatan cerita, setelah nangis kamu biasanya merasa sedikit lebih ringan atau malah masih ada perasaan berat yang ngeganjel? Aku di sini siap dengerin kamu, kok 😊\nmahasiswa: masalahnya tetap ga selesai tapi setidaknya lebih tenang dikit\nsindi: Aku paham, memang kadang nangis cuma jadi pelampiasan sesaat, tapi tetap nggak langsung nyelesain masalahnya. Kalau boleh tau, ada nggak hal-hal lain yang biasanya kamu coba lakukan buat bantu diri kamu tetap kuat atau nyari solusi walaupun masalahnya belum selesai?\nmahasiswa: cerita ke teman dan orang tua\nsindi: Bagus banget kamu punya teman dan orang tua yang bisa diajak cerita, itu penting banget buat support. Kalau cerita ke mereka, biasanya kamu dapat respon kayak apa? Apakah itu membantu kamu merasa lebih lega atau malah bikin kamu tambah bingung?\nmahasiswa: kadang lega, kadang biasa aja\nsindi: Aku ngerti kok, kadang respon dari orang lain bisa nggak selalu sesuai harapan dan bikin kita merasa biasa aja. Dari semua hal yang kamu ceritain, aku pengen nanya nih, selama dua minggu terakhir ini kamu ngerasa ada perubahan berat badan atau nafsu makan yang signifikan nggak? Misalnya tiba-tiba jadi makan lebih banyak atau lebih sedikit dari biasanya?\nmahasiswa: ga ada\nsindi: Oke, berarti berat badan dan nafsu makan kamu masih stabil ya. Sekarang aku pengen tahu soal konsentrasi lagi nih, selama dua minggu terakhir ini, kalau kamu lagi ambil keputusan penting, biasanya kamu merasa susah nggak buat menentukan pilihan? Apa yang paling bikin susah saat itu?\nmahasiswa: ga ada\nsindi: Oke, berarti kamu masih bisa ambil keputusan dengan baik ya. Dari semua yang sudah kita bicarakan, aku mau nanya, selama dua minggu terakhir ini, apakah kamu pernah merasa ada pikiran tentang kematian atau bunuh diri yang terus-menerus muncul? Kalau iya, kapan biasanya pikiran itu muncul dan apa yang membuatnya jadi lebih kuat?\nmahasiswa: cuman kepikiran sepintas doang, ga pernah yang benar benar mikirin\nsindi: Oke, aku senang dengar kalau pikiran itu cuma sepintas dan nggak sampai bener-bener mendalam. Dari cerita kamu selama ini, aku lihat kamu sedang berusaha keras menghadapi banyak hal, mulai dari tugas kuliah yang berat sampai perasaan kangen rumah dan stres. Kamu juga punya orang-orang yang bisa diajak cerita, walau kadang belum semuanya terasa cukup. Itu sudah langkah yang baik banget, lho. 😊\n\nKalau kamu mau, kamu masih ada hal lain yang pengen ditambahin atau ceritain? Aku di sini siap dengerin kapan aja.\nmahasiswa: menurut kamu, apa yang harus aku lakuin biar ga keinget rumah terus\nsindi: Aku paham banget, kangen rumah itu wajar, apalagi lagi jauh dan banyak tekanan. Mungkin kamu bisa coba bikin rutinitas kecil yang bikin kamu merasa lebih “dekat” sama rumah, misalnya telepon atau video call rutin sama keluarga, atau bawa barang-barang kecil dari rumah yang bikin kamu nyaman. \n\nSelain itu, coba juga cari aktivitas yang bisa bikin kamu lebih fokus dan senang di tempat sekarang, kayak ikut komunitas kampus atau olahraga. Biasanya, kalau kita punya kegiatan positif, pikiran jadi lebih teralihkan dan nggak terus-terusan mikirin hal yang bikin sedih. Gimana menurut kamu, kira-kira ada yang pengen kamu coba duluan? 😊\nmahasiswa: video call juga gabisa karena harus nugas\nsindi: Wah, aku ngerti banget, tugas yang numpuk memang bikin kamu susah cari waktu buat video call. Kalau gitu, mungkin kamu bisa coba cara yang lebih sederhana, misalnya kirim pesan singkat atau voice note ke keluarga saat ada waktu luang, walaupun cuma sebentar. Kadang hal kecil itu bisa bikin kamu merasa tetap terhubung tanpa harus nyita banyak waktu.\n\nSelain itu, mungkin kamu juga bisa coba atur waktu belajar dengan jeda singkat buat istirahat, supaya pikiran nggak terlalu penuh dan kamu bisa lebih santai. Gimana, kira-kira kamu tertarik coba cara-cara itu? Atau ada ide lain yang pengen kamu coba? 😊\nmahasiswa: udah ga ada si\nsindi: Oke, aku paham kamu sudah merasa udah nggak ada ide lain sekarang. Dari semua yang kamu ceritain, aku lihat kamu sudah berusaha banget menghadapi situasi yang berat dengan cara-cara yang kamu bisa, dan itu sangat berarti. Ingat ya, kamu nggak sendirian, aku selalu siap dengerin dan support kamu kapan pun kamu butuh. \n\nKalau misalnya nanti ada yang mau kamu tambahin atau ceritain lagi, jangan ragu buat hubungi aku, ya. Ada hal lain yang pengen kamu sampaikan sebelum kita akhiri obrolan ini? 😊\nmahasiswa: ga ada\nsindi: Terima kasih sudah berbagi cerita dan perasaan kamu selama ini. Aku harap kamu bisa terus kuat dan ingat, langkah kecil yang kamu lakukan sudah berarti banyak. Jangan lupa untuk selalu jaga diri dan beri waktu buat istirahat juga ya.\n\nKalau nanti kamu merasa butuh ngobrol lagi atau ada yang ingin dibagikan, aku selalu ada buat kamu. Semoga hari-harimu ke depan lebih ringan dan penuh semangat. Semangat terus ya! 😊\n\n</end_conversation>"
+    "formatted_conversation": "sindi: Halo aku Sindi, apakabar\nmahasiswa: baik\nsindi: Senang dengar kabarmu baik 😊 Nah, aku mau tanya nih, selama dua minggu terakhir ini, apakah kamu merasa ada aktivitas yang biasanya kamu suka tapi sekarang terasa kurang menarik atau malah bikin kamu nggak semangat? Misalnya hobi atau hal-hal kecil sehari-hari?\nmahasiswa: tidak ada aktivitas yang aku suka yang akhir akhir ini aku lakukan\nsindi: Oh, jadi kamu memang lagi nggak ngelakuin hal-hal yang biasanya kamu suka ya? Kalau boleh tahu, apa yang bikin kamu jadi nggak tertarik buat ngelakuin hal-hal itu? Ada perasaan atau pikiran tertentu yang muncul?\nmahasiswa: lebih ke tidak punya waktu untuk melakukannya\nsindi: Wah, sibuk banget ya sampai nggak ada waktu buat hal yang kamu suka. Kalau sibuk kayak gini, biasanya perasaan kamu gimana? Apakah ada momen di mana kamu merasa sedih atau mood kamu jadi turun hampir tiap hari?\nmahasiswa: iya benar\nsindi: Aku ngerti, pasti berat ya kalau perasaan sedih itu datang terus. Biasanya, apa sih yang bikin perasaan sedih atau mood kamu jadi makin berat? Apakah ada kejadian atau pikiran yang sering muncul dan bikin kamu merasa seperti itu?\nmahasiswa: kangen rumah si pengen pulang sama stress karna banyak tugas, ngerasa ga ngerti materi\nsindi: Wah, kangen rumah dan tugas yang numpuk memang bisa bikin pikiran jadi berat banget. Kalau kamu lagi stres karena tugas dan merasa nggak ngerti materi, biasanya itu ngaruh ke pola makan kamu nggak? Misalnya, jadi makan lebih banyak, lebih sedikit, atau malah nggak napsu makan sama sekali?\nmahasiswa: ga si\nsindi: Oke, berarti pola makan kamu masih stabil ya walaupun lagi stres dan kangen rumah. Terus, gimana dengan tidur kamu selama dua minggu terakhir ini? Apakah kamu merasa susah tidur, sering terbangun di malam hari, atau malah jadi lebih banyak tidur dari biasanya?\nmahasiswa: tidur si aman\nsindi: Bagus ya kalau tidurmu masih aman, itu penting banget buat jaga energi. Nah, ada nggak sih teman atau orang sekitar yang bilang kalau kamu sekarang jadi lebih pelan gerak atau bicara, atau malah kelihatan lebih gelisah dari biasanya? Kalau iya, biasanya hal itu muncul kapan dan gimana reaksimu?\nmahasiswa: belum ada yang bilang\nsindi: Oke, berarti kalau dari orang sekitar belum ada yang notice perubahan itu. Kalau kamu sendiri, pernah ngerasa lelah banget atau kehilangan energi sampai susah buat ngelanjutin aktivitas sehari-hari? Biasanya kapan itu terjadi dan apa yang biasanya jadi penyebabnya?\nmahasiswa: pas lagi kuliah full dari pagi sampai sore terus malem nya ngerjain tugas lagi\nsindi: Wah, itu memang bisa bikin energi cepat habis ya, kuliah dari pagi sampai sore terus ngerjain tugas sampai malam. Kalau lagi capek banget seperti itu, apakah kamu pernah merasa ada rasa bersalah atau merasa nggak cukup baik terhadap diri sendiri, misalnya merasa gagal atau kurang produktif? Biasanya pikiran itu muncul di situasi seperti apa?\nmahasiswa: iyaa pernah, muncul saat itu juga\nsindi: Aku paham, itu memang bikin perasaan jadi berat ya. Kalau kamu merasa gampang kehilangan fokus atau kesulitan buat konsentrasi selama kuliah atau ngerjain tugas, gimana biasanya? Apa yang sering ganggu kamu sampai susah fokus?\nmahasiswa: karena materinya susah, terus keinget pulang terus juga\nsindi: Wah, jadi pikiran tentang materi yang susah dan keinginan pulang itu bikin fokus kamu buyar ya. Kalau pikiran tentang pulang itu muncul, apakah kamu pernah juga kepikiran hal-hal yang lebih berat, misalnya tentang mati atau bunuh diri? Kalau iya, biasanya kapan dan apa yang bikin pikiran itu datang?\nmahasiswa: pernah, kapannya saat lagi stress dan ngerasa kalo aku cuman nyusahin orang tua dan saat pikiran untuk mau berenti kuliah aja\nsindi: Aku sangat menghargai kamu sudah berani cerita hal ini, itu nggak mudah. Perasaan seperti itu pasti berat banget ya, apalagi kalau merasa nyusahin orang tua dan mikir buat berhenti kuliah. Kalau kamu mau, aku pengen tahu, biasanya kamu ngelakuin apa atau ada hal apa yang bisa sedikit meredakan pikiran atau perasaan seperti itu?\nmahasiswa: nangis si\nsindi: Aku tahu menangis itu salah satu cara hati melepas beban, dan itu wajar banget kamu lakukan. Kalau kamu nggak keberatan cerita, setelah nangis kamu biasanya merasa sedikit lebih ringan atau malah masih ada perasaan berat yang ngeganjel? Aku di sini siap dengerin kamu, kok 😊\nmahasiswa: masalahnya tetap ga selesai tapi setidaknya lebih tenang dikit\nsindi: Aku paham, memang kadang nangis cuma jadi pelampiasan sesaat, tapi tetap nggak langsung nyelesain masalahnya. Kalau boleh tau, ada nggak hal-hal lain yang biasanya kamu coba lakukan buat bantu diri kamu tetap kuat atau nyari solusi walaupun masalahnya belum selesai?\nmahasiswa: cerita ke teman dan orang tua\nsindi: Bagus banget kamu punya teman dan orang tua yang bisa diajak cerita, itu penting banget buat support. Kalau cerita ke mereka, biasanya kamu dapat respon kayak apa? Apakah itu membantu kamu merasa lebih lega atau malah bikin kamu tambah bingung?\nmahasiswa: kadang lega, kadang biasa aja\nsindi: Aku ngerti kok, kadang respon dari orang lain bisa nggak selalu sesuai harapan dan bikin kita merasa biasa aja. Dari semua hal yang kamu ceritain, aku pengen nanya nih, selama dua minggu terakhir ini kamu ngerasa ada perubahan berat badan atau nafsu makan yang signifikan nggak? Misalnya tiba-tiba jadi makan lebih banyak atau lebih sedikit dari biasanya?\nmahasiswa: ga ada\nsindi: Oke, berarti berat badan dan nafsu makan kamu masih stabil ya. Sekarang aku pengen tahu soal konsentrasi lagi nih, selama dua minggu terakhir ini, kalau kamu lagi ambil keputusan penting, biasanya kamu merasa susah nggak buat menentukan pilihan? Apa yang paling bikin susah saat itu?\nmahasiswa: ga ada\nsindi: Oke, berarti kamu masih bisa ambil keputusan dengan baik ya. Dari semua yang sudah kita bicarakan, aku mau nanya, selama dua minggu terakhir ini, apakah kamu pernah merasa ada pikiran tentang kematian atau bunuh diri yang terus-menerus muncul? Kalau iya, kapan biasanya pikiran itu muncul dan apa yang membuatnya jadi lebih kuat?\nmahasiswa: cuman kepikiran sepintas doang, ga pernah yang benar benar mikirin\nsindi: Oke, aku senang dengar kalau pikiran itu cuma sepintas dan nggak sampai bener-bener mendalam. Dari cerita kamu selama ini, aku lihat kamu sedang berusaha keras menghadapi banyak hal, mulai dari tugas kuliah yang berat sampai perasaan kangen rumah dan stres. Kamu juga punya orang-orang yang bisa diajak cerita, walau kadang belum semuanya terasa cukup. Itu sudah langkah yang baik banget, lho. 😊\n\nKalau kamu mau, kamu masih ada hal lain yang pengen ditambahin atau ceritain? Aku di sini siap dengerin kapan aja.\nmahasiswa: menurut kamu, apa yang harus aku lakuin biar ga keinget rumah terus\nsindi: Aku paham banget, kangen rumah itu wajar, apalagi lagi jauh dan banyak tekanan. Mungkin kamu bisa coba bikin rutinitas kecil yang bikin kamu merasa lebih “dekat” sama rumah, misalnya telepon atau video call rutin sama keluarga, atau bawa barang-barang kecil dari rumah yang bikin kamu nyaman. \n\nSelain itu, coba juga cari aktivitas yang bisa bikin kamu lebih fokus dan senang di tempat sekarang, kayak ikut komunitas kampus atau olahraga. Biasanya, kalau kita punya kegiatan positif, pikiran jadi lebih teralihkan dan nggak terus-terusan mikirin hal yang bikin sedih. Gimana menurut kamu, kira-kira ada yang pengen kamu coba duluan? 😊\nmahasiswa: video call juga gabisa karena harus nugas\nsindi: Wah, aku ngerti banget, tugas yang numpuk memang bikin kamu susah cari waktu buat video call. Kalau gitu, mungkin kamu bisa coba cara yang lebih sederhana, misalnya kirim pesan singkat atau voice note ke keluarga saat ada waktu luang, walaupun cuma sebentar. Kadang hal kecil itu bisa bikin kamu merasa tetap terhubung tanpa harus nyita banyak waktu.\n\nSelain itu, mungkin kamu juga bisa coba atur waktu belajar dengan jeda singkat buat istirahat, supaya pikiran nggak terlalu penuh dan kamu bisa lebih santai. Gimana, kira-kira kamu tertarik coba cara-cara itu? Atau ada ide lain yang pengen kamu coba? 😊\nmahasiswa: udah ga ada si\nsindi: Oke, aku paham kamu sudah merasa udah nggak ada ide lain sekarang. Dari semua yang kamu ceritain, aku lihat kamu sudah berusaha banget menghadapi situasi yang berat dengan cara-cara yang kamu bisa, dan itu sangat berarti. Ingat ya, kamu nggak sendirian, aku selalu siap dengerin dan support kamu kapan pun kamu butuh. \n\nKalau misalnya nanti ada yang mau kamu tambahin atau ceritain lagi, jangan ragu buat hubungi aku, ya. Ada hal lain yang pengen kamu sampaikan sebelum kita akhiri obrolan ini? 😊\nmahasiswa: ga ada\nsindi: Terima kasih sudah berbagi cerita dan perasaan kamu selama ini. Aku harap kamu bisa terus kuat dan ingat, langkah kecil yang kamu lakukan sudah berarti banyak. Jangan lupa untuk selalu jaga diri dan beri waktu buat istirahat juga ya.\n\nKalau nanti kamu merasa butuh ngobrol lagi atau ada yang ingin dibagikan, aku selalu ada buat kamu. Semoga hari-harimu ke depan lebih ringan dan penuh semangat. Semangat terus ya! 😊\n\n</end_conversation>",
+    "raw_conversation": [
+      {
+        "turn_number": 1,
+        "user_message": "baik",
+        "ai_message": "Senang dengar kabarmu baik 😊 Nah, aku mau tanya nih, selama dua minggu terakhir ini, apakah kamu merasa ada aktivitas yang biasanya kamu suka tapi sekarang terasa kurang menarik atau malah bikin kamu nggak semangat? Misalnya hobi atau hal-hal kecil sehari-hari?",
+        "user_message_length": 4,
+        "user_timing": {
+          "start": 6,
+          "end": 8,
+          "duration": 2
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 2,
+        "user_message": "tidak ada aktivitas yang aku suka yang akhir akhir ini aku lakukan",
+        "ai_message": "Oh, jadi kamu memang lagi nggak ngelakuin hal-hal yang biasanya kamu suka ya? Kalau boleh tahu, apa yang bikin kamu jadi nggak tertarik buat ngelakuin hal-hal itu? Ada perasaan atau pikiran tertentu yang muncul?",
+        "user_message_length": 66,
+        "user_timing": {
+          "start": 26,
+          "end": 48,
+          "duration": 22
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 3,
+        "user_message": "lebih ke tidak punya waktu untuk melakukannya",
+        "ai_message": "Wah, sibuk banget ya sampai nggak ada waktu buat hal yang kamu suka. Kalau sibuk kayak gini, biasanya perasaan kamu gimana? Apakah ada momen di mana kamu merasa sedih atau mood kamu jadi turun hampir tiap hari?",
+        "user_message_length": 45,
+        "user_timing": {
+          "start": 61,
+          "end": 79,
+          "duration": 18
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 4,
+        "user_message": "iya benar",
+        "ai_message": "Aku ngerti, pasti berat ya kalau perasaan sedih itu datang terus. Biasanya, apa sih yang bikin perasaan sedih atau mood kamu jadi makin berat? Apakah ada kejadian atau pikiran yang sering muncul dan bikin kamu merasa seperti itu?",
+        "user_message_length": 9,
+        "user_timing": {
+          "start": 94,
+          "end": 97,
+          "duration": 3
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 5,
+        "user_message": "kangen rumah si pengen pulang sama stress karna banyak tugas, ngerasa ga ngerti materi",
+        "ai_message": "Wah, kangen rumah dan tugas yang numpuk memang bisa bikin pikiran jadi berat banget. Kalau kamu lagi stres karena tugas dan merasa nggak ngerti materi, biasanya itu ngaruh ke pola makan kamu nggak? Misalnya, jadi makan lebih banyak, lebih sedikit, atau malah nggak napsu makan sama sekali?",
+        "user_message_length": 86,
+        "user_timing": {
+          "start": 107,
+          "end": 136,
+          "duration": 29
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 6,
+        "user_message": "ga si",
+        "ai_message": "Oke, berarti pola makan kamu masih stabil ya walaupun lagi stres dan kangen rumah. Terus, gimana dengan tidur kamu selama dua minggu terakhir ini? Apakah kamu merasa susah tidur, sering terbangun di malam hari, atau malah jadi lebih banyak tidur dari biasanya?",
+        "user_message_length": 5,
+        "user_timing": {
+          "start": 150,
+          "end": 151,
+          "duration": 1
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 7,
+        "user_message": "tidur si aman",
+        "ai_message": "Bagus ya kalau tidurmu masih aman, itu penting banget buat jaga energi. Nah, ada nggak sih teman atau orang sekitar yang bilang kalau kamu sekarang jadi lebih pelan gerak atau bicara, atau malah kelihatan lebih gelisah dari biasanya? Kalau iya, biasanya hal itu muncul kapan dan gimana reaksimu?",
+        "user_message_length": 13,
+        "user_timing": {
+          "start": 165,
+          "end": 168,
+          "duration": 3
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 8,
+        "user_message": "belum ada yang bilang",
+        "ai_message": "Oke, berarti kalau dari orang sekitar belum ada yang notice perubahan itu. Kalau kamu sendiri, pernah ngerasa lelah banget atau kehilangan energi sampai susah buat ngelanjutin aktivitas sehari-hari? Biasanya kapan itu terjadi dan apa yang biasanya jadi penyebabnya?",
+        "user_message_length": 21,
+        "user_timing": {
+          "start": 185,
+          "end": 189,
+          "duration": 4
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 9,
+        "user_message": "pas lagi kuliah full dari pagi sampai sore terus malem nya ngerjain tugas lagi",
+        "ai_message": "Wah, itu memang bisa bikin energi cepat habis ya, kuliah dari pagi sampai sore terus ngerjain tugas sampai malam. Kalau lagi capek banget seperti itu, apakah kamu pernah merasa ada rasa bersalah atau merasa nggak cukup baik terhadap diri sendiri, misalnya merasa gagal atau kurang produktif? Biasanya pikiran itu muncul di situasi seperti apa?",
+        "user_message_length": 78,
+        "user_timing": {
+          "start": 210,
+          "end": 231,
+          "duration": 21
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 10,
+        "user_message": "iyaa pernah, muncul saat itu juga",
+        "ai_message": "Aku paham, itu memang bikin perasaan jadi berat ya. Kalau kamu merasa gampang kehilangan fokus atau kesulitan buat konsentrasi selama kuliah atau ngerjain tugas, gimana biasanya? Apa yang sering ganggu kamu sampai susah fokus?",
+        "user_message_length": 33,
+        "user_timing": {
+          "start": 245,
+          "end": 256,
+          "duration": 11
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 11,
+        "user_message": "karena materinya susah, terus keinget pulang terus juga",
+        "ai_message": "Wah, jadi pikiran tentang materi yang susah dan keinginan pulang itu bikin fokus kamu buyar ya. Kalau pikiran tentang pulang itu muncul, apakah kamu pernah juga kepikiran hal-hal yang lebih berat, misalnya tentang mati atau bunuh diri? Kalau iya, biasanya kapan dan apa yang bikin pikiran itu datang?",
+        "user_message_length": 55,
+        "user_timing": {
+          "start": 288,
+          "end": 302,
+          "duration": 14
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 12,
+        "user_message": "pernah, kapannya saat lagi stress dan ngerasa kalo aku cuman nyusahin orang tua dan saat pikiran untuk mau berenti kuliah aja",
+        "ai_message": "Aku sangat menghargai kamu sudah berani cerita hal ini, itu nggak mudah. Perasaan seperti itu pasti berat banget ya, apalagi kalau merasa nyusahin orang tua dan mikir buat berhenti kuliah. Kalau kamu mau, aku pengen tahu, biasanya kamu ngelakuin apa atau ada hal apa yang bisa sedikit meredakan pikiran atau perasaan seperti itu?",
+        "user_message_length": 125,
+        "user_timing": {
+          "start": 326,
+          "end": 385,
+          "duration": 59
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 13,
+        "user_message": "nangis si",
+        "ai_message": "Aku tahu menangis itu salah satu cara hati melepas beban, dan itu wajar banget kamu lakukan. Kalau kamu nggak keberatan cerita, setelah nangis kamu biasanya merasa sedikit lebih ringan atau malah masih ada perasaan berat yang ngeganjel? Aku di sini siap dengerin kamu, kok 😊",
+        "user_message_length": 9,
+        "user_timing": {
+          "start": 400,
+          "end": 405,
+          "duration": 5
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 14,
+        "user_message": "masalahnya tetap ga selesai tapi setidaknya lebih tenang dikit",
+        "ai_message": "Aku paham, memang kadang nangis cuma jadi pelampiasan sesaat, tapi tetap nggak langsung nyelesain masalahnya. Kalau boleh tau, ada nggak hal-hal lain yang biasanya kamu coba lakukan buat bantu diri kamu tetap kuat atau nyari solusi walaupun masalahnya belum selesai?",
+        "user_message_length": 62,
+        "user_timing": {
+          "start": 418,
+          "end": 436,
+          "duration": 18
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 15,
+        "user_message": "cerita ke teman dan orang tua",
+        "ai_message": "Bagus banget kamu punya teman dan orang tua yang bisa diajak cerita, itu penting banget buat support. Kalau cerita ke mereka, biasanya kamu dapat respon kayak apa? Apakah itu membantu kamu merasa lebih lega atau malah bikin kamu tambah bingung?",
+        "user_message_length": 29,
+        "user_timing": {
+          "start": 456,
+          "end": 467,
+          "duration": 11
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 16,
+        "user_message": "kadang lega, kadang biasa aja",
+        "ai_message": "Aku ngerti kok, kadang respon dari orang lain bisa nggak selalu sesuai harapan dan bikin kita merasa biasa aja. Dari semua hal yang kamu ceritain, aku pengen nanya nih, selama dua minggu terakhir ini kamu ngerasa ada perubahan berat badan atau nafsu makan yang signifikan nggak? Misalnya tiba-tiba jadi makan lebih banyak atau lebih sedikit dari biasanya?",
+        "user_message_length": 29,
+        "user_timing": {
+          "start": 478,
+          "end": 489,
+          "duration": 11
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 17,
+        "user_message": "ga ada",
+        "ai_message": "Oke, berarti berat badan dan nafsu makan kamu masih stabil ya. Sekarang aku pengen tahu soal konsentrasi lagi nih, selama dua minggu terakhir ini, kalau kamu lagi ambil keputusan penting, biasanya kamu merasa susah nggak buat menentukan pilihan? Apa yang paling bikin susah saat itu?",
+        "user_message_length": 6,
+        "user_timing": {
+          "start": 502,
+          "end": 505,
+          "duration": 3
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 18,
+        "user_message": "ga ada",
+        "ai_message": "Oke, berarti kamu masih bisa ambil keputusan dengan baik ya. Dari semua yang sudah kita bicarakan, aku mau nanya, selama dua minggu terakhir ini, apakah kamu pernah merasa ada pikiran tentang kematian atau bunuh diri yang terus-menerus muncul? Kalau iya, kapan biasanya pikiran itu muncul dan apa yang membuatnya jadi lebih kuat?",
+        "user_message_length": 6,
+        "user_timing": {
+          "start": 524,
+          "end": 529,
+          "duration": 5
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 19,
+        "user_message": "cuman kepikiran sepintas doang, ga pernah yang benar benar mikirin",
+        "ai_message": "Oke, aku senang dengar kalau pikiran itu cuma sepintas dan nggak sampai bener-bener mendalam. Dari cerita kamu selama ini, aku lihat kamu sedang berusaha keras menghadapi banyak hal, mulai dari tugas kuliah yang berat sampai perasaan kangen rumah dan stres. Kamu juga punya orang-orang yang bisa diajak cerita, walau kadang belum semuanya terasa cukup. Itu sudah langkah yang baik banget, lho. 😊\n\nKalau kamu mau, kamu masih ada hal lain yang pengen ditambahin atau ceritain? Aku di sini siap dengerin kapan aja.",
+        "user_message_length": 66,
+        "user_timing": {
+          "start": 550,
+          "end": 565,
+          "duration": 15
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 20,
+        "user_message": "menurut kamu, apa yang harus aku lakuin biar ga keinget rumah terus",
+        "ai_message": "Aku paham banget, kangen rumah itu wajar, apalagi lagi jauh dan banyak tekanan. Mungkin kamu bisa coba bikin rutinitas kecil yang bikin kamu merasa lebih “dekat” sama rumah, misalnya telepon atau video call rutin sama keluarga, atau bawa barang-barang kecil dari rumah yang bikin kamu nyaman. \n\nSelain itu, coba juga cari aktivitas yang bisa bikin kamu lebih fokus dan senang di tempat sekarang, kayak ikut komunitas kampus atau olahraga. Biasanya, kalau kita punya kegiatan positif, pikiran jadi lebih teralihkan dan nggak terus-terusan mikirin hal yang bikin sedih. Gimana menurut kamu, kira-kira ada yang pengen kamu coba duluan? 😊",
+        "user_message_length": 67,
+        "user_timing": {
+          "start": 586,
+          "end": 603,
+          "duration": 17
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 21,
+        "user_message": "video call juga gabisa karena harus nugas",
+        "ai_message": "Wah, aku ngerti banget, tugas yang numpuk memang bikin kamu susah cari waktu buat video call. Kalau gitu, mungkin kamu bisa coba cara yang lebih sederhana, misalnya kirim pesan singkat atau voice note ke keluarga saat ada waktu luang, walaupun cuma sebentar. Kadang hal kecil itu bisa bikin kamu merasa tetap terhubung tanpa harus nyita banyak waktu.\n\nSelain itu, mungkin kamu juga bisa coba atur waktu belajar dengan jeda singkat buat istirahat, supaya pikiran nggak terlalu penuh dan kamu bisa lebih santai. Gimana, kira-kira kamu tertarik coba cara-cara itu? Atau ada ide lain yang pengen kamu coba? 😊",
+        "user_message_length": 41,
+        "user_timing": {
+          "start": 633,
+          "end": 653,
+          "duration": 20
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 22,
+        "user_message": "udah ga ada si",
+        "ai_message": "Oke, aku paham kamu sudah merasa udah nggak ada ide lain sekarang. Dari semua yang kamu ceritain, aku lihat kamu sudah berusaha banget menghadapi situasi yang berat dengan cara-cara yang kamu bisa, dan itu sangat berarti. Ingat ya, kamu nggak sendirian, aku selalu siap dengerin dan support kamu kapan pun kamu butuh. \n\nKalau misalnya nanti ada yang mau kamu tambahin atau ceritain lagi, jangan ragu buat hubungi aku, ya. Ada hal lain yang pengen kamu sampaikan sebelum kita akhiri obrolan ini? 😊",
+        "user_message_length": 14,
+        "user_timing": {
+          "start": 673,
+          "end": 692,
+          "duration": 19
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 23,
+        "user_message": "ga ada",
+        "ai_message": "Terima kasih sudah berbagi cerita dan perasaan kamu selama ini. Aku harap kamu bisa terus kuat dan ingat, langkah kecil yang kamu lakukan sudah berarti banyak. Jangan lupa untuk selalu jaga diri dan beri waktu buat istirahat juga ya.\n\nKalau nanti kamu merasa butuh ngobrol lagi atau ada yang ingin dibagikan, aku selalu ada buat kamu. Semoga hari-harimu ke depan lebih ringan dan penuh semangat. Semangat terus ya! 😊\n\n</end_conversation>",
+        "user_message_length": 6,
+        "user_timing": {
+          "start": 716,
+          "end": 722,
+          "duration": 6
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": true,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      }
+    ],
+    "session_metadata": {
+      "phq_analysis": {
+        "status": "completed",
+        "total_images_processed": 129,
+        "images_with_faces_detected": 119,
+        "images_failed": 10,
+        "processing_time_seconds": 172.981037,
+        "avg_time_per_image_ms": 1010.8403361344538,
+        "summary_stats": {
+          "dominant_emotion": "Neutral",
+          "emotion_distribution": {
+            "Neutral": 118,
+            "Sadness": 1
+          },
+          "avg_au_activations": 0.96,
+          "most_active_aus": [
+            "au_4",
+            "au_1",
+            "au_2",
+            "au_17",
+            "au_15"
+          ],
+          "total_frames_analyzed": 119
+        },
+        "started_at": "2025-10-20T13:49:25.871481",
+        "completed_at": "2025-10-20T13:52:18.859676"
+      },
+      "llm_analysis": {
+        "status": "completed",
+        "total_images_processed": 719,
+        "images_with_faces_detected": 715,
+        "images_failed": 4,
+        "processing_time_seconds": 1112.861058,
+        "avg_time_per_image_ms": 1082.2321678321678,
+        "summary_stats": {
+          "dominant_emotion": "Neutral",
+          "emotion_distribution": {
+            "Neutral": 710,
+            "Happiness": 2,
+            "Sadness": 3
+          },
+          "avg_au_activations": 0.43,
+          "most_active_aus": [
+            "au_4",
+            "au_1",
+            "au_12",
+            "au_6",
+            "au_17"
+          ],
+          "total_frames_analyzed": 715
+        },
+        "started_at": "2025-10-20T13:50:16.362668",
+        "completed_at": "2025-10-20T14:08:49.242297"
+      }
+    },
+    "phq_analysis_file": "user_259_chika_session1/phq_analysis.jsonl",
+    "llm_analysis_file": "user_259_chika_session1/llm_analysis.jsonl",
+    "phq_responses_file": "user_259_chika_session1/phq_responses.json",
+    "session_metadata_file": "user_259_chika_session1/metadata.json"
+  },
+  "phq_summary": {
+    "metadata": {
+      "type": "metadata",
+      "session_id": "2f8d8207-daf1-46a0-a83a-93aaa1b5ae6d",
+      "assessment_id": "a16c2a72-21c6-4264-bb88-a06a6f629b6d",
+      "assessment_type": "PHQ",
+      "total_images": 129,
+      "started_at": "2025-10-20T13:49:25.873850"
+    },
+    "total_rows": 131,
+    "data_rows": 130,
+    "file_path": "user_259_chika_session1/phq_analysis.jsonl",
+    "extra": {
+      "total_score": 9,
+      "max_possible_score": 27,
+      "responses": {
+        "ANHEDONIA": {
+          "Selama 2 minggu terakhir, Anda merasa kehilangan minat atau tidak bersemangat untuk melakukan kegiatan apa pun?": {
+            "response_text": "Pernah (jarang)",
+            "response_value": 1,
+            "response_time_ms": 18469,
+            "timing": {
+              "start": 0,
+              "end": 18,
+              "duration": 18
+            }
+          }
+        },
+        "DEPRESSED_MOOD": {
+          "Dalam 2 minggu terakhir apakah Anda merasa murung, muram, atau putus asa?": {
+            "response_text": "Beberapa kali (cukup sering)",
+            "response_value": 2,
+            "response_time_ms": 4510,
+            "timing": {
+              "start": 19,
+              "end": 24,
+              "duration": 5
+            }
+          }
+        },
+        "SLEEP_DISTURBANCE": {
+          "Dalam 2 minggu terakhir apakah Anda merasa sulit tidur atau mudah terbangun, atau terlalu banyak tidur?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 6212,
+            "timing": {
+              "start": 25,
+              "end": 31,
+              "duration": 6
+            }
+          }
+        },
+        "FATIGUE": {
+          "Selama 2 minggu terakhir, adakah Anda kerap merasa letih atau kehilangan tenaga?": {
+            "response_text": "Beberapa kali (cukup sering)",
+            "response_value": 2,
+            "response_time_ms": 15838,
+            "timing": {
+              "start": 33,
+              "end": 49,
+              "duration": 16
+            }
+          }
+        },
+        "APPETITE_CHANGES": {
+          "Dalam rentang 2 minggu terakhir, apakah Anda mengalami kesulitan mengendalikan nafsu makan, baik karena kurangnya selera maupun makan berlebihan?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 4439,
+            "timing": {
+              "start": 50,
+              "end": 54,
+              "duration": 4
+            }
+          }
+        },
+        "WORTHLESSNESS": {
+          "Selama 2 minggu terakhir, adakah Anda merasa kurang yakin pada diri sendiri, merasa gagal, atau merasa telah mengecewakan diri maupun keluarga?": {
+            "response_text": "Beberapa kali (cukup sering)",
+            "response_value": 2,
+            "response_time_ms": 5448,
+            "timing": {
+              "start": 56,
+              "end": 61,
+              "duration": 5
+            }
+          }
+        },
+        "CONCENTRATION": {
+          "Selama 2 minggu terakhir, adakah Anda mengalami kesulitan untuk memusatkan perhatian pada kegiatan, misalnya membaca berita atau menonton tayangan media?": {
+            "response_text": "Pernah (jarang)",
+            "response_value": 1,
+            "response_time_ms": 45783,
+            "timing": {
+              "start": 63,
+              "end": 108,
+              "duration": 45
+            }
+          }
+        },
+        "PSYCHOMOTOR": {
+          "Selama 2 minggu terakhir, adakah Anda merasa gerakan atau ucapan menjadi sangat lambat hingga orang lain menyadarinya, atau sebaliknya merasa gelisah sehingga lebih sering bergerak dari biasanya?": {
+            "response_text": "Pernah (jarang)",
+            "response_value": 1,
+            "response_time_ms": 12407,
+            "timing": {
+              "start": 110,
+              "end": 122,
+              "duration": 12
+            }
+          }
+        },
+        "SUICIDAL_IDEATION": {
+          "Dalam 2 minggu terakhir apakah Anda merasa lebih baik mati atau ingin melukai diri sendiri dengan cara apapun?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 24301,
+            "timing": {
+              "start": 123,
+              "end": 148,
+              "duration": 25
+            }
+          }
+        }
+      },
+      "analysis_stats": {
+        "status": "completed",
+        "total_images_processed": 129,
+        "images_with_faces_detected": 119,
+        "images_failed": 10,
+        "processing_time_seconds": 172.981037,
+        "avg_time_per_image_ms": 1010.8403361344538,
+        "summary_stats": {
+          "dominant_emotion": "Neutral",
+          "emotion_distribution": {
+            "Neutral": 118,
+            "Sadness": 1
+          },
+          "avg_au_activations": 0.96,
+          "most_active_aus": [
+            "au_4",
+            "au_1",
+            "au_2",
+            "au_17",
+            "au_15"
+          ],
+          "total_frames_analyzed": 119
+        },
+        "started_at": "2025-10-20T13:49:25.871481",
+        "completed_at": "2025-10-20T13:52:18.859676"
+      }
+    }
+  },
+  "llm_summary": {
+    "metadata": {
+      "type": "metadata",
+      "session_id": "2f8d8207-daf1-46a0-a83a-93aaa1b5ae6d",
+      "assessment_id": "9e545628-ba1b-496a-98c7-76f61020d829",
+      "assessment_type": "LLM",
+      "total_images": 719,
+      "started_at": "2025-10-20T13:50:16.364675"
+    },
+    "total_rows": 721,
+    "data_rows": 720,
+    "file_path": "user_259_chika_session1/llm_analysis.jsonl",
+    "extra": {
+      "analysis_stats": {
+        "status": "completed",
+        "total_images_processed": 719,
+        "images_with_faces_detected": 715,
+        "images_failed": 4,
+        "processing_time_seconds": 1112.861058,
+        "avg_time_per_image_ms": 1082.2321678321678,
+        "summary_stats": {
+          "dominant_emotion": "Neutral",
+          "emotion_distribution": {
+            "Neutral": 710,
+            "Happiness": 2,
+            "Sadness": 3
+          },
+          "avg_au_activations": 0.43,
+          "most_active_aus": [
+            "au_4",
+            "au_1",
+            "au_12",
+            "au_6",
+            "au_17"
+          ],
+          "total_frames_analyzed": 715
+        },
+        "started_at": "2025-10-20T13:50:16.362668",
+        "completed_at": "2025-10-20T14:08:49.242297"
+      }
+    }
   }
 }

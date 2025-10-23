@@ -1,18 +1,626 @@
 {
   "user_id": "user_124_Dzakyanggapatra",
   "session_id": "session1",
-  "llm_extraction": {
-    "key_themes": [
-      "error"
-    ],
-    "overall_sentiment": "error",
-    "risk_factors": [],
-    "insights": "LLM extraction failed: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable"
-  },
-  "processed_at": "2025-10-22T16:46:17.315710",
+  "processed_at": "2025-10-23T10:56:13.069440",
   "metadata": {
     "folder_name": "user_124_Dzakyanggapatra_session1",
     "data_path": "data/user_124_Dzakyanggapatra_session1/llm_conversation.json",
-    "formatted_conversation": "mahasiswa: baik\nsindi: Senang dengar kamu baik, akhir-akhir ini kamu masih menikmati hal-hal yang biasanya kamu suka lakukan nggak?\nmahasiswa: ya seperti bermain ps,bermain sepeda\nsindi: Wah seru tuh! Biasanya kamu ngerasa gimana setelah main sepeda atau main PS? Senang atau malah agak males?\nmahasiswa: senang malah lebih produktif keesokan harinya\nsindi: Wah, keren banget kalau kamu bisa merasa senang dan makin produktif, itu bagus banget! Tapi, kalau lagi nggak semangat, kamu biasanya masih bisa nemuin hal yang bikin kamu seneng nggak sih?\nmahasiswa: kadang iya kadang enggak\nsindi: Aku ngerti sih, kadang memang naik turun ya. Kalau lagi enggak semangat, apa yang biasanya kamu pikirin atau rasain?\nmahasiswa: kadang senang kadang sedih\nsindi: Wajar banget sih kalau perasaan bisa berubah-ubah kayak gitu, nggak perlu dipaksa buat selalu senang ya. Kalau lagi sedih, kamu biasanya mikirin hal-hal apa?\nmahasiswa: kayak banyak tugas sih tapi so far masi bisa di handle\nsindi: Wah, keren kamu masih bisa handle meskipun tugasnya banyak, itu nggak mudah loh! Kadang-kadang, pas banyak tugas, kamu pernah nggak ngerasa susah banget untuk konsentrasi atau mikirnya jadi lambat?\nmahasiswa: kadang kadang sih\nsindi: Aku paham, kadang susah banget ngejelasin pikiran yang lagi berputar-putar itu ya. Kalau kamu boleh cerita, biasanya pikiran itu berulang terus atau kadang bisa berhenti?\nmahasiswa: kadang berulang ulang sih\nsindi: Itu pasti capek ya, kalau pikiran terus berulang-ulang tanpa berhenti. Kalau kamu lagi ngerasa kayak gitu, kamu masih bisa ngomong atau gerak dengan biasa, atau terasa lambat?\nmahasiswa: masi bisa gerak dengan  biasa sih\nsindi: Bagus banget kalau kamu masih bisa gerak dan ngelakuin aktivitas seperti biasa, itu penting banget. Nah, biasanya kamu tidur cukup nggak? Atau ada gak gangguan tidur kayak susah tidur atau sering bangun malam?\nmahasiswa: kalo aku sih ganguan tidur enggak\nsindi: Syukurlah tidur kamu masih lancar, itu bagus banget. Kalau soal perasaan nih, kamu akhir-akhir ini pernah ngerasa gampang marah atau tersinggung nggak?\nmahasiswa: enggak sih sejauh ini\nsindi: Bagus ya kalau kamu masih merasa cukup stabil dan nggak gampang marah. Kadang-kadang juga, ada gak sih perasaan bersalah yang berlebihan atau ngerasa kurang berharga?\nmahasiswa: kadang kadang sih\nsindi: Aku ngerti, situasi kayak gitu pasti bikin kamu merasa nggak enak ya. Kalau masalah tidur, kamu biasanya bisa tidur nyenyak nggak? Atau kadang susah tidur atau bangun-bangun tengah malam?\nmahasiswa: kalau soal tidur aku gampang sih\nsindi: Alhamdulillah kalau tidurmu cukup dan lancar, itu penting banget buat jaga kesehatan. Nah, kalau lagi berinteraksi sama teman atau keluarga, kamu masih merasa nyaman atau kadang pengen menarik diri?\nmahasiswa: aku sih masih merasa nyaman tapi suatu waktu juga kandang kayak capek\nsindi: Wajar banget rasanya capek dan pengen sendiri sesekali, itu normal kok. Kalau lagi capek dan pengen sendiri, kamu biasanya merasa gampang marah atau tersinggung nggak?\nmahasiswa: enggak sih tapi paling suka kepikiran aja\nsindi: Pikiran yang terus datang emang bisa bikin capek juga ya, aku ngerti kok. Kalau kamu lagi mikirin sesuatu yang bikin kamu merasa bersalah atau nggak enak hati, itu sering terjadi nggak?\nmahasiswa: agak sih\nsindi: Aku ngerti kok, kadang perasaan kayak gitu bisa bikin berat ya. Kalau lagi ngerasa seperti itu, kamu biasanya mikirnya ke hal-hal apa? Apakah pikiran itu terus berulang atau kamu bisa alihkan?\nmahasiswa: aku bisa alihkan sih ke main ps\nsindi: Wah, keren kamu bisa alihkan pikiran negatif itu ke hal yang kamu suka kayak main PS, itu cara yang bagus banget! Kalau soal interaksi sosial, akhir-akhir ini kamu masih sering ketemu dan ngobrol sama teman-teman atau malah lebih suka menyendiri?\nmahasiswa: aku lebih suka ngobrol sama teman temanku sih\nsindi: Bagus banget kamu masih punya teman yang bisa diajak ngobrol, itu penting banget lho. Dari ngobrol sama teman, biasanya kamu merasa lebih lega atau malah kadang masih bingung?\nmahasiswa: lega sih\nsindi: Senang dengar kamu merasa lega saat ketemu teman-teman, itu penting banget buat jaga perasaan. Kadang-kadang, kamu pernah nggak sih merasa susah buat menikmati hal-hal yang biasanya kamu suka? Kayak, misalnya main sepeda atau main PS jadi nggak seru lagi?\nmahasiswa: iya kalo lagi bnayk tuga\nsindi: Wah, aku paham kok, pas tugas numpuk, hal yang biasanya seru jadi terasa kurang menyenangkan ya. Makasih banget ya udah mau cerita panjang lebar. Aku selalu ada buat dengerin kapanpun kamu butuh teman cerita, ya! </end_conversation>"
+    "formatted_conversation": "sindi: Halo aku Sindi, apakabar\nmahasiswa: baik\nsindi: Senang dengar kamu baik, akhir-akhir ini kamu masih menikmati hal-hal yang biasanya kamu suka lakukan nggak?\nmahasiswa: ya seperti bermain ps,bermain sepeda\nsindi: Wah seru tuh! Biasanya kamu ngerasa gimana setelah main sepeda atau main PS? Senang atau malah agak males?\nmahasiswa: senang malah lebih produktif keesokan harinya\nsindi: Wah, keren banget kalau kamu bisa merasa senang dan makin produktif, itu bagus banget! Tapi, kalau lagi nggak semangat, kamu biasanya masih bisa nemuin hal yang bikin kamu seneng nggak sih?\nmahasiswa: kadang iya kadang enggak\nsindi: Aku ngerti sih, kadang memang naik turun ya. Kalau lagi enggak semangat, apa yang biasanya kamu pikirin atau rasain?\nmahasiswa: kadang senang kadang sedih\nsindi: Wajar banget sih kalau perasaan bisa berubah-ubah kayak gitu, nggak perlu dipaksa buat selalu senang ya. Kalau lagi sedih, kamu biasanya mikirin hal-hal apa?\nmahasiswa: kayak banyak tugas sih tapi so far masi bisa di handle\nsindi: Wah, keren kamu masih bisa handle meskipun tugasnya banyak, itu nggak mudah loh! Kadang-kadang, pas banyak tugas, kamu pernah nggak ngerasa susah banget untuk konsentrasi atau mikirnya jadi lambat?\nmahasiswa: kadang kadang sih\nsindi: Aku paham, kadang susah banget ngejelasin pikiran yang lagi berputar-putar itu ya. Kalau kamu boleh cerita, biasanya pikiran itu berulang terus atau kadang bisa berhenti?\nmahasiswa: kadang berulang ulang sih\nsindi: Itu pasti capek ya, kalau pikiran terus berulang-ulang tanpa berhenti. Kalau kamu lagi ngerasa kayak gitu, kamu masih bisa ngomong atau gerak dengan biasa, atau terasa lambat?\nmahasiswa: masi bisa gerak dengan  biasa sih\nsindi: Bagus banget kalau kamu masih bisa gerak dan ngelakuin aktivitas seperti biasa, itu penting banget. Nah, biasanya kamu tidur cukup nggak? Atau ada gak gangguan tidur kayak susah tidur atau sering bangun malam?\nmahasiswa: kalo aku sih ganguan tidur enggak\nsindi: Syukurlah tidur kamu masih lancar, itu bagus banget. Kalau soal perasaan nih, kamu akhir-akhir ini pernah ngerasa gampang marah atau tersinggung nggak?\nmahasiswa: enggak sih sejauh ini\nsindi: Bagus ya kalau kamu masih merasa cukup stabil dan nggak gampang marah. Kadang-kadang juga, ada gak sih perasaan bersalah yang berlebihan atau ngerasa kurang berharga?\nmahasiswa: kadang kadang sih\nsindi: Aku ngerti, situasi kayak gitu pasti bikin kamu merasa nggak enak ya. Kalau masalah tidur, kamu biasanya bisa tidur nyenyak nggak? Atau kadang susah tidur atau bangun-bangun tengah malam?\nmahasiswa: kalau soal tidur aku gampang sih\nsindi: Alhamdulillah kalau tidurmu cukup dan lancar, itu penting banget buat jaga kesehatan. Nah, kalau lagi berinteraksi sama teman atau keluarga, kamu masih merasa nyaman atau kadang pengen menarik diri?\nmahasiswa: aku sih masih merasa nyaman tapi suatu waktu juga kandang kayak capek\nsindi: Wajar banget rasanya capek dan pengen sendiri sesekali, itu normal kok. Kalau lagi capek dan pengen sendiri, kamu biasanya merasa gampang marah atau tersinggung nggak?\nmahasiswa: enggak sih tapi paling suka kepikiran aja\nsindi: Pikiran yang terus datang emang bisa bikin capek juga ya, aku ngerti kok. Kalau kamu lagi mikirin sesuatu yang bikin kamu merasa bersalah atau nggak enak hati, itu sering terjadi nggak?\nmahasiswa: agak sih\nsindi: Aku ngerti kok, kadang perasaan kayak gitu bisa bikin berat ya. Kalau lagi ngerasa seperti itu, kamu biasanya mikirnya ke hal-hal apa? Apakah pikiran itu terus berulang atau kamu bisa alihkan?\nmahasiswa: aku bisa alihkan sih ke main ps\nsindi: Wah, keren kamu bisa alihkan pikiran negatif itu ke hal yang kamu suka kayak main PS, itu cara yang bagus banget! Kalau soal interaksi sosial, akhir-akhir ini kamu masih sering ketemu dan ngobrol sama teman-teman atau malah lebih suka menyendiri?\nmahasiswa: aku lebih suka ngobrol sama teman temanku sih\nsindi: Bagus banget kamu masih punya teman yang bisa diajak ngobrol, itu penting banget lho. Dari ngobrol sama teman, biasanya kamu merasa lebih lega atau malah kadang masih bingung?\nmahasiswa: lega sih\nsindi: Senang dengar kamu merasa lega saat ketemu teman-teman, itu penting banget buat jaga perasaan. Kadang-kadang, kamu pernah nggak sih merasa susah buat menikmati hal-hal yang biasanya kamu suka? Kayak, misalnya main sepeda atau main PS jadi nggak seru lagi?\nmahasiswa: iya kalo lagi bnayk tuga\nsindi: Wah, aku paham kok, pas tugas numpuk, hal yang biasanya seru jadi terasa kurang menyenangkan ya. Makasih banget ya udah mau cerita panjang lebar. Aku selalu ada buat dengerin kapanpun kamu butuh teman cerita, ya! </end_conversation>",
+    "raw_conversation": [
+      {
+        "turn_number": 1,
+        "user_message": "baik",
+        "ai_message": "Senang dengar kamu baik, akhir-akhir ini kamu masih menikmati hal-hal yang biasanya kamu suka lakukan nggak?",
+        "user_message_length": 4,
+        "user_timing": {
+          "start": 6,
+          "end": 9,
+          "duration": 3
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 2,
+        "user_message": "ya seperti bermain ps,bermain sepeda",
+        "ai_message": "Wah seru tuh! Biasanya kamu ngerasa gimana setelah main sepeda atau main PS? Senang atau malah agak males?",
+        "user_message_length": 36,
+        "user_timing": {
+          "start": 18,
+          "end": 54,
+          "duration": 36
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 3,
+        "user_message": "senang malah lebih produktif keesokan harinya",
+        "ai_message": "Wah, keren banget kalau kamu bisa merasa senang dan makin produktif, itu bagus banget! Tapi, kalau lagi nggak semangat, kamu biasanya masih bisa nemuin hal yang bikin kamu seneng nggak sih?",
+        "user_message_length": 45,
+        "user_timing": {
+          "start": 59,
+          "end": 82,
+          "duration": 23
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 4,
+        "user_message": "kadang iya kadang enggak",
+        "ai_message": "Aku ngerti sih, kadang memang naik turun ya. Kalau lagi enggak semangat, apa yang biasanya kamu pikirin atau rasain?",
+        "user_message_length": 24,
+        "user_timing": {
+          "start": 94,
+          "end": 135,
+          "duration": 41
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 5,
+        "user_message": "kadang senang kadang sedih",
+        "ai_message": "Wajar banget sih kalau perasaan bisa berubah-ubah kayak gitu, nggak perlu dipaksa buat selalu senang ya. Kalau lagi sedih, kamu biasanya mikirin hal-hal apa?",
+        "user_message_length": 26,
+        "user_timing": {
+          "start": 147,
+          "end": 157,
+          "duration": 10
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 6,
+        "user_message": "kayak banyak tugas sih tapi so far masi bisa di handle",
+        "ai_message": "Wah, keren kamu masih bisa handle meskipun tugasnya banyak, itu nggak mudah loh! Kadang-kadang, pas banyak tugas, kamu pernah nggak ngerasa susah banget untuk konsentrasi atau mikirnya jadi lambat?",
+        "user_message_length": 54,
+        "user_timing": {
+          "start": 163,
+          "end": 178,
+          "duration": 15
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 7,
+        "user_message": "kadang kadang sih",
+        "ai_message": "Aku paham, kadang susah banget ngejelasin pikiran yang lagi berputar-putar itu ya. Kalau kamu boleh cerita, biasanya pikiran itu berulang terus atau kadang bisa berhenti?",
+        "user_message_length": 17,
+        "user_timing": {
+          "start": 209,
+          "end": 215,
+          "duration": 6
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 8,
+        "user_message": "kadang berulang ulang sih",
+        "ai_message": "Itu pasti capek ya, kalau pikiran terus berulang-ulang tanpa berhenti. Kalau kamu lagi ngerasa kayak gitu, kamu masih bisa ngomong atau gerak dengan biasa, atau terasa lambat?",
+        "user_message_length": 25,
+        "user_timing": {
+          "start": 246,
+          "end": 251,
+          "duration": 5
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 9,
+        "user_message": "masi bisa gerak dengan  biasa sih",
+        "ai_message": "Bagus banget kalau kamu masih bisa gerak dan ngelakuin aktivitas seperti biasa, itu penting banget. Nah, biasanya kamu tidur cukup nggak? Atau ada gak gangguan tidur kayak susah tidur atau sering bangun malam?",
+        "user_message_length": 33,
+        "user_timing": {
+          "start": 261,
+          "end": 273,
+          "duration": 12
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 10,
+        "user_message": "kalo aku sih ganguan tidur enggak",
+        "ai_message": "Syukurlah tidur kamu masih lancar, itu bagus banget. Kalau soal perasaan nih, kamu akhir-akhir ini pernah ngerasa gampang marah atau tersinggung nggak?",
+        "user_message_length": 33,
+        "user_timing": {
+          "start": 286,
+          "end": 303,
+          "duration": 17
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 11,
+        "user_message": "enggak sih sejauh ini",
+        "ai_message": "Bagus ya kalau kamu masih merasa cukup stabil dan nggak gampang marah. Kadang-kadang juga, ada gak sih perasaan bersalah yang berlebihan atau ngerasa kurang berharga?",
+        "user_message_length": 21,
+        "user_timing": {
+          "start": 318,
+          "end": 323,
+          "duration": 5
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 12,
+        "user_message": "kadang kadang sih",
+        "ai_message": "Aku ngerti, situasi kayak gitu pasti bikin kamu merasa nggak enak ya. Kalau masalah tidur, kamu biasanya bisa tidur nyenyak nggak? Atau kadang susah tidur atau bangun-bangun tengah malam?",
+        "user_message_length": 17,
+        "user_timing": {
+          "start": 333,
+          "end": 337,
+          "duration": 4
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 13,
+        "user_message": "kalau soal tidur aku gampang sih",
+        "ai_message": "Alhamdulillah kalau tidurmu cukup dan lancar, itu penting banget buat jaga kesehatan. Nah, kalau lagi berinteraksi sama teman atau keluarga, kamu masih merasa nyaman atau kadang pengen menarik diri?",
+        "user_message_length": 32,
+        "user_timing": {
+          "start": 348,
+          "end": 355,
+          "duration": 7
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 14,
+        "user_message": "aku sih masih merasa nyaman tapi suatu waktu juga kandang kayak capek",
+        "ai_message": "Wajar banget rasanya capek dan pengen sendiri sesekali, itu normal kok. Kalau lagi capek dan pengen sendiri, kamu biasanya merasa gampang marah atau tersinggung nggak?",
+        "user_message_length": 69,
+        "user_timing": {
+          "start": 363,
+          "end": 381,
+          "duration": 18
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 15,
+        "user_message": "enggak sih tapi paling suka kepikiran aja",
+        "ai_message": "Pikiran yang terus datang emang bisa bikin capek juga ya, aku ngerti kok. Kalau kamu lagi mikirin sesuatu yang bikin kamu merasa bersalah atau nggak enak hati, itu sering terjadi nggak?",
+        "user_message_length": 41,
+        "user_timing": {
+          "start": 409,
+          "end": 421,
+          "duration": 12
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 16,
+        "user_message": "agak sih",
+        "ai_message": "Aku ngerti kok, kadang perasaan kayak gitu bisa bikin berat ya. Kalau lagi ngerasa seperti itu, kamu biasanya mikirnya ke hal-hal apa? Apakah pikiran itu terus berulang atau kamu bisa alihkan?",
+        "user_message_length": 8,
+        "user_timing": {
+          "start": 440,
+          "end": 442,
+          "duration": 2
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 17,
+        "user_message": "aku bisa alihkan sih ke main ps",
+        "ai_message": "Wah, keren kamu bisa alihkan pikiran negatif itu ke hal yang kamu suka kayak main PS, itu cara yang bagus banget! Kalau soal interaksi sosial, akhir-akhir ini kamu masih sering ketemu dan ngobrol sama teman-teman atau malah lebih suka menyendiri?",
+        "user_message_length": 31,
+        "user_timing": {
+          "start": 455,
+          "end": 463,
+          "duration": 8
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 18,
+        "user_message": "aku lebih suka ngobrol sama teman temanku sih",
+        "ai_message": "Bagus banget kamu masih punya teman yang bisa diajak ngobrol, itu penting banget lho. Dari ngobrol sama teman, biasanya kamu merasa lebih lega atau malah kadang masih bingung?",
+        "user_message_length": 45,
+        "user_timing": {
+          "start": 472,
+          "end": 483,
+          "duration": 11
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 19,
+        "user_message": "lega sih",
+        "ai_message": "Senang dengar kamu merasa lega saat ketemu teman-teman, itu penting banget buat jaga perasaan. Kadang-kadang, kamu pernah nggak sih merasa susah buat menikmati hal-hal yang biasanya kamu suka? Kayak, misalnya main sepeda atau main PS jadi nggak seru lagi?",
+        "user_message_length": 8,
+        "user_timing": {
+          "start": 490,
+          "end": 495,
+          "duration": 5
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 20,
+        "user_message": "iya kalo lagi bnayk tuga",
+        "ai_message": "Wah, aku paham kok, pas tugas numpuk, hal yang biasanya seru jadi terasa kurang menyenangkan ya. Makasih banget ya udah mau cerita panjang lebar. Aku selalu ada buat dengerin kapanpun kamu butuh teman cerita, ya! </end_conversation>",
+        "user_message_length": 24,
+        "user_timing": {
+          "start": 539,
+          "end": 544,
+          "duration": 5
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": true,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      }
+    ],
+    "session_metadata": {
+      "phq_analysis": {
+        "status": "completed",
+        "total_images_processed": 69,
+        "images_with_faces_detected": 69,
+        "images_failed": 0,
+        "processing_time_seconds": 90.992911,
+        "avg_time_per_image_ms": 921.2898550724638,
+        "summary_stats": {
+          "dominant_emotion": "Neutral",
+          "emotion_distribution": {
+            "Neutral": 54,
+            "Happiness": 15
+          },
+          "avg_au_activations": 0.04,
+          "most_active_aus": [
+            "au_17",
+            "au_6",
+            "au_12"
+          ],
+          "total_frames_analyzed": 69
+        },
+        "started_at": "2025-10-20T10:58:25.375298",
+        "completed_at": "2025-10-20T10:59:56.373688"
+      },
+      "llm_analysis": {
+        "status": "completed",
+        "total_images_processed": 544,
+        "images_with_faces_detected": 495,
+        "images_failed": 49,
+        "processing_time_seconds": 715.768475,
+        "avg_time_per_image_ms": 922.7373737373738,
+        "summary_stats": {
+          "dominant_emotion": "Neutral",
+          "emotion_distribution": {
+            "Happiness": 129,
+            "Neutral": 359,
+            "Surprise": 5,
+            "Anger": 1,
+            "Sadness": 1
+          },
+          "avg_au_activations": 0.37,
+          "most_active_aus": [
+            "au_12",
+            "au_17",
+            "au_6",
+            "au_1",
+            "au_2"
+          ],
+          "total_frames_analyzed": 495
+        },
+        "started_at": "2025-10-20T10:58:43.180969",
+        "completed_at": "2025-10-20T11:10:38.959577"
+      }
+    },
+    "phq_analysis_file": "user_124_Dzakyanggapatra_session1/phq_analysis.jsonl",
+    "llm_analysis_file": "user_124_Dzakyanggapatra_session1/llm_analysis.jsonl",
+    "phq_responses_file": "user_124_Dzakyanggapatra_session1/phq_responses.json",
+    "session_metadata_file": "user_124_Dzakyanggapatra_session1/metadata.json"
+  },
+  "phq_summary": {
+    "metadata": {
+      "type": "metadata",
+      "session_id": "667dfc2a-adc5-422f-99ed-4c71713c8750",
+      "assessment_id": "4ed247e8-d394-411e-887c-9952bac98e9d",
+      "assessment_type": "PHQ",
+      "total_images": 69,
+      "started_at": "2025-10-20T10:58:25.377358"
+    },
+    "total_rows": 71,
+    "data_rows": 70,
+    "file_path": "user_124_Dzakyanggapatra_session1/phq_analysis.jsonl",
+    "extra": {
+      "total_score": 5,
+      "max_possible_score": 27,
+      "responses": {
+        "ANHEDONIA": {
+          "Dalam 2 minggu terakhir apakah Anda merasa kurang tertarik atau bergairah dalam melakukan apapun?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 9422,
+            "timing": {
+              "start": 0,
+              "end": 9,
+              "duration": 9
+            }
+          }
+        },
+        "DEPRESSED_MOOD": {
+          "Dalam 2 minggu terakhir apakah Anda merasa murung, muram, atau putus asa?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 7803,
+            "timing": {
+              "start": 17,
+              "end": 25,
+              "duration": 8
+            }
+          }
+        },
+        "SLEEP_DISTURBANCE": {
+          "Selama 2 minggu terakhir, apakah Anda mengalami kesulitan untuk tidur nyenyak, sering terbangun di malam hari, atau justru tidur berlebihan?": {
+            "response_text": "Pernah (jarang)",
+            "response_value": 1,
+            "response_time_ms": 5528,
+            "timing": {
+              "start": 26,
+              "end": 31,
+              "duration": 5
+            }
+          }
+        },
+        "FATIGUE": {
+          "Dalam rentang 2 minggu terakhir, apakah tubuh Anda sering terasa lelah atau tidak berenergi?": {
+            "response_text": "Beberapa kali (cukup sering)",
+            "response_value": 2,
+            "response_time_ms": 4964,
+            "timing": {
+              "start": 33,
+              "end": 38,
+              "duration": 5
+            }
+          }
+        },
+        "APPETITE_CHANGES": {
+          "Dalam 2 minggu terakhir apakah Anda merasa kurang nafsu makan atau terlalu banyak makan?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 2816,
+            "timing": {
+              "start": 39,
+              "end": 42,
+              "duration": 3
+            }
+          }
+        },
+        "WORTHLESSNESS": {
+          "Dalam rentang 2 minggu terakhir, apakah muncul perasaan rendah diri, keyakinan bahwa Anda gagal, atau pikiran telah mengecewakan diri sendiri serta keluarga?": {
+            "response_text": "Pernah (jarang)",
+            "response_value": 1,
+            "response_time_ms": 5272,
+            "timing": {
+              "start": 44,
+              "end": 50,
+              "duration": 6
+            }
+          }
+        },
+        "CONCENTRATION": {
+          "Selama 2 minggu terakhir, adakah Anda mengalami kesulitan untuk memusatkan perhatian pada kegiatan, misalnya membaca berita atau menonton tayangan media?": {
+            "response_text": "Pernah (jarang)",
+            "response_value": 1,
+            "response_time_ms": 8508,
+            "timing": {
+              "start": 51,
+              "end": 60,
+              "duration": 9
+            }
+          }
+        },
+        "PSYCHOMOTOR": {
+          "Dalam 2 minggu terakhir apakah Anda merasa bergerak atau berbicara sangat lambat sehingga orang lain memperhatikannya. Atau sebaliknya merasa resah atau gelisah sehingga Anda lebih sering bergerak dari biasanya?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 4598,
+            "timing": {
+              "start": 61,
+              "end": 65,
+              "duration": 4
+            }
+          }
+        },
+        "SUICIDAL_IDEATION": {
+          "Dalam 2 minggu terakhir apakah Anda merasa lebih baik mati atau ingin melukai diri sendiri dengan cara apapun?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 4416,
+            "timing": {
+              "start": 67,
+              "end": 71,
+              "duration": 4
+            }
+          }
+        }
+      },
+      "analysis_stats": {
+        "status": "completed",
+        "total_images_processed": 69,
+        "images_with_faces_detected": 69,
+        "images_failed": 0,
+        "processing_time_seconds": 90.992911,
+        "avg_time_per_image_ms": 921.2898550724638,
+        "summary_stats": {
+          "dominant_emotion": "Neutral",
+          "emotion_distribution": {
+            "Neutral": 54,
+            "Happiness": 15
+          },
+          "avg_au_activations": 0.04,
+          "most_active_aus": [
+            "au_17",
+            "au_6",
+            "au_12"
+          ],
+          "total_frames_analyzed": 69
+        },
+        "started_at": "2025-10-20T10:58:25.375298",
+        "completed_at": "2025-10-20T10:59:56.373688"
+      }
+    }
+  },
+  "llm_summary": {
+    "metadata": {
+      "type": "metadata",
+      "session_id": "667dfc2a-adc5-422f-99ed-4c71713c8750",
+      "assessment_id": "c573b8de-802f-4171-b968-24e37ef47ce6",
+      "assessment_type": "LLM",
+      "total_images": 544,
+      "started_at": "2025-10-20T10:58:43.182113"
+    },
+    "total_rows": 546,
+    "data_rows": 545,
+    "file_path": "user_124_Dzakyanggapatra_session1/llm_analysis.jsonl",
+    "extra": {
+      "analysis_stats": {
+        "status": "completed",
+        "total_images_processed": 544,
+        "images_with_faces_detected": 495,
+        "images_failed": 49,
+        "processing_time_seconds": 715.768475,
+        "avg_time_per_image_ms": 922.7373737373738,
+        "summary_stats": {
+          "dominant_emotion": "Neutral",
+          "emotion_distribution": {
+            "Happiness": 129,
+            "Neutral": 359,
+            "Surprise": 5,
+            "Anger": 1,
+            "Sadness": 1
+          },
+          "avg_au_activations": 0.37,
+          "most_active_aus": [
+            "au_12",
+            "au_17",
+            "au_6",
+            "au_1",
+            "au_2"
+          ],
+          "total_frames_analyzed": 495
+        },
+        "started_at": "2025-10-20T10:58:43.180969",
+        "completed_at": "2025-10-20T11:10:38.959577"
+      }
+    }
   }
 }

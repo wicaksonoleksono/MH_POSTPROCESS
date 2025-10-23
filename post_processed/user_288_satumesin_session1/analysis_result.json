@@ -1,18 +1,420 @@
 {
   "user_id": "user_288_satumesin",
   "session_id": "session1",
-  "llm_extraction": {
-    "key_themes": [
-      "error"
-    ],
-    "overall_sentiment": "error",
-    "risk_factors": [],
-    "insights": "LLM extraction failed: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable"
-  },
-  "processed_at": "2025-10-22T16:46:17.371954",
+  "processed_at": "2025-10-23T10:56:14.816148",
   "metadata": {
     "folder_name": "user_288_satumesin_session1",
     "data_path": "data/user_288_satumesin_session1/llm_conversation.json",
-    "formatted_conversation": "mahasiswa: baik\nsindi: Senang dengar kamu baik-baik saja 😊. Jadi, aku pengen ngobrol sedikit nih soal teman kamu, mungkin belakangan ini dia kayaknya lagi enggak seperti biasanya. Menurut kamu, dalam dua pekan terakhir ini, ada nggak sih teman kamu yang jadi kehilangan minat atau kesenangan dalam hal-hal yang biasanya dia suka? Misalnya, hobi atau aktivitas sehari-hari yang biasanya bikin dia semangat sekarang jadi terasa hambar?\nmahasiswa: sepertinya tidak ada\nsindi: Oh, bagus banget kalau teman kamu masih bisa menikmati hal-hal yang dia suka ya! Itu tanda positif banget tuh 😊. Nah, terus bagaimana dengan suasana hatinya? Apakah dalam dua minggu terakhir ini teman kamu terlihat atau cerita kalau dia sering merasa sedih atau mood-nya sedang tertekan hampir sepanjang hari?\nmahasiswa: sepertinya tidak ada\nsindi: Wah, teman kamu kayaknya cukup stabil ya mood-nya, itu juga hal yang bagus 😊. Kalau begitu, mungkin aku tanya soal perubahan berat badan atau nafsu makan dulu ya. Apakah kamu melihat ada perubahan yang cukup signifikan dalam pola makan atau berat badan teman kamu selama dua minggu terakhir ini? Misalnya, dia jadi makan lebih sedikit atau malah lebih banyak dari biasanya?\nmahasiswa: sepertinya tidak ada\nsindi: Baik, teman kamu terlihat cukup stabil dari sisi nafsu makan dan berat badan juga ya, itu bagus 😊. Terus, gimana dengan tidurnya? Selama dua pekan terakhir, teman kamu ada keluhan susah tidur, sering terbangun, atau malah tidur terus-menerus (hipersomnia)? Atau tidurnya masih teratur seperti biasanya?\nmahasiswa: sepertinya tidak ada\nsindi: Wah, teman kamu tampaknya cukup terjaga pola tidurnya, itu sangat penting untuk keseharian dan kesehatan mentalnya 😊. Nah, coba kamu perhatiin nggak sih, selama dua minggu terakhir ini, teman kamu terlihat lebih lambat gerakannya atau pembicaraannya, atau justru terlihat lebih gelisah dan susah duduk diam? Apa ada yang bilang kalau ritme dia agak berubah dari biasanya?\nmahasiswa: sepertinya tidak ada\nsindi: Kalau begitu, itu tandanya teman kamu masih kelihatan cukup stabil dari segi gerakan dan perilaku ya, bagus banget tuh 😊. Lanjut ya, gimana dengan energinya? Apakah teman kamu sering merasa cepat lelah atau kehilangan energi hampir setiap hari selama dua pekan terakhir ini? Atau energinya masih seperti biasa?\nmahasiswa: temanku baik baik saja\nsindi: Senang dengar teman kamu baik-baik saja selama ini, itu benar-benar hal yang positif 😊. Kalau boleh tahu, apakah teman kamu pernah cerita atau kamu perhatiin kalau dia merasa tidak berharga atau merasa bersalah secara berlebihan dalam dua minggu terakhir? Mungkin ada kejadian atau pikiran tertentu yang bikin dia merasa begitu?\nmahasiswa: belum ada\nsindi: Oke, bagus kalau teman kamu belum merasakan hal itu ya. Itu pertanda dia cukup kuat menghadapi situasi yang ada 😊. Terus, gimana dengan kemampuan konsentrasinya? Apakah teman kamu sempat bilang atau kamu perhatiin kalau dia kesulitan fokus, mudah terganggu, atau susah membuat keputusan dalam dua minggu terakhir?\nmahasiswa: tidak ada\nsindi: Wah, teman kamu terlihat cukup baik-baik saja dari segi fokus dan pengambilan keputusan, itu juga hal yang positif 😊. Terakhir nih, apakah selama dua minggu terakhir ini teman kamu pernah menunjukkan atau mengungkapkan pikiran tentang kematian atau bunuh diri? Atau ada tanda-tanda yang bikin kamu khawatir soal itu?\nmahasiswa: untungnya tidak ada\nsindi: Syukurlah ya, itu memang hal yang sangat penting untuk selalu diperhatikan dan dijaga 😊. Dari obrolan kita ini, teman kamu tampaknya cukup stabil dan nggak menunjukkan gejala-gejala depresi yang berat selama dua pekan terakhir.\n\nKalau boleh tahu, ada nggak hal lain yang kamu perhatikan atau pengen kamu ceritain tentang teman kamu? Atau kamu merasa ada yang perlu kamu tambahkan?\nmahasiswa: belum ada\nsindi: Terima kasih sudah berbagi cerita sejauh ini ya 😊. Kalau nanti kamu ada hal yang ingin kamu ceritain lagi atau butuh teman buat curhat, aku selalu siap dengerin kok. Apakah kamu sudah merasa cukup dengan pembicaraan kita hari ini, atau ada yang ingin kamu tanyakan atau tambahkan?\nmahasiswa: sudah cuku[\nsindi: Oke, aku senang bisa ngobrol dan bantu kamu hari ini. Semoga kondisi teman kamu tetap baik-baik saja ya. Jangan ragu buat cerita atau curhat kapan pun kamu butuh, aku selalu ada di sini untuk kamu. Jaga kesehatan juga, ya! 😊</end_conversation>"
+    "formatted_conversation": "sindi: Halo aku Sindi, apakabar\nmahasiswa: baik\nsindi: Senang dengar kamu baik-baik saja 😊. Jadi, aku pengen ngobrol sedikit nih soal teman kamu, mungkin belakangan ini dia kayaknya lagi enggak seperti biasanya. Menurut kamu, dalam dua pekan terakhir ini, ada nggak sih teman kamu yang jadi kehilangan minat atau kesenangan dalam hal-hal yang biasanya dia suka? Misalnya, hobi atau aktivitas sehari-hari yang biasanya bikin dia semangat sekarang jadi terasa hambar?\nmahasiswa: sepertinya tidak ada\nsindi: Oh, bagus banget kalau teman kamu masih bisa menikmati hal-hal yang dia suka ya! Itu tanda positif banget tuh 😊. Nah, terus bagaimana dengan suasana hatinya? Apakah dalam dua minggu terakhir ini teman kamu terlihat atau cerita kalau dia sering merasa sedih atau mood-nya sedang tertekan hampir sepanjang hari?\nmahasiswa: sepertinya tidak ada\nsindi: Wah, teman kamu kayaknya cukup stabil ya mood-nya, itu juga hal yang bagus 😊. Kalau begitu, mungkin aku tanya soal perubahan berat badan atau nafsu makan dulu ya. Apakah kamu melihat ada perubahan yang cukup signifikan dalam pola makan atau berat badan teman kamu selama dua minggu terakhir ini? Misalnya, dia jadi makan lebih sedikit atau malah lebih banyak dari biasanya?\nmahasiswa: sepertinya tidak ada\nsindi: Baik, teman kamu terlihat cukup stabil dari sisi nafsu makan dan berat badan juga ya, itu bagus 😊. Terus, gimana dengan tidurnya? Selama dua pekan terakhir, teman kamu ada keluhan susah tidur, sering terbangun, atau malah tidur terus-menerus (hipersomnia)? Atau tidurnya masih teratur seperti biasanya?\nmahasiswa: sepertinya tidak ada\nsindi: Wah, teman kamu tampaknya cukup terjaga pola tidurnya, itu sangat penting untuk keseharian dan kesehatan mentalnya 😊. Nah, coba kamu perhatiin nggak sih, selama dua minggu terakhir ini, teman kamu terlihat lebih lambat gerakannya atau pembicaraannya, atau justru terlihat lebih gelisah dan susah duduk diam? Apa ada yang bilang kalau ritme dia agak berubah dari biasanya?\nmahasiswa: sepertinya tidak ada\nsindi: Kalau begitu, itu tandanya teman kamu masih kelihatan cukup stabil dari segi gerakan dan perilaku ya, bagus banget tuh 😊. Lanjut ya, gimana dengan energinya? Apakah teman kamu sering merasa cepat lelah atau kehilangan energi hampir setiap hari selama dua pekan terakhir ini? Atau energinya masih seperti biasa?\nmahasiswa: temanku baik baik saja\nsindi: Senang dengar teman kamu baik-baik saja selama ini, itu benar-benar hal yang positif 😊. Kalau boleh tahu, apakah teman kamu pernah cerita atau kamu perhatiin kalau dia merasa tidak berharga atau merasa bersalah secara berlebihan dalam dua minggu terakhir? Mungkin ada kejadian atau pikiran tertentu yang bikin dia merasa begitu?\nmahasiswa: belum ada\nsindi: Oke, bagus kalau teman kamu belum merasakan hal itu ya. Itu pertanda dia cukup kuat menghadapi situasi yang ada 😊. Terus, gimana dengan kemampuan konsentrasinya? Apakah teman kamu sempat bilang atau kamu perhatiin kalau dia kesulitan fokus, mudah terganggu, atau susah membuat keputusan dalam dua minggu terakhir?\nmahasiswa: tidak ada\nsindi: Wah, teman kamu terlihat cukup baik-baik saja dari segi fokus dan pengambilan keputusan, itu juga hal yang positif 😊. Terakhir nih, apakah selama dua minggu terakhir ini teman kamu pernah menunjukkan atau mengungkapkan pikiran tentang kematian atau bunuh diri? Atau ada tanda-tanda yang bikin kamu khawatir soal itu?\nmahasiswa: untungnya tidak ada\nsindi: Syukurlah ya, itu memang hal yang sangat penting untuk selalu diperhatikan dan dijaga 😊. Dari obrolan kita ini, teman kamu tampaknya cukup stabil dan nggak menunjukkan gejala-gejala depresi yang berat selama dua pekan terakhir.\n\nKalau boleh tahu, ada nggak hal lain yang kamu perhatikan atau pengen kamu ceritain tentang teman kamu? Atau kamu merasa ada yang perlu kamu tambahkan?\nmahasiswa: belum ada\nsindi: Terima kasih sudah berbagi cerita sejauh ini ya 😊. Kalau nanti kamu ada hal yang ingin kamu ceritain lagi atau butuh teman buat curhat, aku selalu siap dengerin kok. Apakah kamu sudah merasa cukup dengan pembicaraan kita hari ini, atau ada yang ingin kamu tanyakan atau tambahkan?\nmahasiswa: sudah cuku[\nsindi: Oke, aku senang bisa ngobrol dan bantu kamu hari ini. Semoga kondisi teman kamu tetap baik-baik saja ya. Jangan ragu buat cerita atau curhat kapan pun kamu butuh, aku selalu ada di sini untuk kamu. Jaga kesehatan juga, ya! 😊</end_conversation>",
+    "raw_conversation": [
+      {
+        "turn_number": 1,
+        "user_message": "baik",
+        "ai_message": "Senang dengar kamu baik-baik saja 😊. Jadi, aku pengen ngobrol sedikit nih soal teman kamu, mungkin belakangan ini dia kayaknya lagi enggak seperti biasanya. Menurut kamu, dalam dua pekan terakhir ini, ada nggak sih teman kamu yang jadi kehilangan minat atau kesenangan dalam hal-hal yang biasanya dia suka? Misalnya, hobi atau aktivitas sehari-hari yang biasanya bikin dia semangat sekarang jadi terasa hambar?",
+        "user_message_length": 4,
+        "user_timing": {
+          "start": 6,
+          "end": 6,
+          "duration": 0
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 2,
+        "user_message": "sepertinya tidak ada",
+        "ai_message": "Oh, bagus banget kalau teman kamu masih bisa menikmati hal-hal yang dia suka ya! Itu tanda positif banget tuh 😊. Nah, terus bagaimana dengan suasana hatinya? Apakah dalam dua minggu terakhir ini teman kamu terlihat atau cerita kalau dia sering merasa sedih atau mood-nya sedang tertekan hampir sepanjang hari?",
+        "user_message_length": 20,
+        "user_timing": {
+          "start": 24,
+          "end": 27,
+          "duration": 3
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 3,
+        "user_message": "sepertinya tidak ada",
+        "ai_message": "Wah, teman kamu kayaknya cukup stabil ya mood-nya, itu juga hal yang bagus 😊. Kalau begitu, mungkin aku tanya soal perubahan berat badan atau nafsu makan dulu ya. Apakah kamu melihat ada perubahan yang cukup signifikan dalam pola makan atau berat badan teman kamu selama dua minggu terakhir ini? Misalnya, dia jadi makan lebih sedikit atau malah lebih banyak dari biasanya?",
+        "user_message_length": 20,
+        "user_timing": {
+          "start": 42,
+          "end": 46,
+          "duration": 4
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 4,
+        "user_message": "sepertinya tidak ada",
+        "ai_message": "Baik, teman kamu terlihat cukup stabil dari sisi nafsu makan dan berat badan juga ya, itu bagus 😊. Terus, gimana dengan tidurnya? Selama dua pekan terakhir, teman kamu ada keluhan susah tidur, sering terbangun, atau malah tidur terus-menerus (hipersomnia)? Atau tidurnya masih teratur seperti biasanya?",
+        "user_message_length": 20,
+        "user_timing": {
+          "start": 60,
+          "end": 64,
+          "duration": 4
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 5,
+        "user_message": "sepertinya tidak ada",
+        "ai_message": "Wah, teman kamu tampaknya cukup terjaga pola tidurnya, itu sangat penting untuk keseharian dan kesehatan mentalnya 😊. Nah, coba kamu perhatiin nggak sih, selama dua minggu terakhir ini, teman kamu terlihat lebih lambat gerakannya atau pembicaraannya, atau justru terlihat lebih gelisah dan susah duduk diam? Apa ada yang bilang kalau ritme dia agak berubah dari biasanya?",
+        "user_message_length": 20,
+        "user_timing": {
+          "start": 70,
+          "end": 74,
+          "duration": 4
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 6,
+        "user_message": "sepertinya tidak ada",
+        "ai_message": "Kalau begitu, itu tandanya teman kamu masih kelihatan cukup stabil dari segi gerakan dan perilaku ya, bagus banget tuh 😊. Lanjut ya, gimana dengan energinya? Apakah teman kamu sering merasa cepat lelah atau kehilangan energi hampir setiap hari selama dua pekan terakhir ini? Atau energinya masih seperti biasa?",
+        "user_message_length": 20,
+        "user_timing": {
+          "start": 87,
+          "end": 90,
+          "duration": 3
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 7,
+        "user_message": "temanku baik baik saja",
+        "ai_message": "Senang dengar teman kamu baik-baik saja selama ini, itu benar-benar hal yang positif 😊. Kalau boleh tahu, apakah teman kamu pernah cerita atau kamu perhatiin kalau dia merasa tidak berharga atau merasa bersalah secara berlebihan dalam dua minggu terakhir? Mungkin ada kejadian atau pikiran tertentu yang bikin dia merasa begitu?",
+        "user_message_length": 22,
+        "user_timing": {
+          "start": 102,
+          "end": 111,
+          "duration": 9
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 8,
+        "user_message": "belum ada",
+        "ai_message": "Oke, bagus kalau teman kamu belum merasakan hal itu ya. Itu pertanda dia cukup kuat menghadapi situasi yang ada 😊. Terus, gimana dengan kemampuan konsentrasinya? Apakah teman kamu sempat bilang atau kamu perhatiin kalau dia kesulitan fokus, mudah terganggu, atau susah membuat keputusan dalam dua minggu terakhir?",
+        "user_message_length": 9,
+        "user_timing": {
+          "start": 127,
+          "end": 134,
+          "duration": 7
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 9,
+        "user_message": "tidak ada",
+        "ai_message": "Wah, teman kamu terlihat cukup baik-baik saja dari segi fokus dan pengambilan keputusan, itu juga hal yang positif 😊. Terakhir nih, apakah selama dua minggu terakhir ini teman kamu pernah menunjukkan atau mengungkapkan pikiran tentang kematian atau bunuh diri? Atau ada tanda-tanda yang bikin kamu khawatir soal itu?",
+        "user_message_length": 9,
+        "user_timing": {
+          "start": 629,
+          "end": 630,
+          "duration": 1
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 10,
+        "user_message": "untungnya tidak ada",
+        "ai_message": "Syukurlah ya, itu memang hal yang sangat penting untuk selalu diperhatikan dan dijaga 😊. Dari obrolan kita ini, teman kamu tampaknya cukup stabil dan nggak menunjukkan gejala-gejala depresi yang berat selama dua pekan terakhir.\n\nKalau boleh tahu, ada nggak hal lain yang kamu perhatikan atau pengen kamu ceritain tentang teman kamu? Atau kamu merasa ada yang perlu kamu tambahkan?",
+        "user_message_length": 19,
+        "user_timing": {
+          "start": 640,
+          "end": 643,
+          "duration": 3
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 11,
+        "user_message": "belum ada",
+        "ai_message": "Terima kasih sudah berbagi cerita sejauh ini ya 😊. Kalau nanti kamu ada hal yang ingin kamu ceritain lagi atau butuh teman buat curhat, aku selalu siap dengerin kok. Apakah kamu sudah merasa cukup dengan pembicaraan kita hari ini, atau ada yang ingin kamu tanyakan atau tambahkan?",
+        "user_message_length": 9,
+        "user_timing": {
+          "start": 652,
+          "end": 653,
+          "duration": 1
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 12,
+        "user_message": "sudah cuku[",
+        "ai_message": "Oke, aku senang bisa ngobrol dan bantu kamu hari ini. Semoga kondisi teman kamu tetap baik-baik saja ya. Jangan ragu buat cerita atau curhat kapan pun kamu butuh, aku selalu ada di sini untuk kamu. Jaga kesehatan juga, ya! 😊</end_conversation>",
+        "user_message_length": 11,
+        "user_timing": {
+          "start": 660,
+          "end": 663,
+          "duration": 3
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": true,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      }
+    ],
+    "session_metadata": {
+      "phq_analysis": {
+        "status": "completed",
+        "total_images_processed": 49,
+        "images_with_faces_detected": 0,
+        "images_failed": 49,
+        "processing_time_seconds": 16.823552,
+        "avg_time_per_image_ms": 0.0,
+        "summary_stats": {},
+        "started_at": "2025-10-20T14:51:56.114772",
+        "completed_at": "2025-10-20T14:52:12.943072"
+      },
+      "llm_analysis": {
+        "status": "completed",
+        "total_images_processed": 663,
+        "images_with_faces_detected": 0,
+        "images_failed": 663,
+        "processing_time_seconds": 310.34639,
+        "avg_time_per_image_ms": 0.0,
+        "summary_stats": {},
+        "started_at": "2025-10-20T14:52:12.955096",
+        "completed_at": "2025-10-20T14:57:23.309942"
+      }
+    },
+    "phq_analysis_file": "user_288_satumesin_session1/phq_analysis.jsonl",
+    "llm_analysis_file": "user_288_satumesin_session1/llm_analysis.jsonl",
+    "phq_responses_file": "user_288_satumesin_session1/phq_responses.json",
+    "session_metadata_file": "user_288_satumesin_session1/metadata.json"
+  },
+  "phq_summary": {
+    "metadata": {
+      "type": "metadata",
+      "session_id": "0c584868-557a-4afe-9331-389efbf2922b",
+      "assessment_id": "cf29f402-501a-46f6-a5a5-0e0f72ed49dd",
+      "assessment_type": "PHQ",
+      "total_images": 49,
+      "started_at": "2025-10-20T14:51:56.116579"
+    },
+    "total_rows": 51,
+    "data_rows": 50,
+    "file_path": "user_288_satumesin_session1/phq_analysis.jsonl",
+    "extra": {
+      "total_score": 4,
+      "max_possible_score": 27,
+      "responses": {
+        "ANHEDONIA": {
+          "Selama 2 minggu terakhir, Anda merasa kehilangan minat atau tidak bersemangat untuk melakukan kegiatan apa pun?": {
+            "response_text": "Pernah (jarang)",
+            "response_value": 1,
+            "response_time_ms": 6245,
+            "timing": {
+              "start": 0,
+              "end": 6,
+              "duration": 6
+            }
+          }
+        },
+        "DEPRESSED_MOOD": {
+          "Dalam rentang 2 minggu terakhir, apakah muncul perasaan murung, muram, ataupun putus asa pada diri Anda?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 4177,
+            "timing": {
+              "start": 7,
+              "end": 12,
+              "duration": 5
+            }
+          }
+        },
+        "SLEEP_DISTURBANCE": {
+          "Dalam 2 minggu terakhir apakah Anda merasa sulit tidur atau mudah terbangun, atau terlalu banyak tidur?": {
+            "response_text": "Beberapa kali (cukup sering)",
+            "response_value": 2,
+            "response_time_ms": 10087,
+            "timing": {
+              "start": 13,
+              "end": 23,
+              "duration": 10
+            }
+          }
+        },
+        "FATIGUE": {
+          "Dalam 2 minggu terakhir apakah Anda sering merasa lelah atau kurang bertenaga?": {
+            "response_text": "Pernah (jarang)",
+            "response_value": 1,
+            "response_time_ms": 4234,
+            "timing": {
+              "start": 23,
+              "end": 28,
+              "duration": 5
+            }
+          }
+        },
+        "APPETITE_CHANGES": {
+          "Dalam rentang 2 minggu terakhir, apakah Anda mengalami kesulitan mengendalikan nafsu makan, baik karena kurangnya selera maupun makan berlebihan?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 3684,
+            "timing": {
+              "start": 28,
+              "end": 32,
+              "duration": 4
+            }
+          }
+        },
+        "WORTHLESSNESS": {
+          "Selama 2 minggu terakhir, adakah Anda merasa kurang yakin pada diri sendiri, merasa gagal, atau merasa telah mengecewakan diri maupun keluarga?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 3382,
+            "timing": {
+              "start": 33,
+              "end": 36,
+              "duration": 3
+            }
+          }
+        },
+        "CONCENTRATION": {
+          "Dalam 2 minggu terakhir apakah Anda merasa sulit berkonsentrasi pada sesuatu, misalnya membaca berita atau menonton tayangan media?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 4105,
+            "timing": {
+              "start": 37,
+              "end": 41,
+              "duration": 4
+            }
+          }
+        },
+        "PSYCHOMOTOR": {
+          "Dalam 2 minggu terakhir apakah Anda merasa bergerak atau berbicara sangat lambat sehingga orang lain memperhatikannya. Atau sebaliknya merasa resah atau gelisah sehingga Anda lebih sering bergerak dari biasanya?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 5191,
+            "timing": {
+              "start": 41,
+              "end": 47,
+              "duration": 6
+            }
+          }
+        },
+        "SUICIDAL_IDEATION": {
+          "Dalam rentang 2 minggu terakhir, apakah Anda mengalami dorongan atau pikiran tentang kematian, atau tentang melukai diri sendiri?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 2745,
+            "timing": {
+              "start": 47,
+              "end": 50,
+              "duration": 3
+            }
+          }
+        }
+      },
+      "analysis_stats": {
+        "status": "completed",
+        "total_images_processed": 49,
+        "images_with_faces_detected": 0,
+        "images_failed": 49,
+        "processing_time_seconds": 16.823552,
+        "avg_time_per_image_ms": 0.0,
+        "summary_stats": {},
+        "started_at": "2025-10-20T14:51:56.114772",
+        "completed_at": "2025-10-20T14:52:12.943072"
+      }
+    }
+  },
+  "llm_summary": {
+    "metadata": {
+      "type": "metadata",
+      "session_id": "0c584868-557a-4afe-9331-389efbf2922b",
+      "assessment_id": "3602cd0a-05f7-4160-8ab2-9daf41cfbf13",
+      "assessment_type": "LLM",
+      "total_images": 663,
+      "started_at": "2025-10-20T14:52:12.956598"
+    },
+    "total_rows": 665,
+    "data_rows": 664,
+    "file_path": "user_288_satumesin_session1/llm_analysis.jsonl",
+    "extra": {
+      "analysis_stats": {
+        "status": "completed",
+        "total_images_processed": 663,
+        "images_with_faces_detected": 0,
+        "images_failed": 663,
+        "processing_time_seconds": 310.34639,
+        "avg_time_per_image_ms": 0.0,
+        "summary_stats": {},
+        "started_at": "2025-10-20T14:52:12.955096",
+        "completed_at": "2025-10-20T14:57:23.309942"
+      }
+    }
   }
 }

@@ -1,18 +1,358 @@
 {
   "user_id": "user_65_elvaranira",
   "session_id": "session1",
-  "llm_extraction": {
-    "key_themes": [
-      "error"
-    ],
-    "overall_sentiment": "error",
-    "risk_factors": [],
-    "insights": "LLM extraction failed: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable"
-  },
-  "processed_at": "2025-10-22T16:46:17.384633",
+  "processed_at": "2025-10-23T10:56:15.142496",
   "metadata": {
     "folder_name": "user_65_elvaranira_session1",
     "data_path": "data/user_65_elvaranira_session1/llm_conversation.json",
-    "formatted_conversation": "mahasiswa: baik\nsindi: Senang dengar kabar kamu baik, akhir-akhir ini kegiatan atau hobi yang biasanya kamu suka, masih terasa menyenangkan nggak?\nmahasiswa: jangan tanya tersubdong, udh ngulang 3 kali ini\nsindi: Maaf ya kalau aku nanya terlalu banyak, aku cuma pengen ngerti kamu lebih baik supaya bisa bantu kamu dengan tepat. Kalau kamu mau cerita atau curhat, aku siap dengerin kok. Kamu sendiri biasanya gimana sih, kalau lagi banyak pikiran?\nmahasiswa: aku gamau cerita appaun ke kamu\nsindi: Aku ngerti kok, kadang emang nggak gampang buat cerita, dan aku hargai kamu udah jujur. Kalau kamu mau, aku cuma pengen dengerin kamu aja, tanpa penilaian, kapan pun kamu siap ya. Kamu lagi sering ngerasa kayak gimana sih belakangan ini?\nmahasiswa: cukup\nsindi: Aku ngerti, terima kasih ya udah bilang. Kalau kamu merasa pengen ngobrol lagi kapan-kapan, aku selalu ada buat kamu kok. Jangan ragu buat cerita kapan pun kamu butuh teman buat dengerin, ya. Jaga diri baik-baik, ya! </end_conversation>\nmahasiswa: kamu mau mencuri dataku ya\nsindi: Enggak sama sekali, aku di sini cuma pengen jadi teman yang bisa dengerin kamu dengan tulus dan nggak akan nyalahin atau ambil apa pun dari kamu. Kamu nyaman cerita apa nggak, aku di sini buat kamu kok."
+    "formatted_conversation": "sindi: Halo aku Sindi, apakabar\nmahasiswa: baik\nsindi: Senang dengar kabar kamu baik, akhir-akhir ini kegiatan atau hobi yang biasanya kamu suka, masih terasa menyenangkan nggak?\nmahasiswa: jangan tanya tersubdong, udh ngulang 3 kali ini\nsindi: Maaf ya kalau aku nanya terlalu banyak, aku cuma pengen ngerti kamu lebih baik supaya bisa bantu kamu dengan tepat. Kalau kamu mau cerita atau curhat, aku siap dengerin kok. Kamu sendiri biasanya gimana sih, kalau lagi banyak pikiran?\nmahasiswa: aku gamau cerita appaun ke kamu\nsindi: Aku ngerti kok, kadang emang nggak gampang buat cerita, dan aku hargai kamu udah jujur. Kalau kamu mau, aku cuma pengen dengerin kamu aja, tanpa penilaian, kapan pun kamu siap ya. Kamu lagi sering ngerasa kayak gimana sih belakangan ini?\nmahasiswa: cukup\nsindi: Aku ngerti, terima kasih ya udah bilang. Kalau kamu merasa pengen ngobrol lagi kapan-kapan, aku selalu ada buat kamu kok. Jangan ragu buat cerita kapan pun kamu butuh teman buat dengerin, ya. Jaga diri baik-baik, ya! </end_conversation>\nmahasiswa: kamu mau mencuri dataku ya\nsindi: Enggak sama sekali, aku di sini cuma pengen jadi teman yang bisa dengerin kamu dengan tulus dan nggak akan nyalahin atau ambil apa pun dari kamu. Kamu nyaman cerita apa nggak, aku di sini buat kamu kok.",
+    "raw_conversation": [
+      {
+        "turn_number": 1,
+        "user_message": "baik",
+        "ai_message": "Senang dengar kabar kamu baik, akhir-akhir ini kegiatan atau hobi yang biasanya kamu suka, masih terasa menyenangkan nggak?",
+        "user_message_length": 4,
+        "user_timing": {
+          "start": 15,
+          "end": 20,
+          "duration": 5
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 2,
+        "user_message": "jangan tanya tersubdong, udh ngulang 3 kali ini",
+        "ai_message": "Maaf ya kalau aku nanya terlalu banyak, aku cuma pengen ngerti kamu lebih baik supaya bisa bantu kamu dengan tepat. Kalau kamu mau cerita atau curhat, aku siap dengerin kok. Kamu sendiri biasanya gimana sih, kalau lagi banyak pikiran?",
+        "user_message_length": 47,
+        "user_timing": {
+          "start": 27,
+          "end": 36,
+          "duration": 9
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 3,
+        "user_message": "aku gamau cerita appaun ke kamu",
+        "ai_message": "Aku ngerti kok, kadang emang nggak gampang buat cerita, dan aku hargai kamu udah jujur. Kalau kamu mau, aku cuma pengen dengerin kamu aja, tanpa penilaian, kapan pun kamu siap ya. Kamu lagi sering ngerasa kayak gimana sih belakangan ini?",
+        "user_message_length": 31,
+        "user_timing": {
+          "start": 50,
+          "end": 74,
+          "duration": 24
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 4,
+        "user_message": "cukup",
+        "ai_message": "Aku ngerti, terima kasih ya udah bilang. Kalau kamu merasa pengen ngobrol lagi kapan-kapan, aku selalu ada buat kamu kok. Jangan ragu buat cerita kapan pun kamu butuh teman buat dengerin, ya. Jaga diri baik-baik, ya! </end_conversation>",
+        "user_message_length": 5,
+        "user_timing": {
+          "start": 50,
+          "end": 150,
+          "duration": 100
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": true,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 5,
+        "user_message": "kamu mau mencuri dataku ya",
+        "ai_message": "Enggak sama sekali, aku di sini cuma pengen jadi teman yang bisa dengerin kamu dengan tulus dan nggak akan nyalahin atau ambil apa pun dari kamu. Kamu nyaman cerita apa nggak, aku di sini buat kamu kok.",
+        "user_message_length": 26,
+        "user_timing": {
+          "start": 181,
+          "end": 199,
+          "duration": 18
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      }
+    ],
+    "session_metadata": {
+      "phq_analysis": {
+        "status": "completed",
+        "total_images_processed": 102,
+        "images_with_faces_detected": 46,
+        "images_failed": 56,
+        "processing_time_seconds": 71.429824,
+        "avg_time_per_image_ms": 936.1304347826087,
+        "summary_stats": {
+          "dominant_emotion": "Happiness",
+          "emotion_distribution": {
+            "Neutral": 12,
+            "Happiness": 33,
+            "Sadness": 1
+          },
+          "avg_au_activations": 1.33,
+          "most_active_aus": [
+            "au_4",
+            "au_1",
+            "au_2",
+            "au_17",
+            "au_12"
+          ],
+          "total_frames_analyzed": 46
+        },
+        "started_at": "2025-10-20T10:11:18.111233",
+        "completed_at": "2025-10-20T10:12:29.546599"
+      },
+      "llm_analysis": {
+        "status": "completed",
+        "total_images_processed": 224,
+        "images_with_faces_detected": 53,
+        "images_failed": 171,
+        "processing_time_seconds": 110.770387,
+        "avg_time_per_image_ms": 956.188679245283,
+        "summary_stats": {
+          "dominant_emotion": "Neutral",
+          "emotion_distribution": {
+            "Neutral": 26,
+            "Happiness": 20,
+            "Sadness": 7
+          },
+          "avg_au_activations": 1.42,
+          "most_active_aus": [
+            "au_4",
+            "au_1",
+            "au_2",
+            "au_17",
+            "au_12"
+          ],
+          "total_frames_analyzed": 53
+        },
+        "started_at": "2025-10-20T10:12:31.942466",
+        "completed_at": "2025-10-20T10:14:22.719192"
+      }
+    },
+    "phq_analysis_file": "user_65_elvaranira_session1/phq_analysis.jsonl",
+    "llm_analysis_file": "user_65_elvaranira_session1/llm_analysis.jsonl",
+    "phq_responses_file": "user_65_elvaranira_session1/phq_responses.json",
+    "session_metadata_file": "user_65_elvaranira_session1/metadata.json"
+  },
+  "phq_summary": {
+    "metadata": {
+      "type": "metadata",
+      "session_id": "8c1c5dac-727c-4e47-944d-2d1e1e953d5c",
+      "assessment_id": "5896a1e6-e4c3-465b-8aac-4c65d8aa08c2",
+      "assessment_type": "PHQ",
+      "total_images": 102,
+      "started_at": "2025-10-20T10:11:18.113230"
+    },
+    "total_rows": 104,
+    "data_rows": 103,
+    "file_path": "user_65_elvaranira_session1/phq_analysis.jsonl",
+    "extra": {
+      "total_score": 13,
+      "max_possible_score": 27,
+      "responses": {
+        "ANHEDONIA": {
+          "Dalam 2 minggu terakhir apakah Anda merasa kurang tertarik atau bergairah dalam melakukan apapun?": {
+            "response_text": "Beberapa kali (cukup sering)",
+            "response_value": 2,
+            "response_time_ms": 25551,
+            "timing": {
+              "start": 0,
+              "end": 25,
+              "duration": 25
+            }
+          }
+        },
+        "DEPRESSED_MOOD": {
+          "Dalam 2 minggu terakhir apakah Anda merasa murung, muram, atau putus asa?": {
+            "response_text": "Pernah (jarang)",
+            "response_value": 1,
+            "response_time_ms": 4945,
+            "timing": {
+              "start": 26,
+              "end": 31,
+              "duration": 5
+            }
+          }
+        },
+        "SLEEP_DISTURBANCE": {
+          "Dalam rentang 2 minggu terakhir, adakah gangguan tidur seperti sulit memulai tidur, mudah terbangun, ataupun tidur terlalu lama?": {
+            "response_text": "Beberapa kali (cukup sering)",
+            "response_value": 2,
+            "response_time_ms": 478,
+            "timing": {
+              "start": 38,
+              "end": 38,
+              "duration": 0
+            }
+          }
+        },
+        "FATIGUE": {
+          "Dalam rentang 2 minggu terakhir, apakah tubuh Anda sering terasa lelah atau tidak berenergi?": {
+            "response_text": "Sering",
+            "response_value": 3,
+            "response_time_ms": 2818,
+            "timing": {
+              "start": 39,
+              "end": 42,
+              "duration": 3
+            }
+          }
+        },
+        "APPETITE_CHANGES": {
+          "Dalam 2 minggu terakhir apakah Anda merasa kurang nafsu makan atau terlalu banyak makan?": {
+            "response_text": "Beberapa kali (cukup sering)",
+            "response_value": 2,
+            "response_time_ms": 7034,
+            "timing": {
+              "start": 43,
+              "end": 50,
+              "duration": 7
+            }
+          }
+        },
+        "WORTHLESSNESS": {
+          "Selama 2 minggu terakhir, adakah Anda merasa kurang yakin pada diri sendiri, merasa gagal, atau merasa telah mengecewakan diri maupun keluarga?": {
+            "response_text": "Sering",
+            "response_value": 3,
+            "response_time_ms": 4264,
+            "timing": {
+              "start": 51,
+              "end": 55,
+              "duration": 4
+            }
+          }
+        },
+        "CONCENTRATION": {
+          "Selama 2 minggu terakhir, adakah Anda mengalami kesulitan untuk memusatkan perhatian pada kegiatan, misalnya membaca berita atau menonton tayangan media?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 34861,
+            "timing": {
+              "start": 56,
+              "end": 91,
+              "duration": 35
+            }
+          }
+        },
+        "PSYCHOMOTOR": {
+          "Selama 2 minggu terakhir, adakah Anda merasa gerakan atau ucapan menjadi sangat lambat hingga orang lain menyadarinya, atau sebaliknya merasa gelisah sehingga lebih sering bergerak dari biasanya?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 4580,
+            "timing": {
+              "start": 92,
+              "end": 97,
+              "duration": 5
+            }
+          }
+        },
+        "SUICIDAL_IDEATION": {
+          "Dalam 2 minggu terakhir apakah Anda merasa lebih baik mati atau ingin melukai diri sendiri dengan cara apapun?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 2030,
+            "timing": {
+              "start": 98,
+              "end": 100,
+              "duration": 2
+            }
+          }
+        }
+      },
+      "analysis_stats": {
+        "status": "completed",
+        "total_images_processed": 102,
+        "images_with_faces_detected": 46,
+        "images_failed": 56,
+        "processing_time_seconds": 71.429824,
+        "avg_time_per_image_ms": 936.1304347826087,
+        "summary_stats": {
+          "dominant_emotion": "Happiness",
+          "emotion_distribution": {
+            "Neutral": 12,
+            "Happiness": 33,
+            "Sadness": 1
+          },
+          "avg_au_activations": 1.33,
+          "most_active_aus": [
+            "au_4",
+            "au_1",
+            "au_2",
+            "au_17",
+            "au_12"
+          ],
+          "total_frames_analyzed": 46
+        },
+        "started_at": "2025-10-20T10:11:18.111233",
+        "completed_at": "2025-10-20T10:12:29.546599"
+      }
+    }
+  },
+  "llm_summary": {
+    "metadata": {
+      "type": "metadata",
+      "session_id": "8c1c5dac-727c-4e47-944d-2d1e1e953d5c",
+      "assessment_id": "44b64ad9-872a-4e4a-85dd-2e793b6c04e6",
+      "assessment_type": "LLM",
+      "total_images": 224,
+      "started_at": "2025-10-20T10:12:31.944429"
+    },
+    "total_rows": 226,
+    "data_rows": 225,
+    "file_path": "user_65_elvaranira_session1/llm_analysis.jsonl",
+    "extra": {
+      "analysis_stats": {
+        "status": "completed",
+        "total_images_processed": 224,
+        "images_with_faces_detected": 53,
+        "images_failed": 171,
+        "processing_time_seconds": 110.770387,
+        "avg_time_per_image_ms": 956.188679245283,
+        "summary_stats": {
+          "dominant_emotion": "Neutral",
+          "emotion_distribution": {
+            "Neutral": 26,
+            "Happiness": 20,
+            "Sadness": 7
+          },
+          "avg_au_activations": 1.42,
+          "most_active_aus": [
+            "au_4",
+            "au_1",
+            "au_2",
+            "au_17",
+            "au_12"
+          ],
+          "total_frames_analyzed": 53
+        },
+        "started_at": "2025-10-20T10:12:31.942466",
+        "completed_at": "2025-10-20T10:14:22.719192"
+      }
+    }
   }
 }

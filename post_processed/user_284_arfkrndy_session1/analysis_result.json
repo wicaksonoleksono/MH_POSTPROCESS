@@ -1,18 +1,496 @@
 {
   "user_id": "user_284_arfkrndy",
   "session_id": "session1",
-  "llm_extraction": {
-    "key_themes": [
-      "error"
-    ],
-    "overall_sentiment": "error",
-    "risk_factors": [],
-    "insights": "LLM extraction failed: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable"
-  },
-  "processed_at": "2025-10-22T16:46:17.370452",
+  "processed_at": "2025-10-23T10:56:14.757455",
   "metadata": {
     "folder_name": "user_284_arfkrndy_session1",
     "data_path": "data/user_284_arfkrndy_session1/llm_conversation.json",
-    "formatted_conversation": "mahasiswa: kabarku baik baik saja\nsindi: Senang dengar kabarmu baik! 😊 Boleh aku tanya, selama dua minggu terakhir ini, apakah kamu atau temanmu merasa kehilangan minat atau kesenangan dalam hal-hal yang biasanya disukai? Misalnya, hal yang dulu bikin semangat sekarang terasa hambar?\nmahasiswa: iya, akhir akhir ini mulai kehilangan minat akan hal yang disukai\nsindi: Terima kasih sudah berbagi ya. Kalau boleh tahu, menurut kamu apa yang bikin rasanya berubah? Apakah ini sering terjadi atau cuma sesekali aja?\nmahasiswa: sering terjadi, biasanya dikarenakan tidak ada sesuatu yang bisa dicapai dari hal tersebut\nsindi: Aku ngerti banget, rasanya jadi hambar kalau usaha yang kita lakukan kayak nggak ada hasilnya. Selain itu, selama dua minggu terakhir, apakah suasana hati kamu atau temanmu juga terasa sedih atau tertekan hampir sepanjang hari? Kalau iya, biasanya apa sih yang bikin perasaan itu muncul atau makin berat?\nmahasiswa: terkadang iya, biasanya gara gara hari hari terasa kosong karena kurangnya seseorang yang dianggap penting\nsindi: Aku paham, merasa kosong itu memang berat banget, apalagi kalau ada yang biasanya jadi penopang tapi sekarang nggak ada. Kalau soal pola makan atau berat badan, apakah kamu atau temanmu merasa ada perubahan signifikan? Misalnya, jadi kurang atau malah lebih nafsu makan dibanding biasanya?\nmahasiswa: mungkin agak berkurang tetapi tidak signifikan, terkadang juga masih normal\nsindi: Terima kasih sudah cerita, perubahan kecil itu tetap penting untuk diperhatikan ya. Nah, bagaimana dengan tidur? Apakah temanmu atau kamu sendiri merasa sulit tidur, susah lelap, atau malah tidur terlalu lama selama dua minggu terakhir ini? Biasanya apa yang bikin susah tidur atau justru bikin tidur jadi terlalu lama?\nmahasiswa: terkadang susah tidur, terkadang tidur juga terasa terlalu lama\nsindi: Terima kasih sudah jujur ya. Kalau susah tidur itu, biasanya ada pikiran tertentu atau kegiatan sebelum tidur yang bikin susah lelap? Atau malah jadwal harian yang berubah? Dan saat tidur terlalu lama, biasanya kamu merasa ngantuk terus atau ada alasan lain?\nmahasiswa: terkadang pikiran yang menumpuk atau gara gara aktifitas sebelum tidur\nsindi: Aku ngerti banget, pikiran yang menumpuk memang bikin susah rileks sebelum tidur. Kalau teman atau kamu sendiri, apakah ada yang sempat bilang kamu jadi lebih lambat bergerak atau ngomong dari biasanya, atau malah jadi lebih gelisah? Biasanya perubahan itu muncul karena apa, ya?\nmahasiswa: terkadang lebih sering diam atau kurang merespon obrolan, biasanya disebabkan oleh kurangnya rasa excited\nsindi: Terima kasih sudah berbagi, kadang memang kalau semangatnya kurang, respons juga jadi pelan ya. Kalau soal energi atau kelelahan, apakah kamu atau temanmu merasa cepat lelah atau kehilangan energi hampir setiap hari? Biasanya kalau energi cepat turun, apa yang biasanya terjadi sebelumnya? Mungkin kurang tidur, beban pikiran, atau hal lain?\nmahasiswa: terkadang energi cepat habis, dan biasanya dikarenakan menghadapi orang orang yang merusak suasana\nsindi: Wah, itu pasti bikin capek banget ya, menghadapi situasi yang nggak nyaman bisa menyedot energi. Kalau soal perasaan diri, apakah temanmu atau kamu sendiri pernah merasa tidak berharga atau merasa bersalah secara berlebihan dalam dua minggu terakhir? Biasanya perasaan itu muncul karena situasi atau pikiran seperti apa?\nmahasiswa: terkadang merasa kurang pencapaian, perasaan ini muncul di saat tidak adanya kejelasan apa yang dituju\nsindi: Aku paham, perasaan nggak jelas arah memang bisa bikin kita merasa kurang berharga. Nah, selama dua minggu terakhir, apakah temanmu atau kamu mengalami kesulitan untuk konsentrasi atau membuat keputusan? Kalau iya, biasanya hal-hal apa yang paling mengganggu fokus atau bikin susah ambil keputusan?\nmahasiswa: untuk konsentrasi masih aman dan tidak terlalu ada masalah dalam mengambil keputusan\nsindi: Syukurlah kalau konsentrasi dan pengambilan keputusan masih lancar ya! 😊 Nah, terakhir nih, apakah temanmu atau kamu pernah punya pikiran tentang kematian atau bahkan ide bunuh diri dalam dua minggu terakhir? Kalau iya, biasanya pikiran itu muncul kapan dan apa yang membuatnya semakin kuat?\nmahasiswa: kalo itu tidak pernah selama dua Minggu terkahir\nsindi: Terima kasih sudah jujur jawabannya ya, aku senang kamu atau temanmu nggak mengalami pikiran yang berat seperti itu. Dari yang kamu ceritain, aku lihat ada beberapa hal yang memang sedang berat dirasakan, tapi juga ada beberapa aspek yang masih cukup stabil. \n\nKalau boleh rangkum singkat, kamu atau temanmu akhir-akhir ini sering kehilangan minat karena merasa usaha nggak membuahkan hasil, suasana hati kadang terasa sedih karena merasa kosong tanpa seseorang yang penting, pola makan agak berubah tapi nggak signifikan, tidur kadang susah dan kadang terlalu lama karena pikiran yang menumpuk, serta energi cepat habis karena harus menghadapi situasi yang bikin nggak nyaman. Selain itu, ada perasaan kurang pencapaian yang muncul saat arah tujuan kurang jelas, tapi konsentrasi dan pengambilan keputusan masih baik, dan pikiran tentang kematian atau bunuh diri tidak ada.\n\nAku di sini siap dengerin kapan pun kamu butuh curhat atau sekadar berbagi cerita, ya. Apakah ada hal lain yang ingin kamu tambahkan atau kamu ceritakan? 😊\nmahasiswa: tidak ada\nsindi: Oke, terima kasih sudah berbagi sampai sini ya. Kalau di lain waktu kamu merasa butuh teman ngobrol lagi, aku selalu siap mendengar kok. Semoga segala sesuatunya bisa membaik dan kamu tetap kuat menjalani hari-hari ke depan. Jaga diri baik-baik, ya! 😊\n\n</end_conversation>"
+    "formatted_conversation": "sindi: Halo aku Sindi, apakabar\nmahasiswa: kabarku baik baik saja\nsindi: Senang dengar kabarmu baik! 😊 Boleh aku tanya, selama dua minggu terakhir ini, apakah kamu atau temanmu merasa kehilangan minat atau kesenangan dalam hal-hal yang biasanya disukai? Misalnya, hal yang dulu bikin semangat sekarang terasa hambar?\nmahasiswa: iya, akhir akhir ini mulai kehilangan minat akan hal yang disukai\nsindi: Terima kasih sudah berbagi ya. Kalau boleh tahu, menurut kamu apa yang bikin rasanya berubah? Apakah ini sering terjadi atau cuma sesekali aja?\nmahasiswa: sering terjadi, biasanya dikarenakan tidak ada sesuatu yang bisa dicapai dari hal tersebut\nsindi: Aku ngerti banget, rasanya jadi hambar kalau usaha yang kita lakukan kayak nggak ada hasilnya. Selain itu, selama dua minggu terakhir, apakah suasana hati kamu atau temanmu juga terasa sedih atau tertekan hampir sepanjang hari? Kalau iya, biasanya apa sih yang bikin perasaan itu muncul atau makin berat?\nmahasiswa: terkadang iya, biasanya gara gara hari hari terasa kosong karena kurangnya seseorang yang dianggap penting\nsindi: Aku paham, merasa kosong itu memang berat banget, apalagi kalau ada yang biasanya jadi penopang tapi sekarang nggak ada. Kalau soal pola makan atau berat badan, apakah kamu atau temanmu merasa ada perubahan signifikan? Misalnya, jadi kurang atau malah lebih nafsu makan dibanding biasanya?\nmahasiswa: mungkin agak berkurang tetapi tidak signifikan, terkadang juga masih normal\nsindi: Terima kasih sudah cerita, perubahan kecil itu tetap penting untuk diperhatikan ya. Nah, bagaimana dengan tidur? Apakah temanmu atau kamu sendiri merasa sulit tidur, susah lelap, atau malah tidur terlalu lama selama dua minggu terakhir ini? Biasanya apa yang bikin susah tidur atau justru bikin tidur jadi terlalu lama?\nmahasiswa: terkadang susah tidur, terkadang tidur juga terasa terlalu lama\nsindi: Terima kasih sudah jujur ya. Kalau susah tidur itu, biasanya ada pikiran tertentu atau kegiatan sebelum tidur yang bikin susah lelap? Atau malah jadwal harian yang berubah? Dan saat tidur terlalu lama, biasanya kamu merasa ngantuk terus atau ada alasan lain?\nmahasiswa: terkadang pikiran yang menumpuk atau gara gara aktifitas sebelum tidur\nsindi: Aku ngerti banget, pikiran yang menumpuk memang bikin susah rileks sebelum tidur. Kalau teman atau kamu sendiri, apakah ada yang sempat bilang kamu jadi lebih lambat bergerak atau ngomong dari biasanya, atau malah jadi lebih gelisah? Biasanya perubahan itu muncul karena apa, ya?\nmahasiswa: terkadang lebih sering diam atau kurang merespon obrolan, biasanya disebabkan oleh kurangnya rasa excited\nsindi: Terima kasih sudah berbagi, kadang memang kalau semangatnya kurang, respons juga jadi pelan ya. Kalau soal energi atau kelelahan, apakah kamu atau temanmu merasa cepat lelah atau kehilangan energi hampir setiap hari? Biasanya kalau energi cepat turun, apa yang biasanya terjadi sebelumnya? Mungkin kurang tidur, beban pikiran, atau hal lain?\nmahasiswa: terkadang energi cepat habis, dan biasanya dikarenakan menghadapi orang orang yang merusak suasana\nsindi: Wah, itu pasti bikin capek banget ya, menghadapi situasi yang nggak nyaman bisa menyedot energi. Kalau soal perasaan diri, apakah temanmu atau kamu sendiri pernah merasa tidak berharga atau merasa bersalah secara berlebihan dalam dua minggu terakhir? Biasanya perasaan itu muncul karena situasi atau pikiran seperti apa?\nmahasiswa: terkadang merasa kurang pencapaian, perasaan ini muncul di saat tidak adanya kejelasan apa yang dituju\nsindi: Aku paham, perasaan nggak jelas arah memang bisa bikin kita merasa kurang berharga. Nah, selama dua minggu terakhir, apakah temanmu atau kamu mengalami kesulitan untuk konsentrasi atau membuat keputusan? Kalau iya, biasanya hal-hal apa yang paling mengganggu fokus atau bikin susah ambil keputusan?\nmahasiswa: untuk konsentrasi masih aman dan tidak terlalu ada masalah dalam mengambil keputusan\nsindi: Syukurlah kalau konsentrasi dan pengambilan keputusan masih lancar ya! 😊 Nah, terakhir nih, apakah temanmu atau kamu pernah punya pikiran tentang kematian atau bahkan ide bunuh diri dalam dua minggu terakhir? Kalau iya, biasanya pikiran itu muncul kapan dan apa yang membuatnya semakin kuat?\nmahasiswa: kalo itu tidak pernah selama dua Minggu terkahir\nsindi: Terima kasih sudah jujur jawabannya ya, aku senang kamu atau temanmu nggak mengalami pikiran yang berat seperti itu. Dari yang kamu ceritain, aku lihat ada beberapa hal yang memang sedang berat dirasakan, tapi juga ada beberapa aspek yang masih cukup stabil. \n\nKalau boleh rangkum singkat, kamu atau temanmu akhir-akhir ini sering kehilangan minat karena merasa usaha nggak membuahkan hasil, suasana hati kadang terasa sedih karena merasa kosong tanpa seseorang yang penting, pola makan agak berubah tapi nggak signifikan, tidur kadang susah dan kadang terlalu lama karena pikiran yang menumpuk, serta energi cepat habis karena harus menghadapi situasi yang bikin nggak nyaman. Selain itu, ada perasaan kurang pencapaian yang muncul saat arah tujuan kurang jelas, tapi konsentrasi dan pengambilan keputusan masih baik, dan pikiran tentang kematian atau bunuh diri tidak ada.\n\nAku di sini siap dengerin kapan pun kamu butuh curhat atau sekadar berbagi cerita, ya. Apakah ada hal lain yang ingin kamu tambahkan atau kamu ceritakan? 😊\nmahasiswa: tidak ada\nsindi: Oke, terima kasih sudah berbagi sampai sini ya. Kalau di lain waktu kamu merasa butuh teman ngobrol lagi, aku selalu siap mendengar kok. Semoga segala sesuatunya bisa membaik dan kamu tetap kuat menjalani hari-hari ke depan. Jaga diri baik-baik, ya! 😊\n\n</end_conversation>",
+    "raw_conversation": [
+      {
+        "turn_number": 1,
+        "user_message": "kabarku baik baik saja",
+        "ai_message": "Senang dengar kabarmu baik! 😊 Boleh aku tanya, selama dua minggu terakhir ini, apakah kamu atau temanmu merasa kehilangan minat atau kesenangan dalam hal-hal yang biasanya disukai? Misalnya, hal yang dulu bikin semangat sekarang terasa hambar?",
+        "user_message_length": 22,
+        "user_timing": {
+          "start": 20,
+          "end": 28,
+          "duration": 8
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 2,
+        "user_message": "iya, akhir akhir ini mulai kehilangan minat akan hal yang disukai",
+        "ai_message": "Terima kasih sudah berbagi ya. Kalau boleh tahu, menurut kamu apa yang bikin rasanya berubah? Apakah ini sering terjadi atau cuma sesekali aja?",
+        "user_message_length": 65,
+        "user_timing": {
+          "start": 47,
+          "end": 74,
+          "duration": 27
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 3,
+        "user_message": "sering terjadi, biasanya dikarenakan tidak ada sesuatu yang bisa dicapai dari hal tersebut",
+        "ai_message": "Aku ngerti banget, rasanya jadi hambar kalau usaha yang kita lakukan kayak nggak ada hasilnya. Selain itu, selama dua minggu terakhir, apakah suasana hati kamu atau temanmu juga terasa sedih atau tertekan hampir sepanjang hari? Kalau iya, biasanya apa sih yang bikin perasaan itu muncul atau makin berat?",
+        "user_message_length": 90,
+        "user_timing": {
+          "start": 83,
+          "end": 119,
+          "duration": 36
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 4,
+        "user_message": "terkadang iya, biasanya gara gara hari hari terasa kosong karena kurangnya seseorang yang dianggap penting",
+        "ai_message": "Aku paham, merasa kosong itu memang berat banget, apalagi kalau ada yang biasanya jadi penopang tapi sekarang nggak ada. Kalau soal pola makan atau berat badan, apakah kamu atau temanmu merasa ada perubahan signifikan? Misalnya, jadi kurang atau malah lebih nafsu makan dibanding biasanya?",
+        "user_message_length": 106,
+        "user_timing": {
+          "start": 137,
+          "end": 199,
+          "duration": 62
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 5,
+        "user_message": "mungkin agak berkurang tetapi tidak signifikan, terkadang juga masih normal",
+        "ai_message": "Terima kasih sudah cerita, perubahan kecil itu tetap penting untuk diperhatikan ya. Nah, bagaimana dengan tidur? Apakah temanmu atau kamu sendiri merasa sulit tidur, susah lelap, atau malah tidur terlalu lama selama dua minggu terakhir ini? Biasanya apa yang bikin susah tidur atau justru bikin tidur jadi terlalu lama?",
+        "user_message_length": 75,
+        "user_timing": {
+          "start": 215,
+          "end": 235,
+          "duration": 20
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 6,
+        "user_message": "terkadang susah tidur, terkadang tidur juga terasa terlalu lama",
+        "ai_message": "Terima kasih sudah jujur ya. Kalau susah tidur itu, biasanya ada pikiran tertentu atau kegiatan sebelum tidur yang bikin susah lelap? Atau malah jadwal harian yang berubah? Dan saat tidur terlalu lama, biasanya kamu merasa ngantuk terus atau ada alasan lain?",
+        "user_message_length": 63,
+        "user_timing": {
+          "start": 251,
+          "end": 275,
+          "duration": 24
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 7,
+        "user_message": "terkadang pikiran yang menumpuk atau gara gara aktifitas sebelum tidur",
+        "ai_message": "Aku ngerti banget, pikiran yang menumpuk memang bikin susah rileks sebelum tidur. Kalau teman atau kamu sendiri, apakah ada yang sempat bilang kamu jadi lebih lambat bergerak atau ngomong dari biasanya, atau malah jadi lebih gelisah? Biasanya perubahan itu muncul karena apa, ya?",
+        "user_message_length": 70,
+        "user_timing": {
+          "start": 286,
+          "end": 316,
+          "duration": 30
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 8,
+        "user_message": "terkadang lebih sering diam atau kurang merespon obrolan, biasanya disebabkan oleh kurangnya rasa excited",
+        "ai_message": "Terima kasih sudah berbagi, kadang memang kalau semangatnya kurang, respons juga jadi pelan ya. Kalau soal energi atau kelelahan, apakah kamu atau temanmu merasa cepat lelah atau kehilangan energi hampir setiap hari? Biasanya kalau energi cepat turun, apa yang biasanya terjadi sebelumnya? Mungkin kurang tidur, beban pikiran, atau hal lain?",
+        "user_message_length": 105,
+        "user_timing": {
+          "start": 333,
+          "end": 372,
+          "duration": 39
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 9,
+        "user_message": "terkadang energi cepat habis, dan biasanya dikarenakan menghadapi orang orang yang merusak suasana",
+        "ai_message": "Wah, itu pasti bikin capek banget ya, menghadapi situasi yang nggak nyaman bisa menyedot energi. Kalau soal perasaan diri, apakah temanmu atau kamu sendiri pernah merasa tidak berharga atau merasa bersalah secara berlebihan dalam dua minggu terakhir? Biasanya perasaan itu muncul karena situasi atau pikiran seperti apa?",
+        "user_message_length": 98,
+        "user_timing": {
+          "start": 386,
+          "end": 428,
+          "duration": 42
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 10,
+        "user_message": "terkadang merasa kurang pencapaian, perasaan ini muncul di saat tidak adanya kejelasan apa yang dituju",
+        "ai_message": "Aku paham, perasaan nggak jelas arah memang bisa bikin kita merasa kurang berharga. Nah, selama dua minggu terakhir, apakah temanmu atau kamu mengalami kesulitan untuk konsentrasi atau membuat keputusan? Kalau iya, biasanya hal-hal apa yang paling mengganggu fokus atau bikin susah ambil keputusan?",
+        "user_message_length": 102,
+        "user_timing": {
+          "start": 445,
+          "end": 497,
+          "duration": 52
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 11,
+        "user_message": "untuk konsentrasi masih aman dan tidak terlalu ada masalah dalam mengambil keputusan",
+        "ai_message": "Syukurlah kalau konsentrasi dan pengambilan keputusan masih lancar ya! 😊 Nah, terakhir nih, apakah temanmu atau kamu pernah punya pikiran tentang kematian atau bahkan ide bunuh diri dalam dua minggu terakhir? Kalau iya, biasanya pikiran itu muncul kapan dan apa yang membuatnya semakin kuat?",
+        "user_message_length": 84,
+        "user_timing": {
+          "start": 507,
+          "end": 563,
+          "duration": 56
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 12,
+        "user_message": "kalo itu tidak pernah selama dua Minggu terkahir",
+        "ai_message": "Terima kasih sudah jujur jawabannya ya, aku senang kamu atau temanmu nggak mengalami pikiran yang berat seperti itu. Dari yang kamu ceritain, aku lihat ada beberapa hal yang memang sedang berat dirasakan, tapi juga ada beberapa aspek yang masih cukup stabil. \n\nKalau boleh rangkum singkat, kamu atau temanmu akhir-akhir ini sering kehilangan minat karena merasa usaha nggak membuahkan hasil, suasana hati kadang terasa sedih karena merasa kosong tanpa seseorang yang penting, pola makan agak berubah tapi nggak signifikan, tidur kadang susah dan kadang terlalu lama karena pikiran yang menumpuk, serta energi cepat habis karena harus menghadapi situasi yang bikin nggak nyaman. Selain itu, ada perasaan kurang pencapaian yang muncul saat arah tujuan kurang jelas, tapi konsentrasi dan pengambilan keputusan masih baik, dan pikiran tentang kematian atau bunuh diri tidak ada.\n\nAku di sini siap dengerin kapan pun kamu butuh curhat atau sekadar berbagi cerita, ya. Apakah ada hal lain yang ingin kamu tambahkan atau kamu ceritakan? 😊",
+        "user_message_length": 48,
+        "user_timing": {
+          "start": 573,
+          "end": 587,
+          "duration": 14
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 13,
+        "user_message": "tidak ada",
+        "ai_message": "Oke, terima kasih sudah berbagi sampai sini ya. Kalau di lain waktu kamu merasa butuh teman ngobrol lagi, aku selalu siap mendengar kok. Semoga segala sesuatunya bisa membaik dan kamu tetap kuat menjalani hari-hari ke depan. Jaga diri baik-baik, ya! 😊\n\n</end_conversation>",
+        "user_message_length": 9,
+        "user_timing": {
+          "start": 630,
+          "end": 633,
+          "duration": 3
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": true,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      }
+    ],
+    "session_metadata": {
+      "phq_analysis": {
+        "status": "completed",
+        "total_images_processed": 66,
+        "images_with_faces_detected": 66,
+        "images_failed": 0,
+        "processing_time_seconds": 92.029547,
+        "avg_time_per_image_ms": 974.2727272727273,
+        "summary_stats": {
+          "dominant_emotion": "Neutral",
+          "emotion_distribution": {
+            "Neutral": 62,
+            "Happiness": 4
+          },
+          "avg_au_activations": 0.76,
+          "most_active_aus": [
+            "au_17",
+            "au_4"
+          ],
+          "total_frames_analyzed": 66
+        },
+        "started_at": "2025-10-20T13:47:53.820587",
+        "completed_at": "2025-10-20T13:49:25.857183"
+      },
+      "llm_analysis": {
+        "status": "completed",
+        "total_images_processed": 633,
+        "images_with_faces_detected": 633,
+        "images_failed": 0,
+        "processing_time_seconds": 993.020938,
+        "avg_time_per_image_ms": 1085.9067930489732,
+        "summary_stats": {
+          "dominant_emotion": "Neutral",
+          "emotion_distribution": {
+            "Neutral": 616,
+            "Happiness": 13,
+            "Sadness": 2,
+            "Surprise": 2
+          },
+          "avg_au_activations": 1.07,
+          "most_active_aus": [
+            "au_17",
+            "au_4",
+            "au_15",
+            "au_6",
+            "au_1"
+          ],
+          "total_frames_analyzed": 633
+        },
+        "started_at": "2025-10-20T13:49:25.226604",
+        "completed_at": "2025-10-20T14:05:58.262894"
+      }
+    },
+    "phq_analysis_file": "user_284_arfkrndy_session1/phq_analysis.jsonl",
+    "llm_analysis_file": "user_284_arfkrndy_session1/llm_analysis.jsonl",
+    "phq_responses_file": "user_284_arfkrndy_session1/phq_responses.json",
+    "session_metadata_file": "user_284_arfkrndy_session1/metadata.json"
+  },
+  "phq_summary": {
+    "metadata": {
+      "type": "metadata",
+      "session_id": "4f1cf82e-3113-4eb9-ae79-2a4b6a3d6726",
+      "assessment_id": "68d48668-ff10-484d-b8b9-3355bbea87ec",
+      "assessment_type": "PHQ",
+      "total_images": 66,
+      "started_at": "2025-10-20T13:47:53.822150"
+    },
+    "total_rows": 68,
+    "data_rows": 67,
+    "file_path": "user_284_arfkrndy_session1/phq_analysis.jsonl",
+    "extra": {
+      "total_score": 12,
+      "max_possible_score": 27,
+      "responses": {
+        "ANHEDONIA": {
+          "Selama 2 minggu terakhir, Anda merasa kehilangan minat atau tidak bersemangat untuk melakukan kegiatan apa pun?": {
+            "response_text": "Beberapa kali (cukup sering)",
+            "response_value": 2,
+            "response_time_ms": 7893,
+            "timing": {
+              "start": 0,
+              "end": 7,
+              "duration": 7
+            }
+          }
+        },
+        "DEPRESSED_MOOD": {
+          "Dalam 2 minggu terakhir apakah Anda merasa murung, muram, atau putus asa?": {
+            "response_text": "Beberapa kali (cukup sering)",
+            "response_value": 2,
+            "response_time_ms": 8141,
+            "timing": {
+              "start": 9,
+              "end": 18,
+              "duration": 9
+            }
+          }
+        },
+        "SLEEP_DISTURBANCE": {
+          "Dalam rentang 2 minggu terakhir, adakah gangguan tidur seperti sulit memulai tidur, mudah terbangun, ataupun tidur terlalu lama?": {
+            "response_text": "Sering",
+            "response_value": 3,
+            "response_time_ms": 751,
+            "timing": {
+              "start": 28,
+              "end": 29,
+              "duration": 1
+            }
+          }
+        },
+        "FATIGUE": {
+          "Dalam rentang 2 minggu terakhir, apakah tubuh Anda sering terasa lelah atau tidak berenergi?": {
+            "response_text": "Pernah (jarang)",
+            "response_value": 1,
+            "response_time_ms": 4350,
+            "timing": {
+              "start": 30,
+              "end": 34,
+              "duration": 4
+            }
+          }
+        },
+        "APPETITE_CHANGES": {
+          "Dalam 2 minggu terakhir apakah Anda merasa kurang nafsu makan atau terlalu banyak makan?": {
+            "response_text": "Pernah (jarang)",
+            "response_value": 1,
+            "response_time_ms": 4015,
+            "timing": {
+              "start": 35,
+              "end": 39,
+              "duration": 4
+            }
+          }
+        },
+        "WORTHLESSNESS": {
+          "Dalam 2 minggu terakhir apakah Anda merasa kurang percaya diri, atau merasa bahwa Anda adalah orang yang gagal atau telah mengecewakan diri sendiri atau keluarga?": {
+            "response_text": "Beberapa kali (cukup sering)",
+            "response_value": 2,
+            "response_time_ms": 4559,
+            "timing": {
+              "start": 40,
+              "end": 44,
+              "duration": 4
+            }
+          }
+        },
+        "CONCENTRATION": {
+          "Dalam 2 minggu terakhir apakah Anda merasa sulit berkonsentrasi pada sesuatu, misalnya membaca berita atau menonton tayangan media?": {
+            "response_text": "Pernah (jarang)",
+            "response_value": 1,
+            "response_time_ms": 3774,
+            "timing": {
+              "start": 47,
+              "end": 50,
+              "duration": 3
+            }
+          }
+        },
+        "PSYCHOMOTOR": {
+          "Selama 2 minggu terakhir, adakah Anda merasa gerakan atau ucapan menjadi sangat lambat hingga orang lain menyadarinya, atau sebaliknya merasa gelisah sehingga lebih sering bergerak dari biasanya?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 10207,
+            "timing": {
+              "start": 51,
+              "end": 61,
+              "duration": 10
+            }
+          }
+        },
+        "SUICIDAL_IDEATION": {
+          "Dalam 2 minggu terakhir apakah Anda merasa lebih baik mati atau ingin melukai diri sendiri dengan cara apapun?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 4130,
+            "timing": {
+              "start": 62,
+              "end": 66,
+              "duration": 4
+            }
+          }
+        }
+      },
+      "analysis_stats": {
+        "status": "completed",
+        "total_images_processed": 66,
+        "images_with_faces_detected": 66,
+        "images_failed": 0,
+        "processing_time_seconds": 92.029547,
+        "avg_time_per_image_ms": 974.2727272727273,
+        "summary_stats": {
+          "dominant_emotion": "Neutral",
+          "emotion_distribution": {
+            "Neutral": 62,
+            "Happiness": 4
+          },
+          "avg_au_activations": 0.76,
+          "most_active_aus": [
+            "au_17",
+            "au_4"
+          ],
+          "total_frames_analyzed": 66
+        },
+        "started_at": "2025-10-20T13:47:53.820587",
+        "completed_at": "2025-10-20T13:49:25.857183"
+      }
+    }
+  },
+  "llm_summary": {
+    "metadata": {
+      "type": "metadata",
+      "session_id": "4f1cf82e-3113-4eb9-ae79-2a4b6a3d6726",
+      "assessment_id": "1aa4235f-7e09-4584-9ee8-39fa950d25d0",
+      "assessment_type": "LLM",
+      "total_images": 633,
+      "started_at": "2025-10-20T13:49:25.228382"
+    },
+    "total_rows": 635,
+    "data_rows": 634,
+    "file_path": "user_284_arfkrndy_session1/llm_analysis.jsonl",
+    "extra": {
+      "analysis_stats": {
+        "status": "completed",
+        "total_images_processed": 633,
+        "images_with_faces_detected": 633,
+        "images_failed": 0,
+        "processing_time_seconds": 993.020938,
+        "avg_time_per_image_ms": 1085.9067930489732,
+        "summary_stats": {
+          "dominant_emotion": "Neutral",
+          "emotion_distribution": {
+            "Neutral": 616,
+            "Happiness": 13,
+            "Sadness": 2,
+            "Surprise": 2
+          },
+          "avg_au_activations": 1.07,
+          "most_active_aus": [
+            "au_17",
+            "au_4",
+            "au_15",
+            "au_6",
+            "au_1"
+          ],
+          "total_frames_analyzed": 633
+        },
+        "started_at": "2025-10-20T13:49:25.226604",
+        "completed_at": "2025-10-20T14:05:58.262894"
+      }
+    }
   }
 }

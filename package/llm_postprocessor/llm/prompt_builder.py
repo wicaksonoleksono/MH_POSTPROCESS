@@ -2,9 +2,9 @@
 
 from typing import Any
 from langchain_core.messages import HumanMessage, AIMessage, SystemMessage
-from llm_postprocessor.schemas.aspects import PHQAspects
-from llm_postprocessor.schemas.scale import PHQScales
-from llm_postprocessor.llm.prompts import (
+from ..schemas.aspects import PHQAspects
+from ..schemas.scale import PHQScales
+from .prompts import (
     HUMAN_INST_1,
     AI_RESPONSE_1,
     HUMAN_INST_2,
@@ -43,12 +43,10 @@ class PromptBuilder:
         messages.append(ai_msg_1)
         aspects_str = PHQAspects.get_aspect()
         phq_scale_str = PHQScales.format_scale("phq_scale")
-        operational_scale_str = PHQScales.format_scale("operational_scale")
         human_msg_2 = HumanMessage(
             content=HUMAN_INST_2.format(
                 aspects=aspects_str,
                 phq_scale=phq_scale_str,
-                operational_scale=operational_scale_str,
             )
         )
         messages.append(human_msg_2)

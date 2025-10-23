@@ -1,16 +1,9 @@
 class PHQScales:
     phq_scale = {
-        0: "Tidak sama sekali",
-        1: "Beberapa hari",
-        2: "Lebih dari setengah hari",
-        3: "Hampir setiap hari"
-    }
-
-    operational_scale = {
-        0: "Tidak ada: tidak ditemukan indikasi gejala.",
-        1: "Sesekali / tersirat: muncul beberapa hari; gejala tersirat atau disebut sambil lalu.",
-        2: "Cukup sering / jelas: terjadi beberapa kali; gejala disebutkan cukup jelas, namun belum mendominasi.",
-        3: "Sering / dominan: muncul berulang; disebutkan secara eksplisit sebagai keluhan utama."
+        0: "Tidak sama sekali — gejala tidak muncul dan tidak terbaca dalam percakapan.",
+        1: "Beberapa kali — gejala muncul sesekali atau tersirat; dampaknya ringan dan mudah diabaikan.",
+        2: "Cukup sering — gejala muncul berkali-kali dan mulai mengganggu aktivitas meski belum dominan.",
+        3: "Dominan — gejala terus-menerus muncul secara jelas dan menghambat fungsi sehari-hari."
     }
 
     @classmethod

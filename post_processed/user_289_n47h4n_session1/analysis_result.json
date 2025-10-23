@@ -1,18 +1,582 @@
 {
   "user_id": "user_289_n47h4n",
   "session_id": "session1",
-  "llm_extraction": {
-    "key_themes": [
-      "error"
-    ],
-    "overall_sentiment": "error",
-    "risk_factors": [],
-    "insights": "LLM extraction failed: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable"
-  },
-  "processed_at": "2025-10-22T16:46:17.372588",
+  "processed_at": "2025-10-23T10:56:14.893865",
   "metadata": {
     "folder_name": "user_289_n47h4n_session1",
     "data_path": "data/user_289_n47h4n_session1/llm_conversation.json",
-    "formatted_conversation": "mahasiswa: Aku merasa sedih yang cukup mendalam, karena aku gagal menjadi diri yang kuinginkan. Aku ingin menjadi seseorang yang cekatan, aktif berdiskusi, cerdas, asik, selalu memanfaatkan waktunya untuk ikut berbagai macam kegiatan, keren, tapi kenyataannya aku bodoh. Kurang dalam hardskill dan juga softskill. Walau berusaha mencoba berubah, aku selalu jatuh dan kembali ke kebiasaan buruk aku.\nsindi: Aku turut merasa sedih dengar kamu lagi merasa kayak gitu 😔 Kadang emang berat ya kalau ekspektasi sama diri sendiri nggak nyampe. Aku pengen tahu nih, selama dua minggu terakhir ini, apa kamu masih merasa punya minat atau kesenangan dalam hal-hal yang biasanya kamu suka? Atau rasanya mulai hambar aja gitu?\nmahasiswa: Aku tidak mengingat bagaimana perasaanku soal merasakan kesenangan. Tapi aku merasa itu tergantung dengan mood atau motivasi aku aja. Kalau aku ngerasa sedih, butuh pelarian aku menggambar. Apalagi kalau dibarengi dengan adanya motivasi. Tapi kalau tidak ada motivasi mungkin aku tidak mau menggambar.\nsindi: Wah, aku paham banget tuh, kadang mood dan motivasi emang kayak naik turun ya, jadi pengaruh ke apa yang kita suka lakukan. Kalau lagi sedih dan kamu memilih menggambar sebagai pelarian, itu bagus banget sih, karena kamu punya cara menyalurkan perasaan. Selama dua minggu terakhir, seberapa sering sih kamu merasa sedih itu muncul? Biasanya apa yang bikin perasaan sedih itu makin berat atau malah agak reda?\nmahasiswa: Aku merasa selama 2 minggu terakhir, aku sangat sering merasakan kesedihan. Biasanya, yang bikin sedih adalah karena merasa gagal menjadi diri sendiri saat aktivitas perkuliahan. Aku kurang mindful, kurang present karena pikiran berisik yang ingin diperhatiin orang lain terus, tanpa menyadari situasi sekitar. Misalnya, saat situasi lagi fokus diskusi atau presentasi kelompok, aku malah tetap mikirin cara2 supaya aku diperhatiin. Kemudian, biasanya yang bikin sedih itu sedikit reda adalah dengan duduk sendiri dan merefleksikan apa yang kurasakan dan pikirkan. Walau, aku sedikit berharap bisa cerita ke teman kampus, karena aku takut membebani dan takut tidak bisa menceritakan permasalahan supaya mereka paham dan ingin membantu.\nsindi: Terima kasih sudah berbagi hal yang cukup dalam ini, aku bisa ngerti banget perasaan kamu yang pengen diperhatiin tapi juga ngerasa susah buat benar-benar fokus. Itu pasti bikin pikiran jadi makin berantakan ya. Aku penasaran, selama dua minggu terakhir ini, apakah pola makan atau nafsu makan kamu ada perubahan? Misalnya jadi makan lebih sedikit, lebih banyak, atau malah nggak nafsu makan sama sekali? Biasanya apa yang mempengaruhi itu?\nmahasiswa: Terkait pola makan, aku memiliki kebiasaan buruk makan banyak kalau lagi bosan atau butuh pelarian. Tapi 2 minggu terakhir ini, aku merasa pola makan aku cukup terjaga namun karena mengasosiakan makan cuma untuk pelarian, jadinya aku kurang menikmati waktu makan aku dan mengganggap aku tu makan karena terpaksa biar ga sakit aja.\nsindi: Aku paham, makan sebagai pelarian itu kadang jadi cara buat ngisi kekosongan atau ngilangin rasa nggak enak, tapi kalau sampai makan terasa kayak kewajiban aja, rasanya pasti nggak nyaman banget. Nah, aku pengen tahu nih, gimana dengan tidur kamu selama dua minggu terakhir? Apakah kamu merasa lebih susah tidur, sering terbangun, atau malah tidur terlalu lama? Biasanya ada hal tertentu yang bikin susah tidur atau pengaruh ke pola tidur kamu?\nmahasiswa: Pola tidur selama dua minggu terakhir ini masih teratur sih. Aku sering tidur cukup 7-8 jam. Terkadang ada tugas kuliah bisa bikin begadang, tapi tetap ga mengganggu tidur cuma mengurangi jam tidurnya aja. Aku merasa ga kesulitan juga untuk tidur. Tapi terkadang yang bikin sulit tidur kalau aku belum nonton video distraksi sih, kalau aku ga nonton video yang aku suka, pikiran aku tu mengganggu dan bikin aku sulit tidur. Ini tuh muncul kalau aku punya kekhawatiran akan apa yang terjadi esok, misalnya mau presentasi dan semacamnya.\nsindi: Wah, menarik banget nih kebiasaan nonton video buat bantu rileks sebelum tidur. Kadang pikiran yang penuh kekhawatiran emang bisa ganggu banget ya. Aku pengen tanya, apa teman-teman atau orang-orang di sekitar kamu sempat bilang kalau kamu terlihat lebih lambat atau lebih gelisah dari biasanya dalam beberapa minggu terakhir? Kalau iya, biasanya kamu merasa gimana dan apa ya kira-kira yang bikin perubahan ritme itu?\nmahasiswa: Aku agat sedih kalau ditanya soal apa yang dipikirkan orang lain. Karena aku merasa orang di sekitar aku ga terlalu merhatiin aku, jadinya mereka ga akan peka kalau aku ngerasa kurang baik2 aja. Agak berharap sih, kalau ada yang komentar seperti itu karna itu nunjukin mereka peduli.\nsindi: Aku ngerti banget perasaan kamu yang pengen banget dirasa diperhatiin dan dihargai, tapi takut atau ragu karena merasa orang lain nggak terlalu peduli. Itu bikin perasaan jadi campur aduk ya. Aku penasaran, selama dua minggu terakhir, apakah kamu sering merasa cepat lelah atau kehilangan energi, meskipun aktivitas sehari-hari nggak terlalu berat? Biasanya kalau energi kamu turun, apa sih yang biasanya terjadi sebelumnya?\nmahasiswa: Sebenarnya aku kurang yakin menjawab ini karena bukan hal yang terlalu aku pikiran amat. Tapi selama 2 minggu terakhir, aku merasa aku malas untuk bersihin kamar, baju kotor pun menumpuk, barang2 yang aku punya juga ga dirawat, sering prokrastinasi tugas, jarang keluar untuk beli makan karena dulu sering banget keluar pagi atau siang, sore untuk beli sesuatu, sering bolos kuliah juga bahkan hampir 3 kali. Yang memicu biasanya rasa gagal menjadi diri sendiri itu sih. Misal, kalau lagi diskusi kelompok aku hanya diam saja, aku mulai mikir kenapa aku ga aktif, padahal aslinya aku pengen banget berkoar-koar\nsindi: Makasih ya udah jujur cerita tentang itu, aku tahu itu nggak gampang buat kamu. Sepertinya rasa gagal dan perasaan nggak cukup itu memang cukup ngaruh ke energi dan motivasi kamu sehari-hari ya. Aku ingin tahu, selama dua minggu terakhir ini, apakah kamu sering merasa nggak berharga atau punya rasa bersalah yang berlebihan, misalnya merasa semua kesalahan ada di kamu atau hal-hal kecil jadi bikin kamu merasa bersalah banget? Biasanya pemicu dari perasaan itu apa ya?\nmahasiswa: Oke, terkait hal ini sering banget sih apalagi dalam 2 minggu terakhir. Jadi aku sering banget merasa kehadiran aku di dunia ini ga berguna. Apapun yang kulakukan pasti ada aja yang kurang, banyak sih sebenarnya, AKu agak malas mengingat kembali. Pokoknya disetiap interaksi aku pasti overthinking kesalahan aku dan mulai mikir semua orang membenciku. Nah, aku pun membenci diriku sendiri kalau orang lain juga membenciku. Aku jadi mikir lebih baik ga ada didunia ini.\nsindi: Aku benar-benar sedih dengar kamu lagi merasa kayak gitu 😢 Perasaan kayak nggak berguna dan overthinking itu berat banget, apalagi sampai mikir kalau orang lain membenci kamu. Aku pengen tahu, selama dua minggu terakhir, apakah kamu juga pernah mengalami kesulitan dalam berkonsentrasi atau membuat keputusan? Misalnya, saat belajar atau menjalani aktivitas sehari-hari, kamu merasa susah fokus atau bingung harus ngapain dulu? Biasanya hal apa yang paling mengganggu fokus kamu?\nmahasiswa: Sering sih. Karena aku terus mikin cara agar orang merhatiin aku, walau aku sendiri ga ngelakuin apa2 karena anaknya lumayan penutup dan pemalu.\nsindi: Aku paham banget, pikiran yang terus-terusan mikirin perhatian orang lain bisa bikin fokus jadi buyar ya. Selain itu, biasanya hal lain apa sih yang bikin kamu susah konsentrasi? Misalnya notifikasi di hp, kekhawatiran yang belum selesai, atau mungkin kelelahan?\nmahasiswa: kalau ngerasa cemas juga misalnya kalau mau presentasi, aku terus mikirin nanti gimana pas presentasi dll. Susah fokus juga karena merasa semua ini ga bermakna gitu i guess\nsindi: Aku ngerti banget, kecemasan sebelum presentasi itu memang bikin pikiran jadi susah fokus, apalagi kalau terasa semuanya kayak nggak bermakna. Aku pengen tanya nih, selama dua minggu terakhir ini, apakah kamu pernah terpikirkan hal-hal tentang kematian atau bahkan ide bunuh diri? Kalau iya, biasanya kapan dan apa yang bikin pikiran itu makin kuat?\nmahasiswa: Aku merasa ini cukup sering ya, apalagi aku ngerasa gagal banget di hidupku. Biasanya, saat habis pulang dari kampus, karena selalu merasa gagal dalam apapun yang kulakukan di perkuliahan. Kalau lagi sendiri di koslah intinya\nsindi: Terima kasih sudah jujur berbagi tentang hal ini, aku tahu betapa beratnya pikiran seperti itu. Saat kamu merasa seperti itu, apakah ada hal tertentu yang biasanya bisa sedikit membantu mengurangi pikiran tentang kematian atau bunuh diri itu? Misalnya ngobrol sama seseorang, melakukan hobi, atau hal lain? Aku pengen tahu juga, kamu sudah pernah coba cerita ke siapa pun tentang perasaan ini?\nmahasiswa: Berdialog dengan diri sendiri sih, terus nonton video yang aku suka. Menggambar maybe. Aku pernah cerita ke psikolog yang ada di kampus\nsindi: Wah, bagus banget kamu sudah mencoba beberapa cara untuk menenangkan diri dan juga sempat cerita ke psikolog kampus. Itu langkah yang sangat positif, walau mungkin belum mudah. Kalau aku boleh tahu, dari pengalaman ngobrol sama psikolog itu, ada hal apa yang menurut kamu membantu atau yang pengen kamu coba lebih lanjut?\nmahasiswa: Cukup membantu karena aku jadi tahu akar permasalahan aku. Mungkin aku akan lanjut sesi selanjutnya yang udah disarankan sama psikolognya supaya bisa lebih baik dalam merespon apa yang mengganggu aku\nsindi: Wah, keren banget kamu udah mulai bisa mengenali akar permasalahannya, itu langkah besar loh! Semangat terus ya untuk melanjutkan sesi berikutnya, aku yakin itu bakal banyak membantu kamu. Nah, aku pengen tanya nih, selama dua minggu terakhir ini, apakah kamu pernah merasa kehilangan minat atau kesenangan dalam hampir semua aktivitas sehari-hari? Mungkin yang dulu kamu suka sekarang terasa hambar atau nggak menarik lagi? Kalau iya, menurut kamu, apa yang bikin rasanya berubah begitu?\nmahasiswa: Mungkin ini ya, kebiasaan aku yang biasanya rajin bersih kamar jadi malas, yang biasanya jalan2 keluar jadi malas juga dan lebih memilih untuk stay at home all day dan pesen makan lewat online aja.\nsindi: Aku ngerti banget, perubahan kebiasaan kayak itu bisa bikin kita merasa makin jauh dari versi diri yang kita inginkan ya. Kalau kamu boleh cerita, biasanya apa sih yang bikin kamu akhirnya memilih buat stay at home dan nggak beraktivitas seperti dulu? Ada perasaan atau pikiran tertentu yang muncul saat itu?\nmahasiswa: Ngerasa cemas sih kalau lagi keluar itu rasanya diperhatiin dan itu ga enak banget. Terus aku males bersihin kamar karena ga merasa itu membantu amat, karena aku merasa hidup aku udah ga bermakna lagi.\nsindi: Aku paham banget perasaan cemas itu, sampai bikin kamu pengen menghindar keluar dan malah merasa semua usaha jadi sia-sia. Rasanya berat ya, ketika hal-hal kecil seperti bersihin kamar juga jadi terasa nggak berarti. Aku pengen tahu nih, selama dua minggu terakhir ini, bagaimana perasaan kamu soal harga diri atau rasa berharga diri? Apakah kamu sering merasa nggak berharga atau merasa bersalah yang berlebihan? Biasanya pikiran atau situasi seperti apa yang memicu perasaan itu?\nmahasiswa: Sering sih. Tbh, aku udah merasa lelah menjawab pertanyaannya. Anyway, biasanya  yang memicu seperti aku sebutkan sebelum rasa gagal menjadi diri yang kuinginkan.\nsindi: Aku ngerti kok, aku tahu ini nggak gampang buat kamu. Makasih banget sudah berani buka-bukaan sejauh ini, itu sudah sangat berarti 😊 Jadi, aku mau coba rangkum sedikit ya dari apa yang kamu ceritain. Kamu lagi sering merasa sedih dan kesulitan merasa senang dalam aktivitas sehari-hari, terutama karena rasa gagal yang kamu alami di perkuliahan dan keinginan kamu buat diperhatiin. Pola makan kamu cenderung terjaga, tapi makan kadang cuma sebagai pelarian. Tidurmu cukup teratur walau ada kekhawatiran sebelum tidur. Kamu merasa energi menurun, malas mengerjakan hal-hal yang dulu kamu lakukan, dan ada perasaan nggak berharga serta rasa bersalah yang cukup sering muncul. Pikiran tentang kematian juga sempat muncul, tapi kamu sudah mencoba beberapa cara untuk menghadapinya dan bahkan sempat cerita ke psikolog kampus. Aku sangat mengapresiasi keberanianmu buat berbagi ini semua.\n\nAku di sini selalu siap dengerin kapan pun kamu butuh teman cerita, ya. Kalau kamu masih ada yang pengen ditambahin atau kamu mau cerita lebih lanjut, aku siap kok dengerin. Gimana, ada yang mau kamu tambahin?\nmahasiswa: Udah cukup kok\nsindi: Oke, kalau kamu merasa udah cukup buat sekarang, aku hargai banget ya waktu dan kepercayaan kamu buat cerita. Jangan ragu buat hubungi aku lagi kapan pun kamu butuh teman ngobrol atau dukungan, ya. Semoga kamu makin kuat dan bisa melalui semuanya dengan baik. Jaga diri baik-baik, ya! 😊\n\n</end_conversation>"
+    "formatted_conversation": "sindi: Halo aku Sindi, apakabar\nmahasiswa: Aku merasa sedih yang cukup mendalam, karena aku gagal menjadi diri yang kuinginkan. Aku ingin menjadi seseorang yang cekatan, aktif berdiskusi, cerdas, asik, selalu memanfaatkan waktunya untuk ikut berbagai macam kegiatan, keren, tapi kenyataannya aku bodoh. Kurang dalam hardskill dan juga softskill. Walau berusaha mencoba berubah, aku selalu jatuh dan kembali ke kebiasaan buruk aku.\nsindi: Aku turut merasa sedih dengar kamu lagi merasa kayak gitu 😔 Kadang emang berat ya kalau ekspektasi sama diri sendiri nggak nyampe. Aku pengen tahu nih, selama dua minggu terakhir ini, apa kamu masih merasa punya minat atau kesenangan dalam hal-hal yang biasanya kamu suka? Atau rasanya mulai hambar aja gitu?\nmahasiswa: Aku tidak mengingat bagaimana perasaanku soal merasakan kesenangan. Tapi aku merasa itu tergantung dengan mood atau motivasi aku aja. Kalau aku ngerasa sedih, butuh pelarian aku menggambar. Apalagi kalau dibarengi dengan adanya motivasi. Tapi kalau tidak ada motivasi mungkin aku tidak mau menggambar.\nsindi: Wah, aku paham banget tuh, kadang mood dan motivasi emang kayak naik turun ya, jadi pengaruh ke apa yang kita suka lakukan. Kalau lagi sedih dan kamu memilih menggambar sebagai pelarian, itu bagus banget sih, karena kamu punya cara menyalurkan perasaan. Selama dua minggu terakhir, seberapa sering sih kamu merasa sedih itu muncul? Biasanya apa yang bikin perasaan sedih itu makin berat atau malah agak reda?\nmahasiswa: Aku merasa selama 2 minggu terakhir, aku sangat sering merasakan kesedihan. Biasanya, yang bikin sedih adalah karena merasa gagal menjadi diri sendiri saat aktivitas perkuliahan. Aku kurang mindful, kurang present karena pikiran berisik yang ingin diperhatiin orang lain terus, tanpa menyadari situasi sekitar. Misalnya, saat situasi lagi fokus diskusi atau presentasi kelompok, aku malah tetap mikirin cara2 supaya aku diperhatiin. Kemudian, biasanya yang bikin sedih itu sedikit reda adalah dengan duduk sendiri dan merefleksikan apa yang kurasakan dan pikirkan. Walau, aku sedikit berharap bisa cerita ke teman kampus, karena aku takut membebani dan takut tidak bisa menceritakan permasalahan supaya mereka paham dan ingin membantu.\nsindi: Terima kasih sudah berbagi hal yang cukup dalam ini, aku bisa ngerti banget perasaan kamu yang pengen diperhatiin tapi juga ngerasa susah buat benar-benar fokus. Itu pasti bikin pikiran jadi makin berantakan ya. Aku penasaran, selama dua minggu terakhir ini, apakah pola makan atau nafsu makan kamu ada perubahan? Misalnya jadi makan lebih sedikit, lebih banyak, atau malah nggak nafsu makan sama sekali? Biasanya apa yang mempengaruhi itu?\nmahasiswa: Terkait pola makan, aku memiliki kebiasaan buruk makan banyak kalau lagi bosan atau butuh pelarian. Tapi 2 minggu terakhir ini, aku merasa pola makan aku cukup terjaga namun karena mengasosiakan makan cuma untuk pelarian, jadinya aku kurang menikmati waktu makan aku dan mengganggap aku tu makan karena terpaksa biar ga sakit aja.\nsindi: Aku paham, makan sebagai pelarian itu kadang jadi cara buat ngisi kekosongan atau ngilangin rasa nggak enak, tapi kalau sampai makan terasa kayak kewajiban aja, rasanya pasti nggak nyaman banget. Nah, aku pengen tahu nih, gimana dengan tidur kamu selama dua minggu terakhir? Apakah kamu merasa lebih susah tidur, sering terbangun, atau malah tidur terlalu lama? Biasanya ada hal tertentu yang bikin susah tidur atau pengaruh ke pola tidur kamu?\nmahasiswa: Pola tidur selama dua minggu terakhir ini masih teratur sih. Aku sering tidur cukup 7-8 jam. Terkadang ada tugas kuliah bisa bikin begadang, tapi tetap ga mengganggu tidur cuma mengurangi jam tidurnya aja. Aku merasa ga kesulitan juga untuk tidur. Tapi terkadang yang bikin sulit tidur kalau aku belum nonton video distraksi sih, kalau aku ga nonton video yang aku suka, pikiran aku tu mengganggu dan bikin aku sulit tidur. Ini tuh muncul kalau aku punya kekhawatiran akan apa yang terjadi esok, misalnya mau presentasi dan semacamnya.\nsindi: Wah, menarik banget nih kebiasaan nonton video buat bantu rileks sebelum tidur. Kadang pikiran yang penuh kekhawatiran emang bisa ganggu banget ya. Aku pengen tanya, apa teman-teman atau orang-orang di sekitar kamu sempat bilang kalau kamu terlihat lebih lambat atau lebih gelisah dari biasanya dalam beberapa minggu terakhir? Kalau iya, biasanya kamu merasa gimana dan apa ya kira-kira yang bikin perubahan ritme itu?\nmahasiswa: Aku agat sedih kalau ditanya soal apa yang dipikirkan orang lain. Karena aku merasa orang di sekitar aku ga terlalu merhatiin aku, jadinya mereka ga akan peka kalau aku ngerasa kurang baik2 aja. Agak berharap sih, kalau ada yang komentar seperti itu karna itu nunjukin mereka peduli.\nsindi: Aku ngerti banget perasaan kamu yang pengen banget dirasa diperhatiin dan dihargai, tapi takut atau ragu karena merasa orang lain nggak terlalu peduli. Itu bikin perasaan jadi campur aduk ya. Aku penasaran, selama dua minggu terakhir, apakah kamu sering merasa cepat lelah atau kehilangan energi, meskipun aktivitas sehari-hari nggak terlalu berat? Biasanya kalau energi kamu turun, apa sih yang biasanya terjadi sebelumnya?\nmahasiswa: Sebenarnya aku kurang yakin menjawab ini karena bukan hal yang terlalu aku pikiran amat. Tapi selama 2 minggu terakhir, aku merasa aku malas untuk bersihin kamar, baju kotor pun menumpuk, barang2 yang aku punya juga ga dirawat, sering prokrastinasi tugas, jarang keluar untuk beli makan karena dulu sering banget keluar pagi atau siang, sore untuk beli sesuatu, sering bolos kuliah juga bahkan hampir 3 kali. Yang memicu biasanya rasa gagal menjadi diri sendiri itu sih. Misal, kalau lagi diskusi kelompok aku hanya diam saja, aku mulai mikir kenapa aku ga aktif, padahal aslinya aku pengen banget berkoar-koar\nsindi: Makasih ya udah jujur cerita tentang itu, aku tahu itu nggak gampang buat kamu. Sepertinya rasa gagal dan perasaan nggak cukup itu memang cukup ngaruh ke energi dan motivasi kamu sehari-hari ya. Aku ingin tahu, selama dua minggu terakhir ini, apakah kamu sering merasa nggak berharga atau punya rasa bersalah yang berlebihan, misalnya merasa semua kesalahan ada di kamu atau hal-hal kecil jadi bikin kamu merasa bersalah banget? Biasanya pemicu dari perasaan itu apa ya?\nmahasiswa: Oke, terkait hal ini sering banget sih apalagi dalam 2 minggu terakhir. Jadi aku sering banget merasa kehadiran aku di dunia ini ga berguna. Apapun yang kulakukan pasti ada aja yang kurang, banyak sih sebenarnya, AKu agak malas mengingat kembali. Pokoknya disetiap interaksi aku pasti overthinking kesalahan aku dan mulai mikir semua orang membenciku. Nah, aku pun membenci diriku sendiri kalau orang lain juga membenciku. Aku jadi mikir lebih baik ga ada didunia ini.\nsindi: Aku benar-benar sedih dengar kamu lagi merasa kayak gitu 😢 Perasaan kayak nggak berguna dan overthinking itu berat banget, apalagi sampai mikir kalau orang lain membenci kamu. Aku pengen tahu, selama dua minggu terakhir, apakah kamu juga pernah mengalami kesulitan dalam berkonsentrasi atau membuat keputusan? Misalnya, saat belajar atau menjalani aktivitas sehari-hari, kamu merasa susah fokus atau bingung harus ngapain dulu? Biasanya hal apa yang paling mengganggu fokus kamu?\nmahasiswa: Sering sih. Karena aku terus mikin cara agar orang merhatiin aku, walau aku sendiri ga ngelakuin apa2 karena anaknya lumayan penutup dan pemalu.\nsindi: Aku paham banget, pikiran yang terus-terusan mikirin perhatian orang lain bisa bikin fokus jadi buyar ya. Selain itu, biasanya hal lain apa sih yang bikin kamu susah konsentrasi? Misalnya notifikasi di hp, kekhawatiran yang belum selesai, atau mungkin kelelahan?\nmahasiswa: kalau ngerasa cemas juga misalnya kalau mau presentasi, aku terus mikirin nanti gimana pas presentasi dll. Susah fokus juga karena merasa semua ini ga bermakna gitu i guess\nsindi: Aku ngerti banget, kecemasan sebelum presentasi itu memang bikin pikiran jadi susah fokus, apalagi kalau terasa semuanya kayak nggak bermakna. Aku pengen tanya nih, selama dua minggu terakhir ini, apakah kamu pernah terpikirkan hal-hal tentang kematian atau bahkan ide bunuh diri? Kalau iya, biasanya kapan dan apa yang bikin pikiran itu makin kuat?\nmahasiswa: Aku merasa ini cukup sering ya, apalagi aku ngerasa gagal banget di hidupku. Biasanya, saat habis pulang dari kampus, karena selalu merasa gagal dalam apapun yang kulakukan di perkuliahan. Kalau lagi sendiri di koslah intinya\nsindi: Terima kasih sudah jujur berbagi tentang hal ini, aku tahu betapa beratnya pikiran seperti itu. Saat kamu merasa seperti itu, apakah ada hal tertentu yang biasanya bisa sedikit membantu mengurangi pikiran tentang kematian atau bunuh diri itu? Misalnya ngobrol sama seseorang, melakukan hobi, atau hal lain? Aku pengen tahu juga, kamu sudah pernah coba cerita ke siapa pun tentang perasaan ini?\nmahasiswa: Berdialog dengan diri sendiri sih, terus nonton video yang aku suka. Menggambar maybe. Aku pernah cerita ke psikolog yang ada di kampus\nsindi: Wah, bagus banget kamu sudah mencoba beberapa cara untuk menenangkan diri dan juga sempat cerita ke psikolog kampus. Itu langkah yang sangat positif, walau mungkin belum mudah. Kalau aku boleh tahu, dari pengalaman ngobrol sama psikolog itu, ada hal apa yang menurut kamu membantu atau yang pengen kamu coba lebih lanjut?\nmahasiswa: Cukup membantu karena aku jadi tahu akar permasalahan aku. Mungkin aku akan lanjut sesi selanjutnya yang udah disarankan sama psikolognya supaya bisa lebih baik dalam merespon apa yang mengganggu aku\nsindi: Wah, keren banget kamu udah mulai bisa mengenali akar permasalahannya, itu langkah besar loh! Semangat terus ya untuk melanjutkan sesi berikutnya, aku yakin itu bakal banyak membantu kamu. Nah, aku pengen tanya nih, selama dua minggu terakhir ini, apakah kamu pernah merasa kehilangan minat atau kesenangan dalam hampir semua aktivitas sehari-hari? Mungkin yang dulu kamu suka sekarang terasa hambar atau nggak menarik lagi? Kalau iya, menurut kamu, apa yang bikin rasanya berubah begitu?\nmahasiswa: Mungkin ini ya, kebiasaan aku yang biasanya rajin bersih kamar jadi malas, yang biasanya jalan2 keluar jadi malas juga dan lebih memilih untuk stay at home all day dan pesen makan lewat online aja.\nsindi: Aku ngerti banget, perubahan kebiasaan kayak itu bisa bikin kita merasa makin jauh dari versi diri yang kita inginkan ya. Kalau kamu boleh cerita, biasanya apa sih yang bikin kamu akhirnya memilih buat stay at home dan nggak beraktivitas seperti dulu? Ada perasaan atau pikiran tertentu yang muncul saat itu?\nmahasiswa: Ngerasa cemas sih kalau lagi keluar itu rasanya diperhatiin dan itu ga enak banget. Terus aku males bersihin kamar karena ga merasa itu membantu amat, karena aku merasa hidup aku udah ga bermakna lagi.\nsindi: Aku paham banget perasaan cemas itu, sampai bikin kamu pengen menghindar keluar dan malah merasa semua usaha jadi sia-sia. Rasanya berat ya, ketika hal-hal kecil seperti bersihin kamar juga jadi terasa nggak berarti. Aku pengen tahu nih, selama dua minggu terakhir ini, bagaimana perasaan kamu soal harga diri atau rasa berharga diri? Apakah kamu sering merasa nggak berharga atau merasa bersalah yang berlebihan? Biasanya pikiran atau situasi seperti apa yang memicu perasaan itu?\nmahasiswa: Sering sih. Tbh, aku udah merasa lelah menjawab pertanyaannya. Anyway, biasanya  yang memicu seperti aku sebutkan sebelum rasa gagal menjadi diri yang kuinginkan.\nsindi: Aku ngerti kok, aku tahu ini nggak gampang buat kamu. Makasih banget sudah berani buka-bukaan sejauh ini, itu sudah sangat berarti 😊 Jadi, aku mau coba rangkum sedikit ya dari apa yang kamu ceritain. Kamu lagi sering merasa sedih dan kesulitan merasa senang dalam aktivitas sehari-hari, terutama karena rasa gagal yang kamu alami di perkuliahan dan keinginan kamu buat diperhatiin. Pola makan kamu cenderung terjaga, tapi makan kadang cuma sebagai pelarian. Tidurmu cukup teratur walau ada kekhawatiran sebelum tidur. Kamu merasa energi menurun, malas mengerjakan hal-hal yang dulu kamu lakukan, dan ada perasaan nggak berharga serta rasa bersalah yang cukup sering muncul. Pikiran tentang kematian juga sempat muncul, tapi kamu sudah mencoba beberapa cara untuk menghadapinya dan bahkan sempat cerita ke psikolog kampus. Aku sangat mengapresiasi keberanianmu buat berbagi ini semua.\n\nAku di sini selalu siap dengerin kapan pun kamu butuh teman cerita, ya. Kalau kamu masih ada yang pengen ditambahin atau kamu mau cerita lebih lanjut, aku siap kok dengerin. Gimana, ada yang mau kamu tambahin?\nmahasiswa: Udah cukup kok\nsindi: Oke, kalau kamu merasa udah cukup buat sekarang, aku hargai banget ya waktu dan kepercayaan kamu buat cerita. Jangan ragu buat hubungi aku lagi kapan pun kamu butuh teman ngobrol atau dukungan, ya. Semoga kamu makin kuat dan bisa melalui semuanya dengan baik. Jaga diri baik-baik, ya! 😊\n\n</end_conversation>",
+    "raw_conversation": [
+      {
+        "turn_number": 1,
+        "user_message": "Aku merasa sedih yang cukup mendalam, karena aku gagal menjadi diri yang kuinginkan. Aku ingin menjadi seseorang yang cekatan, aktif berdiskusi, cerdas, asik, selalu memanfaatkan waktunya untuk ikut berbagai macam kegiatan, keren, tapi kenyataannya aku bodoh. Kurang dalam hardskill dan juga softskill. Walau berusaha mencoba berubah, aku selalu jatuh dan kembali ke kebiasaan buruk aku.",
+        "ai_message": "Aku turut merasa sedih dengar kamu lagi merasa kayak gitu 😔 Kadang emang berat ya kalau ekspektasi sama diri sendiri nggak nyampe. Aku pengen tahu nih, selama dua minggu terakhir ini, apa kamu masih merasa punya minat atau kesenangan dalam hal-hal yang biasanya kamu suka? Atau rasanya mulai hambar aja gitu?",
+        "user_message_length": 387,
+        "user_timing": {
+          "start": 37,
+          "end": 244,
+          "duration": 207
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 2,
+        "user_message": "Aku tidak mengingat bagaimana perasaanku soal merasakan kesenangan. Tapi aku merasa itu tergantung dengan mood atau motivasi aku aja. Kalau aku ngerasa sedih, butuh pelarian aku menggambar. Apalagi kalau dibarengi dengan adanya motivasi. Tapi kalau tidak ada motivasi mungkin aku tidak mau menggambar.",
+        "ai_message": "Wah, aku paham banget tuh, kadang mood dan motivasi emang kayak naik turun ya, jadi pengaruh ke apa yang kita suka lakukan. Kalau lagi sedih dan kamu memilih menggambar sebagai pelarian, itu bagus banget sih, karena kamu punya cara menyalurkan perasaan. Selama dua minggu terakhir, seberapa sering sih kamu merasa sedih itu muncul? Biasanya apa yang bikin perasaan sedih itu makin berat atau malah agak reda?",
+        "user_message_length": 301,
+        "user_timing": {
+          "start": 301,
+          "end": 402,
+          "duration": 101
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 3,
+        "user_message": "Aku merasa selama 2 minggu terakhir, aku sangat sering merasakan kesedihan. Biasanya, yang bikin sedih adalah karena merasa gagal menjadi diri sendiri saat aktivitas perkuliahan. Aku kurang mindful, kurang present karena pikiran berisik yang ingin diperhatiin orang lain terus, tanpa menyadari situasi sekitar. Misalnya, saat situasi lagi fokus diskusi atau presentasi kelompok, aku malah tetap mikirin cara2 supaya aku diperhatiin. Kemudian, biasanya yang bikin sedih itu sedikit reda adalah dengan duduk sendiri dan merefleksikan apa yang kurasakan dan pikirkan. Walau, aku sedikit berharap bisa cerita ke teman kampus, karena aku takut membebani dan takut tidak bisa menceritakan permasalahan supaya mereka paham dan ingin membantu.",
+        "ai_message": "Terima kasih sudah berbagi hal yang cukup dalam ini, aku bisa ngerti banget perasaan kamu yang pengen diperhatiin tapi juga ngerasa susah buat benar-benar fokus. Itu pasti bikin pikiran jadi makin berantakan ya. Aku penasaran, selama dua minggu terakhir ini, apakah pola makan atau nafsu makan kamu ada perubahan? Misalnya jadi makan lebih sedikit, lebih banyak, atau malah nggak nafsu makan sama sekali? Biasanya apa yang mempengaruhi itu?",
+        "user_message_length": 735,
+        "user_timing": {
+          "start": 431,
+          "end": 748,
+          "duration": 317
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 4,
+        "user_message": "Terkait pola makan, aku memiliki kebiasaan buruk makan banyak kalau lagi bosan atau butuh pelarian. Tapi 2 minggu terakhir ini, aku merasa pola makan aku cukup terjaga namun karena mengasosiakan makan cuma untuk pelarian, jadinya aku kurang menikmati waktu makan aku dan mengganggap aku tu makan karena terpaksa biar ga sakit aja.",
+        "ai_message": "Aku paham, makan sebagai pelarian itu kadang jadi cara buat ngisi kekosongan atau ngilangin rasa nggak enak, tapi kalau sampai makan terasa kayak kewajiban aja, rasanya pasti nggak nyaman banget. Nah, aku pengen tahu nih, gimana dengan tidur kamu selama dua minggu terakhir? Apakah kamu merasa lebih susah tidur, sering terbangun, atau malah tidur terlalu lama? Biasanya ada hal tertentu yang bikin susah tidur atau pengaruh ke pola tidur kamu?",
+        "user_message_length": 330,
+        "user_timing": {
+          "start": 799,
+          "end": 895,
+          "duration": 96
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 5,
+        "user_message": "Pola tidur selama dua minggu terakhir ini masih teratur sih. Aku sering tidur cukup 7-8 jam. Terkadang ada tugas kuliah bisa bikin begadang, tapi tetap ga mengganggu tidur cuma mengurangi jam tidurnya aja. Aku merasa ga kesulitan juga untuk tidur. Tapi terkadang yang bikin sulit tidur kalau aku belum nonton video distraksi sih, kalau aku ga nonton video yang aku suka, pikiran aku tu mengganggu dan bikin aku sulit tidur. Ini tuh muncul kalau aku punya kekhawatiran akan apa yang terjadi esok, misalnya mau presentasi dan semacamnya.",
+        "ai_message": "Wah, menarik banget nih kebiasaan nonton video buat bantu rileks sebelum tidur. Kadang pikiran yang penuh kekhawatiran emang bisa ganggu banget ya. Aku pengen tanya, apa teman-teman atau orang-orang di sekitar kamu sempat bilang kalau kamu terlihat lebih lambat atau lebih gelisah dari biasanya dalam beberapa minggu terakhir? Kalau iya, biasanya kamu merasa gimana dan apa ya kira-kira yang bikin perubahan ritme itu?",
+        "user_message_length": 535,
+        "user_timing": {
+          "start": 932,
+          "end": 1100,
+          "duration": 168
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 6,
+        "user_message": "Aku agat sedih kalau ditanya soal apa yang dipikirkan orang lain. Karena aku merasa orang di sekitar aku ga terlalu merhatiin aku, jadinya mereka ga akan peka kalau aku ngerasa kurang baik2 aja. Agak berharap sih, kalau ada yang komentar seperti itu karna itu nunjukin mereka peduli.",
+        "ai_message": "Aku ngerti banget perasaan kamu yang pengen banget dirasa diperhatiin dan dihargai, tapi takut atau ragu karena merasa orang lain nggak terlalu peduli. Itu bikin perasaan jadi campur aduk ya. Aku penasaran, selama dua minggu terakhir, apakah kamu sering merasa cepat lelah atau kehilangan energi, meskipun aktivitas sehari-hari nggak terlalu berat? Biasanya kalau energi kamu turun, apa sih yang biasanya terjadi sebelumnya?",
+        "user_message_length": 283,
+        "user_timing": {
+          "start": 1140,
+          "end": 1215,
+          "duration": 75
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 7,
+        "user_message": "Sebenarnya aku kurang yakin menjawab ini karena bukan hal yang terlalu aku pikiran amat. Tapi selama 2 minggu terakhir, aku merasa aku malas untuk bersihin kamar, baju kotor pun menumpuk, barang2 yang aku punya juga ga dirawat, sering prokrastinasi tugas, jarang keluar untuk beli makan karena dulu sering banget keluar pagi atau siang, sore untuk beli sesuatu, sering bolos kuliah juga bahkan hampir 3 kali. Yang memicu biasanya rasa gagal menjadi diri sendiri itu sih. Misal, kalau lagi diskusi kelompok aku hanya diam saja, aku mulai mikir kenapa aku ga aktif, padahal aslinya aku pengen banget berkoar-koar",
+        "ai_message": "Makasih ya udah jujur cerita tentang itu, aku tahu itu nggak gampang buat kamu. Sepertinya rasa gagal dan perasaan nggak cukup itu memang cukup ngaruh ke energi dan motivasi kamu sehari-hari ya. Aku ingin tahu, selama dua minggu terakhir ini, apakah kamu sering merasa nggak berharga atau punya rasa bersalah yang berlebihan, misalnya merasa semua kesalahan ada di kamu atau hal-hal kecil jadi bikin kamu merasa bersalah banget? Biasanya pemicu dari perasaan itu apa ya?",
+        "user_message_length": 610,
+        "user_timing": {
+          "start": 1264,
+          "end": 1452,
+          "duration": 188
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 8,
+        "user_message": "Oke, terkait hal ini sering banget sih apalagi dalam 2 minggu terakhir. Jadi aku sering banget merasa kehadiran aku di dunia ini ga berguna. Apapun yang kulakukan pasti ada aja yang kurang, banyak sih sebenarnya, AKu agak malas mengingat kembali. Pokoknya disetiap interaksi aku pasti overthinking kesalahan aku dan mulai mikir semua orang membenciku. Nah, aku pun membenci diriku sendiri kalau orang lain juga membenciku. Aku jadi mikir lebih baik ga ada didunia ini.",
+        "ai_message": "Aku benar-benar sedih dengar kamu lagi merasa kayak gitu 😢 Perasaan kayak nggak berguna dan overthinking itu berat banget, apalagi sampai mikir kalau orang lain membenci kamu. Aku pengen tahu, selama dua minggu terakhir, apakah kamu juga pernah mengalami kesulitan dalam berkonsentrasi atau membuat keputusan? Misalnya, saat belajar atau menjalani aktivitas sehari-hari, kamu merasa susah fokus atau bingung harus ngapain dulu? Biasanya hal apa yang paling mengganggu fokus kamu?",
+        "user_message_length": 468,
+        "user_timing": {
+          "start": 1527,
+          "end": 1655,
+          "duration": 128
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 9,
+        "user_message": "Sering sih. Karena aku terus mikin cara agar orang merhatiin aku, walau aku sendiri ga ngelakuin apa2 karena anaknya lumayan penutup dan pemalu.",
+        "ai_message": "Aku paham banget, pikiran yang terus-terusan mikirin perhatian orang lain bisa bikin fokus jadi buyar ya. Selain itu, biasanya hal lain apa sih yang bikin kamu susah konsentrasi? Misalnya notifikasi di hp, kekhawatiran yang belum selesai, atau mungkin kelelahan?",
+        "user_message_length": 144,
+        "user_timing": {
+          "start": 1686,
+          "end": 1735,
+          "duration": 49
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 10,
+        "user_message": "kalau ngerasa cemas juga misalnya kalau mau presentasi, aku terus mikirin nanti gimana pas presentasi dll. Susah fokus juga karena merasa semua ini ga bermakna gitu i guess",
+        "ai_message": "Aku ngerti banget, kecemasan sebelum presentasi itu memang bikin pikiran jadi susah fokus, apalagi kalau terasa semuanya kayak nggak bermakna. Aku pengen tanya nih, selama dua minggu terakhir ini, apakah kamu pernah terpikirkan hal-hal tentang kematian atau bahkan ide bunuh diri? Kalau iya, biasanya kapan dan apa yang bikin pikiran itu makin kuat?",
+        "user_message_length": 172,
+        "user_timing": {
+          "start": 1777,
+          "end": 1824,
+          "duration": 47
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 11,
+        "user_message": "Aku merasa ini cukup sering ya, apalagi aku ngerasa gagal banget di hidupku. Biasanya, saat habis pulang dari kampus, karena selalu merasa gagal dalam apapun yang kulakukan di perkuliahan. Kalau lagi sendiri di koslah intinya",
+        "ai_message": "Terima kasih sudah jujur berbagi tentang hal ini, aku tahu betapa beratnya pikiran seperti itu. Saat kamu merasa seperti itu, apakah ada hal tertentu yang biasanya bisa sedikit membantu mengurangi pikiran tentang kematian atau bunuh diri itu? Misalnya ngobrol sama seseorang, melakukan hobi, atau hal lain? Aku pengen tahu juga, kamu sudah pernah coba cerita ke siapa pun tentang perasaan ini?",
+        "user_message_length": 225,
+        "user_timing": {
+          "start": 1853,
+          "end": 1925,
+          "duration": 72
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 12,
+        "user_message": "Berdialog dengan diri sendiri sih, terus nonton video yang aku suka. Menggambar maybe. Aku pernah cerita ke psikolog yang ada di kampus",
+        "ai_message": "Wah, bagus banget kamu sudah mencoba beberapa cara untuk menenangkan diri dan juga sempat cerita ke psikolog kampus. Itu langkah yang sangat positif, walau mungkin belum mudah. Kalau aku boleh tahu, dari pengalaman ngobrol sama psikolog itu, ada hal apa yang menurut kamu membantu atau yang pengen kamu coba lebih lanjut?",
+        "user_message_length": 135,
+        "user_timing": {
+          "start": 1952,
+          "end": 2003,
+          "duration": 51
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 13,
+        "user_message": "Cukup membantu karena aku jadi tahu akar permasalahan aku. Mungkin aku akan lanjut sesi selanjutnya yang udah disarankan sama psikolognya supaya bisa lebih baik dalam merespon apa yang mengganggu aku",
+        "ai_message": "Wah, keren banget kamu udah mulai bisa mengenali akar permasalahannya, itu langkah besar loh! Semangat terus ya untuk melanjutkan sesi berikutnya, aku yakin itu bakal banyak membantu kamu. Nah, aku pengen tanya nih, selama dua minggu terakhir ini, apakah kamu pernah merasa kehilangan minat atau kesenangan dalam hampir semua aktivitas sehari-hari? Mungkin yang dulu kamu suka sekarang terasa hambar atau nggak menarik lagi? Kalau iya, menurut kamu, apa yang bikin rasanya berubah begitu?",
+        "user_message_length": 199,
+        "user_timing": {
+          "start": 2015,
+          "end": 2066,
+          "duration": 51
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 14,
+        "user_message": "Mungkin ini ya, kebiasaan aku yang biasanya rajin bersih kamar jadi malas, yang biasanya jalan2 keluar jadi malas juga dan lebih memilih untuk stay at home all day dan pesen makan lewat online aja.",
+        "ai_message": "Aku ngerti banget, perubahan kebiasaan kayak itu bisa bikin kita merasa makin jauh dari versi diri yang kita inginkan ya. Kalau kamu boleh cerita, biasanya apa sih yang bikin kamu akhirnya memilih buat stay at home dan nggak beraktivitas seperti dulu? Ada perasaan atau pikiran tertentu yang muncul saat itu?",
+        "user_message_length": 197,
+        "user_timing": {
+          "start": 2101,
+          "end": 2152,
+          "duration": 51
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 15,
+        "user_message": "Ngerasa cemas sih kalau lagi keluar itu rasanya diperhatiin dan itu ga enak banget. Terus aku males bersihin kamar karena ga merasa itu membantu amat, karena aku merasa hidup aku udah ga bermakna lagi.",
+        "ai_message": "Aku paham banget perasaan cemas itu, sampai bikin kamu pengen menghindar keluar dan malah merasa semua usaha jadi sia-sia. Rasanya berat ya, ketika hal-hal kecil seperti bersihin kamar juga jadi terasa nggak berarti. Aku pengen tahu nih, selama dua minggu terakhir ini, bagaimana perasaan kamu soal harga diri atau rasa berharga diri? Apakah kamu sering merasa nggak berharga atau merasa bersalah yang berlebihan? Biasanya pikiran atau situasi seperti apa yang memicu perasaan itu?",
+        "user_message_length": 201,
+        "user_timing": {
+          "start": 2173,
+          "end": 2218,
+          "duration": 45
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 16,
+        "user_message": "Sering sih. Tbh, aku udah merasa lelah menjawab pertanyaannya. Anyway, biasanya  yang memicu seperti aku sebutkan sebelum rasa gagal menjadi diri yang kuinginkan.",
+        "ai_message": "Aku ngerti kok, aku tahu ini nggak gampang buat kamu. Makasih banget sudah berani buka-bukaan sejauh ini, itu sudah sangat berarti 😊 Jadi, aku mau coba rangkum sedikit ya dari apa yang kamu ceritain. Kamu lagi sering merasa sedih dan kesulitan merasa senang dalam aktivitas sehari-hari, terutama karena rasa gagal yang kamu alami di perkuliahan dan keinginan kamu buat diperhatiin. Pola makan kamu cenderung terjaga, tapi makan kadang cuma sebagai pelarian. Tidurmu cukup teratur walau ada kekhawatiran sebelum tidur. Kamu merasa energi menurun, malas mengerjakan hal-hal yang dulu kamu lakukan, dan ada perasaan nggak berharga serta rasa bersalah yang cukup sering muncul. Pikiran tentang kematian juga sempat muncul, tapi kamu sudah mencoba beberapa cara untuk menghadapinya dan bahkan sempat cerita ke psikolog kampus. Aku sangat mengapresiasi keberanianmu buat berbagi ini semua.\n\nAku di sini selalu siap dengerin kapan pun kamu butuh teman cerita, ya. Kalau kamu masih ada yang pengen ditambahin atau kamu mau cerita lebih lanjut, aku siap kok dengerin. Gimana, ada yang mau kamu tambahin?",
+        "user_message_length": 162,
+        "user_timing": {
+          "start": 2297,
+          "end": 2336,
+          "duration": 39
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 17,
+        "user_message": "Udah cukup kok",
+        "ai_message": "Oke, kalau kamu merasa udah cukup buat sekarang, aku hargai banget ya waktu dan kepercayaan kamu buat cerita. Jangan ragu buat hubungi aku lagi kapan pun kamu butuh teman ngobrol atau dukungan, ya. Semoga kamu makin kuat dan bisa melalui semuanya dengan baik. Jaga diri baik-baik, ya! 😊\n\n</end_conversation>",
+        "user_message_length": 14,
+        "user_timing": {
+          "start": 2402,
+          "end": 2406,
+          "duration": 4
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": true,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      }
+    ],
+    "session_metadata": {
+      "phq_analysis": {
+        "status": "completed",
+        "total_images_processed": 501,
+        "images_with_faces_detected": 474,
+        "images_failed": 27,
+        "processing_time_seconds": 668.177942,
+        "avg_time_per_image_ms": 905.0021097046414,
+        "summary_stats": {
+          "dominant_emotion": "Neutral",
+          "emotion_distribution": {
+            "Neutral": 443,
+            "Sadness": 1,
+            "Fear": 14,
+            "Surprise": 11,
+            "Happiness": 3,
+            "Disgust": 2
+          },
+          "avg_au_activations": 0.32,
+          "most_active_aus": [
+            "au_12",
+            "au_4",
+            "au_6",
+            "au_2",
+            "au_17"
+          ],
+          "total_frames_analyzed": 474
+        },
+        "started_at": "2025-10-20T14:24:41.916566",
+        "completed_at": "2025-10-20T14:35:50.107897"
+      },
+      "llm_analysis": {
+        "status": "completed",
+        "total_images_processed": 2356,
+        "images_with_faces_detected": 2335,
+        "images_failed": 21,
+        "processing_time_seconds": 3117.658555,
+        "avg_time_per_image_ms": 898.3700214132763,
+        "summary_stats": {
+          "dominant_emotion": "Neutral",
+          "emotion_distribution": {
+            "Neutral": 2329,
+            "Fear": 1,
+            "Disgust": 1,
+            "Happiness": 4
+          },
+          "avg_au_activations": 0.47,
+          "most_active_aus": [
+            "au_4",
+            "au_12",
+            "au_6",
+            "au_2",
+            "au_17"
+          ],
+          "total_frames_analyzed": 2335
+        },
+        "started_at": "2025-10-20T14:32:34.181680",
+        "completed_at": "2025-10-20T15:24:31.885944"
+      }
+    },
+    "phq_analysis_file": "user_289_n47h4n_session1/phq_analysis.jsonl",
+    "llm_analysis_file": "user_289_n47h4n_session1/llm_analysis.jsonl",
+    "phq_responses_file": "user_289_n47h4n_session1/phq_responses.json",
+    "session_metadata_file": "user_289_n47h4n_session1/metadata.json"
+  },
+  "phq_summary": {
+    "metadata": {
+      "type": "metadata",
+      "session_id": "6dbc570a-dad6-4e15-90d9-08cd144875ca",
+      "assessment_id": "e05040a7-d753-4652-8ac5-490bc90391a2",
+      "assessment_type": "PHQ",
+      "total_images": 501,
+      "started_at": "2025-10-20T14:24:41.918121"
+    },
+    "total_rows": 503,
+    "data_rows": 502,
+    "file_path": "user_289_n47h4n_session1/phq_analysis.jsonl",
+    "extra": {
+      "total_score": 20,
+      "max_possible_score": 27,
+      "responses": {
+        "ANHEDONIA": {
+          "Dalam 2 minggu terakhir apakah Anda merasa kurang tertarik atau bergairah dalam melakukan apapun?": {
+            "response_text": "Beberapa kali (cukup sering)",
+            "response_value": 2,
+            "response_time_ms": 99022,
+            "timing": {
+              "start": 0,
+              "end": 99,
+              "duration": 99
+            }
+          }
+        },
+        "DEPRESSED_MOOD": {
+          "Dalam rentang 2 minggu terakhir, apakah muncul perasaan murung, muram, ataupun putus asa pada diri Anda?": {
+            "response_text": "Sering",
+            "response_value": 3,
+            "response_time_ms": 29663,
+            "timing": {
+              "start": 101,
+              "end": 131,
+              "duration": 30
+            }
+          }
+        },
+        "SLEEP_DISTURBANCE": {
+          "Selama 2 minggu terakhir, apakah Anda mengalami kesulitan untuk tidur nyenyak, sering terbangun di malam hari, atau justru tidur berlebihan?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 115143,
+            "timing": {
+              "start": 133,
+              "end": 249,
+              "duration": 116
+            }
+          }
+        },
+        "FATIGUE": {
+          "Dalam rentang 2 minggu terakhir, apakah tubuh Anda sering terasa lelah atau tidak berenergi?": {
+            "response_text": "Pernah (jarang)",
+            "response_value": 1,
+            "response_time_ms": 142873,
+            "timing": {
+              "start": 254,
+              "end": 397,
+              "duration": 143
+            }
+          }
+        },
+        "APPETITE_CHANGES": {
+          "Dalam 2 minggu terakhir apakah Anda merasa kurang nafsu makan atau terlalu banyak makan?": {
+            "response_text": "Beberapa kali (cukup sering)",
+            "response_value": 2,
+            "response_time_ms": 43420,
+            "timing": {
+              "start": 399,
+              "end": 442,
+              "duration": 43
+            }
+          }
+        },
+        "WORTHLESSNESS": {
+          "Dalam 2 minggu terakhir apakah Anda merasa kurang percaya diri, atau merasa bahwa Anda adalah orang yang gagal atau telah mengecewakan diri sendiri atau keluarga?": {
+            "response_text": "Sering",
+            "response_value": 3,
+            "response_time_ms": 10130,
+            "timing": {
+              "start": 444,
+              "end": 454,
+              "duration": 10
+            }
+          }
+        },
+        "CONCENTRATION": {
+          "Dalam 2 minggu terakhir apakah Anda merasa sulit berkonsentrasi pada sesuatu, misalnya membaca berita atau menonton tayangan media?": {
+            "response_text": "Sering",
+            "response_value": 3,
+            "response_time_ms": 10592,
+            "timing": {
+              "start": 458,
+              "end": 469,
+              "duration": 11
+            }
+          }
+        },
+        "PSYCHOMOTOR": {
+          "Dalam rentang 2 minggu terakhir, apakah Anda mengalami perubahan seperti bergerak atau berbicara jauh lebih lambat, atau justru merasa resah sehingga aktivitas tubuh Anda meningkat?": {
+            "response_text": "Sering",
+            "response_value": 3,
+            "response_time_ms": 21891,
+            "timing": {
+              "start": 470,
+              "end": 492,
+              "duration": 22
+            }
+          }
+        },
+        "SUICIDAL_IDEATION": {
+          "Selama 2 minggu terakhir, adakah muncul pikiran bahwa lebih baik tidak hidup atau keinginan untuk menyakiti diri sendiri dengan cara apa pun?": {
+            "response_text": "Sering",
+            "response_value": 3,
+            "response_time_ms": 6896,
+            "timing": {
+              "start": 498,
+              "end": 505,
+              "duration": 7
+            }
+          }
+        }
+      },
+      "analysis_stats": {
+        "status": "completed",
+        "total_images_processed": 501,
+        "images_with_faces_detected": 474,
+        "images_failed": 27,
+        "processing_time_seconds": 668.177942,
+        "avg_time_per_image_ms": 905.0021097046414,
+        "summary_stats": {
+          "dominant_emotion": "Neutral",
+          "emotion_distribution": {
+            "Neutral": 443,
+            "Sadness": 1,
+            "Fear": 14,
+            "Surprise": 11,
+            "Happiness": 3,
+            "Disgust": 2
+          },
+          "avg_au_activations": 0.32,
+          "most_active_aus": [
+            "au_12",
+            "au_4",
+            "au_6",
+            "au_2",
+            "au_17"
+          ],
+          "total_frames_analyzed": 474
+        },
+        "started_at": "2025-10-20T14:24:41.916566",
+        "completed_at": "2025-10-20T14:35:50.107897"
+      }
+    }
+  },
+  "llm_summary": {
+    "metadata": {
+      "type": "metadata",
+      "session_id": "6dbc570a-dad6-4e15-90d9-08cd144875ca",
+      "assessment_id": "e8272bf2-6554-4cec-abfe-490757abcda7",
+      "assessment_type": "LLM",
+      "total_images": 2356,
+      "started_at": "2025-10-20T14:32:34.184079"
+    },
+    "total_rows": 2358,
+    "data_rows": 2357,
+    "file_path": "user_289_n47h4n_session1/llm_analysis.jsonl",
+    "extra": {
+      "analysis_stats": {
+        "status": "completed",
+        "total_images_processed": 2356,
+        "images_with_faces_detected": 2335,
+        "images_failed": 21,
+        "processing_time_seconds": 3117.658555,
+        "avg_time_per_image_ms": 898.3700214132763,
+        "summary_stats": {
+          "dominant_emotion": "Neutral",
+          "emotion_distribution": {
+            "Neutral": 2329,
+            "Fear": 1,
+            "Disgust": 1,
+            "Happiness": 4
+          },
+          "avg_au_activations": 0.47,
+          "most_active_aus": [
+            "au_4",
+            "au_12",
+            "au_6",
+            "au_2",
+            "au_17"
+          ],
+          "total_frames_analyzed": 2335
+        },
+        "started_at": "2025-10-20T14:32:34.181680",
+        "completed_at": "2025-10-20T15:24:31.885944"
+      }
+    }
   }
 }

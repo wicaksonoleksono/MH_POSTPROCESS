@@ -51,3 +51,52 @@ def normalize_response_content(raw_content: Any) -> Any:
         return normalize_response_content(combined)
 
     return raw_content
+
+
+def _safe_number(value: Any) -> float:
+    """Best-effort conversion of a score value to a numeric type."""
+    try:
+        return float(value)
+    except (TypeError, ValueError):
+        return 0.0
+
+
+def _coerce_total(value: float) -> Any:
+    """Return int when the value is whole, otherwise keep float."""
+    if value.is_integer():
+        return int(value)
+    return value
+
+
+def ensure_totals(response: Any) -> Any:
+    """
+    Recompute cumulative totals for each score key based on the analysis entries.
+
+    The response is returned unchanged when analysis data is missing or malformed.
+    """
+    if not isinstance(response, dict):
+        return response
+
+    analysis = response.get("analysis")
+    if not isinstance(analysis, list):
+        return response
+
+    totals = {}
+    for entry in analysis:
+        if not isinstance(entry, dict):
+            continue
+        score = entry.get("score")
+        if not isinstance(score, dict):
+            continue
+        for key, value in score.items():
+            totals[key] = totals.get(key, 0.0) + _safe_number(value)
+
+    if not totals:
+        return response
+
+    aggregated = {
+        f"{key}_sum": _coerce_total(total)
+        for key, total in totals.items()
+    }
+    response["totals"] = aggregated
+    return response

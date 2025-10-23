@@ -1,18 +1,290 @@
 {
   "user_id": "user_83_Metania_Fahmi",
   "session_id": "session1",
-  "llm_extraction": {
-    "key_themes": [
-      "error"
-    ],
-    "overall_sentiment": "error",
-    "risk_factors": [],
-    "insights": "LLM extraction failed: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable"
-  },
-  "processed_at": "2025-10-22T16:46:17.390012",
+  "processed_at": "2025-10-23T10:56:15.325114",
   "metadata": {
     "folder_name": "user_83_Metania_Fahmi_session1",
     "data_path": "data/user_83_Metania_Fahmi_session1/llm_conversation.json",
-    "formatted_conversation": "mahasiswa: BAIK\nsindi: Senang dengar kamu baik, nih aku pengen tahu, belakangan ini kamu masih enjoy nggak sih sama kegiatan yang biasanya kamu suka, misalnya hobi atau nongkrong bareng teman?\nmahasiswa: enjoy bgt\nsindi: Wah, keren banget kamu bisa enjoy walaupun kadang ada rasa takut itu, itu tanda kamu kuat dan bisa ngelola perasaan dengan baik. Dari cerita kamu, aku lihat kamu masih punya banyak momen seru dan hubungan yang positif sama orang-orang sekitar, itu hal yang bagus banget. Makasih banget ya udah mau cerita panjang lebar. Ingat, aku selalu ada buat dengerin kamu kapanpun kamu butuh, ya! </end_conversation>"
+    "formatted_conversation": "sindi: Halo aku Sindi, apakabar\nmahasiswa: BAIK\nsindi: Senang dengar kamu baik, nih aku pengen tahu, belakangan ini kamu masih enjoy nggak sih sama kegiatan yang biasanya kamu suka, misalnya hobi atau nongkrong bareng teman?\nmahasiswa: enjoy bgt\nsindi: Wah, keren banget kamu bisa enjoy walaupun kadang ada rasa takut itu, itu tanda kamu kuat dan bisa ngelola perasaan dengan baik. Dari cerita kamu, aku lihat kamu masih punya banyak momen seru dan hubungan yang positif sama orang-orang sekitar, itu hal yang bagus banget. Makasih banget ya udah mau cerita panjang lebar. Ingat, aku selalu ada buat dengerin kamu kapanpun kamu butuh, ya! </end_conversation>",
+    "raw_conversation": [
+      {
+        "turn_number": 1,
+        "user_message": "BAIK",
+        "ai_message": "Senang dengar kamu baik, nih aku pengen tahu, belakangan ini kamu masih enjoy nggak sih sama kegiatan yang biasanya kamu suka, misalnya hobi atau nongkrong bareng teman?",
+        "user_message_length": 4,
+        "user_timing": {
+          "start": 5,
+          "end": 7,
+          "duration": 2
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 2,
+        "user_message": "enjoy bgt",
+        "ai_message": "Wah, keren banget kamu bisa enjoy walaupun kadang ada rasa takut itu, itu tanda kamu kuat dan bisa ngelola perasaan dengan baik. Dari cerita kamu, aku lihat kamu masih punya banyak momen seru dan hubungan yang positif sama orang-orang sekitar, itu hal yang bagus banget. Makasih banget ya udah mau cerita panjang lebar. Ingat, aku selalu ada buat dengerin kamu kapanpun kamu butuh, ya! </end_conversation>",
+        "user_message_length": 9,
+        "user_timing": {
+          "start": 34,
+          "end": 37,
+          "duration": 3
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": true,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      }
+    ],
+    "session_metadata": {
+      "phq_analysis": {
+        "status": "completed",
+        "total_images_processed": 46,
+        "images_with_faces_detected": 46,
+        "images_failed": 0,
+        "processing_time_seconds": 74.468276,
+        "avg_time_per_image_ms": 1252.0434782608695,
+        "summary_stats": {
+          "dominant_emotion": "Neutral",
+          "emotion_distribution": {
+            "Neutral": 46
+          },
+          "avg_au_activations": 0.04,
+          "most_active_aus": [
+            "au_17"
+          ],
+          "total_frames_analyzed": 46
+        },
+        "started_at": "2025-10-20T10:05:59.444164",
+        "completed_at": "2025-10-20T10:07:13.917294"
+      },
+      "llm_analysis": {
+        "status": "completed",
+        "total_images_processed": 39,
+        "images_with_faces_detected": 39,
+        "images_failed": 0,
+        "processing_time_seconds": 47.080014,
+        "avg_time_per_image_ms": 908.0769230769231,
+        "summary_stats": {
+          "dominant_emotion": "Neutral",
+          "emotion_distribution": {
+            "Neutral": 36,
+            "Happiness": 3
+          },
+          "avg_au_activations": 0.15,
+          "most_active_aus": [
+            "au_12",
+            "au_1",
+            "au_4",
+            "au_17",
+            "au_6"
+          ],
+          "total_frames_analyzed": 39
+        },
+        "started_at": "2025-10-20T10:07:13.928594",
+        "completed_at": "2025-10-20T10:08:01.019139"
+      }
+    },
+    "phq_analysis_file": "user_83_Metania_Fahmi_session1/phq_analysis.jsonl",
+    "llm_analysis_file": "user_83_Metania_Fahmi_session1/llm_analysis.jsonl",
+    "phq_responses_file": "user_83_Metania_Fahmi_session1/phq_responses.json",
+    "session_metadata_file": "user_83_Metania_Fahmi_session1/metadata.json"
+  },
+  "phq_summary": {
+    "metadata": {
+      "type": "metadata",
+      "session_id": "a1e447d8-c6c9-4928-9356-eeaa6d03a7dc",
+      "assessment_id": "4843b58c-696b-4316-b534-28b93c7ed8ef",
+      "assessment_type": "PHQ",
+      "total_images": 46,
+      "started_at": "2025-10-20T10:05:59.445908"
+    },
+    "total_rows": 48,
+    "data_rows": 47,
+    "file_path": "user_83_Metania_Fahmi_session1/phq_analysis.jsonl",
+    "extra": {
+      "total_score": 8,
+      "max_possible_score": 27,
+      "responses": {
+        "ANHEDONIA": {
+          "Dalam rentang 2 minggu terakhir, apakah Anda sulit merasa tertarik atau bersemangat menjalani aktivitas?": {
+            "response_text": "Pernah (jarang)",
+            "response_value": 1,
+            "response_time_ms": 12258,
+            "timing": {
+              "start": 0,
+              "end": 12,
+              "duration": 12
+            }
+          }
+        },
+        "DEPRESSED_MOOD": {
+          "Apakah dalam 2 minggu terakhir Anda mengalami suasana hati yang murung, perasaan muram, atau rasa putus asa?": {
+            "response_text": "Pernah (jarang)",
+            "response_value": 1,
+            "response_time_ms": 4264,
+            "timing": {
+              "start": 14,
+              "end": 18,
+              "duration": 4
+            }
+          }
+        },
+        "SLEEP_DISTURBANCE": {
+          "Selama 2 minggu terakhir, apakah Anda mengalami kesulitan untuk tidur nyenyak, sering terbangun di malam hari, atau justru tidur berlebihan?": {
+            "response_text": "Pernah (jarang)",
+            "response_value": 1,
+            "response_time_ms": 3084,
+            "timing": {
+              "start": 19,
+              "end": 22,
+              "duration": 3
+            }
+          }
+        },
+        "FATIGUE": {
+          "Dalam 2 minggu terakhir apakah Anda sering merasa lelah atau kurang bertenaga?": {
+            "response_text": "Beberapa kali (cukup sering)",
+            "response_value": 2,
+            "response_time_ms": 4199,
+            "timing": {
+              "start": 23,
+              "end": 28,
+              "duration": 5
+            }
+          }
+        },
+        "APPETITE_CHANGES": {
+          "Dalam rentang 2 minggu terakhir, apakah Anda mengalami kesulitan mengendalikan nafsu makan, baik karena kurangnya selera maupun makan berlebihan?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 4000,
+            "timing": {
+              "start": 29,
+              "end": 33,
+              "duration": 4
+            }
+          }
+        },
+        "WORTHLESSNESS": {
+          "Dalam rentang 2 minggu terakhir, apakah muncul perasaan rendah diri, keyakinan bahwa Anda gagal, atau pikiran telah mengecewakan diri sendiri serta keluarga?": {
+            "response_text": "Pernah (jarang)",
+            "response_value": 1,
+            "response_time_ms": 3717,
+            "timing": {
+              "start": 33,
+              "end": 37,
+              "duration": 4
+            }
+          }
+        },
+        "CONCENTRATION": {
+          "Selama 2 minggu terakhir, adakah Anda mengalami kesulitan untuk memusatkan perhatian pada kegiatan, misalnya membaca berita atau menonton tayangan media?": {
+            "response_text": "Pernah (jarang)",
+            "response_value": 1,
+            "response_time_ms": 3648,
+            "timing": {
+              "start": 38,
+              "end": 42,
+              "duration": 4
+            }
+          }
+        },
+        "PSYCHOMOTOR": {
+          "Selama 2 minggu terakhir, adakah Anda merasa gerakan atau ucapan menjadi sangat lambat hingga orang lain menyadarinya, atau sebaliknya merasa gelisah sehingga lebih sering bergerak dari biasanya?": {
+            "response_text": "Pernah (jarang)",
+            "response_value": 1,
+            "response_time_ms": 2684,
+            "timing": {
+              "start": 42,
+              "end": 45,
+              "duration": 3
+            }
+          }
+        },
+        "SUICIDAL_IDEATION": {
+          "Dalam 2 minggu terakhir apakah Anda merasa lebih baik mati atau ingin melukai diri sendiri dengan cara apapun?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 2783,
+            "timing": {
+              "start": 46,
+              "end": 49,
+              "duration": 3
+            }
+          }
+        }
+      },
+      "analysis_stats": {
+        "status": "completed",
+        "total_images_processed": 46,
+        "images_with_faces_detected": 46,
+        "images_failed": 0,
+        "processing_time_seconds": 74.468276,
+        "avg_time_per_image_ms": 1252.0434782608695,
+        "summary_stats": {
+          "dominant_emotion": "Neutral",
+          "emotion_distribution": {
+            "Neutral": 46
+          },
+          "avg_au_activations": 0.04,
+          "most_active_aus": [
+            "au_17"
+          ],
+          "total_frames_analyzed": 46
+        },
+        "started_at": "2025-10-20T10:05:59.444164",
+        "completed_at": "2025-10-20T10:07:13.917294"
+      }
+    }
+  },
+  "llm_summary": {
+    "metadata": {
+      "type": "metadata",
+      "session_id": "a1e447d8-c6c9-4928-9356-eeaa6d03a7dc",
+      "assessment_id": "4c43624a-573a-4727-b66d-0fd2f760ce11",
+      "assessment_type": "LLM",
+      "total_images": 39,
+      "started_at": "2025-10-20T10:07:13.930373"
+    },
+    "total_rows": 41,
+    "data_rows": 40,
+    "file_path": "user_83_Metania_Fahmi_session1/llm_analysis.jsonl",
+    "extra": {
+      "analysis_stats": {
+        "status": "completed",
+        "total_images_processed": 39,
+        "images_with_faces_detected": 39,
+        "images_failed": 0,
+        "processing_time_seconds": 47.080014,
+        "avg_time_per_image_ms": 908.0769230769231,
+        "summary_stats": {
+          "dominant_emotion": "Neutral",
+          "emotion_distribution": {
+            "Neutral": 36,
+            "Happiness": 3
+          },
+          "avg_au_activations": 0.15,
+          "most_active_aus": [
+            "au_12",
+            "au_1",
+            "au_4",
+            "au_17",
+            "au_6"
+          ],
+          "total_frames_analyzed": 39
+        },
+        "started_at": "2025-10-20T10:07:13.928594",
+        "completed_at": "2025-10-20T10:08:01.019139"
+      }
+    }
   }
 }

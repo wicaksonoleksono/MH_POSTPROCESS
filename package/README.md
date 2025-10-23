@@ -5,11 +5,10 @@ A Python package for post-processing data with LLMs using LangChain and Pydantic
 ## Features
 
 - Pydantic-based schema validation for input/output
-- Support for multiple LLM providers (OpenAI, TogetherAI)
-- LangChain integration for chaining operations
-- JSON reader/writer utilities
-- Batch processing support
-- Type-safe configuration management
+- Conversation formatting utilities for quick previews
+- Lightweight summaries for PHQ / LLM assessment JSONL files
+- Automatic copying of raw PHQ/LLM artifacts (analysis JSONL, responses, metadata) into processed folders
+- Batch processing support via simple CLI entry points
 
 ## Installation
 
@@ -36,9 +35,9 @@ processor = PostProcessor()
 
 # Create session data
 user = UserMetadata(user_id="user_123", session_id="session_456")
-session = SessionData(user=user, phq_responses={}, llm_conversation=[])
+session = SessionData(user=user, llm_conversation=[], metadata={})
 
-# Process session
+# Process session (produces formatted conversation + assessment summaries)
 result = processor.process_session(session)
 print(result)
 ```
@@ -48,14 +47,7 @@ print(result)
 Set environment variables for configuration:
 
 ```bash
-# API keys are automatically read by LangChain from these env vars:
-export OPENAI_API_KEY=sk-...        # For OpenAI
-export TOGETHER_API_KEY=...          # For TogetherAI
-
-# Package settings
-export LLM_PROVIDER=openai
-export LLM_MODEL_NAME=gpt-3.5-turbo
-export LLM_TEMPERATURE=0.7
+# Optional package settings
 export PROCESSOR_INPUT_DIR=./data
 export PROCESSOR_OUTPUT_DIR=./output
 ```
@@ -63,13 +55,7 @@ export PROCESSOR_OUTPUT_DIR=./output
 Or create `.env` file:
 
 ```
-# API keys (LangChain reads these automatically)
-OPENAI_API_KEY=sk-...
-TOGETHER_API_KEY=...
-
 # Package settings
-LLM_PROVIDER=openai
-LLM_MODEL_NAME=gpt-3.5-turbo
 PROCESSOR_OUTPUT_DIR=./output
 ```
 

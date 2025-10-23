@@ -3,14 +3,12 @@
 import json
 from typing import Optional
 
-from llm_postprocessor.llm.client import LLMClient
-from llm_postprocessor.llm.prompt_builder import PromptBuilder
-from llm_postprocessor.schemas.llm_analysis_schemas import (
+from ..llm.client import LLMClient
+from ..llm.prompt_builder import PromptBuilder
+from ..schemas.llm_analysis_schemas import (
     LLMAnalysisInput,
     LLMAnalysisOutput,
 )
-from llm_postprocessor.schemas.aspects import PHQAspects
-from llm_postprocessor.schemas.scale import PHQScales
 
 
 class LLMAnalyzer:

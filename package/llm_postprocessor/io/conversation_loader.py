@@ -38,6 +38,43 @@ class ConversationLoader:
         return messages
 
     @staticmethod
+    def load_turns_without_created_at(file_path: str | Path) -> list[dict]:
+        """Load raw conversation turns without created_at timestamp."""
+        with open(file_path, "r") as f:
+            data = json.load(f)
+
+        conversations = data.get("conversations", [])
+        cleaned_turns: list[dict] = []
+
+        for turn in conversations:
+            cleaned = {}
+            if "turn_number" in turn:
+                cleaned["turn_number"] = turn["turn_number"]
+
+            user_msg = turn.get("user_message")
+            if user_msg is not None:
+                cleaned["user_message"] = user_msg
+
+            ai_msg = turn.get("ai_message")
+            if ai_msg is not None:
+                cleaned["ai_message"] = ai_msg
+
+            if "user_message_length" in turn:
+                cleaned["user_message_length"] = turn["user_message_length"]
+            if "user_timing" in turn:
+                cleaned["user_timing"] = turn["user_timing"]
+            if "ai_timing" in turn:
+                cleaned["ai_timing"] = turn["ai_timing"]
+            if "has_end_conversation" in turn:
+                cleaned["has_end_conversation"] = turn["has_end_conversation"]
+            if "ai_model_used" in turn:
+                cleaned["ai_model_used"] = turn["ai_model_used"]
+
+            cleaned_turns.append(cleaned)
+
+        return cleaned_turns
+
+    @staticmethod
     def load_raw(data: dict) -> list[dict[str, str]]:
         """Convert raw conversation dict to clean format.
 
@@ -142,6 +179,13 @@ class ChatHistoryFormatter:
 
         role_map = role_map or ChatHistoryFormatter.ROLE_MAP
         formatted_lines = []
+
+        greeting_role = role_map.get("ai", "ai")
+        greeting_content = "Halo aku Sindi, apakabar"
+        if include_metadata:
+            formatted_lines.append(f"[Turn 0] {greeting_role}: {greeting_content}")
+        else:
+            formatted_lines.append(f"{greeting_role}: {greeting_content}")
 
         for turn, msg in enumerate(messages, 1):
             role = msg.get("role", "")

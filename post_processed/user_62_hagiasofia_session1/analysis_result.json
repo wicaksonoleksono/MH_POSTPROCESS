@@ -1,18 +1,664 @@
 {
   "user_id": "user_62_hagiasofia",
   "session_id": "session1",
-  "llm_extraction": {
-    "key_themes": [
-      "error"
-    ],
-    "overall_sentiment": "error",
-    "risk_factors": [],
-    "insights": "LLM extraction failed: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable"
-  },
-  "processed_at": "2025-10-22T16:46:17.383005",
+  "processed_at": "2025-10-23T10:56:15.116423",
   "metadata": {
     "folder_name": "user_62_hagiasofia_session1",
     "data_path": "data/user_62_hagiasofia_session1/llm_conversation.json",
-    "formatted_conversation": "mahasiswa: P\nsindi: Hai, aku dengar akhir-akhir ini kamu agak jarang ikutan kegiatan kampus ya, biasanya suka ngapain aja sih buat ngisi waktu luang?\nmahasiswa: Tidur\nsindi: Kalau tidur kamu akhir-akhir ini gimana, biasanya cukup nyenyak atau ada yang bikin susah tidur?\nmahasiswa: Susah tidur\nsindi: Wah, susah tidur itu pasti bikin capek banget ya, kamu biasanya mengalami susah tidur seperti ini sudah lama?\nmahasiswa: Dari awal ospek\nsindi: Oh, jadi udah cukup lama ya, dari awal ospek sampai sekarang masih susah tidur? Biasanya kalau susah tidur itu, kamu merasa pikiran kamu lagi penuh sama hal-hal yang bikin stres atau sesuatu yang bikin kamu susah tenang?\nmahasiswa: Emang gabisa tidur\nsindi: Iya, aku paham banget, rasanya kayak di kepala terus ada yang ganggu ya sampai gak bisa tidur sama sekali, itu pasti bikin kamu capek dan pengen cepat bisa tidur nyenyak, biasanya kalau susah tidur sampai segitu, kamu juga merasa kesulitan buat konsentrasi atau ngerjain tugas gak?\nmahasiswa: Nggak sih, cuma susah tidur aja\nsindi: Aku paham, susah tidur itu bisa bikin badan dan pikiran jadi nggak enak ya, kamu sering susah tidur sampai berapa lama biasanya?\nmahasiswa: Paling cepet jam 12 paling lama jam 2\nsindi: Itu lumayan lama juga ya, tidur baru bisa mulai jam 12 sampai paling lama jam 2, terus kalau kamu bangun pagi, biasanya masih merasa capek atau susah fokus gak di kelas atau pas ngerjain tugas?\nmahasiswa: Gak sih b aja\nsindi: Kalau tidur yang agak susah itu nggak terlalu sering ya, tapi kalau lagi susah tidur biasanya kamu mikirin apa sih sebelum akhirnya susah tidur?\nmahasiswa: Ga mikir apa2, emang kesepian doang\nsindi: Aku ngerti, kesepian itu memang bisa bikin susah tidur dan rasanya berat ya, kamu biasanya ngapain kalau lagi ngerasa kesepian begitu?\nmahasiswa: Main hp\nsindi: Wah, main HP sampai larut bisa bikin susah tidur juga ya, kadang nggak sadar waktu udah malam banget, kamu biasanya ngerasa gimana setelah main HP sampai larut, kayak capek banget atau malah tetep susah buat konsentrasi di aktivitas sehari-hari?\nmahasiswa: Gak sih b aja\nsindi: Kalau begitu, biasanya kamu masih semangat buat ngelakuin hal-hal yang dulu kamu suka, misalnya hobi atau kegiatan yang biasanya bikin kamu senang?\nmahasiswa: Iyaaaaa\nsindi: Kalau lagi kesepian sampai susah tidur, kamu masih sempat melakukan hal-hal yang biasanya kamu suka, misalnya main game atau dengerin musik?\nmahasiswa: Hooh\nsindi: Wah, berarti kamu masih coba buat tetap melakukan hal-hal yang kamu suka ya, itu bagus banget. Tapi, akhir-akhir ini kamu merasa hal-hal yang biasanya kamu suka itu masih bisa bikin kamu senang nggak?\nmahasiswa: Iyah\nsindi: Aku senang dengarnya kalau kamu masih bisa ngerasa senang dengan hal-hal yang kamu suka, itu penting banget buat jaga mood. Kalau kamu lagi santai, biasanya kamu suka ngapain selain main game atau dengerin musik?\nmahasiswa: Tidur siang. Aku bisa tidur siang tp susah tidur malem\nsindi: Tidur siang kadang memang bikin malamnya susah tidur ya, kamu merasa tidur siang itu membantu kamu nggak buat sedikit lebih segar atau malah bikin kamu makin susah buat tidur malamnya?\nmahasiswa: Bikin fresh dan ga bikin susah tidur malem. Aku biasanya di rumah juga gitu, tp waktu di kos JD susah tidur malem\nsindi: Wah, berarti suasana di kos itu mungkin agak beda ya yang bikin kamu susah tidur malam, kamu biasanya merasa gimana waktu di kos, misalnya jadi lebih gampang kesel atau ngerasa pengen sendiri?\nmahasiswa: Kesepian\nsindi: Aku merasa kamu benar-benar merasa kesepian ya, itu pasti nggak mudah buat kamu. Selain kesepian, apakah kamu merasa gampang marah atau tersinggung akhir-akhir ini?\nmahasiswa: Gak sih\nsindi: Kalau begitu, selama di kos kamu masih bisa santai dan nggak gampang marah ya, tapi aku penasaran, akhir-akhir ini kamu merasa lebih sering mikirin hal-hal yang bikin kamu sedih atau khawatir nggak, sampai susah buat berhenti mikirnya?\nmahasiswa: Gak juga\nsindi: Syukurlah kalau kamu nggak terlalu sering kepikiran hal-hal yang bikin sedih atau khawatir, tapi kadang kan kita juga bisa ngerasa down tanpa alasan yang jelas, kamu biasanya bagaimana kalau lagi merasa kurang semangat atau mood-nya lagi turun?\nmahasiswa: Tidur siang\nsindi: Tidur siang jadi semacam cara kamu buat recharge ya, itu bagus banget sih kalau kamu bisa jaga tubuh dan pikiran supaya gak terlalu kelelahan, ngomong-ngomong, akhir-akhir ini kamu masih sering ketemu teman-teman atau ikutan nongkrong-ngongkrong?\nmahasiswa: Gak, sibuk nugas\nsindi: Wah, sibuk nugas sampai jarang ketemu teman-teman ya, kadang kalau terlalu banyak sendiri atau terlalu sibuk bisa bikin kita ngerasa capek juga loh, kamu merasa kalau sekarang ini kamu lebih suka sendiri atau malah kepingin ada yang nemenin ngobrol?\nmahasiswa: Pengen ada yg nemenin. Btw ini kapan selesainya ya? Kok lama bgt nanya2 mulu\nsindi: Makasih ya sudah jujur mau cerita dan sharing perasaan kamu, aku paham kok kadang nanya-nanya bisa terasa lama, aku cuma pengen pastiin aku bisa ngerti kondisi kamu dengan baik supaya bisa support kamu sebaik mungkin. Kalau kamu pengen, aku selalu ada buat dengerin kapan pun kamu butuh teman ngobrol, oke? </end_conversation>"
+    "formatted_conversation": "sindi: Halo aku Sindi, apakabar\nmahasiswa: P\nsindi: Hai, aku dengar akhir-akhir ini kamu agak jarang ikutan kegiatan kampus ya, biasanya suka ngapain aja sih buat ngisi waktu luang?\nmahasiswa: Tidur\nsindi: Kalau tidur kamu akhir-akhir ini gimana, biasanya cukup nyenyak atau ada yang bikin susah tidur?\nmahasiswa: Susah tidur\nsindi: Wah, susah tidur itu pasti bikin capek banget ya, kamu biasanya mengalami susah tidur seperti ini sudah lama?\nmahasiswa: Dari awal ospek\nsindi: Oh, jadi udah cukup lama ya, dari awal ospek sampai sekarang masih susah tidur? Biasanya kalau susah tidur itu, kamu merasa pikiran kamu lagi penuh sama hal-hal yang bikin stres atau sesuatu yang bikin kamu susah tenang?\nmahasiswa: Emang gabisa tidur\nsindi: Iya, aku paham banget, rasanya kayak di kepala terus ada yang ganggu ya sampai gak bisa tidur sama sekali, itu pasti bikin kamu capek dan pengen cepat bisa tidur nyenyak, biasanya kalau susah tidur sampai segitu, kamu juga merasa kesulitan buat konsentrasi atau ngerjain tugas gak?\nmahasiswa: Nggak sih, cuma susah tidur aja\nsindi: Aku paham, susah tidur itu bisa bikin badan dan pikiran jadi nggak enak ya, kamu sering susah tidur sampai berapa lama biasanya?\nmahasiswa: Paling cepet jam 12 paling lama jam 2\nsindi: Itu lumayan lama juga ya, tidur baru bisa mulai jam 12 sampai paling lama jam 2, terus kalau kamu bangun pagi, biasanya masih merasa capek atau susah fokus gak di kelas atau pas ngerjain tugas?\nmahasiswa: Gak sih b aja\nsindi: Kalau tidur yang agak susah itu nggak terlalu sering ya, tapi kalau lagi susah tidur biasanya kamu mikirin apa sih sebelum akhirnya susah tidur?\nmahasiswa: Ga mikir apa2, emang kesepian doang\nsindi: Aku ngerti, kesepian itu memang bisa bikin susah tidur dan rasanya berat ya, kamu biasanya ngapain kalau lagi ngerasa kesepian begitu?\nmahasiswa: Main hp\nsindi: Wah, main HP sampai larut bisa bikin susah tidur juga ya, kadang nggak sadar waktu udah malam banget, kamu biasanya ngerasa gimana setelah main HP sampai larut, kayak capek banget atau malah tetep susah buat konsentrasi di aktivitas sehari-hari?\nmahasiswa: Gak sih b aja\nsindi: Kalau begitu, biasanya kamu masih semangat buat ngelakuin hal-hal yang dulu kamu suka, misalnya hobi atau kegiatan yang biasanya bikin kamu senang?\nmahasiswa: Iyaaaaa\nsindi: Kalau lagi kesepian sampai susah tidur, kamu masih sempat melakukan hal-hal yang biasanya kamu suka, misalnya main game atau dengerin musik?\nmahasiswa: Hooh\nsindi: Wah, berarti kamu masih coba buat tetap melakukan hal-hal yang kamu suka ya, itu bagus banget. Tapi, akhir-akhir ini kamu merasa hal-hal yang biasanya kamu suka itu masih bisa bikin kamu senang nggak?\nmahasiswa: Iyah\nsindi: Aku senang dengarnya kalau kamu masih bisa ngerasa senang dengan hal-hal yang kamu suka, itu penting banget buat jaga mood. Kalau kamu lagi santai, biasanya kamu suka ngapain selain main game atau dengerin musik?\nmahasiswa: Tidur siang. Aku bisa tidur siang tp susah tidur malem\nsindi: Tidur siang kadang memang bikin malamnya susah tidur ya, kamu merasa tidur siang itu membantu kamu nggak buat sedikit lebih segar atau malah bikin kamu makin susah buat tidur malamnya?\nmahasiswa: Bikin fresh dan ga bikin susah tidur malem. Aku biasanya di rumah juga gitu, tp waktu di kos JD susah tidur malem\nsindi: Wah, berarti suasana di kos itu mungkin agak beda ya yang bikin kamu susah tidur malam, kamu biasanya merasa gimana waktu di kos, misalnya jadi lebih gampang kesel atau ngerasa pengen sendiri?\nmahasiswa: Kesepian\nsindi: Aku merasa kamu benar-benar merasa kesepian ya, itu pasti nggak mudah buat kamu. Selain kesepian, apakah kamu merasa gampang marah atau tersinggung akhir-akhir ini?\nmahasiswa: Gak sih\nsindi: Kalau begitu, selama di kos kamu masih bisa santai dan nggak gampang marah ya, tapi aku penasaran, akhir-akhir ini kamu merasa lebih sering mikirin hal-hal yang bikin kamu sedih atau khawatir nggak, sampai susah buat berhenti mikirnya?\nmahasiswa: Gak juga\nsindi: Syukurlah kalau kamu nggak terlalu sering kepikiran hal-hal yang bikin sedih atau khawatir, tapi kadang kan kita juga bisa ngerasa down tanpa alasan yang jelas, kamu biasanya bagaimana kalau lagi merasa kurang semangat atau mood-nya lagi turun?\nmahasiswa: Tidur siang\nsindi: Tidur siang jadi semacam cara kamu buat recharge ya, itu bagus banget sih kalau kamu bisa jaga tubuh dan pikiran supaya gak terlalu kelelahan, ngomong-ngomong, akhir-akhir ini kamu masih sering ketemu teman-teman atau ikutan nongkrong-ngongkrong?\nmahasiswa: Gak, sibuk nugas\nsindi: Wah, sibuk nugas sampai jarang ketemu teman-teman ya, kadang kalau terlalu banyak sendiri atau terlalu sibuk bisa bikin kita ngerasa capek juga loh, kamu merasa kalau sekarang ini kamu lebih suka sendiri atau malah kepingin ada yang nemenin ngobrol?\nmahasiswa: Pengen ada yg nemenin. Btw ini kapan selesainya ya? Kok lama bgt nanya2 mulu\nsindi: Makasih ya sudah jujur mau cerita dan sharing perasaan kamu, aku paham kok kadang nanya-nanya bisa terasa lama, aku cuma pengen pastiin aku bisa ngerti kondisi kamu dengan baik supaya bisa support kamu sebaik mungkin. Kalau kamu pengen, aku selalu ada buat dengerin kapan pun kamu butuh teman ngobrol, oke? </end_conversation>",
+    "raw_conversation": [
+      {
+        "turn_number": 1,
+        "user_message": "P",
+        "ai_message": "Hai, aku dengar akhir-akhir ini kamu agak jarang ikutan kegiatan kampus ya, biasanya suka ngapain aja sih buat ngisi waktu luang?",
+        "user_message_length": 1,
+        "user_timing": {
+          "start": 12,
+          "end": 43,
+          "duration": 31
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 2,
+        "user_message": "Tidur",
+        "ai_message": "Kalau tidur kamu akhir-akhir ini gimana, biasanya cukup nyenyak atau ada yang bikin susah tidur?",
+        "user_message_length": 5,
+        "user_timing": {
+          "start": 58,
+          "end": 69,
+          "duration": 11
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 3,
+        "user_message": "Susah tidur",
+        "ai_message": "Wah, susah tidur itu pasti bikin capek banget ya, kamu biasanya mengalami susah tidur seperti ini sudah lama?",
+        "user_message_length": 11,
+        "user_timing": {
+          "start": 93,
+          "end": 104,
+          "duration": 11
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 4,
+        "user_message": "Dari awal ospek",
+        "ai_message": "Oh, jadi udah cukup lama ya, dari awal ospek sampai sekarang masih susah tidur? Biasanya kalau susah tidur itu, kamu merasa pikiran kamu lagi penuh sama hal-hal yang bikin stres atau sesuatu yang bikin kamu susah tenang?",
+        "user_message_length": 15,
+        "user_timing": {
+          "start": 125,
+          "end": 130,
+          "duration": 5
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 5,
+        "user_message": "Emang gabisa tidur",
+        "ai_message": "Iya, aku paham banget, rasanya kayak di kepala terus ada yang ganggu ya sampai gak bisa tidur sama sekali, itu pasti bikin kamu capek dan pengen cepat bisa tidur nyenyak, biasanya kalau susah tidur sampai segitu, kamu juga merasa kesulitan buat konsentrasi atau ngerjain tugas gak?",
+        "user_message_length": 18,
+        "user_timing": {
+          "start": 149,
+          "end": 155,
+          "duration": 6
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 6,
+        "user_message": "Nggak sih, cuma susah tidur aja",
+        "ai_message": "Aku paham, susah tidur itu bisa bikin badan dan pikiran jadi nggak enak ya, kamu sering susah tidur sampai berapa lama biasanya?",
+        "user_message_length": 31,
+        "user_timing": {
+          "start": 174,
+          "end": 184,
+          "duration": 10
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 7,
+        "user_message": "Paling cepet jam 12 paling lama jam 2",
+        "ai_message": "Itu lumayan lama juga ya, tidur baru bisa mulai jam 12 sampai paling lama jam 2, terus kalau kamu bangun pagi, biasanya masih merasa capek atau susah fokus gak di kelas atau pas ngerjain tugas?",
+        "user_message_length": 37,
+        "user_timing": {
+          "start": 192,
+          "end": 216,
+          "duration": 24
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 8,
+        "user_message": "Gak sih b aja",
+        "ai_message": "Kalau tidur yang agak susah itu nggak terlalu sering ya, tapi kalau lagi susah tidur biasanya kamu mikirin apa sih sebelum akhirnya susah tidur?",
+        "user_message_length": 13,
+        "user_timing": {
+          "start": 236,
+          "end": 240,
+          "duration": 4
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 9,
+        "user_message": "Ga mikir apa2, emang kesepian doang",
+        "ai_message": "Aku ngerti, kesepian itu memang bisa bikin susah tidur dan rasanya berat ya, kamu biasanya ngapain kalau lagi ngerasa kesepian begitu?",
+        "user_message_length": 35,
+        "user_timing": {
+          "start": 251,
+          "end": 267,
+          "duration": 16
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 10,
+        "user_message": "Main hp",
+        "ai_message": "Wah, main HP sampai larut bisa bikin susah tidur juga ya, kadang nggak sadar waktu udah malam banget, kamu biasanya ngerasa gimana setelah main HP sampai larut, kayak capek banget atau malah tetep susah buat konsentrasi di aktivitas sehari-hari?",
+        "user_message_length": 7,
+        "user_timing": {
+          "start": 276,
+          "end": 280,
+          "duration": 4
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 11,
+        "user_message": "Gak sih b aja",
+        "ai_message": "Kalau begitu, biasanya kamu masih semangat buat ngelakuin hal-hal yang dulu kamu suka, misalnya hobi atau kegiatan yang biasanya bikin kamu senang?",
+        "user_message_length": 13,
+        "user_timing": {
+          "start": 293,
+          "end": 299,
+          "duration": 6
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 12,
+        "user_message": "Iyaaaaa",
+        "ai_message": "Kalau lagi kesepian sampai susah tidur, kamu masih sempat melakukan hal-hal yang biasanya kamu suka, misalnya main game atau dengerin musik?",
+        "user_message_length": 7,
+        "user_timing": {
+          "start": 324,
+          "end": 327,
+          "duration": 3
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 13,
+        "user_message": "Hooh",
+        "ai_message": "Wah, berarti kamu masih coba buat tetap melakukan hal-hal yang kamu suka ya, itu bagus banget. Tapi, akhir-akhir ini kamu merasa hal-hal yang biasanya kamu suka itu masih bisa bikin kamu senang nggak?",
+        "user_message_length": 4,
+        "user_timing": {
+          "start": 337,
+          "end": 339,
+          "duration": 2
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 14,
+        "user_message": "Iyah",
+        "ai_message": "Aku senang dengarnya kalau kamu masih bisa ngerasa senang dengan hal-hal yang kamu suka, itu penting banget buat jaga mood. Kalau kamu lagi santai, biasanya kamu suka ngapain selain main game atau dengerin musik?",
+        "user_message_length": 4,
+        "user_timing": {
+          "start": 349,
+          "end": 350,
+          "duration": 1
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 15,
+        "user_message": "Tidur siang. Aku bisa tidur siang tp susah tidur malem",
+        "ai_message": "Tidur siang kadang memang bikin malamnya susah tidur ya, kamu merasa tidur siang itu membantu kamu nggak buat sedikit lebih segar atau malah bikin kamu makin susah buat tidur malamnya?",
+        "user_message_length": 54,
+        "user_timing": {
+          "start": 366,
+          "end": 393,
+          "duration": 27
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 16,
+        "user_message": "Bikin fresh dan ga bikin susah tidur malem. Aku biasanya di rumah juga gitu, tp waktu di kos JD susah tidur malem",
+        "ai_message": "Wah, berarti suasana di kos itu mungkin agak beda ya yang bikin kamu susah tidur malam, kamu biasanya merasa gimana waktu di kos, misalnya jadi lebih gampang kesel atau ngerasa pengen sendiri?",
+        "user_message_length": 113,
+        "user_timing": {
+          "start": 406,
+          "end": 438,
+          "duration": 32
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 17,
+        "user_message": "Kesepian",
+        "ai_message": "Aku merasa kamu benar-benar merasa kesepian ya, itu pasti nggak mudah buat kamu. Selain kesepian, apakah kamu merasa gampang marah atau tersinggung akhir-akhir ini?",
+        "user_message_length": 8,
+        "user_timing": {
+          "start": 449,
+          "end": 456,
+          "duration": 7
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 18,
+        "user_message": "Gak sih",
+        "ai_message": "Kalau begitu, selama di kos kamu masih bisa santai dan nggak gampang marah ya, tapi aku penasaran, akhir-akhir ini kamu merasa lebih sering mikirin hal-hal yang bikin kamu sedih atau khawatir nggak, sampai susah buat berhenti mikirnya?",
+        "user_message_length": 7,
+        "user_timing": {
+          "start": 473,
+          "end": 483,
+          "duration": 10
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 19,
+        "user_message": "Gak juga",
+        "ai_message": "Syukurlah kalau kamu nggak terlalu sering kepikiran hal-hal yang bikin sedih atau khawatir, tapi kadang kan kita juga bisa ngerasa down tanpa alasan yang jelas, kamu biasanya bagaimana kalau lagi merasa kurang semangat atau mood-nya lagi turun?",
+        "user_message_length": 8,
+        "user_timing": {
+          "start": 563,
+          "end": 569,
+          "duration": 6
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 20,
+        "user_message": "Tidur siang",
+        "ai_message": "Tidur siang jadi semacam cara kamu buat recharge ya, itu bagus banget sih kalau kamu bisa jaga tubuh dan pikiran supaya gak terlalu kelelahan, ngomong-ngomong, akhir-akhir ini kamu masih sering ketemu teman-teman atau ikutan nongkrong-ngongkrong?",
+        "user_message_length": 11,
+        "user_timing": {
+          "start": 599,
+          "end": 604,
+          "duration": 5
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 21,
+        "user_message": "Gak, sibuk nugas",
+        "ai_message": "Wah, sibuk nugas sampai jarang ketemu teman-teman ya, kadang kalau terlalu banyak sendiri atau terlalu sibuk bisa bikin kita ngerasa capek juga loh, kamu merasa kalau sekarang ini kamu lebih suka sendiri atau malah kepingin ada yang nemenin ngobrol?",
+        "user_message_length": 16,
+        "user_timing": {
+          "start": 615,
+          "end": 624,
+          "duration": 9
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 22,
+        "user_message": "Pengen ada yg nemenin. Btw ini kapan selesainya ya? Kok lama bgt nanya2 mulu",
+        "ai_message": "Makasih ya sudah jujur mau cerita dan sharing perasaan kamu, aku paham kok kadang nanya-nanya bisa terasa lama, aku cuma pengen pastiin aku bisa ngerti kondisi kamu dengan baik supaya bisa support kamu sebaik mungkin. Kalau kamu pengen, aku selalu ada buat dengerin kapan pun kamu butuh teman ngobrol, oke? </end_conversation>",
+        "user_message_length": 76,
+        "user_timing": {
+          "start": 699,
+          "end": 730,
+          "duration": 31
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": true,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      }
+    ],
+    "session_metadata": {
+      "phq_analysis": {
+        "status": "completed",
+        "total_images_processed": 30,
+        "images_with_faces_detected": 30,
+        "images_failed": 0,
+        "processing_time_seconds": 49.675506,
+        "avg_time_per_image_ms": 1167.4666666666667,
+        "summary_stats": {
+          "dominant_emotion": "Neutral",
+          "emotion_distribution": {
+            "Neutral": 29,
+            "Sadness": 1
+          },
+          "avg_au_activations": 0.83,
+          "most_active_aus": [
+            "au_12",
+            "au_1",
+            "au_4",
+            "au_2",
+            "au_6"
+          ],
+          "total_frames_analyzed": 30
+        },
+        "started_at": "2025-10-20T09:33:34.812539",
+        "completed_at": "2025-10-20T09:34:24.492645"
+      },
+      "llm_analysis": {
+        "status": "completed",
+        "total_images_processed": 739,
+        "images_with_faces_detected": 685,
+        "images_failed": 54,
+        "processing_time_seconds": 1207.1153,
+        "avg_time_per_image_ms": 1308.0992700729928,
+        "summary_stats": {
+          "dominant_emotion": "Neutral",
+          "emotion_distribution": {
+            "Neutral": 528,
+            "Surprise": 2,
+            "Happiness": 133,
+            "Sadness": 22
+          },
+          "avg_au_activations": 1.31,
+          "most_active_aus": [
+            "au_12",
+            "au_17",
+            "au_6",
+            "au_15",
+            "au_1"
+          ],
+          "total_frames_analyzed": 685
+        },
+        "started_at": "2025-10-20T09:34:24.512957",
+        "completed_at": "2025-10-20T09:54:31.647083"
+      }
+    },
+    "phq_analysis_file": "user_62_hagiasofia_session1/phq_analysis.jsonl",
+    "llm_analysis_file": "user_62_hagiasofia_session1/llm_analysis.jsonl",
+    "phq_responses_file": "user_62_hagiasofia_session1/phq_responses.json",
+    "session_metadata_file": "user_62_hagiasofia_session1/metadata.json"
+  },
+  "phq_summary": {
+    "metadata": {
+      "type": "metadata",
+      "session_id": "9665f091-9fdb-4e9e-9163-c6c5a12f76ba",
+      "assessment_id": "673873a2-be94-409b-89a3-9eb1fe8ff9af",
+      "assessment_type": "PHQ",
+      "total_images": 30,
+      "started_at": "2025-10-20T09:33:34.813946"
+    },
+    "total_rows": 32,
+    "data_rows": 31,
+    "file_path": "user_62_hagiasofia_session1/phq_analysis.jsonl",
+    "extra": {
+      "total_score": 7,
+      "max_possible_score": 27,
+      "responses": {
+        "ANHEDONIA": {
+          "Dalam 2 minggu terakhir apakah Anda merasa kurang tertarik atau bergairah dalam melakukan apapun?": {
+            "response_text": "Pernah (jarang)",
+            "response_value": 1,
+            "response_time_ms": 11192,
+            "timing": {
+              "start": 0,
+              "end": 11,
+              "duration": 11
+            }
+          }
+        },
+        "DEPRESSED_MOOD": {
+          "Dalam rentang 2 minggu terakhir, apakah muncul perasaan murung, muram, ataupun putus asa pada diri Anda?": {
+            "response_text": "Pernah (jarang)",
+            "response_value": 1,
+            "response_time_ms": 1784,
+            "timing": {
+              "start": 12,
+              "end": 13,
+              "duration": 1
+            }
+          }
+        },
+        "SLEEP_DISTURBANCE": {
+          "Dalam 2 minggu terakhir apakah Anda merasa sulit tidur atau mudah terbangun, atau terlalu banyak tidur?": {
+            "response_text": "Sering",
+            "response_value": 3,
+            "response_time_ms": 1636,
+            "timing": {
+              "start": 14,
+              "end": 16,
+              "duration": 2
+            }
+          }
+        },
+        "FATIGUE": {
+          "Selama 2 minggu terakhir, adakah Anda kerap merasa letih atau kehilangan tenaga?": {
+            "response_text": "Pernah (jarang)",
+            "response_value": 1,
+            "response_time_ms": 2211,
+            "timing": {
+              "start": 16,
+              "end": 18,
+              "duration": 2
+            }
+          }
+        },
+        "APPETITE_CHANGES": {
+          "Dalam 2 minggu terakhir apakah Anda merasa kurang nafsu makan atau terlalu banyak makan?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 1501,
+            "timing": {
+              "start": 21,
+              "end": 22,
+              "duration": 1
+            }
+          }
+        },
+        "WORTHLESSNESS": {
+          "Dalam 2 minggu terakhir apakah Anda merasa kurang percaya diri, atau merasa bahwa Anda adalah orang yang gagal atau telah mengecewakan diri sendiri atau keluarga?": {
+            "response_text": "Pernah (jarang)",
+            "response_value": 1,
+            "response_time_ms": 1220,
+            "timing": {
+              "start": 23,
+              "end": 24,
+              "duration": 1
+            }
+          }
+        },
+        "CONCENTRATION": {
+          "Dalam 2 minggu terakhir apakah Anda merasa sulit berkonsentrasi pada sesuatu, misalnya membaca berita atau menonton tayangan media?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 2229,
+            "timing": {
+              "start": 25,
+              "end": 27,
+              "duration": 2
+            }
+          }
+        },
+        "PSYCHOMOTOR": {
+          "Dalam 2 minggu terakhir apakah Anda merasa bergerak atau berbicara sangat lambat sehingga orang lain memperhatikannya. Atau sebaliknya merasa resah atau gelisah sehingga Anda lebih sering bergerak dari biasanya?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 1584,
+            "timing": {
+              "start": 29,
+              "end": 31,
+              "duration": 2
+            }
+          }
+        },
+        "SUICIDAL_IDEATION": {
+          "Selama 2 minggu terakhir, adakah muncul pikiran bahwa lebih baik tidak hidup atau keinginan untuk menyakiti diri sendiri dengan cara apa pun?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 2146,
+            "timing": {
+              "start": 33,
+              "end": 35,
+              "duration": 2
+            }
+          }
+        }
+      },
+      "analysis_stats": {
+        "status": "completed",
+        "total_images_processed": 30,
+        "images_with_faces_detected": 30,
+        "images_failed": 0,
+        "processing_time_seconds": 49.675506,
+        "avg_time_per_image_ms": 1167.4666666666667,
+        "summary_stats": {
+          "dominant_emotion": "Neutral",
+          "emotion_distribution": {
+            "Neutral": 29,
+            "Sadness": 1
+          },
+          "avg_au_activations": 0.83,
+          "most_active_aus": [
+            "au_12",
+            "au_1",
+            "au_4",
+            "au_2",
+            "au_6"
+          ],
+          "total_frames_analyzed": 30
+        },
+        "started_at": "2025-10-20T09:33:34.812539",
+        "completed_at": "2025-10-20T09:34:24.492645"
+      }
+    }
+  },
+  "llm_summary": {
+    "metadata": {
+      "type": "metadata",
+      "session_id": "9665f091-9fdb-4e9e-9163-c6c5a12f76ba",
+      "assessment_id": "620ecf5e-63e6-4bf2-8fd5-e4ba0b769b50",
+      "assessment_type": "LLM",
+      "total_images": 739,
+      "started_at": "2025-10-20T09:34:24.514455"
+    },
+    "total_rows": 741,
+    "data_rows": 740,
+    "file_path": "user_62_hagiasofia_session1/llm_analysis.jsonl",
+    "extra": {
+      "analysis_stats": {
+        "status": "completed",
+        "total_images_processed": 739,
+        "images_with_faces_detected": 685,
+        "images_failed": 54,
+        "processing_time_seconds": 1207.1153,
+        "avg_time_per_image_ms": 1308.0992700729928,
+        "summary_stats": {
+          "dominant_emotion": "Neutral",
+          "emotion_distribution": {
+            "Neutral": 528,
+            "Surprise": 2,
+            "Happiness": 133,
+            "Sadness": 22
+          },
+          "avg_au_activations": 1.31,
+          "most_active_aus": [
+            "au_12",
+            "au_17",
+            "au_6",
+            "au_15",
+            "au_1"
+          ],
+          "total_frames_analyzed": 685
+        },
+        "started_at": "2025-10-20T09:34:24.512957",
+        "completed_at": "2025-10-20T09:54:31.647083"
+      }
+    }
   }
 }

@@ -1,18 +1,592 @@
 {
   "user_id": "user_251_Aisha_Awang_Sahda",
   "session_id": "session1",
-  "llm_extraction": {
-    "key_themes": [
-      "error"
-    ],
-    "overall_sentiment": "error",
-    "risk_factors": [],
-    "insights": "LLM extraction failed: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable"
-  },
-  "processed_at": "2025-10-22T16:46:17.356056",
+  "processed_at": "2025-10-23T10:56:14.395665",
   "metadata": {
     "folder_name": "user_251_Aisha_Awang_Sahda_session1",
     "data_path": "data/user_251_Aisha_Awang_Sahda_session1/llm_conversation.json",
-    "formatted_conversation": "mahasiswa: baik\nsindi: Senang dengarnya kamu lagi baik 😊  \nNgomong-ngomong, selama dua minggu terakhir ini, kamu atau teman dekat kamu ada yang merasa kehilangan minat atau kesenangan pada hal-hal yang biasanya bikin semangat nggak? Misalnya hobi yang dulu kamu atau teman kamu suka tapi sekarang terasa hambar?\nmahasiswa: engga\nsindi: Oke, bagus kalau begitu.  \nKalau soal suasana hati, apakah kamu atau teman kamu belakangan ini sering merasa sedih atau tertekan hampir sepanjang hari? Kadang perasaan itu muncul terus-menerus lho, jadi aku pengen tahu gimana ceritanya dari kamu.\nmahasiswa: engga\nsindi: Syukurlah kalau suasana hati kamu atau teman kamu masih stabil.  \nNah, bagaimana dengan nafsu makan atau berat badan? Apakah ada perubahan signifikan, misalnya tiba-tiba jadi kurang makan atau malah makan lebih banyak dari biasanya? Kalau iya, biasanya apa yang mempengaruhi?\nmahasiswa: engga juga. aman semua sihh\nsindi: Wah, senang dengar semuanya masih aman dan stabil ya 😊  \nTerus, gimana dengan pola tidur? Apakah kamu atau teman kamu mengalami kesulitan tidur seperti susah tidur, sering terbangun, atau malah tidur terlalu lama dalam dua minggu terakhir? Biasanya ada hal tertentu yang bikin tidur jadi nggak nyenyak?\nmahasiswa: paling jadi lebih pendek tidurnya karena banyak tugas\nsindi: Wah, paham banget deh, tugas numpuk memang suka bikin tidur jadi kurang ya.  \nKalau tidur jadi pendek kayak gitu, biasanya kamu atau teman kamu merasa lebih lelah atau gelisah nggak selama hari-hari itu? Ada perubahan gerak atau bicara yang terlihat dari orang sekitar?\nmahasiswa: engga juga\nsindi: Oke, berarti meskipun tidurnya jadi pendek, kamu atau teman kamu masih bisa tetap bergerak dan ngomong seperti biasa ya.  \nNah, ngomong-ngomong soal energi, apakah kamu atau teman kamu merasa sering banget lelah atau kehilangan energi hampir setiap hari? Biasanya apa yang bikin energi cepat habis?\nmahasiswa: paling nuganya itu dan perjalanan pulang yang jauh\nsindi: Wah, ya wajar banget sih kalau perjalanan jauh dan nugas terus-terusan bikin energi cepat habis.  \nKalau lagi capek banget, biasanya kamu atau teman kamu masih bisa ngelakuin hal lain, atau malah jadi pengen istirahat terus? Biasanya gimana reaksi tubuh atau pikiran saat energi sudah mulai menurun?\nmahasiswa: ngantuk\nsindi: Ngantuk itu memang tanda tubuh butuh istirahat ya, apalagi kalau energi sudah terkuras.  \nKalau lagi ngantuk atau capek, apakah kamu atau teman kamu kadang merasa nggak berharga atau gampang merasa bersalah? Misalnya merasa kurang cukup dalam sesuatu hal, atau merasa salah padahal mungkin nggak perlu?\nmahasiswa: engga juga\nsindi: Oke, berarti perasaan nggak berharga atau rasa bersalah berlebihan belum muncul ya.  \nLalu, gimana soal konsentrasi atau pengambilan keputusan? Apakah kamu atau teman kamu merasa sulit fokus, gampang terganggu, atau bingung saat harus membuat keputusan dalam dua minggu terakhir? Biasanya apa yang bikin fokus jadi buyar?\nmahasiswa: engga sih, aman smua\nsindi: Senang banget dengar semuanya masih aman dan lancar!  \nTerakhir nih, aku cuma mau tanya, apakah kamu atau teman kamu pernah kepikiran tentang kematian atau hal-hal yang cukup berat seperti itu akhir-akhir ini? Kalau iya, biasanya kapan dan apa yang bikin pikiran itu muncul?\nmahasiswa: engga banget\nsindi: Alhamdulillah, semuanya terdengar baik-baik saja sampai sekarang 😊  \nKalau boleh tahu, selama dua minggu terakhir ini, ada nggak sih hal-hal yang bikin kamu atau teman kamu merasa stres berat atau beban pikiran yang cukup mengganggu? Kadang hal itu bisa berpengaruh ke mood atau aktivitas sehari-hari juga lho.\nmahasiswa: engga\nsindi: Wah, kamu memang terlihat kuat dan bisa jaga diri dengan baik ya, itu keren banget! 😊  \nKalau begitu, aku cuma mau tahu, biasanya kamu atau teman kamu punya cara khusus nggak buat melepas stres atau menjaga mood biar tetap stabil? Misalnya dengan jalan-jalan, ngobrol sama teman, atau hal lain?\nmahasiswa: jalan jalan\nsindi: Jalan-jalan emang cara yang asik banget buat refreshing ya!  \nBiasanya kamu suka jalan-jalannya ke mana dan seberapa sering dalam dua minggu terakhir? Apa ada tempat atau kegiatan tertentu yang bikin kamu merasa lebih happy atau rileks?\nmahasiswa: masjid wkwkw\nsindi: Wah, masjid tempat yang tenang dan damai buat jalan-jalan juga ya, selain buat ibadah tentunya 😊  \nBiasanya kalau di masjid itu, apa yang bikin kamu merasa lebih nyaman atau senang? Suasana, ketenangan, atau mungkin ngobrol sama teman di sana?\nmahasiswa: suasananya tenang\nsindi: Tenang itu memang bikin pikiran jadi adem dan bisa istirahat sejenak ya 😊  \nKalau suasana tenang di masjid itu membantu kamu rileks, biasanya kamu merasa lebih segar atau siap menghadapi hari setelahnya? Atau ada hal lain yang kamu rasakan setelah jalan-jalan ke sana?\nmahasiswa: seneng aja, kalau ngga ke masjid ke kafe\nsindi: Wah, keren banget kamu punya dua tempat favorit yang bikin senang, masjid dan kafe!  \nKalau ke kafe, biasanya kamu ngapain di sana? Mungkin ngobrol sama teman, baca buku, atau cuma santai aja? Cerita dong gimana suasana di kafe itu buat kamu.\nmahasiswa: nyantai lah\nsindi: Asik banget ya, santai di kafe bisa banget jadi cara buat recharge energi dan pikiran 😊  \nKalau lagi santai di kafe, apa kamu merasa lebih gampang fokus atau justru makin rileks sampai kadang malah pengen lama-lama di situ? Biasanya suasana kafe itu bantu kamu buat lepas dari stres atau beban pikiran?\nmahasiswa: iya\nsindi: Senang dengar suasana kafe bisa membantu kamu rileks dan lepas dari beban pikiran 😊  \nKalau aku rangkum ya, selama dua minggu terakhir kamu masih cukup aktif dan nggak mengalami gejala depresi yang berat. Kamu tetap bisa menikmati aktivitas seperti jalan-jalan ke masjid dan kafe yang bikin kamu senang dan rileks. Tidur memang agak kurang karena tugas, tapi kamu masih bisa mengelola energimu dengan baik. Bagus banget kamu punya cara buat jaga mood dan pikiran tetap positif!  \n\nKalau ada hal lain yang ingin kamu tambahin atau cerita, aku siap dengerin kapan aja ya. Ada yang mau kamu tambahin?\nmahasiswa: tidakk\nsindi: Oke, kalau begitu aku senang banget bisa ngobrol sama kamu hari ini dan kamu sudah berbagi banyak hal yang positif 😊  \nIngat ya, kapan pun kamu butuh teman buat cerita, aku selalu di sini siap mendengarkan. Jaga kesehatan dan semangat terus ya!  \nSemoga harimu menyenangkan!  \n</end_conversation>"
+    "formatted_conversation": "sindi: Halo aku Sindi, apakabar\nmahasiswa: baik\nsindi: Senang dengarnya kamu lagi baik 😊  \nNgomong-ngomong, selama dua minggu terakhir ini, kamu atau teman dekat kamu ada yang merasa kehilangan minat atau kesenangan pada hal-hal yang biasanya bikin semangat nggak? Misalnya hobi yang dulu kamu atau teman kamu suka tapi sekarang terasa hambar?\nmahasiswa: engga\nsindi: Oke, bagus kalau begitu.  \nKalau soal suasana hati, apakah kamu atau teman kamu belakangan ini sering merasa sedih atau tertekan hampir sepanjang hari? Kadang perasaan itu muncul terus-menerus lho, jadi aku pengen tahu gimana ceritanya dari kamu.\nmahasiswa: engga\nsindi: Syukurlah kalau suasana hati kamu atau teman kamu masih stabil.  \nNah, bagaimana dengan nafsu makan atau berat badan? Apakah ada perubahan signifikan, misalnya tiba-tiba jadi kurang makan atau malah makan lebih banyak dari biasanya? Kalau iya, biasanya apa yang mempengaruhi?\nmahasiswa: engga juga. aman semua sihh\nsindi: Wah, senang dengar semuanya masih aman dan stabil ya 😊  \nTerus, gimana dengan pola tidur? Apakah kamu atau teman kamu mengalami kesulitan tidur seperti susah tidur, sering terbangun, atau malah tidur terlalu lama dalam dua minggu terakhir? Biasanya ada hal tertentu yang bikin tidur jadi nggak nyenyak?\nmahasiswa: paling jadi lebih pendek tidurnya karena banyak tugas\nsindi: Wah, paham banget deh, tugas numpuk memang suka bikin tidur jadi kurang ya.  \nKalau tidur jadi pendek kayak gitu, biasanya kamu atau teman kamu merasa lebih lelah atau gelisah nggak selama hari-hari itu? Ada perubahan gerak atau bicara yang terlihat dari orang sekitar?\nmahasiswa: engga juga\nsindi: Oke, berarti meskipun tidurnya jadi pendek, kamu atau teman kamu masih bisa tetap bergerak dan ngomong seperti biasa ya.  \nNah, ngomong-ngomong soal energi, apakah kamu atau teman kamu merasa sering banget lelah atau kehilangan energi hampir setiap hari? Biasanya apa yang bikin energi cepat habis?\nmahasiswa: paling nuganya itu dan perjalanan pulang yang jauh\nsindi: Wah, ya wajar banget sih kalau perjalanan jauh dan nugas terus-terusan bikin energi cepat habis.  \nKalau lagi capek banget, biasanya kamu atau teman kamu masih bisa ngelakuin hal lain, atau malah jadi pengen istirahat terus? Biasanya gimana reaksi tubuh atau pikiran saat energi sudah mulai menurun?\nmahasiswa: ngantuk\nsindi: Ngantuk itu memang tanda tubuh butuh istirahat ya, apalagi kalau energi sudah terkuras.  \nKalau lagi ngantuk atau capek, apakah kamu atau teman kamu kadang merasa nggak berharga atau gampang merasa bersalah? Misalnya merasa kurang cukup dalam sesuatu hal, atau merasa salah padahal mungkin nggak perlu?\nmahasiswa: engga juga\nsindi: Oke, berarti perasaan nggak berharga atau rasa bersalah berlebihan belum muncul ya.  \nLalu, gimana soal konsentrasi atau pengambilan keputusan? Apakah kamu atau teman kamu merasa sulit fokus, gampang terganggu, atau bingung saat harus membuat keputusan dalam dua minggu terakhir? Biasanya apa yang bikin fokus jadi buyar?\nmahasiswa: engga sih, aman smua\nsindi: Senang banget dengar semuanya masih aman dan lancar!  \nTerakhir nih, aku cuma mau tanya, apakah kamu atau teman kamu pernah kepikiran tentang kematian atau hal-hal yang cukup berat seperti itu akhir-akhir ini? Kalau iya, biasanya kapan dan apa yang bikin pikiran itu muncul?\nmahasiswa: engga banget\nsindi: Alhamdulillah, semuanya terdengar baik-baik saja sampai sekarang 😊  \nKalau boleh tahu, selama dua minggu terakhir ini, ada nggak sih hal-hal yang bikin kamu atau teman kamu merasa stres berat atau beban pikiran yang cukup mengganggu? Kadang hal itu bisa berpengaruh ke mood atau aktivitas sehari-hari juga lho.\nmahasiswa: engga\nsindi: Wah, kamu memang terlihat kuat dan bisa jaga diri dengan baik ya, itu keren banget! 😊  \nKalau begitu, aku cuma mau tahu, biasanya kamu atau teman kamu punya cara khusus nggak buat melepas stres atau menjaga mood biar tetap stabil? Misalnya dengan jalan-jalan, ngobrol sama teman, atau hal lain?\nmahasiswa: jalan jalan\nsindi: Jalan-jalan emang cara yang asik banget buat refreshing ya!  \nBiasanya kamu suka jalan-jalannya ke mana dan seberapa sering dalam dua minggu terakhir? Apa ada tempat atau kegiatan tertentu yang bikin kamu merasa lebih happy atau rileks?\nmahasiswa: masjid wkwkw\nsindi: Wah, masjid tempat yang tenang dan damai buat jalan-jalan juga ya, selain buat ibadah tentunya 😊  \nBiasanya kalau di masjid itu, apa yang bikin kamu merasa lebih nyaman atau senang? Suasana, ketenangan, atau mungkin ngobrol sama teman di sana?\nmahasiswa: suasananya tenang\nsindi: Tenang itu memang bikin pikiran jadi adem dan bisa istirahat sejenak ya 😊  \nKalau suasana tenang di masjid itu membantu kamu rileks, biasanya kamu merasa lebih segar atau siap menghadapi hari setelahnya? Atau ada hal lain yang kamu rasakan setelah jalan-jalan ke sana?\nmahasiswa: seneng aja, kalau ngga ke masjid ke kafe\nsindi: Wah, keren banget kamu punya dua tempat favorit yang bikin senang, masjid dan kafe!  \nKalau ke kafe, biasanya kamu ngapain di sana? Mungkin ngobrol sama teman, baca buku, atau cuma santai aja? Cerita dong gimana suasana di kafe itu buat kamu.\nmahasiswa: nyantai lah\nsindi: Asik banget ya, santai di kafe bisa banget jadi cara buat recharge energi dan pikiran 😊  \nKalau lagi santai di kafe, apa kamu merasa lebih gampang fokus atau justru makin rileks sampai kadang malah pengen lama-lama di situ? Biasanya suasana kafe itu bantu kamu buat lepas dari stres atau beban pikiran?\nmahasiswa: iya\nsindi: Senang dengar suasana kafe bisa membantu kamu rileks dan lepas dari beban pikiran 😊  \nKalau aku rangkum ya, selama dua minggu terakhir kamu masih cukup aktif dan nggak mengalami gejala depresi yang berat. Kamu tetap bisa menikmati aktivitas seperti jalan-jalan ke masjid dan kafe yang bikin kamu senang dan rileks. Tidur memang agak kurang karena tugas, tapi kamu masih bisa mengelola energimu dengan baik. Bagus banget kamu punya cara buat jaga mood dan pikiran tetap positif!  \n\nKalau ada hal lain yang ingin kamu tambahin atau cerita, aku siap dengerin kapan aja ya. Ada yang mau kamu tambahin?\nmahasiswa: tidakk\nsindi: Oke, kalau begitu aku senang banget bisa ngobrol sama kamu hari ini dan kamu sudah berbagi banyak hal yang positif 😊  \nIngat ya, kapan pun kamu butuh teman buat cerita, aku selalu di sini siap mendengarkan. Jaga kesehatan dan semangat terus ya!  \nSemoga harimu menyenangkan!  \n</end_conversation>",
+    "raw_conversation": [
+      {
+        "turn_number": 1,
+        "user_message": "baik",
+        "ai_message": "Senang dengarnya kamu lagi baik 😊  \nNgomong-ngomong, selama dua minggu terakhir ini, kamu atau teman dekat kamu ada yang merasa kehilangan minat atau kesenangan pada hal-hal yang biasanya bikin semangat nggak? Misalnya hobi yang dulu kamu atau teman kamu suka tapi sekarang terasa hambar?",
+        "user_message_length": 4,
+        "user_timing": {
+          "start": 5,
+          "end": 6,
+          "duration": 1
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 2,
+        "user_message": "engga",
+        "ai_message": "Oke, bagus kalau begitu.  \nKalau soal suasana hati, apakah kamu atau teman kamu belakangan ini sering merasa sedih atau tertekan hampir sepanjang hari? Kadang perasaan itu muncul terus-menerus lho, jadi aku pengen tahu gimana ceritanya dari kamu.",
+        "user_message_length": 5,
+        "user_timing": {
+          "start": 15,
+          "end": 17,
+          "duration": 2
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 3,
+        "user_message": "engga",
+        "ai_message": "Syukurlah kalau suasana hati kamu atau teman kamu masih stabil.  \nNah, bagaimana dengan nafsu makan atau berat badan? Apakah ada perubahan signifikan, misalnya tiba-tiba jadi kurang makan atau malah makan lebih banyak dari biasanya? Kalau iya, biasanya apa yang mempengaruhi?",
+        "user_message_length": 5,
+        "user_timing": {
+          "start": 21,
+          "end": 23,
+          "duration": 2
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 4,
+        "user_message": "engga juga. aman semua sihh",
+        "ai_message": "Wah, senang dengar semuanya masih aman dan stabil ya 😊  \nTerus, gimana dengan pola tidur? Apakah kamu atau teman kamu mengalami kesulitan tidur seperti susah tidur, sering terbangun, atau malah tidur terlalu lama dalam dua minggu terakhir? Biasanya ada hal tertentu yang bikin tidur jadi nggak nyenyak?",
+        "user_message_length": 27,
+        "user_timing": {
+          "start": 27,
+          "end": 37,
+          "duration": 10
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 5,
+        "user_message": "paling jadi lebih pendek tidurnya karena banyak tugas",
+        "ai_message": "Wah, paham banget deh, tugas numpuk memang suka bikin tidur jadi kurang ya.  \nKalau tidur jadi pendek kayak gitu, biasanya kamu atau teman kamu merasa lebih lelah atau gelisah nggak selama hari-hari itu? Ada perubahan gerak atau bicara yang terlihat dari orang sekitar?",
+        "user_message_length": 53,
+        "user_timing": {
+          "start": 42,
+          "end": 52,
+          "duration": 10
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 6,
+        "user_message": "engga juga",
+        "ai_message": "Oke, berarti meskipun tidurnya jadi pendek, kamu atau teman kamu masih bisa tetap bergerak dan ngomong seperti biasa ya.  \nNah, ngomong-ngomong soal energi, apakah kamu atau teman kamu merasa sering banget lelah atau kehilangan energi hampir setiap hari? Biasanya apa yang bikin energi cepat habis?",
+        "user_message_length": 10,
+        "user_timing": {
+          "start": 57,
+          "end": 58,
+          "duration": 1
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 7,
+        "user_message": "paling nuganya itu dan perjalanan pulang yang jauh",
+        "ai_message": "Wah, ya wajar banget sih kalau perjalanan jauh dan nugas terus-terusan bikin energi cepat habis.  \nKalau lagi capek banget, biasanya kamu atau teman kamu masih bisa ngelakuin hal lain, atau malah jadi pengen istirahat terus? Biasanya gimana reaksi tubuh atau pikiran saat energi sudah mulai menurun?",
+        "user_message_length": 50,
+        "user_timing": {
+          "start": 66,
+          "end": 73,
+          "duration": 7
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 8,
+        "user_message": "ngantuk",
+        "ai_message": "Ngantuk itu memang tanda tubuh butuh istirahat ya, apalagi kalau energi sudah terkuras.  \nKalau lagi ngantuk atau capek, apakah kamu atau teman kamu kadang merasa nggak berharga atau gampang merasa bersalah? Misalnya merasa kurang cukup dalam sesuatu hal, atau merasa salah padahal mungkin nggak perlu?",
+        "user_message_length": 7,
+        "user_timing": {
+          "start": 79,
+          "end": 80,
+          "duration": 1
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 9,
+        "user_message": "engga juga",
+        "ai_message": "Oke, berarti perasaan nggak berharga atau rasa bersalah berlebihan belum muncul ya.  \nLalu, gimana soal konsentrasi atau pengambilan keputusan? Apakah kamu atau teman kamu merasa sulit fokus, gampang terganggu, atau bingung saat harus membuat keputusan dalam dua minggu terakhir? Biasanya apa yang bikin fokus jadi buyar?",
+        "user_message_length": 10,
+        "user_timing": {
+          "start": 84,
+          "end": 86,
+          "duration": 2
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 10,
+        "user_message": "engga sih, aman smua",
+        "ai_message": "Senang banget dengar semuanya masih aman dan lancar!  \nTerakhir nih, aku cuma mau tanya, apakah kamu atau teman kamu pernah kepikiran tentang kematian atau hal-hal yang cukup berat seperti itu akhir-akhir ini? Kalau iya, biasanya kapan dan apa yang bikin pikiran itu muncul?",
+        "user_message_length": 20,
+        "user_timing": {
+          "start": 93,
+          "end": 97,
+          "duration": 4
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 11,
+        "user_message": "engga banget",
+        "ai_message": "Alhamdulillah, semuanya terdengar baik-baik saja sampai sekarang 😊  \nKalau boleh tahu, selama dua minggu terakhir ini, ada nggak sih hal-hal yang bikin kamu atau teman kamu merasa stres berat atau beban pikiran yang cukup mengganggu? Kadang hal itu bisa berpengaruh ke mood atau aktivitas sehari-hari juga lho.",
+        "user_message_length": 12,
+        "user_timing": {
+          "start": 101,
+          "end": 103,
+          "duration": 2
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 12,
+        "user_message": "engga",
+        "ai_message": "Wah, kamu memang terlihat kuat dan bisa jaga diri dengan baik ya, itu keren banget! 😊  \nKalau begitu, aku cuma mau tahu, biasanya kamu atau teman kamu punya cara khusus nggak buat melepas stres atau menjaga mood biar tetap stabil? Misalnya dengan jalan-jalan, ngobrol sama teman, atau hal lain?",
+        "user_message_length": 5,
+        "user_timing": {
+          "start": 113,
+          "end": 118,
+          "duration": 5
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 13,
+        "user_message": "jalan jalan",
+        "ai_message": "Jalan-jalan emang cara yang asik banget buat refreshing ya!  \nBiasanya kamu suka jalan-jalannya ke mana dan seberapa sering dalam dua minggu terakhir? Apa ada tempat atau kegiatan tertentu yang bikin kamu merasa lebih happy atau rileks?",
+        "user_message_length": 11,
+        "user_timing": {
+          "start": 123,
+          "end": 126,
+          "duration": 3
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 14,
+        "user_message": "masjid wkwkw",
+        "ai_message": "Wah, masjid tempat yang tenang dan damai buat jalan-jalan juga ya, selain buat ibadah tentunya 😊  \nBiasanya kalau di masjid itu, apa yang bikin kamu merasa lebih nyaman atau senang? Suasana, ketenangan, atau mungkin ngobrol sama teman di sana?",
+        "user_message_length": 12,
+        "user_timing": {
+          "start": 130,
+          "end": 133,
+          "duration": 3
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 15,
+        "user_message": "suasananya tenang",
+        "ai_message": "Tenang itu memang bikin pikiran jadi adem dan bisa istirahat sejenak ya 😊  \nKalau suasana tenang di masjid itu membantu kamu rileks, biasanya kamu merasa lebih segar atau siap menghadapi hari setelahnya? Atau ada hal lain yang kamu rasakan setelah jalan-jalan ke sana?",
+        "user_message_length": 17,
+        "user_timing": {
+          "start": 138,
+          "end": 141,
+          "duration": 3
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 16,
+        "user_message": "seneng aja, kalau ngga ke masjid ke kafe",
+        "ai_message": "Wah, keren banget kamu punya dua tempat favorit yang bikin senang, masjid dan kafe!  \nKalau ke kafe, biasanya kamu ngapain di sana? Mungkin ngobrol sama teman, baca buku, atau cuma santai aja? Cerita dong gimana suasana di kafe itu buat kamu.",
+        "user_message_length": 40,
+        "user_timing": {
+          "start": 146,
+          "end": 154,
+          "duration": 8
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 17,
+        "user_message": "nyantai lah",
+        "ai_message": "Asik banget ya, santai di kafe bisa banget jadi cara buat recharge energi dan pikiran 😊  \nKalau lagi santai di kafe, apa kamu merasa lebih gampang fokus atau justru makin rileks sampai kadang malah pengen lama-lama di situ? Biasanya suasana kafe itu bantu kamu buat lepas dari stres atau beban pikiran?",
+        "user_message_length": 11,
+        "user_timing": {
+          "start": 160,
+          "end": 162,
+          "duration": 2
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 18,
+        "user_message": "iya",
+        "ai_message": "Senang dengar suasana kafe bisa membantu kamu rileks dan lepas dari beban pikiran 😊  \nKalau aku rangkum ya, selama dua minggu terakhir kamu masih cukup aktif dan nggak mengalami gejala depresi yang berat. Kamu tetap bisa menikmati aktivitas seperti jalan-jalan ke masjid dan kafe yang bikin kamu senang dan rileks. Tidur memang agak kurang karena tugas, tapi kamu masih bisa mengelola energimu dengan baik. Bagus banget kamu punya cara buat jaga mood dan pikiran tetap positif!  \n\nKalau ada hal lain yang ingin kamu tambahin atau cerita, aku siap dengerin kapan aja ya. Ada yang mau kamu tambahin?",
+        "user_message_length": 3,
+        "user_timing": {
+          "start": 166,
+          "end": 167,
+          "duration": 1
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 19,
+        "user_message": "tidakk",
+        "ai_message": "Oke, kalau begitu aku senang banget bisa ngobrol sama kamu hari ini dan kamu sudah berbagi banyak hal yang positif 😊  \nIngat ya, kapan pun kamu butuh teman buat cerita, aku selalu di sini siap mendengarkan. Jaga kesehatan dan semangat terus ya!  \nSemoga harimu menyenangkan!  \n</end_conversation>",
+        "user_message_length": 6,
+        "user_timing": {
+          "start": 172,
+          "end": 173,
+          "duration": 1
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": true,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      }
+    ],
+    "session_metadata": {
+      "phq_analysis": {
+        "status": "completed",
+        "total_images_processed": 13,
+        "images_with_faces_detected": 13,
+        "images_failed": 0,
+        "processing_time_seconds": 17.775228,
+        "avg_time_per_image_ms": 936.9230769230769,
+        "summary_stats": {
+          "dominant_emotion": "Neutral",
+          "emotion_distribution": {
+            "Neutral": 13
+          },
+          "avg_au_activations": 2.0,
+          "most_active_aus": [
+            "au_4",
+            "au_17"
+          ],
+          "total_frames_analyzed": 13
+        },
+        "started_at": "2025-10-20T12:53:38.717481",
+        "completed_at": "2025-10-20T12:53:56.498060"
+      },
+      "llm_analysis": {
+        "status": "completed",
+        "total_images_processed": 174,
+        "images_with_faces_detected": 82,
+        "images_failed": 92,
+        "processing_time_seconds": 167.012696,
+        "avg_time_per_image_ms": 941.5975609756098,
+        "summary_stats": {
+          "dominant_emotion": "Neutral",
+          "emotion_distribution": {
+            "Neutral": 82
+          },
+          "avg_au_activations": 2.1,
+          "most_active_aus": [
+            "au_4",
+            "au_17",
+            "au_1"
+          ],
+          "total_frames_analyzed": 82
+        },
+        "started_at": "2025-10-20T12:54:01.950573",
+        "completed_at": "2025-10-20T12:56:48.971890"
+      }
+    },
+    "phq_analysis_file": "user_251_Aisha_Awang_Sahda_session1/phq_analysis.jsonl",
+    "llm_analysis_file": "user_251_Aisha_Awang_Sahda_session1/llm_analysis.jsonl",
+    "phq_responses_file": "user_251_Aisha_Awang_Sahda_session1/phq_responses.json",
+    "session_metadata_file": "user_251_Aisha_Awang_Sahda_session1/metadata.json"
+  },
+  "phq_summary": {
+    "metadata": {
+      "type": "metadata",
+      "session_id": "1e6fb51a-aec2-4351-931a-22a6a9a16a94",
+      "assessment_id": "e0f7f434-6c7e-48bd-b368-29f0e50a97b5",
+      "assessment_type": "PHQ",
+      "total_images": 13,
+      "started_at": "2025-10-20T12:53:38.719317"
+    },
+    "total_rows": 15,
+    "data_rows": 14,
+    "file_path": "user_251_Aisha_Awang_Sahda_session1/phq_analysis.jsonl",
+    "extra": {
+      "total_score": 0,
+      "max_possible_score": 27,
+      "responses": {
+        "ANHEDONIA": {
+          "Selama 2 minggu terakhir, Anda merasa kehilangan minat atau tidak bersemangat untuk melakukan kegiatan apa pun?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 7384,
+            "timing": {
+              "start": 0,
+              "end": 7,
+              "duration": 7
+            }
+          }
+        },
+        "DEPRESSED_MOOD": {
+          "Dalam rentang 2 minggu terakhir, apakah muncul perasaan murung, muram, ataupun putus asa pada diri Anda?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 1350,
+            "timing": {
+              "start": 8,
+              "end": 9,
+              "duration": 1
+            }
+          }
+        },
+        "SLEEP_DISTURBANCE": {
+          "Dalam rentang 2 minggu terakhir, adakah gangguan tidur seperti sulit memulai tidur, mudah terbangun, ataupun tidur terlalu lama?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 432,
+            "timing": {
+              "start": 9,
+              "end": 10,
+              "duration": 1
+            }
+          }
+        },
+        "FATIGUE": {
+          "Selama 2 minggu terakhir, adakah Anda kerap merasa letih atau kehilangan tenaga?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 308,
+            "timing": {
+              "start": 10,
+              "end": 10,
+              "duration": 0
+            }
+          }
+        },
+        "APPETITE_CHANGES": {
+          "Dalam rentang 2 minggu terakhir, apakah Anda mengalami kesulitan mengendalikan nafsu makan, baik karena kurangnya selera maupun makan berlebihan?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 857,
+            "timing": {
+              "start": 10,
+              "end": 11,
+              "duration": 1
+            }
+          }
+        },
+        "WORTHLESSNESS": {
+          "Selama 2 minggu terakhir, adakah Anda merasa kurang yakin pada diri sendiri, merasa gagal, atau merasa telah mengecewakan diri maupun keluarga?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 684,
+            "timing": {
+              "start": 12,
+              "end": 13,
+              "duration": 1
+            }
+          }
+        },
+        "CONCENTRATION": {
+          "Dalam rentang 2 minggu terakhir, apakah Anda merasa konsentrasi Anda mudah buyar ketika melakukan sesuatu seperti membaca berita atau menonton tayangan media?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 341,
+            "timing": {
+              "start": 13,
+              "end": 14,
+              "duration": 1
+            }
+          }
+        },
+        "PSYCHOMOTOR": {
+          "Dalam rentang 2 minggu terakhir, apakah Anda mengalami perubahan seperti bergerak atau berbicara jauh lebih lambat, atau justru merasa resah sehingga aktivitas tubuh Anda meningkat?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 386,
+            "timing": {
+              "start": 14,
+              "end": 15,
+              "duration": 1
+            }
+          }
+        },
+        "SUICIDAL_IDEATION": {
+          "Selama 2 minggu terakhir, adakah muncul pikiran bahwa lebih baik tidak hidup atau keinginan untuk menyakiti diri sendiri dengan cara apa pun?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 537,
+            "timing": {
+              "start": 15,
+              "end": 15,
+              "duration": 0
+            }
+          }
+        }
+      },
+      "analysis_stats": {
+        "status": "completed",
+        "total_images_processed": 13,
+        "images_with_faces_detected": 13,
+        "images_failed": 0,
+        "processing_time_seconds": 17.775228,
+        "avg_time_per_image_ms": 936.9230769230769,
+        "summary_stats": {
+          "dominant_emotion": "Neutral",
+          "emotion_distribution": {
+            "Neutral": 13
+          },
+          "avg_au_activations": 2.0,
+          "most_active_aus": [
+            "au_4",
+            "au_17"
+          ],
+          "total_frames_analyzed": 13
+        },
+        "started_at": "2025-10-20T12:53:38.717481",
+        "completed_at": "2025-10-20T12:53:56.498060"
+      }
+    }
+  },
+  "llm_summary": {
+    "metadata": {
+      "type": "metadata",
+      "session_id": "1e6fb51a-aec2-4351-931a-22a6a9a16a94",
+      "assessment_id": "537e46eb-8fe9-4152-b574-9b86c03a6ba4",
+      "assessment_type": "LLM",
+      "total_images": 174,
+      "started_at": "2025-10-20T12:54:01.953313"
+    },
+    "total_rows": 176,
+    "data_rows": 175,
+    "file_path": "user_251_Aisha_Awang_Sahda_session1/llm_analysis.jsonl",
+    "extra": {
+      "analysis_stats": {
+        "status": "completed",
+        "total_images_processed": 174,
+        "images_with_faces_detected": 82,
+        "images_failed": 92,
+        "processing_time_seconds": 167.012696,
+        "avg_time_per_image_ms": 941.5975609756098,
+        "summary_stats": {
+          "dominant_emotion": "Neutral",
+          "emotion_distribution": {
+            "Neutral": 82
+          },
+          "avg_au_activations": 2.1,
+          "most_active_aus": [
+            "au_4",
+            "au_17",
+            "au_1"
+          ],
+          "total_frames_analyzed": 82
+        },
+        "started_at": "2025-10-20T12:54:01.950573",
+        "completed_at": "2025-10-20T12:56:48.971890"
+      }
+    }
   }
 }

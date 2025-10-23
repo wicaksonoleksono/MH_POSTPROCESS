@@ -41,7 +41,7 @@ class TogetherAIClient(LLMClient):
         self,
         model_name: str = "",
         temperature: float = 0,
-        seed : int = 0
+        seed : int = 42,
     ):
         self.model_name = model_name
         self.temperature = temperature

@@ -8,7 +8,6 @@ class IndicatorScore(BaseModel):
     """Score for a single indicator."""
 
     phq: int = Field(..., ge=0, le=3, description="PHQ-9 scale score (0-3)")
-    operational: int = Field(..., ge=0, le=3, description="Operational scale score (0-3)")
 
 
 class IndicatorAnalysis(BaseModel):
@@ -38,7 +37,7 @@ class LLMAnalysisOutput(BaseModel):
                 "analysis": [
                     {
                         "indicator": "Anhedonia atau Kehilangan Minat atau Kesenangan",
-                        "score": {"phq": 2, "operational": 2},
+                        "score": {"phq": 2},
                         "evidence": "User mentioned losing interest in hobbies",
                         "reasoning": "Clear indication of anhedonia based on conversation"
                     }
@@ -62,10 +61,6 @@ class LLMAnalysisInput(BaseModel):
     phq_scale: Optional[str] = Field(
         None,
         description="PHQ scale definitions (auto-loaded if not provided)"
-    )
-    operational_scale: Optional[str] = Field(
-        None,
-        description="Operational scale definitions (auto-loaded if not provided)"
     )
 
     class Config:

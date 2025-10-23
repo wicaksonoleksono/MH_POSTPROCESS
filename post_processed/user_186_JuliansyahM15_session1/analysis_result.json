@@ -1,18 +1,428 @@
 {
   "user_id": "user_186_JuliansyahM15",
   "session_id": "session1",
-  "llm_extraction": {
-    "key_themes": [
-      "error"
-    ],
-    "overall_sentiment": "error",
-    "risk_factors": [],
-    "insights": "LLM extraction failed: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable"
-  },
-  "processed_at": "2025-10-22T16:46:17.333045",
+  "processed_at": "2025-10-23T10:56:13.686141",
   "metadata": {
     "folder_name": "user_186_JuliansyahM15_session1",
     "data_path": "data/user_186_JuliansyahM15_session1/llm_conversation.json",
-    "formatted_conversation": "mahasiswa: baik\nsindi: Senang dengar kabarmu baik, ya! Ngomong-ngomong, selama dua pekan terakhir ini, kamu masih ngerasa senang nggak sih sama hal-hal yang biasanya kamu suka lakukan? 😊\nmahasiswa: iya\nsindi: Wah, bagus banget kalau kamu masih bisa menikmati hal-hal yang kamu suka! Kalau misalnya lagi banyak pikiran atau mood lagi nggak enak, biasanya kamu lebih sering mikir apa sih akhir-akhir ini?\nmahasiswa: karena sudah dekat dengan UTS, jadi aku udah mulai agak mikir-mikir\nsindi: Wah, wajar banget sih kalau deket UTS jadi bikin pikiran jadi banyak. Tapi, kamu merasa pikiran itu lebih ke hal yang bikin kamu semangat belajar, atau malah kadang bikin kamu jadi merasa stuck atau susah keluar dari pikiran itu?\nmahasiswa: bikin semangat belajar\nsindi: Wah, keren banget kalau pikiran itu bisa jadi semangat buat belajar! Nah, biasanya selama dua minggu terakhir ini, kamu ngerasa gimana soal energimu dan gerakan-gerakan kamu sehari-hari, misalnya kayak lebih lambat gerak atau ngomong?\nmahasiswa: tidak ada\nsindi: Oke, berarti kamu masih tetap energik ya. Terus, gimana dengan tidur kamu dua minggu terakhir ini? Apakah kamu merasa tidurmu nyenyak atau justru sering susah tidur atau bangun tengah malam?\nmahasiswa: tidak permah\nsindi: Wah, bagus banget kalau kamu nggak pernah mengalami masalah tidur, itu penting banget buat jaga mood dan kesehatan. Nah, selama dua minggu ini, kamu ngerasa gampang marah atau tersinggung nggak sih terhadap hal-hal kecil?\nmahasiswa: tidak pernah\nsindi: Keren, berarti kamu cukup stabil ya emosinya selama ini. Terus, pernah nggak sih kamu ngerasa bersalah berlebihan tentang sesuatu sampai rasanya susah banget buat move on dari perasaan itu?\nmahasiswa: tidak pernah\nsindi: Oke, berarti perasaan bersalah kamu juga masih terkendali ya. Nah, gimana nih soal konsentrasi atau fokus kamu selama belajar atau ngerjain sesuatu dalam dua minggu terakhir ini? Ada kesulitan nggak?\nmahasiswa: tidak ada\nsindi: Wah, hebat banget kalau konsentrasi kamu masih tetap oke! Nah, biasanya kamu masih sering hangout atau ketemu temen-temen nggak, atau kamu lebih milih buat tarik diri dan lebih banyak waktu sendiri akhir-akhir ini?\nmahasiswa: masih sering hangout\nsindi: Bagus banget kalau kamu masih sering hangout, berarti kamu tetap terhubung sama temen-temen ya. Dari cerita kamu, aku lihat kamu lagi cukup baik-baik aja nih, semangat belajar juga masih ada, tidur dan mood juga stabil. Makasih banget ya udah mau cerita panjang lebar. Kalau kapan-kapan kamu butuh curhat atau sekedar ngobrol, aku selalu ada kok buat kamu 😊 </end_conversation>"
+    "formatted_conversation": "sindi: Halo aku Sindi, apakabar\nmahasiswa: baik\nsindi: Senang dengar kabarmu baik, ya! Ngomong-ngomong, selama dua pekan terakhir ini, kamu masih ngerasa senang nggak sih sama hal-hal yang biasanya kamu suka lakukan? 😊\nmahasiswa: iya\nsindi: Wah, bagus banget kalau kamu masih bisa menikmati hal-hal yang kamu suka! Kalau misalnya lagi banyak pikiran atau mood lagi nggak enak, biasanya kamu lebih sering mikir apa sih akhir-akhir ini?\nmahasiswa: karena sudah dekat dengan UTS, jadi aku udah mulai agak mikir-mikir\nsindi: Wah, wajar banget sih kalau deket UTS jadi bikin pikiran jadi banyak. Tapi, kamu merasa pikiran itu lebih ke hal yang bikin kamu semangat belajar, atau malah kadang bikin kamu jadi merasa stuck atau susah keluar dari pikiran itu?\nmahasiswa: bikin semangat belajar\nsindi: Wah, keren banget kalau pikiran itu bisa jadi semangat buat belajar! Nah, biasanya selama dua minggu terakhir ini, kamu ngerasa gimana soal energimu dan gerakan-gerakan kamu sehari-hari, misalnya kayak lebih lambat gerak atau ngomong?\nmahasiswa: tidak ada\nsindi: Oke, berarti kamu masih tetap energik ya. Terus, gimana dengan tidur kamu dua minggu terakhir ini? Apakah kamu merasa tidurmu nyenyak atau justru sering susah tidur atau bangun tengah malam?\nmahasiswa: tidak permah\nsindi: Wah, bagus banget kalau kamu nggak pernah mengalami masalah tidur, itu penting banget buat jaga mood dan kesehatan. Nah, selama dua minggu ini, kamu ngerasa gampang marah atau tersinggung nggak sih terhadap hal-hal kecil?\nmahasiswa: tidak pernah\nsindi: Keren, berarti kamu cukup stabil ya emosinya selama ini. Terus, pernah nggak sih kamu ngerasa bersalah berlebihan tentang sesuatu sampai rasanya susah banget buat move on dari perasaan itu?\nmahasiswa: tidak pernah\nsindi: Oke, berarti perasaan bersalah kamu juga masih terkendali ya. Nah, gimana nih soal konsentrasi atau fokus kamu selama belajar atau ngerjain sesuatu dalam dua minggu terakhir ini? Ada kesulitan nggak?\nmahasiswa: tidak ada\nsindi: Wah, hebat banget kalau konsentrasi kamu masih tetap oke! Nah, biasanya kamu masih sering hangout atau ketemu temen-temen nggak, atau kamu lebih milih buat tarik diri dan lebih banyak waktu sendiri akhir-akhir ini?\nmahasiswa: masih sering hangout\nsindi: Bagus banget kalau kamu masih sering hangout, berarti kamu tetap terhubung sama temen-temen ya. Dari cerita kamu, aku lihat kamu lagi cukup baik-baik aja nih, semangat belajar juga masih ada, tidur dan mood juga stabil. Makasih banget ya udah mau cerita panjang lebar. Kalau kapan-kapan kamu butuh curhat atau sekedar ngobrol, aku selalu ada kok buat kamu 😊 </end_conversation>",
+    "raw_conversation": [
+      {
+        "turn_number": 1,
+        "user_message": "baik",
+        "ai_message": "Senang dengar kabarmu baik, ya! Ngomong-ngomong, selama dua pekan terakhir ini, kamu masih ngerasa senang nggak sih sama hal-hal yang biasanya kamu suka lakukan? 😊",
+        "user_message_length": 4,
+        "user_timing": {
+          "start": 10,
+          "end": 12,
+          "duration": 2
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 2,
+        "user_message": "iya",
+        "ai_message": "Wah, bagus banget kalau kamu masih bisa menikmati hal-hal yang kamu suka! Kalau misalnya lagi banyak pikiran atau mood lagi nggak enak, biasanya kamu lebih sering mikir apa sih akhir-akhir ini?",
+        "user_message_length": 3,
+        "user_timing": {
+          "start": 22,
+          "end": 29,
+          "duration": 7
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 3,
+        "user_message": "karena sudah dekat dengan UTS, jadi aku udah mulai agak mikir-mikir",
+        "ai_message": "Wah, wajar banget sih kalau deket UTS jadi bikin pikiran jadi banyak. Tapi, kamu merasa pikiran itu lebih ke hal yang bikin kamu semangat belajar, atau malah kadang bikin kamu jadi merasa stuck atau susah keluar dari pikiran itu?",
+        "user_message_length": 67,
+        "user_timing": {
+          "start": 41,
+          "end": 78,
+          "duration": 37
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 4,
+        "user_message": "bikin semangat belajar",
+        "ai_message": "Wah, keren banget kalau pikiran itu bisa jadi semangat buat belajar! Nah, biasanya selama dua minggu terakhir ini, kamu ngerasa gimana soal energimu dan gerakan-gerakan kamu sehari-hari, misalnya kayak lebih lambat gerak atau ngomong?",
+        "user_message_length": 22,
+        "user_timing": {
+          "start": 95,
+          "end": 100,
+          "duration": 5
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 5,
+        "user_message": "tidak ada",
+        "ai_message": "Oke, berarti kamu masih tetap energik ya. Terus, gimana dengan tidur kamu dua minggu terakhir ini? Apakah kamu merasa tidurmu nyenyak atau justru sering susah tidur atau bangun tengah malam?",
+        "user_message_length": 9,
+        "user_timing": {
+          "start": 121,
+          "end": 123,
+          "duration": 2
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 6,
+        "user_message": "tidak permah",
+        "ai_message": "Wah, bagus banget kalau kamu nggak pernah mengalami masalah tidur, itu penting banget buat jaga mood dan kesehatan. Nah, selama dua minggu ini, kamu ngerasa gampang marah atau tersinggung nggak sih terhadap hal-hal kecil?",
+        "user_message_length": 12,
+        "user_timing": {
+          "start": 130,
+          "end": 133,
+          "duration": 3
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 7,
+        "user_message": "tidak pernah",
+        "ai_message": "Keren, berarti kamu cukup stabil ya emosinya selama ini. Terus, pernah nggak sih kamu ngerasa bersalah berlebihan tentang sesuatu sampai rasanya susah banget buat move on dari perasaan itu?",
+        "user_message_length": 12,
+        "user_timing": {
+          "start": 139,
+          "end": 141,
+          "duration": 2
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 8,
+        "user_message": "tidak pernah",
+        "ai_message": "Oke, berarti perasaan bersalah kamu juga masih terkendali ya. Nah, gimana nih soal konsentrasi atau fokus kamu selama belajar atau ngerjain sesuatu dalam dua minggu terakhir ini? Ada kesulitan nggak?",
+        "user_message_length": 12,
+        "user_timing": {
+          "start": 150,
+          "end": 161,
+          "duration": 11
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 9,
+        "user_message": "tidak ada",
+        "ai_message": "Wah, hebat banget kalau konsentrasi kamu masih tetap oke! Nah, biasanya kamu masih sering hangout atau ketemu temen-temen nggak, atau kamu lebih milih buat tarik diri dan lebih banyak waktu sendiri akhir-akhir ini?",
+        "user_message_length": 9,
+        "user_timing": {
+          "start": 167,
+          "end": 169,
+          "duration": 2
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 10,
+        "user_message": "masih sering hangout",
+        "ai_message": "Bagus banget kalau kamu masih sering hangout, berarti kamu tetap terhubung sama temen-temen ya. Dari cerita kamu, aku lihat kamu lagi cukup baik-baik aja nih, semangat belajar juga masih ada, tidur dan mood juga stabil. Makasih banget ya udah mau cerita panjang lebar. Kalau kapan-kapan kamu butuh curhat atau sekedar ngobrol, aku selalu ada kok buat kamu 😊 </end_conversation>",
+        "user_message_length": 20,
+        "user_timing": {
+          "start": 178,
+          "end": 186,
+          "duration": 8
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": true,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      }
+    ],
+    "session_metadata": {
+      "phq_analysis": {
+        "status": "completed",
+        "total_images_processed": 90,
+        "images_with_faces_detected": 90,
+        "images_failed": 0,
+        "processing_time_seconds": 116.691266,
+        "avg_time_per_image_ms": 902.3,
+        "summary_stats": {
+          "dominant_emotion": "Neutral",
+          "emotion_distribution": {
+            "Neutral": 90
+          },
+          "avg_au_activations": 0.92,
+          "most_active_aus": [
+            "au_17",
+            "au_4"
+          ],
+          "total_frames_analyzed": 90
+        },
+        "started_at": "2025-10-20T10:25:09.440949",
+        "completed_at": "2025-10-20T10:27:06.139471"
+      },
+      "llm_analysis": {
+        "status": "completed",
+        "total_images_processed": 186,
+        "images_with_faces_detected": 186,
+        "images_failed": 0,
+        "processing_time_seconds": 259.673945,
+        "avg_time_per_image_ms": 912.1290322580645,
+        "summary_stats": {
+          "dominant_emotion": "Neutral",
+          "emotion_distribution": {
+            "Neutral": 182,
+            "Happiness": 4
+          },
+          "avg_au_activations": 0.97,
+          "most_active_aus": [
+            "au_17"
+          ],
+          "total_frames_analyzed": 186
+        },
+        "started_at": "2025-10-20T10:26:02.561424",
+        "completed_at": "2025-10-20T10:30:22.244595"
+      }
+    },
+    "phq_analysis_file": "user_186_JuliansyahM15_session1/phq_analysis.jsonl",
+    "llm_analysis_file": "user_186_JuliansyahM15_session1/llm_analysis.jsonl",
+    "phq_responses_file": "user_186_JuliansyahM15_session1/phq_responses.json",
+    "session_metadata_file": "user_186_JuliansyahM15_session1/metadata.json"
+  },
+  "phq_summary": {
+    "metadata": {
+      "type": "metadata",
+      "session_id": "527c35f6-fc29-404a-843f-379b4b5bed3d",
+      "assessment_id": "0f0f80e5-b396-43b9-9a45-e63efcb19650",
+      "assessment_type": "PHQ",
+      "total_images": 90,
+      "started_at": "2025-10-20T10:25:09.442522"
+    },
+    "total_rows": 92,
+    "data_rows": 91,
+    "file_path": "user_186_JuliansyahM15_session1/phq_analysis.jsonl",
+    "extra": {
+      "total_score": 3,
+      "max_possible_score": 27,
+      "responses": {
+        "ANHEDONIA": {
+          "Dalam 2 minggu terakhir apakah Anda merasa kurang tertarik atau bergairah dalam melakukan apapun?": {
+            "response_text": "Pernah (jarang)",
+            "response_value": 1,
+            "response_time_ms": 11074,
+            "timing": {
+              "start": 0,
+              "end": 11,
+              "duration": 11
+            }
+          }
+        },
+        "DEPRESSED_MOOD": {
+          "Dalam rentang 2 minggu terakhir, apakah muncul perasaan murung, muram, ataupun putus asa pada diri Anda?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 5363,
+            "timing": {
+              "start": 15,
+              "end": 20,
+              "duration": 5
+            }
+          }
+        },
+        "SLEEP_DISTURBANCE": {
+          "Dalam rentang 2 minggu terakhir, adakah gangguan tidur seperti sulit memulai tidur, mudah terbangun, ataupun tidur terlalu lama?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 7615,
+            "timing": {
+              "start": 22,
+              "end": 30,
+              "duration": 8
+            }
+          }
+        },
+        "FATIGUE": {
+          "Dalam 2 minggu terakhir apakah Anda sering merasa lelah atau kurang bertenaga?": {
+            "response_text": "Pernah (jarang)",
+            "response_value": 1,
+            "response_time_ms": 5830,
+            "timing": {
+              "start": 34,
+              "end": 40,
+              "duration": 6
+            }
+          }
+        },
+        "APPETITE_CHANGES": {
+          "Dalam rentang 2 minggu terakhir, apakah Anda mengalami kesulitan mengendalikan nafsu makan, baik karena kurangnya selera maupun makan berlebihan?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 3943,
+            "timing": {
+              "start": 42,
+              "end": 46,
+              "duration": 4
+            }
+          }
+        },
+        "WORTHLESSNESS": {
+          "Dalam 2 minggu terakhir apakah Anda merasa kurang percaya diri, atau merasa bahwa Anda adalah orang yang gagal atau telah mengecewakan diri sendiri atau keluarga?": {
+            "response_text": "Pernah (jarang)",
+            "response_value": 1,
+            "response_time_ms": 11312,
+            "timing": {
+              "start": 48,
+              "end": 59,
+              "duration": 11
+            }
+          }
+        },
+        "CONCENTRATION": {
+          "Dalam 2 minggu terakhir apakah Anda merasa sulit berkonsentrasi pada sesuatu, misalnya membaca berita atau menonton tayangan media?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 6069,
+            "timing": {
+              "start": 60,
+              "end": 66,
+              "duration": 6
+            }
+          }
+        },
+        "PSYCHOMOTOR": {
+          "Dalam rentang 2 minggu terakhir, apakah Anda mengalami perubahan seperti bergerak atau berbicara jauh lebih lambat, atau justru merasa resah sehingga aktivitas tubuh Anda meningkat?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 11195,
+            "timing": {
+              "start": 73,
+              "end": 84,
+              "duration": 11
+            }
+          }
+        },
+        "SUICIDAL_IDEATION": {
+          "Dalam rentang 2 minggu terakhir, apakah Anda mengalami dorongan atau pikiran tentang kematian, atau tentang melukai diri sendiri?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 6241,
+            "timing": {
+              "start": 86,
+              "end": 92,
+              "duration": 6
+            }
+          }
+        }
+      },
+      "analysis_stats": {
+        "status": "completed",
+        "total_images_processed": 90,
+        "images_with_faces_detected": 90,
+        "images_failed": 0,
+        "processing_time_seconds": 116.691266,
+        "avg_time_per_image_ms": 902.3,
+        "summary_stats": {
+          "dominant_emotion": "Neutral",
+          "emotion_distribution": {
+            "Neutral": 90
+          },
+          "avg_au_activations": 0.92,
+          "most_active_aus": [
+            "au_17",
+            "au_4"
+          ],
+          "total_frames_analyzed": 90
+        },
+        "started_at": "2025-10-20T10:25:09.440949",
+        "completed_at": "2025-10-20T10:27:06.139471"
+      }
+    }
+  },
+  "llm_summary": {
+    "metadata": {
+      "type": "metadata",
+      "session_id": "527c35f6-fc29-404a-843f-379b4b5bed3d",
+      "assessment_id": "7a88e91d-ca72-432c-88ac-5fa9e354d98a",
+      "assessment_type": "LLM",
+      "total_images": 186,
+      "started_at": "2025-10-20T10:26:02.563430"
+    },
+    "total_rows": 188,
+    "data_rows": 187,
+    "file_path": "user_186_JuliansyahM15_session1/llm_analysis.jsonl",
+    "extra": {
+      "analysis_stats": {
+        "status": "completed",
+        "total_images_processed": 186,
+        "images_with_faces_detected": 186,
+        "images_failed": 0,
+        "processing_time_seconds": 259.673945,
+        "avg_time_per_image_ms": 912.1290322580645,
+        "summary_stats": {
+          "dominant_emotion": "Neutral",
+          "emotion_distribution": {
+            "Neutral": 182,
+            "Happiness": 4
+          },
+          "avg_au_activations": 0.97,
+          "most_active_aus": [
+            "au_17"
+          ],
+          "total_frames_analyzed": 186
+        },
+        "started_at": "2025-10-20T10:26:02.561424",
+        "completed_at": "2025-10-20T10:30:22.244595"
+      }
+    }
   }
 }

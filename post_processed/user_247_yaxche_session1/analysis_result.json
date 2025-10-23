@@ -1,18 +1,658 @@
 {
   "user_id": "user_247_yaxche",
   "session_id": "session1",
-  "llm_extraction": {
-    "key_themes": [
-      "error"
-    ],
-    "overall_sentiment": "error",
-    "risk_factors": [],
-    "insights": "LLM extraction failed: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable"
-  },
-  "processed_at": "2025-10-22T16:46:17.354151",
+  "processed_at": "2025-10-23T10:56:14.360241",
   "metadata": {
     "folder_name": "user_247_yaxche_session1",
     "data_path": "data/user_247_yaxche_session1/llm_conversation.json",
-    "formatted_conversation": "mahasiswa: Halo Sindi, kabarku baik alhamdulillah\nsindi: Senang dengar kabarmu baik, ya! 😊 Aku pengen tanya, belakangan ini teman kamu kayaknya lagi beda dari biasanya nggak sih? Misalnya, mereka masih senang melakukan aktivitas yang biasanya mereka suka, atau malah jadi kurang tertarik ya?\nmahasiswa: Masih dong! Aku punya 2 teman yang sangat dekat denganku. Tadi malam kami habis nugas bareng sambil ngobrol, bercanda, juga minum esque dan makan sushi. Yang satu masih sukaaa banget sama anime dan webtoon, yang satu masih tertarik banget untuk belajar backend.\nsindi: Wah, seru banget ya bisa nugas sambil santai dan ngobrol gitu! 😊 Kalau misalnya dibandingin sama dua pekan terakhir, menurut kamu ada nggak sih perubahan yang bikin salah satu atau kedua teman kamu itu jadi kurang semangat atau kurang suka sama hal-hal yang biasanya mereka senang? Mungkin ada sesuatu yang bikin mereka mulai merasa beda?\nmahasiswa: Hmm, enggak sih. Cuma memang akhir-akhir ini kami banyak sekali tugasnya jadi banyak yang sering capek. Tapi secara keseluruhan nggak keliatan ada perubahan sih\nsindi: Iya, tugas yang numpuk emang bisa bikin capek banget ya, paham banget rasanya. Kalau boleh tahu, teman kamu ada nggak sih yang belakangan ini sering ngerasa sedih atau suasana hatinya kayak lagi berat hampir setiap hari? Kayak ada yang lagi down terus, mungkin karena beban tugas atau hal lain?\nmahasiswa: Hmm, enggak sih. Aku tipe orang yang suka ngajak temen-temen have fun dengan hal kecil seperti ngobrol dan bercanda, kalau udah mulai agak capek nugas, aku bilang, \"Kita nugas sambil makan es krim! Biar happy\" hehe\nsindi: Wah, kamu keren banget deh jadi temen yang bisa ngajak have fun dan bantuin suasana jadi lebih ceria! 🍦 Itu pasti bikin teman-teman kamu merasa lebih ringan ya. Nah, aku penasaran nih, teman kamu ada nggak yang belakangan ini pola makannya berubah? Misalnya jadi makan lebih sedikit atau malah lebih banyak dari biasanya? Atau mungkin ada yang bilang sering merasa nggak nafsu makan?\nmahasiswa: Salah satu temanku memang punya pola makan yang unik. Dia hanya makan sekali sehari, tapi memang nggak bisa makan sehari 3 kali. Kekenyangan katanya ahaha. Tapi dia memang kalau sekali makan cepet sekali habisnya dan banyak porsinya sih...\nsindi: Wah, menarik ya pola makannya temanmu itu, makan sekali sehari tapi porsinya banyak dan cepat habis. 😊 Kalau pola makan seperti itu, kamu perhatikan nggak sih belakangan ini dia ada perubahan berat badan yang cukup signifikan? Atau mungkin ada alasan lain yang bikin dia pilih makan sekali sehari?\nmahasiswa: Enggak sih, dia memang selalu segitu aja berat badannya. Kalau diajakin jajan dia tetep mau kok! Kemarin dia makan 2 kali karena siang sudah makan tapi malamnya aku ajak makan sushi hehe. Kalau untuk kenapa sehari makan cuma sekali, katanya itu kebiasaan dari rumah. Ayahnya memang punya kebiasaan makan sehari sekali, sama juga seperti dia.\nsindi: Ooh, jadi itu memang kebiasaan keluarga ya, jadi bukan karena stres atau hal lain. Menyenangkan juga kalau dia tetap mau diajak jajan, berarti masih enjoy momen bareng temen-temennya 😄 Nah, ngomongin soal tidur, kamu perhatikan nggak sih temanmu ada yang belakangan ini susah tidur atau kebalikannya malah tidur terus-terusan? Biasanya kalau ada masalah tidur, apa yang bikin mereka susah tidur atau malah jadi sering ngantuk ya?\nmahasiswa: Nah, temanku yang makan sehari sekali itu juga susah tidur deh! Entah kenapa dia jarang ngantuk... Tadi malem aja aku udah ngantuk banget dari jam 11-an tapi dia masih energetik sampai dini hari. Kalau soal alasannya, aku dan dia juga nggak tau sih...\nsindi: Wah, itu memang bisa jadi agak bikin bingung ya, susah ngantuk tapi tetap aktif sampai dini hari. Kalau teman kamu yang seperti itu, dia ada cerita nggak sih biasanya apa yang ada di pikirannya sebelum tidur? Misalnya ada hal yang bikin dia susah rileks atau malah dia terbiasa dengan jadwal tidur yang seperti itu?\nmahasiswa: Biasanya dia nonton atau baca webtoon sihh sebelum tidur. Tapi kalau kepikiran sesuatu, dia nggak keliatan kaya gitu sihh. Malah fokus baca webtoon atau kadang cerita hal-hal random. Mungkin itu karena kebiasaan terpapar hp sebelum tidur ya?\nsindi: Iya, kebiasaan scroll HP atau nonton sebelum tidur emang sering bikin susah tidur karena cahaya biru dari layar bisa ganggu produksi melatonin, hormon yang bikin kita ngantuk. 📱 Teman kamu sendiri ada nggak yang bilang dia merasa lebih gelisah atau malah lebih pelan gerakannya dari biasanya? Misalnya teman kamu atau orang lain sempat notice kalau dia jadi lebih lambat atau lebih gelisah?\nmahasiswa: Tidak sama sekali\nsindi: Oke, berarti dari situ teman kamu belum ada perubahan gerak atau bicara yang signifikan ya. Kalau teman kamu ada nggak sih yang sering merasa cepat banget capek atau kehilangan energi walaupun aktivitasnya nggak terlalu berat? Biasanya kalau cepat capek, ada hal tertentu yang bikin energi mereka turun?\nmahasiswa: Enggak sihh, banyak temenku yang introvert tapi energetik banget hehehehe\nsindi: Wah, itu seru juga ya, introvert tapi tetap enerjik! 😊 Nah, ngomong-ngomong soal perasaan, ada nggak sih teman kamu yang kadang merasa nggak berharga atau merasa bersalah berlebihan? Misalnya, merasa salah padahal sebenarnya nggak ada yang perlu disalahkan?\nmahasiswa: Sejauh ini nggak ada temanku yang seperti itu sih. Ada satu dulu, tapi sekarang dia sudah terlihat lebih cuek dan santai\nsindi: Bagus banget dengar temenmu sekarang lebih santai dan cuek, itu tanda dia mungkin lagi lebih baik ya. 😊 Kalau soal konsentrasi atau kemampuan buat ngambil keputusan, kamu perhatiin nggak sih ada teman yang akhir-akhir ini jadi lebih susah fokus atau bingung dalam menentukan pilihan? Misalnya, waktu ngerjain tugas atau saat ngobrol?\nmahasiswa: Kalo soal konsentrasi dan fokus, salah satu temanku (bukan yang makan sehari sekali) memang amat sangat mudah teralihkan perhatiannya :D Dan untuk mengambil keputusan, biasanya dia memang tipe yang lebih suka disuruh, atau berdiskusi untuk mengambil keputusan.\nsindi: Wah, jadi teman kamu itu lebih nyaman kalau ada yang bantuin atau diskusi dulu ya sebelum bikin keputusan. 😊 Kalau dia mudah teralihkan perhatiannya, kamu perhatiin nggak sih apa yang biasanya ganggu fokusnya? Misalnya notifikasi di HP, pikiran lain, atau mungkin capek?\nmahasiswa: Bukan hal seperti itu yang bikin dia teralihkan perhatiannya, tapi misal dia tiba-tiba ngelihat ada kejadian yang menarik di dekatnya atau tiba-tiba ada yang ngajak ngobrol atau waktu dia bosan mengerjakan sesuatu dia akan mencari hal lain yang lebih menarik hehe\nsindi: Oh, paham paham, jadi dia lebih gampang terdistraksi sama hal-hal yang menarik di sekitarnya atau saat bosan ya. Kadang memang wajar sih, tapi kalau sampai ganggu banget gimana? Nah, kamu perhatiin nggak sih teman-temanmu pernah bilang atau menunjukkan pikiran tentang kematian, bunuh diri, atau hal-hal berat kayak gitu? Biasanya kalau ada pikiran seperti itu, kapan biasanya muncul dan apa yang bikin mereka merasa seperti itu?\nmahasiswa: Kalau sejauh ini alhamdulillah tidak ada temanku yang ngomong seperti itu. Dulu pernah ada yang bercanda \"lompat dari sini aja kali ya\" ketika tugasnya banyak banget. Tapi setiap kali ada yang bercanda seperti itu, aku biasanya akan speak up untuk nggak bercanda soal hal seperti itu dan mengalihkan pembicaraan ke hal lain\nsindi: Kamu hebat banget sudah bisa merespon dengan bijak dan menjaga suasana supaya tetap aman dan positif, itu penting banget! 😊 Dari cerita kamu, aku lihat teman-teman kamu masih cukup kuat menghadapi tugas dan tantangan, walaupun memang ada beberapa hal yang bikin mereka capek atau susah tidur. Aku ingin mengulas sedikit ya, teman kamu yang makan sekali sehari dan susah tidur, apakah dia pernah cerita tentang energi atau semangatnya sehari-hari? Misalnya, apakah dia sering merasa lelah walaupun tidurnya sedikit?\nmahasiswa: Nggak sama sekali. AKU JUGA HERAN dia dapat energi dari mana ya... Dia itu sampai dini hari masih bisa ketawa ketawa padahal tidur sedikit, makan pun sedikit...\nsindi: Wah, teman kamu memang punya energi yang luar biasa ya, sampai bisa tetap ceria dan aktif walaupun tidurnya sedikit. Kadang orang memang punya cara tubuh yang unik buat ngatur energinya. Kalau dia sempat cerita, biasanya apa sih yang bikin dia tetap semangat dan energik seperti itu? Misalnya, apakah dia punya hobi atau aktivitas tertentu yang benar-benar dia nikmati?\nmahasiswa: Enggak sihh, memang seperti itu orangnya. Oh! Tapi dia memang introvert banget sih, jadi kalau ketemu orang banyak akan cenderung diam dan gampang terkuras energi sosialnya, tapi kalau lagi bertiga dia all out sih hehe\nsindi: Wah, menarik banget itu! Jadi dia tipe yang hemat energi kalau sama orang banyak, tapi bisa lepas banget kalau sama teman dekatnya ya. 😊 Itu juga mungkin jadi alasan kenapa dia tetap bisa energik di waktu tertentu. Kalau dia lagi capek atau energi mulai turun, biasanya dia ngapain? Apakah dia cerita hal khusus atau kamu lihat dia melakukan sesuatu buat recharge energi?\nmahasiswa: Untuk recharge energi biasanya dia berdiam di kosan seharian sambil me time sihh haha. Paling nonton drakor, anime, atau baca webtoon\nsindi: Wah, keren banget ya dia bisa tahu cara buat recharge energi dengan me time yang dia sukai. Nonton drakor, anime, atau baca webtoon memang bisa jadi cara yang menyenangkan untuk rileks. 😊\n\nKalau temanmu yang lain, misalnya yang suka diajak diskusi buat ambil keputusan, biasanya dia merasa seperti apa kalau harus menghadapi situasi yang penuh tekanan atau deadline ketat? Apakah dia terlihat stres atau masih bisa santai?\nmahasiswa: SANTAI BANGET! Dia tipe yang deadliner... Tapi katanya dia memang lebih nyaman kalau bekerja ketika ada tekanan deadline katanya\nsindi: Wah, keren ya dia bisa tetap santai meskipun dikejar deadline, bahkan malah merasa nyaman dengan tekanan itu! 😊 Itu tanda dia mungkin punya cara unik buat mengelola stresnya.\n\nSekarang aku mau tanya, dari semua hal yang kamu ceritain tentang teman-temanmu, apakah kamu sendiri merasa ada hal yang ingin kamu tambahkan atau ada hal lain yang kamu perhatikan belakangan ini soal mereka? Misalnya hal-hal yang bikin kamu khawatir atau justru hal positif yang pengen kamu bagikan?\nmahasiswa: Hmm, sejauh ini nggak ada yang signifikan sih. Kami masih makan bareng, jalan-jalan bareng, nugas bareng, belajar bareng. Nggak ada yang janggal alhamdulillah\nsindi: Aku senang banget dengar kalian masih sering quality time bareng dan saling support satu sama lain, itu hal yang sangat positif dan penting banget. 😊 Dari pembicaraan kita, teman-teman kamu kelihatannya masih punya energi, semangat, dan cara mereka sendiri buat menghadapi tantangan, walau ada beberapa yang punya kebiasaan unik seperti pola makan atau jadwal tidur.\n\nKalau kamu nggak keberatan, kira-kira ada hal lain yang kamu pengen cerita atau tanyakan tentang mereka? Atau kamu merasa sudah cukup dengan pembicaraan kita sejauh ini?\nmahasiswa: Aku merasa cukup :D\nsindi: Oke, terima kasih sudah berbagi cerita tentang teman-temanmu ya! Aku selalu siap untuk dengerin kapan pun kamu butuh teman curhat atau sekadar ngobrol santai. Jangan ragu buat hubungi aku lagi kalau ada yang pengen kamu ceritain, ya. Semangat terus buat kamu dan teman-teman! 😊\n\nApakah ada hal terakhir yang ingin kamu tambahkan sebelum kita akhiri percakapan ini?\nmahasiswa: Terima kasih!\nsindi: Sama-sama! Senang bisa ngobrol dan dengerin cerita kamu hari ini. Jangan sungkan ya kalau butuh teman ngobrol lagi kapan saja. Jaga diri baik-baik dan semoga hari-harimu selalu menyenangkan! 😊\n\nKalau nanti ada yang ingin kamu tambahkan atau bahas lagi, aku selalu ada di sini. Sampai jumpa lagi ya! </end_conversation>"
+    "formatted_conversation": "sindi: Halo aku Sindi, apakabar\nmahasiswa: Halo Sindi, kabarku baik alhamdulillah\nsindi: Senang dengar kabarmu baik, ya! 😊 Aku pengen tanya, belakangan ini teman kamu kayaknya lagi beda dari biasanya nggak sih? Misalnya, mereka masih senang melakukan aktivitas yang biasanya mereka suka, atau malah jadi kurang tertarik ya?\nmahasiswa: Masih dong! Aku punya 2 teman yang sangat dekat denganku. Tadi malam kami habis nugas bareng sambil ngobrol, bercanda, juga minum esque dan makan sushi. Yang satu masih sukaaa banget sama anime dan webtoon, yang satu masih tertarik banget untuk belajar backend.\nsindi: Wah, seru banget ya bisa nugas sambil santai dan ngobrol gitu! 😊 Kalau misalnya dibandingin sama dua pekan terakhir, menurut kamu ada nggak sih perubahan yang bikin salah satu atau kedua teman kamu itu jadi kurang semangat atau kurang suka sama hal-hal yang biasanya mereka senang? Mungkin ada sesuatu yang bikin mereka mulai merasa beda?\nmahasiswa: Hmm, enggak sih. Cuma memang akhir-akhir ini kami banyak sekali tugasnya jadi banyak yang sering capek. Tapi secara keseluruhan nggak keliatan ada perubahan sih\nsindi: Iya, tugas yang numpuk emang bisa bikin capek banget ya, paham banget rasanya. Kalau boleh tahu, teman kamu ada nggak sih yang belakangan ini sering ngerasa sedih atau suasana hatinya kayak lagi berat hampir setiap hari? Kayak ada yang lagi down terus, mungkin karena beban tugas atau hal lain?\nmahasiswa: Hmm, enggak sih. Aku tipe orang yang suka ngajak temen-temen have fun dengan hal kecil seperti ngobrol dan bercanda, kalau udah mulai agak capek nugas, aku bilang, \"Kita nugas sambil makan es krim! Biar happy\" hehe\nsindi: Wah, kamu keren banget deh jadi temen yang bisa ngajak have fun dan bantuin suasana jadi lebih ceria! 🍦 Itu pasti bikin teman-teman kamu merasa lebih ringan ya. Nah, aku penasaran nih, teman kamu ada nggak yang belakangan ini pola makannya berubah? Misalnya jadi makan lebih sedikit atau malah lebih banyak dari biasanya? Atau mungkin ada yang bilang sering merasa nggak nafsu makan?\nmahasiswa: Salah satu temanku memang punya pola makan yang unik. Dia hanya makan sekali sehari, tapi memang nggak bisa makan sehari 3 kali. Kekenyangan katanya ahaha. Tapi dia memang kalau sekali makan cepet sekali habisnya dan banyak porsinya sih...\nsindi: Wah, menarik ya pola makannya temanmu itu, makan sekali sehari tapi porsinya banyak dan cepat habis. 😊 Kalau pola makan seperti itu, kamu perhatikan nggak sih belakangan ini dia ada perubahan berat badan yang cukup signifikan? Atau mungkin ada alasan lain yang bikin dia pilih makan sekali sehari?\nmahasiswa: Enggak sih, dia memang selalu segitu aja berat badannya. Kalau diajakin jajan dia tetep mau kok! Kemarin dia makan 2 kali karena siang sudah makan tapi malamnya aku ajak makan sushi hehe. Kalau untuk kenapa sehari makan cuma sekali, katanya itu kebiasaan dari rumah. Ayahnya memang punya kebiasaan makan sehari sekali, sama juga seperti dia.\nsindi: Ooh, jadi itu memang kebiasaan keluarga ya, jadi bukan karena stres atau hal lain. Menyenangkan juga kalau dia tetap mau diajak jajan, berarti masih enjoy momen bareng temen-temennya 😄 Nah, ngomongin soal tidur, kamu perhatikan nggak sih temanmu ada yang belakangan ini susah tidur atau kebalikannya malah tidur terus-terusan? Biasanya kalau ada masalah tidur, apa yang bikin mereka susah tidur atau malah jadi sering ngantuk ya?\nmahasiswa: Nah, temanku yang makan sehari sekali itu juga susah tidur deh! Entah kenapa dia jarang ngantuk... Tadi malem aja aku udah ngantuk banget dari jam 11-an tapi dia masih energetik sampai dini hari. Kalau soal alasannya, aku dan dia juga nggak tau sih...\nsindi: Wah, itu memang bisa jadi agak bikin bingung ya, susah ngantuk tapi tetap aktif sampai dini hari. Kalau teman kamu yang seperti itu, dia ada cerita nggak sih biasanya apa yang ada di pikirannya sebelum tidur? Misalnya ada hal yang bikin dia susah rileks atau malah dia terbiasa dengan jadwal tidur yang seperti itu?\nmahasiswa: Biasanya dia nonton atau baca webtoon sihh sebelum tidur. Tapi kalau kepikiran sesuatu, dia nggak keliatan kaya gitu sihh. Malah fokus baca webtoon atau kadang cerita hal-hal random. Mungkin itu karena kebiasaan terpapar hp sebelum tidur ya?\nsindi: Iya, kebiasaan scroll HP atau nonton sebelum tidur emang sering bikin susah tidur karena cahaya biru dari layar bisa ganggu produksi melatonin, hormon yang bikin kita ngantuk. 📱 Teman kamu sendiri ada nggak yang bilang dia merasa lebih gelisah atau malah lebih pelan gerakannya dari biasanya? Misalnya teman kamu atau orang lain sempat notice kalau dia jadi lebih lambat atau lebih gelisah?\nmahasiswa: Tidak sama sekali\nsindi: Oke, berarti dari situ teman kamu belum ada perubahan gerak atau bicara yang signifikan ya. Kalau teman kamu ada nggak sih yang sering merasa cepat banget capek atau kehilangan energi walaupun aktivitasnya nggak terlalu berat? Biasanya kalau cepat capek, ada hal tertentu yang bikin energi mereka turun?\nmahasiswa: Enggak sihh, banyak temenku yang introvert tapi energetik banget hehehehe\nsindi: Wah, itu seru juga ya, introvert tapi tetap enerjik! 😊 Nah, ngomong-ngomong soal perasaan, ada nggak sih teman kamu yang kadang merasa nggak berharga atau merasa bersalah berlebihan? Misalnya, merasa salah padahal sebenarnya nggak ada yang perlu disalahkan?\nmahasiswa: Sejauh ini nggak ada temanku yang seperti itu sih. Ada satu dulu, tapi sekarang dia sudah terlihat lebih cuek dan santai\nsindi: Bagus banget dengar temenmu sekarang lebih santai dan cuek, itu tanda dia mungkin lagi lebih baik ya. 😊 Kalau soal konsentrasi atau kemampuan buat ngambil keputusan, kamu perhatiin nggak sih ada teman yang akhir-akhir ini jadi lebih susah fokus atau bingung dalam menentukan pilihan? Misalnya, waktu ngerjain tugas atau saat ngobrol?\nmahasiswa: Kalo soal konsentrasi dan fokus, salah satu temanku (bukan yang makan sehari sekali) memang amat sangat mudah teralihkan perhatiannya :D Dan untuk mengambil keputusan, biasanya dia memang tipe yang lebih suka disuruh, atau berdiskusi untuk mengambil keputusan.\nsindi: Wah, jadi teman kamu itu lebih nyaman kalau ada yang bantuin atau diskusi dulu ya sebelum bikin keputusan. 😊 Kalau dia mudah teralihkan perhatiannya, kamu perhatiin nggak sih apa yang biasanya ganggu fokusnya? Misalnya notifikasi di HP, pikiran lain, atau mungkin capek?\nmahasiswa: Bukan hal seperti itu yang bikin dia teralihkan perhatiannya, tapi misal dia tiba-tiba ngelihat ada kejadian yang menarik di dekatnya atau tiba-tiba ada yang ngajak ngobrol atau waktu dia bosan mengerjakan sesuatu dia akan mencari hal lain yang lebih menarik hehe\nsindi: Oh, paham paham, jadi dia lebih gampang terdistraksi sama hal-hal yang menarik di sekitarnya atau saat bosan ya. Kadang memang wajar sih, tapi kalau sampai ganggu banget gimana? Nah, kamu perhatiin nggak sih teman-temanmu pernah bilang atau menunjukkan pikiran tentang kematian, bunuh diri, atau hal-hal berat kayak gitu? Biasanya kalau ada pikiran seperti itu, kapan biasanya muncul dan apa yang bikin mereka merasa seperti itu?\nmahasiswa: Kalau sejauh ini alhamdulillah tidak ada temanku yang ngomong seperti itu. Dulu pernah ada yang bercanda \"lompat dari sini aja kali ya\" ketika tugasnya banyak banget. Tapi setiap kali ada yang bercanda seperti itu, aku biasanya akan speak up untuk nggak bercanda soal hal seperti itu dan mengalihkan pembicaraan ke hal lain\nsindi: Kamu hebat banget sudah bisa merespon dengan bijak dan menjaga suasana supaya tetap aman dan positif, itu penting banget! 😊 Dari cerita kamu, aku lihat teman-teman kamu masih cukup kuat menghadapi tugas dan tantangan, walaupun memang ada beberapa hal yang bikin mereka capek atau susah tidur. Aku ingin mengulas sedikit ya, teman kamu yang makan sekali sehari dan susah tidur, apakah dia pernah cerita tentang energi atau semangatnya sehari-hari? Misalnya, apakah dia sering merasa lelah walaupun tidurnya sedikit?\nmahasiswa: Nggak sama sekali. AKU JUGA HERAN dia dapat energi dari mana ya... Dia itu sampai dini hari masih bisa ketawa ketawa padahal tidur sedikit, makan pun sedikit...\nsindi: Wah, teman kamu memang punya energi yang luar biasa ya, sampai bisa tetap ceria dan aktif walaupun tidurnya sedikit. Kadang orang memang punya cara tubuh yang unik buat ngatur energinya. Kalau dia sempat cerita, biasanya apa sih yang bikin dia tetap semangat dan energik seperti itu? Misalnya, apakah dia punya hobi atau aktivitas tertentu yang benar-benar dia nikmati?\nmahasiswa: Enggak sihh, memang seperti itu orangnya. Oh! Tapi dia memang introvert banget sih, jadi kalau ketemu orang banyak akan cenderung diam dan gampang terkuras energi sosialnya, tapi kalau lagi bertiga dia all out sih hehe\nsindi: Wah, menarik banget itu! Jadi dia tipe yang hemat energi kalau sama orang banyak, tapi bisa lepas banget kalau sama teman dekatnya ya. 😊 Itu juga mungkin jadi alasan kenapa dia tetap bisa energik di waktu tertentu. Kalau dia lagi capek atau energi mulai turun, biasanya dia ngapain? Apakah dia cerita hal khusus atau kamu lihat dia melakukan sesuatu buat recharge energi?\nmahasiswa: Untuk recharge energi biasanya dia berdiam di kosan seharian sambil me time sihh haha. Paling nonton drakor, anime, atau baca webtoon\nsindi: Wah, keren banget ya dia bisa tahu cara buat recharge energi dengan me time yang dia sukai. Nonton drakor, anime, atau baca webtoon memang bisa jadi cara yang menyenangkan untuk rileks. 😊\n\nKalau temanmu yang lain, misalnya yang suka diajak diskusi buat ambil keputusan, biasanya dia merasa seperti apa kalau harus menghadapi situasi yang penuh tekanan atau deadline ketat? Apakah dia terlihat stres atau masih bisa santai?\nmahasiswa: SANTAI BANGET! Dia tipe yang deadliner... Tapi katanya dia memang lebih nyaman kalau bekerja ketika ada tekanan deadline katanya\nsindi: Wah, keren ya dia bisa tetap santai meskipun dikejar deadline, bahkan malah merasa nyaman dengan tekanan itu! 😊 Itu tanda dia mungkin punya cara unik buat mengelola stresnya.\n\nSekarang aku mau tanya, dari semua hal yang kamu ceritain tentang teman-temanmu, apakah kamu sendiri merasa ada hal yang ingin kamu tambahkan atau ada hal lain yang kamu perhatikan belakangan ini soal mereka? Misalnya hal-hal yang bikin kamu khawatir atau justru hal positif yang pengen kamu bagikan?\nmahasiswa: Hmm, sejauh ini nggak ada yang signifikan sih. Kami masih makan bareng, jalan-jalan bareng, nugas bareng, belajar bareng. Nggak ada yang janggal alhamdulillah\nsindi: Aku senang banget dengar kalian masih sering quality time bareng dan saling support satu sama lain, itu hal yang sangat positif dan penting banget. 😊 Dari pembicaraan kita, teman-teman kamu kelihatannya masih punya energi, semangat, dan cara mereka sendiri buat menghadapi tantangan, walau ada beberapa yang punya kebiasaan unik seperti pola makan atau jadwal tidur.\n\nKalau kamu nggak keberatan, kira-kira ada hal lain yang kamu pengen cerita atau tanyakan tentang mereka? Atau kamu merasa sudah cukup dengan pembicaraan kita sejauh ini?\nmahasiswa: Aku merasa cukup :D\nsindi: Oke, terima kasih sudah berbagi cerita tentang teman-temanmu ya! Aku selalu siap untuk dengerin kapan pun kamu butuh teman curhat atau sekadar ngobrol santai. Jangan ragu buat hubungi aku lagi kalau ada yang pengen kamu ceritain, ya. Semangat terus buat kamu dan teman-teman! 😊\n\nApakah ada hal terakhir yang ingin kamu tambahkan sebelum kita akhiri percakapan ini?\nmahasiswa: Terima kasih!\nsindi: Sama-sama! Senang bisa ngobrol dan dengerin cerita kamu hari ini. Jangan sungkan ya kalau butuh teman ngobrol lagi kapan saja. Jaga diri baik-baik dan semoga hari-harimu selalu menyenangkan! 😊\n\nKalau nanti ada yang ingin kamu tambahkan atau bahas lagi, aku selalu ada di sini. Sampai jumpa lagi ya! </end_conversation>",
+    "raw_conversation": [
+      {
+        "turn_number": 1,
+        "user_message": "Halo Sindi, kabarku baik alhamdulillah",
+        "ai_message": "Senang dengar kabarmu baik, ya! 😊 Aku pengen tanya, belakangan ini teman kamu kayaknya lagi beda dari biasanya nggak sih? Misalnya, mereka masih senang melakukan aktivitas yang biasanya mereka suka, atau malah jadi kurang tertarik ya?",
+        "user_message_length": 38,
+        "user_timing": {
+          "start": 5,
+          "end": 12,
+          "duration": 7
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 2,
+        "user_message": "Masih dong! Aku punya 2 teman yang sangat dekat denganku. Tadi malam kami habis nugas bareng sambil ngobrol, bercanda, juga minum esque dan makan sushi. Yang satu masih sukaaa banget sama anime dan webtoon, yang satu masih tertarik banget untuk belajar backend.",
+        "ai_message": "Wah, seru banget ya bisa nugas sambil santai dan ngobrol gitu! 😊 Kalau misalnya dibandingin sama dua pekan terakhir, menurut kamu ada nggak sih perubahan yang bikin salah satu atau kedua teman kamu itu jadi kurang semangat atau kurang suka sama hal-hal yang biasanya mereka senang? Mungkin ada sesuatu yang bikin mereka mulai merasa beda?",
+        "user_message_length": 261,
+        "user_timing": {
+          "start": 23,
+          "end": 134,
+          "duration": 111
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 3,
+        "user_message": "Hmm, enggak sih. Cuma memang akhir-akhir ini kami banyak sekali tugasnya jadi banyak yang sering capek. Tapi secara keseluruhan nggak keliatan ada perubahan sih",
+        "ai_message": "Iya, tugas yang numpuk emang bisa bikin capek banget ya, paham banget rasanya. Kalau boleh tahu, teman kamu ada nggak sih yang belakangan ini sering ngerasa sedih atau suasana hatinya kayak lagi berat hampir setiap hari? Kayak ada yang lagi down terus, mungkin karena beban tugas atau hal lain?",
+        "user_message_length": 160,
+        "user_timing": {
+          "start": 146,
+          "end": 184,
+          "duration": 38
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 4,
+        "user_message": "Hmm, enggak sih. Aku tipe orang yang suka ngajak temen-temen have fun dengan hal kecil seperti ngobrol dan bercanda, kalau udah mulai agak capek nugas, aku bilang, \"Kita nugas sambil makan es krim! Biar happy\" hehe",
+        "ai_message": "Wah, kamu keren banget deh jadi temen yang bisa ngajak have fun dan bantuin suasana jadi lebih ceria! 🍦 Itu pasti bikin teman-teman kamu merasa lebih ringan ya. Nah, aku penasaran nih, teman kamu ada nggak yang belakangan ini pola makannya berubah? Misalnya jadi makan lebih sedikit atau malah lebih banyak dari biasanya? Atau mungkin ada yang bilang sering merasa nggak nafsu makan?",
+        "user_message_length": 214,
+        "user_timing": {
+          "start": 203,
+          "end": 304,
+          "duration": 101
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 5,
+        "user_message": "Salah satu temanku memang punya pola makan yang unik. Dia hanya makan sekali sehari, tapi memang nggak bisa makan sehari 3 kali. Kekenyangan katanya ahaha. Tapi dia memang kalau sekali makan cepet sekali habisnya dan banyak porsinya sih...",
+        "ai_message": "Wah, menarik ya pola makannya temanmu itu, makan sekali sehari tapi porsinya banyak dan cepat habis. 😊 Kalau pola makan seperti itu, kamu perhatikan nggak sih belakangan ini dia ada perubahan berat badan yang cukup signifikan? Atau mungkin ada alasan lain yang bikin dia pilih makan sekali sehari?",
+        "user_message_length": 239,
+        "user_timing": {
+          "start": 316,
+          "end": 378,
+          "duration": 62
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 6,
+        "user_message": "Enggak sih, dia memang selalu segitu aja berat badannya. Kalau diajakin jajan dia tetep mau kok! Kemarin dia makan 2 kali karena siang sudah makan tapi malamnya aku ajak makan sushi hehe. Kalau untuk kenapa sehari makan cuma sekali, katanya itu kebiasaan dari rumah. Ayahnya memang punya kebiasaan makan sehari sekali, sama juga seperti dia.",
+        "ai_message": "Ooh, jadi itu memang kebiasaan keluarga ya, jadi bukan karena stres atau hal lain. Menyenangkan juga kalau dia tetap mau diajak jajan, berarti masih enjoy momen bareng temen-temennya 😄 Nah, ngomongin soal tidur, kamu perhatikan nggak sih temanmu ada yang belakangan ini susah tidur atau kebalikannya malah tidur terus-terusan? Biasanya kalau ada masalah tidur, apa yang bikin mereka susah tidur atau malah jadi sering ngantuk ya?",
+        "user_message_length": 341,
+        "user_timing": {
+          "start": 396,
+          "end": 475,
+          "duration": 79
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 7,
+        "user_message": "Nah, temanku yang makan sehari sekali itu juga susah tidur deh! Entah kenapa dia jarang ngantuk... Tadi malem aja aku udah ngantuk banget dari jam 11-an tapi dia masih energetik sampai dini hari. Kalau soal alasannya, aku dan dia juga nggak tau sih...",
+        "ai_message": "Wah, itu memang bisa jadi agak bikin bingung ya, susah ngantuk tapi tetap aktif sampai dini hari. Kalau teman kamu yang seperti itu, dia ada cerita nggak sih biasanya apa yang ada di pikirannya sebelum tidur? Misalnya ada hal yang bikin dia susah rileks atau malah dia terbiasa dengan jadwal tidur yang seperti itu?",
+        "user_message_length": 251,
+        "user_timing": {
+          "start": 500,
+          "end": 561,
+          "duration": 61
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 8,
+        "user_message": "Biasanya dia nonton atau baca webtoon sihh sebelum tidur. Tapi kalau kepikiran sesuatu, dia nggak keliatan kaya gitu sihh. Malah fokus baca webtoon atau kadang cerita hal-hal random. Mungkin itu karena kebiasaan terpapar hp sebelum tidur ya?",
+        "ai_message": "Iya, kebiasaan scroll HP atau nonton sebelum tidur emang sering bikin susah tidur karena cahaya biru dari layar bisa ganggu produksi melatonin, hormon yang bikin kita ngantuk. 📱 Teman kamu sendiri ada nggak yang bilang dia merasa lebih gelisah atau malah lebih pelan gerakannya dari biasanya? Misalnya teman kamu atau orang lain sempat notice kalau dia jadi lebih lambat atau lebih gelisah?",
+        "user_message_length": 241,
+        "user_timing": {
+          "start": 574,
+          "end": 660,
+          "duration": 86
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 9,
+        "user_message": "Tidak sama sekali",
+        "ai_message": "Oke, berarti dari situ teman kamu belum ada perubahan gerak atau bicara yang signifikan ya. Kalau teman kamu ada nggak sih yang sering merasa cepat banget capek atau kehilangan energi walaupun aktivitasnya nggak terlalu berat? Biasanya kalau cepat capek, ada hal tertentu yang bikin energi mereka turun?",
+        "user_message_length": 17,
+        "user_timing": {
+          "start": 677,
+          "end": 684,
+          "duration": 7
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 10,
+        "user_message": "Enggak sihh, banyak temenku yang introvert tapi energetik banget hehehehe",
+        "ai_message": "Wah, itu seru juga ya, introvert tapi tetap enerjik! 😊 Nah, ngomong-ngomong soal perasaan, ada nggak sih teman kamu yang kadang merasa nggak berharga atau merasa bersalah berlebihan? Misalnya, merasa salah padahal sebenarnya nggak ada yang perlu disalahkan?",
+        "user_message_length": 73,
+        "user_timing": {
+          "start": 701,
+          "end": 725,
+          "duration": 24
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 11,
+        "user_message": "Sejauh ini nggak ada temanku yang seperti itu sih. Ada satu dulu, tapi sekarang dia sudah terlihat lebih cuek dan santai",
+        "ai_message": "Bagus banget dengar temenmu sekarang lebih santai dan cuek, itu tanda dia mungkin lagi lebih baik ya. 😊 Kalau soal konsentrasi atau kemampuan buat ngambil keputusan, kamu perhatiin nggak sih ada teman yang akhir-akhir ini jadi lebih susah fokus atau bingung dalam menentukan pilihan? Misalnya, waktu ngerjain tugas atau saat ngobrol?",
+        "user_message_length": 120,
+        "user_timing": {
+          "start": 807,
+          "end": 860,
+          "duration": 53
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 12,
+        "user_message": "Kalo soal konsentrasi dan fokus, salah satu temanku (bukan yang makan sehari sekali) memang amat sangat mudah teralihkan perhatiannya :D Dan untuk mengambil keputusan, biasanya dia memang tipe yang lebih suka disuruh, atau berdiskusi untuk mengambil keputusan.",
+        "ai_message": "Wah, jadi teman kamu itu lebih nyaman kalau ada yang bantuin atau diskusi dulu ya sebelum bikin keputusan. 😊 Kalau dia mudah teralihkan perhatiannya, kamu perhatiin nggak sih apa yang biasanya ganggu fokusnya? Misalnya notifikasi di HP, pikiran lain, atau mungkin capek?",
+        "user_message_length": 260,
+        "user_timing": {
+          "start": 880,
+          "end": 1025,
+          "duration": 145
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 13,
+        "user_message": "Bukan hal seperti itu yang bikin dia teralihkan perhatiannya, tapi misal dia tiba-tiba ngelihat ada kejadian yang menarik di dekatnya atau tiba-tiba ada yang ngajak ngobrol atau waktu dia bosan mengerjakan sesuatu dia akan mencari hal lain yang lebih menarik hehe",
+        "ai_message": "Oh, paham paham, jadi dia lebih gampang terdistraksi sama hal-hal yang menarik di sekitarnya atau saat bosan ya. Kadang memang wajar sih, tapi kalau sampai ganggu banget gimana? Nah, kamu perhatiin nggak sih teman-temanmu pernah bilang atau menunjukkan pikiran tentang kematian, bunuh diri, atau hal-hal berat kayak gitu? Biasanya kalau ada pikiran seperti itu, kapan biasanya muncul dan apa yang bikin mereka merasa seperti itu?",
+        "user_message_length": 263,
+        "user_timing": {
+          "start": 1035,
+          "end": 1109,
+          "duration": 74
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 14,
+        "user_message": "Kalau sejauh ini alhamdulillah tidak ada temanku yang ngomong seperti itu. Dulu pernah ada yang bercanda \"lompat dari sini aja kali ya\" ketika tugasnya banyak banget. Tapi setiap kali ada yang bercanda seperti itu, aku biasanya akan speak up untuk nggak bercanda soal hal seperti itu dan mengalihkan pembicaraan ke hal lain",
+        "ai_message": "Kamu hebat banget sudah bisa merespon dengan bijak dan menjaga suasana supaya tetap aman dan positif, itu penting banget! 😊 Dari cerita kamu, aku lihat teman-teman kamu masih cukup kuat menghadapi tugas dan tantangan, walaupun memang ada beberapa hal yang bikin mereka capek atau susah tidur. Aku ingin mengulas sedikit ya, teman kamu yang makan sekali sehari dan susah tidur, apakah dia pernah cerita tentang energi atau semangatnya sehari-hari? Misalnya, apakah dia sering merasa lelah walaupun tidurnya sedikit?",
+        "user_message_length": 323,
+        "user_timing": {
+          "start": 1124,
+          "end": 1205,
+          "duration": 81
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 15,
+        "user_message": "Nggak sama sekali. AKU JUGA HERAN dia dapat energi dari mana ya... Dia itu sampai dini hari masih bisa ketawa ketawa padahal tidur sedikit, makan pun sedikit...",
+        "ai_message": "Wah, teman kamu memang punya energi yang luar biasa ya, sampai bisa tetap ceria dan aktif walaupun tidurnya sedikit. Kadang orang memang punya cara tubuh yang unik buat ngatur energinya. Kalau dia sempat cerita, biasanya apa sih yang bikin dia tetap semangat dan energik seperti itu? Misalnya, apakah dia punya hobi atau aktivitas tertentu yang benar-benar dia nikmati?",
+        "user_message_length": 160,
+        "user_timing": {
+          "start": 1222,
+          "end": 1259,
+          "duration": 37
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 16,
+        "user_message": "Enggak sihh, memang seperti itu orangnya. Oh! Tapi dia memang introvert banget sih, jadi kalau ketemu orang banyak akan cenderung diam dan gampang terkuras energi sosialnya, tapi kalau lagi bertiga dia all out sih hehe",
+        "ai_message": "Wah, menarik banget itu! Jadi dia tipe yang hemat energi kalau sama orang banyak, tapi bisa lepas banget kalau sama teman dekatnya ya. 😊 Itu juga mungkin jadi alasan kenapa dia tetap bisa energik di waktu tertentu. Kalau dia lagi capek atau energi mulai turun, biasanya dia ngapain? Apakah dia cerita hal khusus atau kamu lihat dia melakukan sesuatu buat recharge energi?",
+        "user_message_length": 218,
+        "user_timing": {
+          "start": 1269,
+          "end": 1320,
+          "duration": 51
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 17,
+        "user_message": "Untuk recharge energi biasanya dia berdiam di kosan seharian sambil me time sihh haha. Paling nonton drakor, anime, atau baca webtoon",
+        "ai_message": "Wah, keren banget ya dia bisa tahu cara buat recharge energi dengan me time yang dia sukai. Nonton drakor, anime, atau baca webtoon memang bisa jadi cara yang menyenangkan untuk rileks. 😊\n\nKalau temanmu yang lain, misalnya yang suka diajak diskusi buat ambil keputusan, biasanya dia merasa seperti apa kalau harus menghadapi situasi yang penuh tekanan atau deadline ketat? Apakah dia terlihat stres atau masih bisa santai?",
+        "user_message_length": 133,
+        "user_timing": {
+          "start": 1358,
+          "end": 1391,
+          "duration": 33
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 18,
+        "user_message": "SANTAI BANGET! Dia tipe yang deadliner... Tapi katanya dia memang lebih nyaman kalau bekerja ketika ada tekanan deadline katanya",
+        "ai_message": "Wah, keren ya dia bisa tetap santai meskipun dikejar deadline, bahkan malah merasa nyaman dengan tekanan itu! 😊 Itu tanda dia mungkin punya cara unik buat mengelola stresnya.\n\nSekarang aku mau tanya, dari semua hal yang kamu ceritain tentang teman-temanmu, apakah kamu sendiri merasa ada hal yang ingin kamu tambahkan atau ada hal lain yang kamu perhatikan belakangan ini soal mereka? Misalnya hal-hal yang bikin kamu khawatir atau justru hal positif yang pengen kamu bagikan?",
+        "user_message_length": 128,
+        "user_timing": {
+          "start": 1404,
+          "end": 1441,
+          "duration": 37
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 19,
+        "user_message": "Hmm, sejauh ini nggak ada yang signifikan sih. Kami masih makan bareng, jalan-jalan bareng, nugas bareng, belajar bareng. Nggak ada yang janggal alhamdulillah",
+        "ai_message": "Aku senang banget dengar kalian masih sering quality time bareng dan saling support satu sama lain, itu hal yang sangat positif dan penting banget. 😊 Dari pembicaraan kita, teman-teman kamu kelihatannya masih punya energi, semangat, dan cara mereka sendiri buat menghadapi tantangan, walau ada beberapa yang punya kebiasaan unik seperti pola makan atau jadwal tidur.\n\nKalau kamu nggak keberatan, kira-kira ada hal lain yang kamu pengen cerita atau tanyakan tentang mereka? Atau kamu merasa sudah cukup dengan pembicaraan kita sejauh ini?",
+        "user_message_length": 158,
+        "user_timing": {
+          "start": 1503,
+          "end": 1539,
+          "duration": 36
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 20,
+        "user_message": "Aku merasa cukup :D",
+        "ai_message": "Oke, terima kasih sudah berbagi cerita tentang teman-temanmu ya! Aku selalu siap untuk dengerin kapan pun kamu butuh teman curhat atau sekadar ngobrol santai. Jangan ragu buat hubungi aku lagi kalau ada yang pengen kamu ceritain, ya. Semangat terus buat kamu dan teman-teman! 😊\n\nApakah ada hal terakhir yang ingin kamu tambahkan sebelum kita akhiri percakapan ini?",
+        "user_message_length": 19,
+        "user_timing": {
+          "start": 1563,
+          "end": 1580,
+          "duration": 17
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": false,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      },
+      {
+        "turn_number": 21,
+        "user_message": "Terima kasih!",
+        "ai_message": "Sama-sama! Senang bisa ngobrol dan dengerin cerita kamu hari ini. Jangan sungkan ya kalau butuh teman ngobrol lagi kapan saja. Jaga diri baik-baik dan semoga hari-harimu selalu menyenangkan! 😊\n\nKalau nanti ada yang ingin kamu tambahkan atau bahas lagi, aku selalu ada di sini. Sampai jumpa lagi ya! </end_conversation>",
+        "user_message_length": 13,
+        "user_timing": {
+          "start": 1605,
+          "end": 1615,
+          "duration": 10
+        },
+        "ai_timing": {
+          "start": null,
+          "end": null,
+          "duration": null
+        },
+        "has_end_conversation": true,
+        "ai_model_used": "gpt-4.1-mini-2025-04-14"
+      }
+    ],
+    "session_metadata": {
+      "phq_analysis": {
+        "status": "completed",
+        "total_images_processed": 138,
+        "images_with_faces_detected": 128,
+        "images_failed": 10,
+        "processing_time_seconds": 199.178642,
+        "avg_time_per_image_ms": 1121.8671875,
+        "summary_stats": {
+          "dominant_emotion": "Neutral",
+          "emotion_distribution": {
+            "Neutral": 109,
+            "Disgust": 4,
+            "Happiness": 9,
+            "Sadness": 2,
+            "Anger": 3,
+            "Surprise": 1
+          },
+          "avg_au_activations": 1.5,
+          "most_active_aus": [
+            "au_6",
+            "au_17",
+            "au_15",
+            "au_4",
+            "au_12"
+          ],
+          "total_frames_analyzed": 128
+        },
+        "started_at": "2025-10-20T14:16:11.915300",
+        "completed_at": "2025-10-20T14:19:31.099860"
+      },
+      "llm_analysis": {
+        "status": "completed",
+        "total_images_processed": 1610,
+        "images_with_faces_detected": 1549,
+        "images_failed": 61,
+        "processing_time_seconds": 2341.786237,
+        "avg_time_per_image_ms": 1061.0232408005165,
+        "summary_stats": {
+          "dominant_emotion": "Neutral",
+          "emotion_distribution": {
+            "Neutral": 1479,
+            "Sadness": 14,
+            "Disgust": 10,
+            "Happiness": 39,
+            "Anger": 5,
+            "Surprise": 2
+          },
+          "avg_au_activations": 1.82,
+          "most_active_aus": [
+            "au_17",
+            "au_6",
+            "au_15",
+            "au_4",
+            "au_12"
+          ],
+          "total_frames_analyzed": 1549
+        },
+        "started_at": "2025-10-20T14:17:22.104613",
+        "completed_at": "2025-10-20T14:56:23.919389"
+      }
+    },
+    "phq_analysis_file": "user_247_yaxche_session1/phq_analysis.jsonl",
+    "llm_analysis_file": "user_247_yaxche_session1/llm_analysis.jsonl",
+    "phq_responses_file": "user_247_yaxche_session1/phq_responses.json",
+    "session_metadata_file": "user_247_yaxche_session1/metadata.json"
+  },
+  "phq_summary": {
+    "metadata": {
+      "type": "metadata",
+      "session_id": "4b7b0091-9439-4f48-8cdb-acbb213bc00a",
+      "assessment_id": "1a916d67-b36f-4c5c-b770-b5093332b607",
+      "assessment_type": "PHQ",
+      "total_images": 138,
+      "started_at": "2025-10-20T14:16:11.917263"
+    },
+    "total_rows": 140,
+    "data_rows": 139,
+    "file_path": "user_247_yaxche_session1/phq_analysis.jsonl",
+    "extra": {
+      "total_score": 2,
+      "max_possible_score": 27,
+      "responses": {
+        "ANHEDONIA": {
+          "Selama 2 minggu terakhir, Anda merasa kehilangan minat atau tidak bersemangat untuk melakukan kegiatan apa pun?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 7836,
+            "timing": {
+              "start": 0,
+              "end": 7,
+              "duration": 7
+            }
+          }
+        },
+        "DEPRESSED_MOOD": {
+          "Dalam rentang 2 minggu terakhir, apakah muncul perasaan murung, muram, ataupun putus asa pada diri Anda?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 6358,
+            "timing": {
+              "start": 10,
+              "end": 16,
+              "duration": 6
+            }
+          }
+        },
+        "SLEEP_DISTURBANCE": {
+          "Selama 2 minggu terakhir, apakah Anda mengalami kesulitan untuk tidur nyenyak, sering terbangun di malam hari, atau justru tidur berlebihan?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 5243,
+            "timing": {
+              "start": 26,
+              "end": 31,
+              "duration": 5
+            }
+          }
+        },
+        "FATIGUE": {
+          "Selama 2 minggu terakhir, adakah Anda kerap merasa letih atau kehilangan tenaga?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 3559,
+            "timing": {
+              "start": 35,
+              "end": 39,
+              "duration": 4
+            }
+          }
+        },
+        "APPETITE_CHANGES": {
+          "Selama 2 minggu terakhir, adakah perubahan pada selera makan Anda, seperti berkurang drastis atau justru berlebihan?": {
+            "response_text": "Pernah (jarang)",
+            "response_value": 1,
+            "response_time_ms": 4891,
+            "timing": {
+              "start": 41,
+              "end": 46,
+              "duration": 5
+            }
+          }
+        },
+        "WORTHLESSNESS": {
+          "Dalam rentang 2 minggu terakhir, apakah muncul perasaan rendah diri, keyakinan bahwa Anda gagal, atau pikiran telah mengecewakan diri sendiri serta keluarga?": {
+            "response_text": "Pernah (jarang)",
+            "response_value": 1,
+            "response_time_ms": 15484,
+            "timing": {
+              "start": 50,
+              "end": 66,
+              "duration": 16
+            }
+          }
+        },
+        "CONCENTRATION": {
+          "Dalam rentang 2 minggu terakhir, apakah Anda merasa konsentrasi Anda mudah buyar ketika melakukan sesuatu seperti membaca berita atau menonton tayangan media?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 14518,
+            "timing": {
+              "start": 72,
+              "end": 86,
+              "duration": 14
+            }
+          }
+        },
+        "PSYCHOMOTOR": {
+          "Dalam 2 minggu terakhir apakah Anda merasa bergerak atau berbicara sangat lambat sehingga orang lain memperhatikannya. Atau sebaliknya merasa resah atau gelisah sehingga Anda lebih sering bergerak dari biasanya?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 41726,
+            "timing": {
+              "start": 89,
+              "end": 131,
+              "duration": 42
+            }
+          }
+        },
+        "SUICIDAL_IDEATION": {
+          "Dalam 2 minggu terakhir apakah Anda merasa lebih baik mati atau ingin melukai diri sendiri dengan cara apapun?": {
+            "response_text": "Tidak sama sekali",
+            "response_value": 0,
+            "response_time_ms": 5642,
+            "timing": {
+              "start": 133,
+              "end": 138,
+              "duration": 5
+            }
+          }
+        }
+      },
+      "analysis_stats": {
+        "status": "completed",
+        "total_images_processed": 138,
+        "images_with_faces_detected": 128,
+        "images_failed": 10,
+        "processing_time_seconds": 199.178642,
+        "avg_time_per_image_ms": 1121.8671875,
+        "summary_stats": {
+          "dominant_emotion": "Neutral",
+          "emotion_distribution": {
+            "Neutral": 109,
+            "Disgust": 4,
+            "Happiness": 9,
+            "Sadness": 2,
+            "Anger": 3,
+            "Surprise": 1
+          },
+          "avg_au_activations": 1.5,
+          "most_active_aus": [
+            "au_6",
+            "au_17",
+            "au_15",
+            "au_4",
+            "au_12"
+          ],
+          "total_frames_analyzed": 128
+        },
+        "started_at": "2025-10-20T14:16:11.915300",
+        "completed_at": "2025-10-20T14:19:31.099860"
+      }
+    }
+  },
+  "llm_summary": {
+    "metadata": {
+      "type": "metadata",
+      "session_id": "4b7b0091-9439-4f48-8cdb-acbb213bc00a",
+      "assessment_id": "81548157-0c18-4695-9ac2-e6a917990bd6",
+      "assessment_type": "LLM",
+      "total_images": 1610,
+      "started_at": "2025-10-20T14:17:22.108062"
+    },
+    "total_rows": 1612,
+    "data_rows": 1611,
+    "file_path": "user_247_yaxche_session1/llm_analysis.jsonl",
+    "extra": {
+      "analysis_stats": {
+        "status": "completed",
+        "total_images_processed": 1610,
+        "images_with_faces_detected": 1549,
+        "images_failed": 61,
+        "processing_time_seconds": 2341.786237,
+        "avg_time_per_image_ms": 1061.0232408005165,
+        "summary_stats": {
+          "dominant_emotion": "Neutral",
+          "emotion_distribution": {
+            "Neutral": 1479,
+            "Sadness": 14,
+            "Disgust": 10,
+            "Happiness": 39,
+            "Anger": 5,
+            "Surprise": 2
+          },
+          "avg_au_activations": 1.82,
+          "most_active_aus": [
+            "au_17",
+            "au_6",
+            "au_15",
+            "au_4",
+            "au_12"
+          ],
+          "total_frames_analyzed": 1549
+        },
+        "started_at": "2025-10-20T14:17:22.104613",
+        "completed_at": "2025-10-20T14:56:23.919389"
+      }
+    }
   }
 }

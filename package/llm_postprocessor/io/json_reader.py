@@ -4,8 +4,8 @@ import json
 from pathlib import Path
 from typing import Any
 
-from llm_postprocessor.schemas.input_schemas import SessionData
-from llm_postprocessor.io.conversation_loader import ConversationLoader, ChatHistoryFormatter
+from ..schemas.input_schemas import SessionData
+from .conversation_loader import ConversationLoader, ChatHistoryFormatter
 
 
 class JsonReader:
